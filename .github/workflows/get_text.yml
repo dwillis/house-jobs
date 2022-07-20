@@ -28,7 +28,7 @@ jobs:
           for f in *\ *; do mv "$f" "${f// /_}"; done
       - name: Dump out text
         run: |
-          cd input && for file in *.pdf; do pdftotext "$file" "../output/${file%.*}.txt"; done
+          cd input && for file in *.pdf; do pdftotext "$file" "$GITHUB_WORKSPACE/output/${file%.*}.txt"; done
       -
         name: "Commit and push if it changed"
         run: |-
