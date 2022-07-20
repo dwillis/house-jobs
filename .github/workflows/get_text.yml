@@ -25,7 +25,7 @@ jobs:
       - name: List all changed files
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            echo "$file was changed"
+            pdftotext $file
           done
       -
         name: "Commit and push if it changed"
