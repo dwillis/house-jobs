@@ -27,7 +27,7 @@ jobs:
           cd input && rename -v 's/ \(.*\)\./\./' ./*.pdf
       - name: Dump out text
         run: |
-          cd input && for file in *.pdf; do pdftotext "$file" "../output/${file%.*}.txt"; done
+          cd input && for file in *.pdf; do pdftotext "$file" "../output/${file%.*// /_}.txt"; done
       -
         name: "Commit and push if it changed"
         run: |-
