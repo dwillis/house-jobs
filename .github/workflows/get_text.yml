@@ -24,10 +24,9 @@ jobs:
         uses: tj-actions/changed-files@v23.2
       - name: Fix changed file names
         run: |
-          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            mv "$file" "${file/ (*)/}";
-            pdftotext "${file/ (*)/}";
-          done
+          cd input && rename -v 's/ \(.*\)\./\./' ./*.pdf
+      - name: Dump out text
+          cd input && for file in ./*; do pdftotext "$file" "output/${file%.*}.txt"; done
       -
         name: "Commit and push if it changed"
         run: |-
