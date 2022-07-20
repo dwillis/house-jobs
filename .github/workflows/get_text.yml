@@ -1,4 +1,4 @@
-name: Scrape latest data
+name: Dump out PDF text
 
 on:
   push:
@@ -22,10 +22,11 @@ jobs:
       - name: Get changed files
         id: changed-files
         uses: tj-actions/changed-files@v23.2
-      - name: List all changed files
+      - name: Fix changed file names
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            pdftotext $(printf '%q' "$file")
+            mv "$file" "${file/ (*)/}";
+            pdftotext "${file/ (*)/}";
           done
       -
         name: "Commit and push if it changed"
