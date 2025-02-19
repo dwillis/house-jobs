@@ -1,1 +1,24 @@
-[{"date": "2014-04-14", "id": "MEM-176-14", "office": "Active Ways and Means Democrat", "position": "Legislative Assistant", "location": "Washington, D.C.", "key_responsibilities": ["developing legislative initiatives", "staffing the Member for hearings and mark-ups", "meeting with constituents and interested groups on behalf of the Member"], "requirements": ["2-4 years of experience", "strong understanding of the healthcare universe", "ability to work well with a team in a small, fast-paced environment"], "job_type": "None", "salary": "None", "email": "HealthLA2014@gmail.com"}]
+[
+  {
+    "id": "MEM-176-14",
+    "position_title": "Legislative Assistant",
+    "office": "Ways and Means Democrat",
+    "location": null,
+    "posting_date": "2014-04-14",
+    "description": "Active Ways and Means Democrat seeks experienced Legislative Assistant to handle Healthcare and Social Security portfolios. The Legislative Assistant will be responsible for developing legislative initiatives, staffing the Member for hearings and mark-ups, and meeting with constituents and interested groups on behalf of the Member.",
+    "responsibilities": [
+      "Developing legislative initiatives",
+      "Staffing the Member for hearings and mark-ups",
+      "Meeting with constituents and interested groups on behalf of the Member"
+    ],
+    "qualifications": [
+      "At least 2-4 years of experience",
+      "A strong understanding of the healthcare universe",
+      "Ability to work well with a team in a small, fast-paced environment, while maintaining a sense of humor"
+    ],
+    "how_to_apply": "To apply, please submit a resume and cover letter to HealthLA2014@gmail.com. No calls or drop-ins, please.",
+    "salary_info": null,
+    "contact": "HealthLA2014@gmail.com",
+    "equal_opportunity": null
+  }
+]

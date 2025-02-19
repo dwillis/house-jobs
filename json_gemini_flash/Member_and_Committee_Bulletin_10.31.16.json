@@ -1,1 +1,100 @@
-[{"date": "2016-10-31", "id": "MEM-333-16", "office": "Congressman Raul Ruiz, M.D. (CA-36)", "position": "District Director", "location": "Palm Desert, CA", "key_responsibilities": ["oversee management and operation of two District offices", "serve as a key liaison to local organizations and elected officials", "develop and implement long-term strategic plans"], "requirements": ["significant management experience", "strong oral and written communications skills", "self-motivation and outreach experience to local and state organizations", "prior experience in coalition building", "a thorough understanding of the federal legislative process and in-depth knowledge of Southern CA", "ability to multi-task", "work well under pressure", "flexibility to work long hours, including nights and weekends"], "job_type": "None", "salary": "commensurate with experience", "email": "CA36DistrictDirectorposition@mail.house.gov"}, {"date": "2016-10-31", "id": "MEM-323-16", "office": "Committee on Ethics", "position": "Staff Assistant", "location": "None", "key_responsibilities": ["greeting visitors and answering telephones", "assisting with the tracking and processing of committee correspondence", "providing administrative support in the setup of committee meetings"], "requirements": ["excellent organizational skills and professional telephone manner", "proficiency in Microsoft Word and Excel", "ability to work cooperatively and courteously with others", "ability to use good judgment in responding to inquiries and requests", "flexibility in assisting with daily tasks and projects"], "job_type": "None", "salary": "None", "email": "Ethicsjobs@mail.house.gov"}, {"date": "2016-10-31", "id": "MEM-322-16", "office": "U.S. Rep. Lloyd Doggett (D-Texas)", "position": "press secretary", "location": "Washington", "key_responsibilities": "None", "requirements": ["Spanish skills", "Hill experience"], "job_type": "None", "salary": "None", "email": "DoggettJobs@mail.house.gov"}, {"date": "2016-10-31", "id": "MEM-315-16", "office": "Senior Member of the Bay Area California Delegation", "position": "Staff Assistant", "location": "None", "key_responsibilities": ["managing the front office", "answering telephones", "organizing tours", "greeting visitors", "processing flag requests", "assisting legislative staff", "serving as Intern Coordinator"], "requirements": ["detail-oriented", "strong organizational skills and writing abilities", "positive attitudes", "pride in their work product", "ties to the Bay Area"], "job_type": "None", "salary": "None", "email": "StaffAssistantCalifornia@gmail.com"}]
+[
+  {
+    "id": "MEM-333-16",
+    "position_title": "District Director",
+    "office": "Congressman Raul Ruiz, M.D. (CA-36)",
+    "location": "Palm Desert, CA",
+    "posting_date": "2016-10-31",
+    "description": "The District Director will oversee management and operation of two District offices, serve as a key liaison to local organizations and elected officials, and develop and implement long-term strategic plans.",
+    "responsibilities": [
+      "Oversee management and operation of two District offices",
+      "Serve as a key liaison to local organizations and elected officials",
+      "Develop and implement long-term strategic plans"
+    ],
+    "qualifications": [
+      "Significant management experience",
+      "Strong oral and written communications skills",
+      "Self-motivation and outreach experience to local and state organizations",
+      "Prior experience in coalition building",
+      "Thorough understanding of the federal legislative process",
+      "In-depth knowledge of Southern CA",
+      "Ability to multi-task",
+      "Ability to work well under pressure",
+      "Flexibility to work long hours, including nights and weekends",
+      "Ties to California’s 36th Congressional District are preferred"
+    ],
+    "how_to_apply": "To apply for the District Director position, please send cover letter and resume to CA36DistrictDirectorposition@mail.house.gov with “District Director” in the subject line. No phone calls, drop-ins or faxes.",
+    "salary_info": "Salary commensurate with experience. This is NOT an entry-level position.",
+    "contact": "CA36DistrictDirectorposition@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer."
+  },
+  {
+    "id": "MEM-323-16",
+    "position_title": "Staff Assistant",
+    "office": "Committee on Ethics",
+    "location": null,
+    "posting_date": "2016-10-31",
+    "description": "This position requires an individual who is non-partisan and can handle highly sensitive information.",
+    "responsibilities": [
+      "Greeting visitors and answering telephones",
+      "Assisting with the tracking and processing of committee correspondence",
+      "Providing administrative support in the setup of committee meetings"
+    ],
+    "qualifications": [
+      "Excellent organizational skills and professional telephone manner",
+      "Proficiency in Microsoft Word and Excel",
+      "Ability to work cooperatively and courteously with others",
+      "Ability to use good judgment in responding to inquiries and requests",
+      "Flexibility in assisting with daily tasks and projects"
+    ],
+    "how_to_apply": "Interested candidates should submit a resume and cover letter by email to Ethicsjobs@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Ethicsjobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-322-16",
+    "position_title": "Press Secretary",
+    "office": "U.S. Rep. Lloyd Doggett (D-Texas)",
+    "location": "Washington",
+    "posting_date": "2016-10-31",
+    "description": "U.S. Rep. Lloyd Doggett (D-Texas) seeks a press secretary for his Washington office. Spanish skills and Hill experience a plus.",
+    "responsibilities": [],
+    "qualifications": [
+      "Spanish skills a plus",
+      "Hill experience a plus"
+    ],
+    "how_to_apply": "Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. No drop-ins please.",
+    "salary_info": null,
+    "contact": "DoggettJobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-315-16",
+    "position_title": "Staff Assistant",
+    "office": "Senior Member of the Bay Area California Delegation",
+    "location": null,
+    "posting_date": "2016-10-31",
+    "description": "to assume the responsibilities of managing the front office. Daily tasks include answering telephones; organizing tours; greeting visitors; processing flag requests; assisting legislative staff; and serving as Intern Coordinator.",
+    "responsibilities": [
+      "managing the front office",
+      "answering telephones",
+      "organizing tours",
+      "greeting visitors",
+      "processing flag requests",
+      "assisting legislative staff",
+      "serving as Intern Coordinator"
+    ],
+    "qualifications": [
+      "detail-oriented professionals",
+      "strong organizational skills and writing abilities",
+      "positive attitudes",
+      "pride in their work product",
+      "Applicants with ties to the Bay Area are strongly encouraged to apply."
+    ],
+    "how_to_apply": "Please e-mail cover letter and resume to StaffAssistantCalifornia@gmail.com. No phone calls, e-mails or walk-ins, please.",
+    "salary_info": null,
+    "contact": "StaffAssistantCalifornia@gmail.com",
+    "equal_opportunity": null
+  }
+]

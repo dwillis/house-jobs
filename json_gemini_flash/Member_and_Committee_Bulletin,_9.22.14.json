@@ -1,1 +1,141 @@
-[{"date": "2014-09-22", "id": "MEM-325-14", "office": "Republican Congressman", "position": "Staff Assistant/Legislative Correspondent", "location": "Washington, D.C.", "key_responsibilities": ["manage all aspects of constituent correspondence and general day-to-day office operations", "sorting and tracking incoming mail, emails, and phone calls, and responding to mail using constituent management software to ensure timely responses", "front office reception duties, answering phone calls, greeting visitors, and other constituent services, such as flag and tour requests"], "requirements": ["strong writing ability", "exceptional organization skills", "attention to detail", "able to work quickly in a fast paced environment", "Previous Capitol Hill experience"], "job_type": "None", "salary": "None", "email": "cagopjobs@gmail.com"}, {"date": "2014-09-22", "id": "MEM-321-14", "office": "Texas Republican", "position": "Legislative Correspondent", "location": "Washington, D.C.", "key_responsibilities": ["processing the incoming mail", "assisting our communication team with proof reading, writing and updates to the website and newsletter"], "requirements": ["extremely strong writer", "high degree of attention to detail", "familiar with digital media trends", "willing to assist on special projects", "Hill experience and knowledge of Fireside"], "job_type": "None", "salary": "None", "email": "txgopjobs2@gmail.com"}, {"date": "2014-09-22", "id": "MEM-319-14", "office": "Republican staff of the Committee on House Administration", "position": "Counsel", "location": "Washington, D.C.", "key_responsibilities": ["assist the senior counsel with parliamentary and legislative matters under the Committee’s jurisdiction including election and campaign finance legislation, contested elections, and administrative legal issues"], "requirements": ["entry-to-mid level counsel experience"], "job_type": "None", "salary": "None", "email": "chajobs@mail.house.gov"}, {"date": "2014-09-22", "id": "MEM-318-14", "office": "Texas Democrat", "position": "Legislative Assistant", "location": "Washington, D.C.", "key_responsibilities": ["handle various legislative areas"], "requirements": ["bachelor’s degree with at least 4 years of legislative experience on the Hill", "excellent writing and verbal skills", "some knowledge of social media", "experience working under pressure", "working as part of a team", "a sense of humor", "the ability to work flexible hours", "Experience with iConstituent"], "job_type": "None", "salary": "None", "email": "TXResumeInbox@mail.house.gov"}, {"date": "2014-09-22", "id": "MEM-313-14", "office": "Democratic Staff of Congressional Committee", "position": "Analyst", "location": "Washington, D.C.", "key_responsibilities": ["health policy portfolio"], "requirements": ["strong skills in written and oral communication, policy analysis, and quantitative analysis", "ability to work effectively under tight deadline", "several years of experience in federal budgeting", "familiarity with the legislative process", "background in federal health care policy", "a master’s degree in public policy or related field"], "job_type": "None", "salary": "None", "email": "Health.Analyst@mail.house.gov"}, {"date": "2014-09-22", "id": "MEM-295-14", "office": "Republican Member", "position": "Legislative Correspondent", "location": "Washington, D.C.", "key_responsibilities": ["manage all aspects of constituent correspondence", "work with the scheduler to coordinate Member’s schedule in the Washington office", "sorting incoming letters and emails, tracking and assigning mail through constituent management software, drafting and sending timely responses"], "requirements": ["exceptional writing ability", "attention to detail", "organizational skills", "Hill experience, familiarity with IQ ties"], "job_type": "None", "salary": "None", "email": "TNHousejob@gmail.com"}]
+[
+  {
+    "id": "MEM-325-14",
+    "position_title": "Staff Assistant/Legislative Correspondent",
+    "office": "Republican Congressman",
+    "location": "Capitol Hill",
+    "posting_date": "2014-09-22",
+    "description": "Manage all aspects of constituent correspondence and general day-to-day office operations. Duties will include sorting and tracking incoming mail, emails, and phone calls, and responding to mail using constituent management software to ensure timely responses. In addition, the position is responsible for front office reception duties, answering phone calls, greeting visitors, and other constituent services, such as flag and tour requests.",
+    "responsibilities": [
+      "Sorting and tracking incoming mail, emails, and phone calls",
+      "Responding to mail using constituent management software to ensure timely responses",
+      "Front office reception duties",
+      "Answering phone calls",
+      "Greeting visitors",
+      "Other constituent services, such as flag and tour requests"
+    ],
+    "qualifications": [
+      "Strong writing ability",
+      "Exceptional organization skills",
+      "Attention to detail",
+      "Ability to work quickly in a fast paced environment",
+      "Previous Capitol Hill experience is required",
+      "Proficiency in Fireside and California ties are a plus"
+    ],
+    "how_to_apply": "Please send resume, cover letter, and two one-page writing samples to cagopjobs@gmail.com.",
+    "salary_info": null,
+    "contact": "cagopjobs@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-321-14",
+    "position_title": "Legislative Correspondent",
+    "office": "Texas Republican",
+    "location": null,
+    "posting_date": "2014-09-22",
+    "description": "Candidate must be an extremely strong writer, display a high degree of attention to detail, be familiar with digital media trends and be willing to assist on special projects. Primary responsibilities will include processing the incoming mail and assisting our communication team with proof reading, writing and updates to the website and newsletter. Hill experience and knowledge of Fireside is preferred, but not required.",
+    "responsibilities": [
+      "Processing the incoming mail",
+      "Assisting our communication team with proof reading",
+      "Writing",
+      "Updates to the website and newsletter"
+    ],
+    "qualifications": [
+      "Extremely strong writer",
+      "High degree of attention to detail",
+      "Familiar with digital media trends",
+      "Willing to assist on special projects",
+      "Hill experience and knowledge of Fireside is preferred, but not required."
+    ],
+    "how_to_apply": "If interested, please submit a cover letter and resume to txgopjobs2@gmail.com",
+    "salary_info": null,
+    "contact": "txgopjobs2@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-319-14",
+    "position_title": "COUNSEL",
+    "office": "Committee on House Administration",
+    "location": null,
+    "posting_date": "2014-09-22",
+    "description": "The Republican staff of the Committee on House Administration seeks an entry-to-mid level counsel. The counsel will assist the senior counsel with parliamentary and legislative matters under the Committee’s jurisdiction including election and campaign finance legislation, contested elections, and administrative legal issues.",
+    "responsibilities": [],
+    "qualifications": [],
+    "how_to_apply": "Please email resume, cover letter and short writing sample to chajobs@mail.house.gov and include “Counsel” in the subject line.",
+    "salary_info": null,
+    "contact": "chajobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-318-14",
+    "position_title": "Legislative Assistant",
+    "office": "Texas Democrat",
+    "location": "Hill",
+    "posting_date": "2014-09-22",
+    "description": "Texas Democrat seeks a hard-working and experienced legislative staffer to handle various legislative areas. A bachelor’s degree with at least 4 years of legislative experience on the Hill is required. Potential candidates should have excellent writing and verbal skills coupled with some knowledge of social media. The ideal candidate will have experience working under pressure, working as part of a team, a sense of humor and the ability to work flexible hours. Experience with iConstituent is a plus, but not required.",
+    "responsibilities": [],
+    "qualifications": [
+      "A bachelor’s degree with at least 4 years of legislative experience on the Hill is required.",
+      "Excellent writing and verbal skills",
+      "Knowledge of social media",
+      "Experience working under pressure",
+      "Experience working as part of a team",
+      "A sense of humor",
+      "The ability to work flexible hours",
+      "Experience with iConstituent is a plus, but not required."
+    ],
+    "how_to_apply": "Please send cover letter, resume and a writing sample to TXResumeInbox@mail.house.gov. No phone calls or walk-ins please.",
+    "salary_info": null,
+    "contact": "TXResumeInbox@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-313-14",
+    "position_title": "Analyst for Democratic Staff of Congressional Committee",
+    "office": "Congressional committee",
+    "location": null,
+    "posting_date": "2014-09-22",
+    "description": "Congressional committee seeks experienced analyst for health policy portfolio. The job requires strong skills in written and oral communication, policy analysis, and quantitative analysis, as well as the ability to work effectively under tight deadline. The ideal candidate will have several years of experience in federal budgeting, familiarity with the legislative process, background in federal health care policy, and a master’s degree in public policy or related field.",
+    "responsibilities": [],
+    "qualifications": [
+      "Strong skills in written and oral communication",
+      "Policy analysis",
+      "Quantitative analysis",
+      "Ability to work effectively under tight deadline",
+      "Several years of experience in federal budgeting",
+      "Familiarity with the legislative process",
+      "Background in federal health care policy",
+      "Master’s degree in public policy or related field"
+    ],
+    "how_to_apply": "Email resume, two brief writing samples, and cover letter with subject line “analyst position” to Health.Analyst@mail.house.gov",
+    "salary_info": null,
+    "contact": "Health.Analyst@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-295-14",
+    "position_title": "Legislative Correspondent",
+    "office": "Republican Member",
+    "location": "Washington",
+    "posting_date": "2014-09-22",
+    "description": "Republican Member seeks Legislative Correspondent with strong Tennessee ties to manage all aspects of constituent correspondence. In addition, this position works with the scheduler to coordinate Member’s schedule in the Washington office. Other duties include:\nsorting incoming letters and emails, tracking and assigning mail through constituent management software, drafting and sending timely responses.\nSuccessful candidates must demonstrate exceptional writing ability, attention to detail, and organizational skills. Hill experience, familiarity with IQ ties are a plus.",
+    "responsibilities": [
+      "manage all aspects of constituent correspondence",
+      "works with the scheduler to coordinate Member’s schedule in the Washington office",
+      "sorting incoming letters and emails",
+      "tracking and assigning mail through constituent management software",
+      "drafting and sending timely responses"
+    ],
+    "qualifications": [
+      "demonstrate exceptional writing ability",
+      "attention to detail",
+      "organizational skills",
+      "Hill experience (plus)",
+      "familiarity with IQ ties (plus)"
+    ],
+    "how_to_apply": "Send resume and cover letter to TNHousejob@gmail.com",
+    "salary_info": null,
+    "contact": "TNHousejob@gmail.com",
+    "equal_opportunity": null
+  }
+]

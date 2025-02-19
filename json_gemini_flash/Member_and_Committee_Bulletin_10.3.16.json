@@ -1,1 +1,155 @@
-[{"date": "2016-10-03", "id": "MEM-300-16", "office": "Joint Committee on Taxation", "position": "Desktop Support Technician", "location": "Washington, D.C.", "key_responsibilities": ["Responding to all inquiries for technical support same day or next business day while documenting, tracking, and monitoring all issues to ensure a timely resolution", "Installing or supporting desktop applications; PC & printer hardware; mobile devices such as iPhones and iPads", "Creating new users and setting up workstations for new staff", "Maintaining the IT equipment and printer supply", "Providing support and responding to issues for staff working remotely"], "requirements": ["Associates degree in information technology or certifications such as CompTIA A+, CompTIA Network+, CompTIA Security+, Microsoft Certified IT Professional (MCITP) or the equivalent", "Strong technical background with a wide range of technologies including one or more of the following; Active Directory; Desktop Windows OS 7-10; Hardware Setup and Configuration (Computers, Printers, Etc.); General networking knowledge; MS Office; Mac OS; Mobile Devices including iOS", "A person of the highest character and probity"], "job_type": "None", "salary": "None", "email": "it.jobs@jct.gov"}, {"date": "2016-10-03", "id": "MEM-299-16", "office": "Connecticut Democrat", "position": "DC Scheduler", "location": "Washington, D.C.", "key_responsibilities": ["Maintaining member’s daily and long-term schedule in Washington", "Evaluating meeting requests and invitations", "Coordinating travel arrangements", "Managing member’s personal correspondence", "Ensuring timely preparation for the member for meetings and events"], "requirements": ["Detail-oriented and proactive", "Strong communication skills", "Ability to thrive in a fast-paced and team-oriented office", "Prior scheduling experience preferred", "Connecticut ties and access to a car preferred"], "job_type": "None", "salary": "None", "email": "CT02JOB@mail.house.gov"}, {"date": "2016-10-03", "id": "MEM-295-16", "office": "Senior Democratic House member from CA", "position": "Communications Director", "location": "None", "key_responsibilities": ["Developing and implementing strategic media plan in a fast-paced and results-driven environment", "Managing website and social media tools"], "requirements": ["Proven track record", "Ability to manage website and social media tools", "Outstanding writing skills", "Strong pitching skills", "This is not an entry level position"], "job_type": "None", "salary": "None", "email": "commstafferCA2016@gmail.com"}, {"date": "2016-10-03", "id": "MEM-289-16", "office": "Office of General Counsel", "position": "Assistant General Counsel", "location": "Washington, D.C.", "key_responsibilities": ["Drafting pleadings and appellate briefs", "Appearing in court in litigation matters in which the House or individual Members, officers, or staff have an official interest", "Performing legal research", "Analyzing legal problems presented by House Members, committees, officers, and employees, and formulating recommended solutions", "Advising and counseling House Members, committees, officers, and employees on a wide range of legal issues", "Gathering facts necessary to permit OGC to provide sound legal advice", "Interacting with House leadership, committees, and other House offices", "Interacting with opposing counsel (both government and private)", "Representing witnesses in connection with investigative proceedings", "Assisting in administering OGC", "Working closely with other OGC attorneys and support staff in performing these functions"], "requirements": ["Excellent academic credentials", "At least five years’ experience as a practicing attorney (including substantial experience litigating substantive motions in federal district court)", "Excellent writing, analytical, and people skills", "Excellent judgment", "Ability to work with, and to provide high quality legal advice and representation to, House Members, committees, officers, and employees, without regard to their political affiliation", "Appreciation of – or at least the desire to learn about and understand – the role and functioning of the Legislative Branch"], "job_type": "None", "salary": "None", "email": "OGC.Employment@mail.house.gov"}, {"date": "2016-10-03", "id": "MEM-288-16", "office": "Senior California Democrat", "position": "Legislative Assistant or Senior Legislative Assistant", "location": "None", "key_responsibilities": ["Handling work on the Financial Services Committee and other issues"], "requirements": ["Substantial experience with financial services issues and substantial Congressional experience", "Strong writing and oral communication skills", "Ability to work well with others", "Comfortable in a fast-paced environment", "Understanding of the legislative process"], "job_type": "None", "salary": "None", "email": "HouseFinancialServicesLA@gmail.com"}, {"date": "2016-10-03", "id": "MEM-283-16", "office": "U.S. Rep. Lloyd Doggett (D-Texas)", "position": "Legislative Assistant", "location": "None", "key_responsibilities": ["Working on Ways and Means Committee issues"], "requirements": ["Excellent written and oral communication skills", "Hill experience and law degree with tax experience preferred"], "job_type": "None", "salary": "None", "email": "DoggettJobs@mail.house.gov"}]
+[
+  {
+    "id": "MEM-300-16",
+    "position_title": "Desktop Support Technician",
+    "office": "Joint Committee on Taxation",
+    "location": null,
+    "posting_date": "2016-10-03",
+    "description": "The Joint Committee on Taxation is seeking an entry level IT support professional to join our Information Technology staff in a Desktop Support role. The Desktop Support Technician provides support to end users on a wide range of issues by identifying, researching, and resolving technical problems.\n\nA day in the Desktop Support life may include:Responding to all inquiries for technical support same day or next business day while documenting, tracking, and monitoring all issues to ensure a timely resolution.Installing or supporting any of the following;",
+    "responsibilities": [
+      "Responding to all inquiries for technical support same day or next business day while documenting, tracking, and monitoring all issues to ensure a timely resolution.",
+      "Installing or supporting any of the following:",
+      "Desktop applications",
+      "PC & printer hardware",
+      "Mobile devices such as iPhones and iPads",
+      "Create new users and set up workstations for new staff",
+      "Maintaining the IT equipment and printer supply",
+      "Providing support and responding to issues for staff working remotely"
+    ],
+    "qualifications": [
+      "Associates degree in information technology or certifications such as CompTIA A+, CompTIA Network+, CompTIA Security+, Microsoft Certified IT Professional (MCITP) or the equivalent",
+      "Strong technical background with a broad range of technologies including one or more of the following;",
+      "Active Directory",
+      "Desktop Windows OS 7 – 10",
+      "Hardware Setup and Configuration (Computers, Printers, Etc.)",
+      "General networking knowledge",
+      "MS Office",
+      "Mac OS",
+      "Mobile Devices including iOS",
+      "A person of the highest character and probity"
+    ],
+    "how_to_apply": "Email resume to it.jobs@jct.gov by October 24, 2016.",
+    "salary_info": null,
+    "contact": "it.jobs@jct.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-299-16",
+    "position_title": "Scheduler",
+    "office": "Connecticut Democrat",
+    "location": "DC",
+    "posting_date": "2016-10-03",
+    "description": "Connecticut Democrat seeks qualified candidates for DC Scheduler in teamoriented office. Responsibilities include maintaining member’s daily and long term schedule in Washington, evaluating meeting requests and invitations, coordinating travel arrangements, managing member’s personal correspondence, and ensuring timely preparation for the member for meetings and events. The ideal candidate for this position is detail oriented and proactive, possess strong communication skills, and can thrive in a fast paced and team oriented office. Prior scheduling experience is preferred, as are Connecticut ties and access to a car.",
+    "responsibilities": [
+      "Maintaining member’s daily and long term schedule in Washington",
+      "Evaluating meeting requests and invitations",
+      "Coordinating travel arrangements",
+      "Managing member’s personal correspondence",
+      "Ensuring timely preparation for the member for meetings and events"
+    ],
+    "qualifications": [
+      "Detail oriented and proactive",
+      "Possess strong communication skills",
+      "Can thrive in a fast paced and team oriented office",
+      "Prior scheduling experience is preferred",
+      "Connecticut ties",
+      "Access to a car"
+    ],
+    "how_to_apply": "Please submit a resume and cover letter to CT02JOB@mail.house.gov. No calls or drop-ins.",
+    "salary_info": null,
+    "contact": "CT02JOB@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-295-16",
+    "position_title": "Communications Director",
+    "office": "Senior Democratic House member from CA",
+    "location": null,
+    "posting_date": "2016-10-03",
+    "description": "Seeks proactive, experienced Communications Director to develop and implement strategic media plan in a fast-paced and results-driven environment.",
+    "responsibilities": [],
+    "qualifications": [
+      "Must have proven track-record",
+      "Ability to manage website and social media tools",
+      "Outstanding writing skills and strong pitching skills are required",
+      "Southern California ties are preferred but not necessary",
+      "This is not an entry level position"
+    ],
+    "how_to_apply": "Qualified candidates should submit resume, cover letter to commstafferCA2016@gmail.com.",
+    "salary_info": null,
+    "contact": "commstafferCA2016@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-289-16",
+    "position_title": "Assistant General Counsel",
+    "office": "Office of General Counsel",
+    "location": null,
+    "posting_date": "2016-10-03",
+    "description": "The Office of General Counsel (“OGC”), which provides legal advice and representation to Members, committees, officers, and employees of the House on matters related to their official duties without regard to political affiliation, is accepting applications for the position of Assistant General Counsel. Core responsibilities include: drafting pleadings and appellate briefs; appearing in court in litigation matters in which the House or individual Members, officers, or staff have an official interest; performing legal research; analyzing legal problems presented by House Members, committees, officers, and employees, and formulating recommended solutions; advising and counseling House Members, committees, officers, and employees on a wide range of legal issues; gathering facts necessary to permit OGC to provide sound legal advice; interacting with House leadership, committees, and other House offices; interacting with opposing counsel (both government and private); representing witnesses in connection with investigative proceedings; assisting in administering OGC; and working closely with other OGC attorneys and support staff in performing these functions.",
+    "responsibilities": [
+      "Drafting pleadings and appellate briefs",
+      "Appearing in court in litigation matters in which the House or individual Members, officers, or staff have an official interest",
+      "Performing legal research",
+      "Analyzing legal problems presented by House Members, committees, officers, and employees, and formulating recommended solutions",
+      "Advising and counseling House Members, committees, officers, and employees on a wide range of legal issues",
+      "Gathering facts necessary to permit OGC to provide sound legal advice",
+      "Interacting with House leadership, committees, and other House offices",
+      "Interacting with opposing counsel (both government and private)",
+      "Representing witnesses in connection with investigative proceedings",
+      "Assisting in administering OGC",
+      "Working closely with other OGC attorneys and support staff in performing these functions"
+    ],
+    "qualifications": [
+      "Excellent academic credentials",
+      "At least five years’ experience as a practicing attorney (including substantial experience litigating substantive motions in federal district court)",
+      "Excellent writing, analytical, and people skills",
+      "Excellent judgment",
+      "Ability to work with, and to provide high quality legal advice and representation to, House Members, committees, officers, and employees, without regard to their political affiliation",
+      "Appreciation of – or at least the desire to learn about and understand – the role and functioning of the Legislative Branch"
+    ],
+    "how_to_apply": "Email cover letter, resume, and transcript to OGC.Employment@mail.house.gov",
+    "salary_info": null,
+    "contact": "OGC.Employment@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-288-16",
+    "position_title": "Legislative Assistant, or Senior Legislative Assistant",
+    "office": "Senior California Democrat",
+    "location": null,
+    "posting_date": "2016-10-03",
+    "description": "Senior California Democrat seeks Legislative Assistant, or Senior Legislative Assistant depending on qualifications, to handle work on the Financial Services Committee and other issues. Candidates should have substantial experience with financial services issues and substantial Congressional experience. The successful applicant will possess strong writing and oral communication skills, work well with others, be comfortable in a fast-paced environment, and understand the legislative process.",
+    "responsibilities": [],
+    "qualifications": [
+      "Substantial experience with financial services issues",
+      "Substantial Congressional experience",
+      "Strong writing and oral communication skills",
+      "Ability to work well with others",
+      "Comfortable in a fast-paced environment",
+      "Understand the legislative process"
+    ],
+    "how_to_apply": "To apply, please e-mail a cover letter, resume, and three writing samples to HouseFinancialServicesLA@gmail.com. No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": "HouseFinancialServicesLA@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-283-16",
+    "position_title": "Legislative Assistant",
+    "office": "U.S. Rep. Lloyd Doggett (D-Texas)",
+    "location": "Washington, DC",
+    "posting_date": "2016-10-03",
+    "description": "U.S. Rep. Lloyd Doggett (D-Texas) seeks an experienced Legislative Assistant to work on Ways and Means Committee issues. Excellent written and oral communication skills required. Hill experience and law degree with tax experience preferred.",
+    "responsibilities": [],
+    "qualifications": [
+      "Excellent written and oral communication skills required.",
+      "Hill experience preferred.",
+      "Law degree with tax experience preferred."
+    ],
+    "how_to_apply": "Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. No drop-ins please.",
+    "salary_info": null,
+    "contact": "DoggettJobs@mail.house.gov",
+    "equal_opportunity": null
+  }
+]

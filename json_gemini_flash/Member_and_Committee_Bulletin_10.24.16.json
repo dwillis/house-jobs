@@ -1,1 +1,150 @@
-[{"date": "2016-10-24", "id": "MEM-323-16", "office": "Committee on Ethics", "position": "Staff Assistant", "location": "Washington, D.C.", "key_responsibilities": ["greeting visitors and answering telephones", "assisting with the tracking and processing of committee correspondence", "providing administrative support in the setup of committee meetings"], "requirements": ["excellent organizational skills and professional telephone manner", "proficiency in Microsoft Word and Excel", "ability to work cooperatively and courteously with others", "ability to use good judgment in responding to inquiries and requests", "flexibility in assisting with daily tasks and projects"], "job_type": "None", "salary": "None", "email": "Ethicsjobs@mail.house.gov"}, {"date": "2016-10-24", "id": "MEM-322-16", "office": "U.S. Rep. Lloyd Doggett (D-Texas)", "position": "Press Secretary", "location": "Washington, D.C.", "key_responsibilities": "None", "requirements": ["Spanish skills", "Hill experience"], "job_type": "None", "salary": "None", "email": "DoggettJobs@mail.house.gov"}, {"date": "2016-10-24", "id": "MEM-315-16", "office": "Senior Member of the Bay Area California Delegation", "position": "Staff Assistant", "location": "None", "key_responsibilities": ["answering telephones", "organizing tours", "greeting visitors", "processing flag requests", "assisting legislative staff", "serving as Intern Coordinator"], "requirements": ["detail-oriented", "strong organizational skills and writing abilities", "positive attitudes", "pride in their work product"], "job_type": "None", "salary": "None", "email": "StaffAssistantCalifornia@gmail.com"}, {"date": "2016-10-24", "id": "MEM-300-16", "office": "Joint Committee on Taxation", "position": "IT Support professional, Desktop Support Technician", "location": "None", "key_responsibilities": ["Responding to all inquiries for technical support same day or next business day while documenting, tracking, and monitoring all issues to ensure a timely resolution", "Installing or supporting Desktop applications; PC & printer hardware; Mobile devices such as iPhones and iPads", "Creating new users and setting up workstations for new staff", "Maintaining the IT equipment and printer supply", "Providing support and responding to issues for staff working remotely"], "requirements": ["Associates degree in information technology or certifications such as CompTIA A+, CompTIA Network+, CompTIA Security+, Microsoft Certified IT Professional (MCITP) or the equivalent", "Strong technical background with a broad range of technologies including one or more of the following; Active Directory; Desktop Windows OS 7-10; Hardware Setup and Configuration (Computers, Printers, Etc.); General networking knowledge; MS Office; Mac OS; Mobile Devices including iOS", "A person of the highest character and probity"], "job_type": "None", "salary": "None", "email": "it.jobs@jct.gov"}, {"date": "2016-10-24", "id": "MEM-299-16", "office": "Connecticut Democrat", "position": "DC Scheduler", "location": "Washington, D.C.", "key_responsibilities": ["maintaining member’s daily and long term schedule in Washington", "evaluating meeting requests and invitations", "coordinating travel arrangements", "managing member’s personal correspondence", "ensuring timely preparation for the member for meetings and events"], "requirements": ["detail oriented and proactive", "strong communication skills", "ability to thrive in a fast paced and team oriented office", "Prior scheduling experience preferred, as are Connecticut ties and access to a car"], "job_type": "None", "salary": "None", "email": "CT02JOB@mail.house.gov"}, {"date": "2016-10-24", "id": "MEM-295-16", "office": "Senior Democratic House member from CA", "position": "Communications Director", "location": "None", "key_responsibilities": ["developing and implementing strategic media plan", "managing website and social media tools"], "requirements": ["proven track record", "ability to manage website and social media tools", "outstanding writing skills and strong pitching skills"], "job_type": "None", "salary": "None", "email": "commstafferCA2016@gmail.com"}]
+[
+  {
+    "id": "MEM-323-16",
+    "position_title": "Staff Assistant",
+    "office": "Committee on Ethics",
+    "location": null,
+    "posting_date": "2016-10-24",
+    "description": "The Committee on Ethics has an immediate opening for a Staff Assistant. This position requires an individual who is non-partisan and can handle highly sensitive information.",
+    "responsibilities": [
+      "Greeting visitors and answering telephones",
+      "Assisting with the tracking and processing of committee correspondence",
+      "Providing administrative support in the setup of committee meetings"
+    ],
+    "qualifications": [
+      "Excellent organizational skills and professional telephone manner",
+      "Proficiency in Microsoft Word and Excel",
+      "Ability to work cooperatively and courteously with others",
+      "Ability to use good judgment in responding to inquiries and requests",
+      "Flexibility in assisting with daily tasks and projects"
+    ],
+    "how_to_apply": "Interested candidates should submit a resume and cover letter by email to Ethicsjobs@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Ethicsjobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-322-16",
+    "position_title": "Press Secretary",
+    "office": "U.S. Rep. Lloyd Doggett",
+    "location": "Washington",
+    "posting_date": "2016-10-24",
+    "description": "U.S. Rep. Lloyd Doggett (D-Texas) seeks a press secretary for his Washington office. Spanish skills and Hill experience a plus.",
+    "responsibilities": [],
+    "qualifications": [
+      "Spanish skills a plus",
+      "Hill experience a plus"
+    ],
+    "how_to_apply": "Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. No drop-ins please.",
+    "salary_info": null,
+    "contact": "DoggettJobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-315-16",
+    "position_title": "Staff Assistant",
+    "office": "Senior Member of the Bay Area California Delegation",
+    "location": null,
+    "posting_date": "2016-10-24",
+    "description": "to assume the responsibilities of managing the front office. Daily tasks include answering telephones; organizing tours; greeting visitors; processing flag requests; assisting legislative staff; and serving as Intern Coordinator.",
+    "responsibilities": [
+      "answering telephones",
+      "organizing tours",
+      "greeting visitors",
+      "processing flag requests",
+      "assisting legislative staff",
+      "serving as Intern Coordinator"
+    ],
+    "qualifications": [
+      "detail-oriented professionals",
+      "strong organizational skills and writing abilities",
+      "positive attitudes",
+      "pride in their work product",
+      "Applicants with ties to the Bay Area are strongly encouraged to apply"
+    ],
+    "how_to_apply": "Please e-mail cover letter and resume to StaffAssistantCalifornia@gmail.com. No phone calls, e-mails or walk-ins, please.",
+    "salary_info": null,
+    "contact": "StaffAssistantCalifornia@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-300-16",
+    "position_title": "Desktop Support Technician",
+    "office": "Joint Committee on Taxation",
+    "location": null,
+    "posting_date": "2016-10-24",
+    "description": "The Joint Committee on Taxation is seeking an entry level IT support professional to join our Information Technology staff in a Desktop Support role. The Desktop Support Technician provides support to end users on a wide range of issues by identifying, researching, and resolving technical problems.\n\nA day in the Desktop Support life may include:",
+    "responsibilities": [
+      "Responding to all inquiries for technical support same day or next business day while documenting, tracking, and monitoring all issues to ensure a timely resolution.",
+      "Installing or supporting any of the following:",
+      "Desktop applications",
+      "PC & printer hardware",
+      "Mobile devices such as iPhones and iPads",
+      "Create new users and set up workstations for new staff",
+      "Maintaining the IT equipment and printer supply",
+      "Providing support and responding to issues for staff working remotely"
+    ],
+    "qualifications": [
+      "Associates degree in information technology or certifications such as CompTIA A+, CompTIA Network+, CompTIA Security+, Microsoft Certified IT Professional (MCITP) or the equivalent",
+      "Strong technical background with a broad range of technologies including one or more of the following:",
+      "Active Directory",
+      "Desktop Windows OS 7 – 10",
+      "Hardware Setup and Configuration (Computers, Printers, Etc.)",
+      "General networking knowledge",
+      "MS Office",
+      "Mac OS",
+      "Mobile Devices including iOS",
+      "A person of the highest character and probity"
+    ],
+    "how_to_apply": "Email resume to it.jobs@jct.gov",
+    "salary_info": null,
+    "contact": "it.jobs@jct.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-299-16",
+    "position_title": "DC Scheduler",
+    "office": "Connecticut Democrat",
+    "location": "Washington, DC",
+    "posting_date": "2016-10-24",
+    "description": "Responsibilities include maintaining member's daily and long term schedule in Washington, evaluating meeting requests and invitations, coordinating travel arrangements, managing member's personal correspondence, and ensuring timely preparation for the member for meetings and events. The ideal candidate for this position is detail oriented and proactive, possess strong communication skills, and can thrive in a fast paced and team oriented office. Prior scheduling experience is preferred, as are Connecticut ties and access to a car.",
+    "responsibilities": [
+      "Maintaining member's daily and long term schedule in Washington",
+      "Evaluating meeting requests and invitations",
+      "Coordinating travel arrangements",
+      "Managing member's personal correspondence",
+      "Ensuring timely preparation for the member for meetings and events"
+    ],
+    "qualifications": [
+      "Detail oriented and proactive",
+      "Possess strong communication skills",
+      "Can thrive in a fast paced and team oriented office",
+      "Prior scheduling experience is preferred",
+      "Connecticut ties",
+      "Access to a car"
+    ],
+    "how_to_apply": "Please submit a resume and cover letter to CT02JOB@mail.house.gov. No calls or drop-ins.",
+    "salary_info": null,
+    "contact": "CT02JOB@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-295-16",
+    "position_title": "Communications Director",
+    "office": "Senior Democratic House member from CA",
+    "location": null,
+    "posting_date": "2016-10-24",
+    "description": "Seeks proactive, experienced Communications Director to develop and implement strategic media plan in a fast-paced and results-driven environment.",
+    "responsibilities": [],
+    "qualifications": [
+      "Must have proven track-record, and ability to manage website and social media tools.",
+      "Outstanding writing skills and strong pitching skills are required.",
+      "Southern California ties are preferred but not necessary.",
+      "This is not an entry level position."
+    ],
+    "how_to_apply": "Qualified candidates should submit resume, cover letter to commstafferCA2016@gmail.com.",
+    "salary_info": null,
+    "contact": "commstafferCA2016@gmail.com",
+    "equal_opportunity": null
+  }
+]

@@ -1,1 +1,98 @@
-[{"date": "2014-03-10", "id": "MEM-150-14", "office": "Senior, Progressive, Democratic Member", "position": "Legislative Fellow", "location": "Washington, D.C.", "key_responsibilities": ["assist the legislative staff with education, women, tax, immigration, and veterans’ issues"], "requirements": ["strong writers, with the ability to learn quickly, multi-task, and work independently in a fluid environment", "great interpersonal skills and good humor"], "job_type": "paid", "salary": "None", "email": "leg.job@mail.house.gov"}, {"date": "2014-03-10", "id": "MEM-149-14", "office": "U.S. Rep. Lloyd Doggett (D-Tex)", "position": "Press Secretary", "location": "Washington, D.C.", "key_responsibilities": ["None"], "requirements": ["Hill experience", "Spanish"], "job_type": "None", "salary": "None", "email": "Intern7DC.TX35@mail.house.gov"}, {"date": "2014-03-10", "id": "MEM-148-14", "office": "Congresswoman Renee Ellmers", "position": "Caseworker/Field Representative", "location": "North Carolina", "key_responsibilities": ["monitors and updates the Congressman and District Office staff on district and local issues", "acts as a liaison to federal, district, and local agencies for the Congresswoman and constituents", "answers casework correspondence and verbal communications with constituents", "answers phones and assisting walk-in constituents"], "requirements": ["motivated to serve the 2nd Congressional District of North Carolina and possess a strong work ethic", "Proficiency in Microsoft Office is required", "ability to work cooperatively and courteously with others", "ability to use good judgment in responding to inquiries and requests", "flexibility in assisting with daily tasks and projects", "Experience with, and understanding of U.S. Military and Department of Veterans Affairs structure, the procedures, and policies is preferred"], "job_type": "None", "salary": "None", "email": "Pat.Fitzgerald@mail.house.gov"}, {"date": "2014-03-10", "id": "LOC-001-14", "office": "Congressional Research Service", "position": "policy analyst", "location": "Washington, D.C.", "key_responsibilities": ["providing policy and legal analysis to committees and Members of both the House and Senate, regardless of party affiliation"], "requirements": ["None"], "job_type": "None", "salary": "None", "email": "http://www.loc.gov/crsinfo"}, {"date": "2014-03-10", "id": "MEM-136-14", "office": "Freshman Democratic Member of Congress", "position": "Press Secretary", "location": "Washington, D.C.", "key_responsibilities": ["coordinating day-to-day press operations", "responding to media inquiries and interview requests", "pro-actively pitching stories", "organizing earned media events in DC and district", "writing press releases, advisories, talking points, op-eds, e-newsletter and speeches", "managing website and social media platforms", "managing a press assistant/special projects coordinator"], "requirements": ["strong writing skills", "creativity", "a good sense of humor", "strong political judgment", "the flexibility to work quickly and carefully under tight deadlines", "the ability to work collaboratively with both DC and district staff to grasp and communicate legislative and local priorities", "Prior on-the-record experience, speech writing and Capitol Hill experience strongly preferred"], "job_type": "None", "salary": "None", "email": "NM01.Resumes@mail.house.gov"}]
+[
+  {
+    "id": "MEM-150-14",
+    "position_title": "Legislative Fellow",
+    "office": "Democratic Member",
+    "location": null,
+    "posting_date": "2014-03-10",
+    "description": "Senior, Progressive, Democratic Member has an opening for a paid Legislative Fellow to assist the legislative staff with education, women, tax, immigration, and veterans’ issues. This is not an entry-level opportunity. Ideal candidates are strong writers, with the ability to learn quickly, multi-task, and work independently in a fluid environment. In particular, applicants with great interpersonal skills and good humor are welcome. Women and minorities are encouraged to apply.",
+    "responsibilities": [],
+    "qualifications": [
+      "Strong writers",
+      "Ability to learn quickly",
+      "Ability to multi-task",
+      "Ability to work independently in a fluid environment",
+      "Great interpersonal skills",
+      "Good humor"
+    ],
+    "how_to_apply": "Please email a cover letter and resume to leg.job@mail.house.gov. Applicants should be available to begin work immediately; no phone calls, faxes, or drop-ins, please.",
+    "salary_info": null,
+    "contact": "leg.job@mail.house.gov",
+    "equal_opportunity": "Women and minorities are encouraged to apply."
+  },
+  {
+    "id": "MEM-149-14",
+    "position_title": "Press Secretary",
+    "office": "U.S. Rep. Lloyd Doggett (D-Tex)",
+    "location": "Hill",
+    "posting_date": "2014-03-10",
+    "description": "Seeks Press Secretary; Hill experience, Spanish, a plus.",
+    "responsibilities": [],
+    "qualifications": [
+      "Hill experience",
+      "Spanish, a plus"
+    ],
+    "how_to_apply": "Send cover letter, CV, and three references to: Intern7DC.TX35@mail.house.gov",
+    "salary_info": null,
+    "contact": "Intern7DC.TX35@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-148-14",
+    "position_title": "Caseworker/Field Representative",
+    "office": "Congresswoman Renee Ellmers",
+    "location": "District Office in North Carolina",
+    "posting_date": "2014-03-10",
+    "description": "Applicants must be motivated to serve the 2nd Congressional District of North Carolina and possess a strong work ethic.\n\nThe Caseworker/Field Representative monitors and updates the Congressman and District Office staff on district and local issues. This position acts as a liaison to federal, district, and local agencies for the Congresswoman and constituents and answers casework correspondence and verbal communications with constituents. Duties also include answering phones and assisting walk-in constituents.",
+    "responsibilities": [],
+    "qualifications": [
+      "Proficiency in Microsoft Office is required",
+      "Ability to work cooperatively and courteously with others",
+      "Ability to use good judgment in responding to inquiries and requests",
+      "Flexibility in assisting with daily tasks and projects",
+      "Experience with, and understanding of U.S. Military and Department of Veterans Affairs structure, the procedures, and policies is preferred"
+    ],
+    "how_to_apply": "Submit cover letter and resume to Pat.Fitzgerald@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Pat.Fitzgerald@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "LOC-001-14",
+    "position_title": "Policy Analyst",
+    "office": "Congressional Research Service",
+    "location": "Library of Congress",
+    "posting_date": "2014-03-10",
+    "description": "The Congressional Research Service (CRS) works exclusively for the United States Congress, providing policy and legal analysis to committees and Members of both the House and Senate, regardless of party affiliation. In supporting congressional public policy analysis and information needs, CRS covers the full spectrum of issues before the U.S. Congress. Its highest priority is to ensure that Congress has 24/7 access to the nation's best thinking on legislative issues.",
+    "responsibilities": [],
+    "qualifications": [],
+    "how_to_apply": "Interested applicants must apply online at http://www.loc.gov/crsinfo.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": "CRS is the public policy research arm of the United States Congress and is fully committed to workforce diversity."
+  },
+  {
+    "id": "MEM-136-14",
+    "position_title": "Press Secretary",
+    "office": "Freshman Democratic Member of Congress",
+    "location": "DC and district",
+    "posting_date": "2014-03-10",
+    "description": "Freshman Democratic Member of Congress seeks a motivated and detailoriented Press Secretary. Candidates must possess strong writing skills, creativity, a good sense of humor, strong political judgment, the flexibility to work quickly and carefully under tight deadlines, and the ability to work collaboratively with both DC and district staff to grasp and communicate legislative and local priorities.",
+    "responsibilities": [
+      "Coordinating day-to-day press operations",
+      "Responding to media inquiries and interview requests",
+      "Pro-actively pitching stories",
+      "Organizing earned media events in DC and district",
+      "Writing press releases, advisories, talking points, op-eds, e-newsletter and speeches",
+      "Managing website and social media platforms",
+      "Helps manage a press assistant/special projects coordinator"
+    ],
+    "qualifications": [
+      "Prior on-the-record experience, speech writing and Capitol Hill experience strongly preferred."
+    ],
+    "how_to_apply": "Qualified candidates should send a resume and cover letter to NM01.Resumes@mail.house.gov with “Press Secretary” in the subject line. No phone calls, faxes or drop-ins, please.",
+    "salary_info": null,
+    "contact": "NM01.Resumes@mail.house.gov",
+    "equal_opportunity": null
+  }
+]

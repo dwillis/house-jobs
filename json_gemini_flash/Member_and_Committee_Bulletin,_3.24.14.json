@@ -1,1 +1,60 @@
-[{"date": "2014-03-24", "id": "MEM-150-14", "office": "Senior, Progressive, Democratic Member", "position": "Legislative Fellow", "location": "Washington, D.C.", "key_responsibilities": ["assist the legislative staff with education, women, tax, immigration, and veterans’ issues"], "requirements": ["strong writers, with the ability to learn quickly, multi-task, and work independently in a fluid environment", "great interpersonal skills and good humor"], "job_type": "None", "salary": "paid", "email": "leg.job@mail.house.gov"}, {"date": "2014-03-24", "id": "MEM-149-14", "office": "U.S. Rep. Lloyd Doggett (D-Tex)", "position": "Press Secretary", "location": "Washington, D.C.", "key_responsibilities": ["None"], "requirements": ["Hill experience", "Spanish"], "job_type": "None", "salary": "None", "email": "Intern7DC.TX35@mail.house.gov"}, {"date": "2014-03-24", "id": "MEM-148-14", "office": "Congresswoman Renee Ellmers", "position": "Caseworker/Field Representative", "location": "North Carolina", "key_responsibilities": ["monitors and updates the Congressman and District Office staff on district and local issues", "acts as a liaison to federal, district, and local agencies for the Congresswoman and constituents", "answers casework correspondence and verbal communications with constituents", "answers phones and assisting walk-in constituents"], "requirements": ["motivated to serve the 2nd Congressional District of North Carolina and possess a strong work ethic", "Proficiency in Microsoft Office is required", "ability to work cooperatively and courteously with others", "ability to use good judgment in responding to inquiries and requests", "flexibility in assisting with daily tasks and projects", "Experience with, and understanding of U.S. Military and Department of Veterans Affairs structure, the procedures, and policies is preferred"], "job_type": "None", "salary": "None", "email": "Pat.Fitzgerald@mail.house.gov"}]
+[
+  {
+    "id": "MEM-150-14",
+    "position_title": "Legislative Fellow",
+    "office": "Progressive, Democratic Member",
+    "location": null,
+    "posting_date": "2014-03-24",
+    "description": "Senior, Progressive, Democratic Member has an opening for a paid Legislative Fellow to assist the legislative staff with education, women, tax, immigration, and veterans’ issues. This is not an entry-level opportunity.\nIdeal candidates are strong writers, with the ability to learn quickly, multi-task, and work independently in a fluid environment. In particular, applicants with great interpersonal skills and good humor are welcome.",
+    "responsibilities": [],
+    "qualifications": [
+      "Strong writers",
+      "Ability to learn quickly",
+      "Ability to multi-task",
+      "Ability to work independently in a fluid environment",
+      "Great interpersonal skills",
+      "Good humor"
+    ],
+    "how_to_apply": "Please email a cover letter and resume to leg.job@mail.house.gov. Applicants should be available to begin work immediately; no phone calls, faxes, or drop-ins, please.",
+    "salary_info": null,
+    "contact": "leg.job@mail.house.gov",
+    "equal_opportunity": "Women and minorities are encouraged to apply."
+  },
+  {
+    "id": "MEM-149-14",
+    "position_title": "Press Secretary",
+    "office": "U.S. Rep. Lloyd Doggett (D-Tex)",
+    "location": "Washington, DC",
+    "posting_date": "2014-03-24",
+    "description": "U.S. Rep. Lloyd Doggett (D-Tex) Seeks Press Secretary; Hill experience, Spanish, a plus.",
+    "responsibilities": [],
+    "qualifications": [
+      "Hill experience",
+      "Spanish"
+    ],
+    "how_to_apply": "Send cover letter, CV, and three references to: Intern7DC.TX35@mail.house.gov",
+    "salary_info": null,
+    "contact": "Intern7DC.TX35@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-148-14",
+    "position_title": "Caseworker/Field Representative",
+    "office": "Congresswoman Renee Ellmers",
+    "location": "District Office in North Carolina",
+    "posting_date": "2014-03-24",
+    "description": "The Caseworker/Field Representative monitors and updates the Congressman and District Office staff on district and local issues. This position acts as a liaison to federal, district, and local agencies for the Congresswoman and constituents and answers casework correspondence and verbal communications with constituents. Duties also include answering phones and assisting walk-in constituents.",
+    "responsibilities": [],
+    "qualifications": [
+      "Proficiency in Microsoft Office is required",
+      "Ability to work cooperatively and courteously with others",
+      "Ability to use good judgment in responding to inquiries and requests",
+      "Flexibility in assisting with daily tasks and projects",
+      "Experience with, and understanding of U.S. Military and Department of Veterans Affairs structure, the procedures, and policies is preferred."
+    ],
+    "how_to_apply": "Submit cover letter and resume to Pat.Fitzgerald@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Pat.Fitzgerald@mail.house.gov",
+    "equal_opportunity": null
+  }
+]

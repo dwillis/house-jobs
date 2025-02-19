@@ -1,1 +1,40 @@
-[{"date": "2014-03-31", "id": "MEM-150-14", "office": "Senior, Progressive, Democratic Member", "position": "Legislative Fellow", "location": "Washington, D.C.", "key_responsibilities": ["assist the legislative staff with education, women, tax, immigration, and veterans’ issues"], "requirements": ["This is not an entry-level opportunity", "strong writers, with the ability to learn quickly, multi-task, and work independently in a fluid environment", "great interpersonal skills and good humor"], "job_type": "paid", "salary": "None", "email": "leg.job@mail.house.gov"}, {"date": "2014-03-31", "id": "MEM-149-14", "office": "U.S. Rep. Lloyd Doggett (D-Tex)", "position": "Press Secretary", "location": "Washington, D.C.", "key_responsibilities": ["None"], "requirements": ["Hill experience", "Spanish, a plus"], "job_type": "None", "salary": "None", "email": "Intern7DC.TX35@mail.house.gov"}]
+[
+  {
+    "id": "MEM-150-14",
+    "position_title": "Legislative Fellow",
+    "office": "Progressive, Democratic Member",
+    "location": null,
+    "posting_date": "2014-03-31",
+    "description": "Senior, Progressive, Democratic Member has an opening for a paid Legislative Fellow to assist the legislative staff with education, women, tax, immigration, and veterans’ issues. This is not an entry-level opportunity.\nIdeal candidates are strong writers, with the ability to learn quickly, multi-task, and work independently in a fluid environment. In particular, applicants with great interpersonal skills and good humor are welcome.",
+    "responsibilities": [],
+    "qualifications": [
+      "Strong writers",
+      "Ability to learn quickly",
+      "Ability to multi-task",
+      "Ability to work independently in a fluid environment",
+      "Great interpersonal skills",
+      "Good humor"
+    ],
+    "how_to_apply": "Please email a cover letter and resume to leg.job@mail.house.gov. Applicants should be available to begin work immediately; no phone calls, faxes, or drop-ins, please.",
+    "salary_info": null,
+    "contact": "leg.job@mail.house.gov",
+    "equal_opportunity": "Women and minorities are encouraged to apply."
+  },
+  {
+    "id": "MEM-149-14",
+    "position_title": "Press Secretary",
+    "office": "U.S. Rep. Lloyd Doggett (D-Tex)",
+    "location": "Washington, DC",
+    "posting_date": "2014-03-31",
+    "description": "Hill experience, Spanish, a plus.",
+    "responsibilities": [],
+    "qualifications": [
+      "Hill experience",
+      "Spanish (a plus)"
+    ],
+    "how_to_apply": "Send cover letter, CV, and three references to: Intern7DC.TX35@mail.house.gov",
+    "salary_info": null,
+    "contact": "Intern7DC.TX35@mail.house.gov",
+    "equal_opportunity": null
+  }
+]

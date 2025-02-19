@@ -1,1 +1,103 @@
-[{"date": "2014-08-18", "id": "MEM-286-14", "office": "Senior Democratic member of Congress", "position": "Staff Assistant", "location": "Washington, D.C.", "key_responsibilities": ["preparing letters of greetings, condolence and congratulations on behalf of the Member", "answering the phones", "coordinating mail and casework distribution", "making room reservations for meetings", "post office problems and requests for expedited passports", "recruiting training, scheduling and assigning duties for interns"], "requirements": ["bachelor’s degree", "significant experience interacting with the public", "excellent writing and communication skills", "working knowledge of the District of Columbia", "resident of the District of Columbia or willing to move immediately to D.C."], "job_type": "None", "salary": "based on skill and experience level", "email": "DC00.NortonResume@mail.houe.gov"}, {"date": "2014-08-18", "id": "MEM-281-14", "office": "California Democrat", "position": "Scheduler/Executive Assistant", "location": "Washington, DC", "key_responsibilities": ["managing schedules for DC and district offices", "making travel arrangements", "managing all front office operations in the Washington DC office"], "requirements": ["excellent interpersonal skills", "ability to multi-task in a fast-paced environment", "ability to travel to district while managing the schedule", "ability to anticipate the Member’s needs, while being creative", "ability to work well as an individual and as a member of a team"], "job_type": "None", "salary": "commensurate with experience", "email": "CAJobs@mail.house.gov"}, {"date": "2014-08-18", "id": "MEM-280-14", "office": "Committee on Ethics", "position": "Staff Assistant", "location": "None", "key_responsibilities": ["Answering telephones", "assisting with the Committee investigation’s production process", "assisting with the tracking and processing of Committee correspondence", "providing administrative support in setting up Committee meetings", "entering data and navigating databases with accuracy"], "requirements": ["excellent organizational skills and a professional telephone manner", "good computer skills", "proficiency in Microsoft Word and Excel", "ability to work cooperatively and courteously with others", "ability to use good judgment in responding to inquiries and requests", "flexibility in assisting with daily tasks and projects"], "job_type": "None", "salary": "None", "email": "ethicsjobs@mail.house.gov"}, {"date": "2014-08-18", "id": "MEM-273-14", "office": "Western Freshman Democratic Member", "position": "Deputy Chief of Staff", "location": "Washington, D.C.", "key_responsibilities": ["serving as a senior manager working under the direction of the Member and the Chief of Staff", "serving as the Member's point of contact with interest and advocacy groups based in Washington, D.C.", "coordinating with legislative team to proactively identify outreach opportunities with Washington, D.C. based groups", "staffing the Member in select meetings in Washington, D.C. office", "working with Chief of Staff and Legislative Director to strategically identify legislative and policy opportunities for the Member"], "requirements": ["extensive experience working with interest groups on or off Capitol Hill"], "job_type": "None", "salary": "None", "email": "HouseDCOS2014@gmail.com"}]
+[
+  {
+    "id": "MEM-286-14",
+    "position_title": "Staff Assistant",
+    "office": "Senior Democratic member of Congress",
+    "location": "District of Columbia",
+    "posting_date": "2014-08-18",
+    "description": "We are seeking a highly energetic, motivated, and organized individual to join the team of a Senior Democratic member of Congress. The candidate will have strong interpersonal skills, be comfortable with managing multiple tasks and work well under pressure.\n\nThe staff assistant is responsible for preparing letters of greetings, condolence and congratulations on behalf of the Member; answering the phones; coordinating mail and casework distribution; making room reservations for meetings. Light casework assignments will include post office problems and requests for expedited passports and as assigned by the District Director. The staff assistant also serves as intern coordinator by recruiting training, scheduling and assigning duties.",
+    "responsibilities": [
+      "Preparing letters of greetings, condolence and congratulations on behalf of the Member",
+      "Answering the phones",
+      "Coordinating mail and casework distribution",
+      "Making room reservations for meetings",
+      "Light casework assignments will include post office problems and requests for expedited passports and as assigned by the District Director",
+      "Serves as intern coordinator by recruiting training, scheduling and assigning duties"
+    ],
+    "qualifications": [
+      "Bachelor’s degree",
+      "Significant experience interacting with the public",
+      "Excellent writing and communication skills",
+      "Working knowledge of the District of Columbia",
+      "Candidate must be a resident of the District of Columbia or willing to move immediately to D.C., if hired"
+    ],
+    "how_to_apply": "Interested applicants should send a resume, cover letter, references and two writing samples to:",
+    "salary_info": "Salary is based on skill and experience level.",
+    "contact": "DC00.NortonResume@mail.houe.gov or fax to (202) 225-1129\nAbsolutely no phone calls will be accepted!",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-281-14",
+    "position_title": "Scheduler/Executive Assistant",
+    "office": "California Democrat",
+    "location": "Washington, DC",
+    "posting_date": "2014-08-18",
+    "description": "California Democrat is hiring a Scheduler/Executive Assistant for a fast paced and team-oriented Washington, DC office.\nDuties of the position include but are not limited to:",
+    "responsibilities": [
+      "DC and district offices.",
+      "arrangements.",
+      "about the Member’s schedule.",
+      "g all front office operations in the Washington DC office."
+    ],
+    "qualifications": [
+      "interpersonal skills.",
+      "-task in a fast-paced environment.",
+      "district while managing the schedule.",
+      "Member’s needs, while being creative.",
+      "ability to work well as an individual and as a member of a team."
+    ],
+    "how_to_apply": "If interested, please email a resume, cover letter, and references to CAJobs@mail.house.gov with “Scheduler/ Executive Assistant” in the subject line.",
+    "salary_info": "Salary will be commensurate with experience. This is not an entry level position.",
+    "contact": "CAJobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-280-14",
+    "position_title": "Staff Assistant",
+    "office": "Committee on Ethics",
+    "location": null,
+    "posting_date": "2014-08-18",
+    "description": "The Committee on Ethics has an opening for a Staff Assistant on the Committee's non-partisan professional staff.",
+    "responsibilities": [
+      "Answering telephones",
+      "Assisting with the Committee investigation's production process",
+      "Assisting with the tracking and processing of Committee correspondence",
+      "Providing administrative support in setting up Committee meetings",
+      "Entering data and navigating databases with accuracy"
+    ],
+    "qualifications": [
+      "Excellent organizational skills and a professional telephone manner",
+      "Good computer skills",
+      "Proficiency in Microsoft Word and Excel",
+      "Ability to work cooperatively and courteously with others",
+      "Ability to use good judgment in responding to inquiries and requests",
+      "Flexibility in assisting with daily tasks and projects",
+      "Members of the nonpartisan staff must refrain from engaging in partisan political activities and are subject to strict rules of confidentiality about the Committee's work."
+    ],
+    "how_to_apply": "Please email cover letter and resume to ethicsjobs@mail.house.gov. Please include the phrase “Staff Assistant” in the subject line.\nNO PHONE CALLS PLEASE",
+    "salary_info": null,
+    "contact": "ethicsjobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-273-14",
+    "position_title": "Deputy Chief of Staff",
+    "office": "Western Freshman Democratic Member",
+    "location": "Washington, D.C.",
+    "posting_date": "2014-08-18",
+    "description": "This dynamic individual will serve as a senior manager working under the direction of the Member and the Chief of Staff. The Deputy Chief of Staff serves as the Member's point of contact with interest and advocacy groups based in Washington, D.C. Coordinates with legislative team to proactively identify outreach opportunities with Washington, D.C. based groups. Responsible for staffing the Member in select meetings in Washington, D.C. office. Works with Chief of Staff and Legislative Director to strategically identify legislative and policy opportunities for the Member. Individual will have extensive experience working with interest groups on or off Capitol Hill.",
+    "responsibilities": [
+      "Serves as the Member's point of contact with interest and advocacy groups based in Washington, D.C.",
+      "Coordinates with legislative team to proactively identify outreach opportunities with Washington, D.C. based groups.",
+      "Responsible for staffing the Member in select meetings in Washington, D.C. office.",
+      "Works with Chief of Staff and Legislative Director to strategically identify legislative and policy opportunities for the Member."
+    ],
+    "qualifications": [
+      "Extensive experience working with interest groups on or off Capitol Hill."
+    ],
+    "how_to_apply": "Please submit cover letter, resume, and brief writing sample to HouseDCOS2014@gmail.com.",
+    "salary_info": null,
+    "contact": "HouseDCOS2014@gmail.com",
+    "equal_opportunity": null
+  }
+]

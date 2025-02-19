@@ -1,1 +1,159 @@
-[{"date": "2015-12-14", "id": "MEM-440-15", "office": "Congressman French Hill (AR-02)", "position": "Staff Assistant", "location": "Washington, D.C.", "key_responsibilities": ["greeting constituents", "answering constituent phone calls", "opening and sorting mail", "guiding U.S. Capitol building tours", "processing flag requests", "organizing supplies and inventory", "assisting staff with administrative and legislative tasks"], "requirements": ["positive attitude", "strong work ethic", "excellent written and oral communication skills", "social media and other communications experience", "self-starter", "able to work both independently and as part of a team", "working knowledge of current events and policy topics", "willingness to assist with daily office tasks"], "job_type": "None", "salary": "None", "email": "ar02.applications@mail.house.gov"}, {"date": "2015-12-14", "id": "MEM-438-15", "office": "Committee on Ethics", "position": "Staff Assistant", "location": "None", "key_responsibilities": ["answering telephones", "assisting with the tracking and processing of committee correspondence", "providing administrative support in setting up committee meetings", "entering data and navigating databases with accuracy"], "requirements": ["excellent organizational skills", "professional telephone manner", "good computer skills", "proficiency in Microsoft Word and Excel", "ability to work cooperatively and courteously with others", "ability to use good judgment in responding to inquiries and requests", "flexibility in assisting with daily tasks and projects"], "job_type": "None", "salary": "None", "email": "ethicsjobs@mail.house.gov"}, {"date": "2015-12-14", "id": "MEM-430-15", "office": "Senior Democrat", "position": "Staff Assistant", "location": "Washington, DC", "key_responsibilities": ["managing the front office", "answering and screening telephone calls", "greeting visitors", "coordinating tour requests for visiting constituents", "managing flag requests", "supervising and coordinating the intern program", "assisting staff"], "requirements": ["motivated", "detail-oriented", "energetic", "excellent oral and written communication skills", "strong interpersonal skills", "comfortable with managing multiple tasks", "strong work ethic"], "job_type": "None", "salary": "None", "email": "employ@mail.house.gov"}, {"date": "2015-12-14", "id": "MEM-418-15", "office": "Congressman Dan Kildee (MI-05)", "position": "Communications Assistant", "location": "Washington, D.C.", "key_responsibilities": ["drafting media advisories and press releases", "collating daily press clips and morning headlines", "creating content for the Member’s social media accounts", "graphic design projects", "drafting constituent mail and managing the constituent mail program"], "requirements": ["creative", "excellent written and oral communication skills", "strongly proficient with digital and social media platforms", "energetic", "detail-oriented team player", "able to multi-task and produce high-quality work on tight deadlines", "graphic and/or video editing skills"], "job_type": "None", "salary": "None", "email": "michigan05jobs@gmail.com"}, {"date": "2015-12-14", "id": "MEM-368-15", "office": "New England Democrat", "position": "Staff Assistant", "location": "Washington, DC", "key_responsibilities": ["managing front office operations", "overseeing intern program", "serving as confidential assistant to Chief of Staff and Member", "driving Member to meetings and appointments", "supporting Member’s daily activities", "providing assistance to scheduling and legislative teams", "other tasks as assigned"], "requirements": ["enthusiastic", "motivated", "highly-organized", "access to a vehicle and a clean driving record"], "job_type": "None", "salary": "None", "email": "hill.jobs@mail.house.gov"}, {"date": "2015-12-14", "id": "MEM-331-15", "office": "House Committee Democratic staff", "position": "Committee Clerk\/Administrator", "location": "None", "key_responsibilities": ["committee legislative clerk responsibilities", "office administrator\/payroll work"], "requirements": ["detail-oriented", "Hill experience (preferably 2+ years)", "Committee legislative clerk, hearing coordination, or similar experience", "familiarity with Congressional payroll and Hill office administrative work"], "job_type": "None", "salary": "None", "email": "demcommitteejob@mail.house.gov"}]
+[
+  {
+    "id": "MEM-440-15",
+    "position_title": "Staff Assistant",
+    "office": "Congressman French Hill (AR-02)",
+    "location": "Washington, D.C.",
+    "posting_date": "2015-12-14",
+    "description": "General responsibilities include greeting constituents, answering constituent phone calls, opening and sorting mail, guiding U.S. Capitol building tours, processing flag requests, organizing supplies and inventory, and assisting staff with administrative and legislative tasks.\n\nCandidates will have a positive attitude, strong work ethic, and excellent written and oral communication skills. Social media and other communications experience a strong plus. Successful candidates will be selfstarters, take and listen to direction, and be able to work both independently and as part of a team.\n\nApplicants should have working knowledge of current events and policy topics as well as a willingness to assist with daily office tasks. Arkansas ties strongly preferred.",
+    "responsibilities": [
+      "Greeting constituents",
+      "Answering constituent phone calls",
+      "Opening and sorting mail",
+      "Guiding U.S. Capitol building tours",
+      "Processing flag requests",
+      "Organizing supplies and inventory",
+      "Assisting staff with administrative and legislative tasks"
+    ],
+    "qualifications": [
+      "Positive attitude",
+      "Strong work ethic",
+      "Excellent written and oral communication skills",
+      "Working knowledge of current events and policy topics",
+      "Willingness to assist with daily office tasks",
+      "Arkansas ties strongly preferred"
+    ],
+    "how_to_apply": "Those interested please send your resume and cover letter to ar02.applications@mail.house.gov.",
+    "salary_info": null,
+    "contact": "ar02.applications@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-438-15",
+    "position_title": "Staff Assistant",
+    "office": "Committee on Ethics",
+    "location": null,
+    "posting_date": "2015-12-14",
+    "description": "Duties include: answering telephones; assisting with the tracking and processing of committee correspondence; providing administrative support in setting up committee meetings; and entering data and navigating databases with accuracy. This is a non-partisan position which requires the ability to serve all Members of Congress equally and refrain from political or partisan activity.",
+    "responsibilities": [
+      "answering telephones",
+      "assisting with the tracking and processing of committee correspondence",
+      "providing administrative support in setting up committee meetings",
+      "entering data and navigating databases with accuracy"
+    ],
+    "qualifications": [
+      "excellent organizational skills and a professional telephone manner",
+      "good computer skills",
+      "proficiency in Microsoft Word and Excel",
+      "ability to work cooperatively and courteously with others",
+      "ability to use good judgment in responding to inquiries and requests",
+      "flexibility in assisting with daily tasks and projects"
+    ],
+    "how_to_apply": "Please email cover letter and resume with “Staff Assistant” in the subject line to ethicsjobs@mail.house.gov",
+    "salary_info": null,
+    "contact": "ethicsjobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-430-15",
+    "position_title": "Staff Assistant",
+    "office": "Senior Democrat",
+    "location": "Washington, DC",
+    "posting_date": "2015-12-14",
+    "description": "Senior Democrat seeks motivated, detail-oriented, and energetic individual with excellent oral and written communication skills for a Staff Assistant position in the Washington, DC office. Individuals should demonstrate strong interpersonal skills, be comfortable with managing multiple tasks, and have a strong work ethic. Responsibilities include managing the front office, answering and screening telephone calls, greeting visitors, coordinating tour requests for visiting constituents, managing flag requests, supervising and coordinating the intern program, and assisting staff. Capitol Hill experience preferred. Women and minorities are encouraged to apply.",
+    "responsibilities": [
+      "Managing the front office",
+      "Answering and screening telephone calls",
+      "Greeting visitors",
+      "Coordinating tour requests for visiting constituents",
+      "Managing flag requests",
+      "Supervising and coordinating the intern program",
+      "Assisting staff"
+    ],
+    "qualifications": [
+      "Excellent oral and written communication skills",
+      "Strong interpersonal skills",
+      "Comfortable with managing multiple tasks",
+      "Strong work ethic",
+      "Capitol Hill experience preferred"
+    ],
+    "how_to_apply": "Email cover letter and resume to employ@mail.house.gov.",
+    "salary_info": null,
+    "contact": "employ@mail.house.gov",
+    "equal_opportunity": "Women and minorities are encouraged to apply."
+  },
+  {
+    "id": "MEM-418-15",
+    "position_title": "Communications Assistant",
+    "office": "Congressman Dan Kildee (MI-05)",
+    "location": "Washington, D.C.",
+    "posting_date": "2015-12-14",
+    "description": "Congressman Dan Kildee (MI-05) is seeking a Communications Assistant in\nWashington, D.C., to assist with the Member’s external communications\nefforts. Responsibilities will include drafting media advisories and press\nreleases; collating daily press clips and morning headlines; creating content\nfor the Member’s social media accounts; graphic design projects; drafting\nconstituent mail and managing the constituent mail program.\nThe ideal candidate will be creative, have excellent written and oral\ncommunication skills, be strongly proficient with digital and social media\nplatforms, be an energetic and a detail-oriented team player able to multi-task\nand produce high-quality work on tight deadlines. Graphic and/or video\nediting skills are highly preferred. Michiganders are strongly encouraged to\napply.",
+    "responsibilities": [
+      "Drafting media advisories and press releases",
+      "Collating daily press clips and morning headlines",
+      "Creating content for the Member’s social media accounts",
+      "Graphic design projects",
+      "Drafting constituent mail and managing the constituent mail program"
+    ],
+    "qualifications": [
+      "Creative",
+      "Excellent written and oral communication skills",
+      "Strongly proficient with digital and social media platforms",
+      "Energetic and a detail-oriented team player able to multi-task and produce high-quality work on tight deadlines",
+      "Graphic and/or video editing skills are highly preferred",
+      "Michiganders are strongly encouraged to apply."
+    ],
+    "how_to_apply": "Please e-mail resume, cover letter and two writing samples (no more than 1page each) to michigan05jobs@gmail.com (subject line should read:\nCommunications Assistant Application). No telephone calls, emails or walkins, please.",
+    "salary_info": null,
+    "contact": "michigan05jobs@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-368-15",
+    "position_title": "Staff Assistant",
+    "office": "New England Democrat",
+    "location": "Washington, DC",
+    "posting_date": "2015-12-14",
+    "description": "New England Democrat seeks an enthusiastic, motivated, and highlyorganized Staff Assistant for Washington, DC office. Responsibilities include managing front office operations, overseeing intern program, serving as confidential assistant to Chief of Staff and Member, driving Member to meetings and appointments, supporting Member's daily activities, providing assistance to scheduling and legislative teams, and other tasks as assigned.",
+    "responsibilities": [
+      "Managing front office operations",
+      "Overseeing intern program",
+      "Serving as confidential assistant to Chief of Staff and Member",
+      "Driving Member to meetings and appointments",
+      "Supporting Member's daily activities",
+      "Providing assistance to scheduling and legislative teams",
+      "Other tasks as assigned"
+    ],
+    "qualifications": [
+      "Access to a vehicle",
+      "Clean driving record",
+      "New England ties preferred"
+    ],
+    "how_to_apply": "Applicants should submit cover letter, resume, and brief writing sample to hill.jobs@mail.house.gov. No phone calls or drop-bys.",
+    "salary_info": null,
+    "contact": "hill.jobs@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-331-15",
+    "position_title": "Committee Clerk/Administrator",
+    "office": "House Committee Democratic staff",
+    "location": "Washington, D.C.",
+    "posting_date": "2015-12-14",
+    "description": "House Committee Democratic staff seeks a detail-oriented Committee Clerk/Administrator to handle committee legislative clerk responsibilities as well as office administrator/payroll work. Hill experience strictly required, preferably 2+ years -- this is not an entry-level position. Committee legislative clerk, hearing coordination, or similar experience strongly preferred, familiarity with Congressional payroll and Hill office administrative work a strong plus.",
+    "responsibilities": [
+      "Handle committee legislative clerk responsibilities",
+      "Office administrator/payroll work"
+    ],
+    "qualifications": [
+      "Hill experience strictly required, preferably 2+ years",
+      "Committee legislative clerk, hearing coordination, or similar experience strongly preferred",
+      "Familiarity with Congressional payroll and Hill office administrative work a strong plus"
+    ],
+    "how_to_apply": "Please e-mail your resume and cover letter to demcommitteejob@mail.house.gov. No phone calls, please.",
+    "salary_info": null,
+    "contact": "demcommitteejob@mail.house.gov",
+    "equal_opportunity": null
+  }
+]

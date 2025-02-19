@@ -1,1 +1,211 @@
-[{"date": "2016-05-16", "id": "MEM-148-16", "office": "Senior Democratic Member of Congress", "position": "Staff Assistant", "location": "Washington, D.C.", "key_responsibilities": ["front office duties, including answering and screening telephone calls, mail distribution, room reservations, and responding to constituent requests for flags, tours, and other information", "serving as intern coordinator by recruiting training, scheduling and assigning duties"], "requirements": ["bachelor’s degree", "significant experience interacting with the public", "excellent writing and communication skills", "working knowledge of the District of Columbia", "resident of the District of Columbia or willing to move immediately to D.C."], "job_type": "Full-time", "salary": "based on skill and experience level", "email": "DC00.NortonResume@mail.house.gov"}, {"date": "2016-05-16", "id": "MEM-145-16", "office": "Indiana Republican Rep. Luke Messer", "position": "Press Assistant/Staff Assistant", "location": "Washington, D.C.", "key_responsibilities": ["press clips", "daily social media posts", "assisting the communications director with press releases and press inquiries", "answering phones", "giving tours", "interacting with constituents"], "requirements": ["experience or education in digital media, new media or journalism", "strong writing skills", "ability to boil down complex issues into easily understandable social media content", "self-starter with the ability to learn and grow in a fast-paced environment", "ability and interest in learning to create graphics and edit video"], "job_type": "Full-time", "salary": "None", "email": "press.messer@mail.house.gov"}, {"date": "2016-05-16", "id": "MEM-144-16", "office": "Pacific Northwest Democrat", "position": "Legislative Correspondent/Press Assistant", "location": "Washington, D.C.", "key_responsibilities": ["managing the office mail program and ensuring that constituent correspondence is responded to in a timely manner", "assisting the Communications Director with press-related materials, research, daily news clips, and media tracking"], "requirements": ["strong, proven writing skills", "previous Capitol Hill experience", "familiarity with Intranet Quorum software", "ties to the Pacific Northwest"], "job_type": "None", "salary": "None", "email": "heck.resumes@mail.house.gov"}, {"date": "2016-05-16", "id": "MEM-143-16", "office": "Congresswoman Anna G. Eshoo (CA-18)", "position": "Communications Director", "location": "None", "key_responsibilities": ["long-term planning", "working with local and national reporters, producers, and bookers", "conducting proactive media outreach", "managing online communications", "drafting press releases, op-eds, and speeches", "overseeing an active social media, online operation, and email communications program"], "requirements": ["close partnership with legislative and district staff", "attention to detail", "ability to work well under pressure", "excellent organizational skills", "understanding of message development", "sound judgement", "positive attitude", "ability to work well in a team environment", "Hill experience"], "job_type": "None", "salary": "None", "email": "ca18resumes@gmail.com"}, {"date": "2016-05-16", "id": "MEM-142-16", "office": "Congressman Raul Ruiz, M.D.", "position": "Caseworker", "location": "Palm Desert, California", "key_responsibilities": ["assisting constituents by navigating complex casework through federal agencies in areas such as veterans’ affairs, social security, housing, immigration", "assessing casework and community activities for matters warranting legislative action"], "requirements": ["previous experience in social work", "familiarity with federal agencies", "excellent written and oral communication skills", "team-oriented", "comfortable working both independently and as part of a team", "prior experience working for federal, state, or local government", "fluency or strong verbal and written proficiency in Spanish", "strong knowledge or connection with Riverside County and California’s 36th Congressional District", "availability for evening and weekend assignments"], "job_type": "None", "salary": "None", "email": "Octavio.Gonzalez@mail.house.gov"}, {"date": "2016-05-16", "id": "MEM-141-16", "office": "North Carolina Democrat", "position": "Communications Director", "location": "None", "key_responsibilities": ["planning and executing a proactive and aggressive media and community outreach strategy", "serving as spokesperson", "drafting press releases and advisories, op-eds, and talking points", "managing a press secretary", "implementing a strategic social media outreach"], "requirements": ["at least 2 years of experience", "excellent writing skills", "creative", "energetic", "politically astute", "able to work well in a fast-paced collaborative environment", "prior on-the-record experience", "ability to draft all forms of communications materials—especially op-eds—and an ability to respond to challenging situations quickly and strategically", "track-record of successfully pitching both national and local media entities", "existing relationships with DC reporters and producers"], "job_type": "None", "salary": "None", "email": "NCHouseJobs@gmail.com"}, {"date": "2016-05-16", "id": "MEM-140-16", "office": "Senior Democrat", "position": "Legislative Assistant", "location": "None", "key_responsibilities": ["handling a diverse portfolio of issues including science, technology, education, energy, and agriculture", "handling multiple projects simultaneously in a demanding office environment", "interfacing effectively with committee staff"], "requirements": ["superior written and oral communications skills", "prior Capitol Hill experience either as a Legislative Correspondent or Legislative Assistant"], "job_type": "None", "salary": "None", "email": "txdemjobs@gmail.com"}, {"date": "2016-05-16", "id": "MEM-135-16", "office": "California Democrat", "position": "Staff Assistant/Scheduler", "location": "Washington, DC", "key_responsibilities": ["coordinating and maintaining the Member’s schedule", "front office duties", "conducting Capitol tours", "greeting office visitors"], "requirements": ["personable", "dependable", "able to juggle multiple tasks with competing priorities", "California ties", "Spanish language proficiency"], "job_type": "None", "salary": "None", "email": "CADemOfficeJob@gmail.com"}]
+[
+  {
+    "id": "MEM-148-16",
+    "position_title": "Staff Assistant",
+    "office": "Senior Democratic Member of Congress",
+    "location": "District of Columbia",
+    "posting_date": "2016-05-16",
+    "description": "Senior Democratic Member of Congress seeks an energetic, organized, creative, self-starter to join the team of her very active and visible legislative office staff. The candidate must have strong interpersonal skills, be comfortable with managing multiple tasks and work well under pressure.\n\nThe staff assistant is responsible for front office duties, including answering and screening telephone calls, mail distribution, room reservations, and responding to constituent requests for flags, tours, and other information. The staff assistant also serves as intern coordinator by recruiting training, scheduling and assigning duties.",
+    "responsibilities": [
+      "Answering and screening telephone calls",
+      "Mail distribution",
+      "Room reservations",
+      "Responding to constituent requests for flags, tours, and other information",
+      "Intern coordinator duties: recruiting training, scheduling and assigning duties"
+    ],
+    "qualifications": [
+      "Bachelor’s degree",
+      "Significant experience interacting with the public",
+      "Excellent writing and communication skills",
+      "Working knowledge of the District of Columbia",
+      "Must be a resident of the District of Columbia or willing to move immediately to D.C., if hired."
+    ],
+    "how_to_apply": "Interested applicants should send a resume, cover letter, references and two writing samples to: DC00.NortonResume@mail.house.gov or fax to (202) 225-1129.",
+    "salary_info": "Salary is based on skill and experience level.",
+    "contact": "DC00.NortonResume@mail.house.gov or fax to (202) 225-1129",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-145-16",
+    "position_title": "Press Assistant/Staff Assistant",
+    "office": "Rep. Luke Messer",
+    "location": "Washington, D.C.",
+    "posting_date": "2016-05-16",
+    "description": "The ideal candidate will have experience or education in digital media, new media or journalism. Strong writing skills are a must, and an ability to boil down complex issues into easily understandable social media content is ideal. The press assistant/staff assistant must be a self-starter with the ability to learn and grow in a fastpaced environment. The press assistant/staff assistant will be responsible for press clips, daily social media posts, assisting the communications director with press releases and press inquiries, answering phones, giving tours, and interacting with constituents. Experience creating graphics and editing video is not required, but an ability and interest in learning to do both is a must.",
+    "responsibilities": [
+      "Press clips",
+      "Daily social media posts",
+      "Assisting the communications director with press releases and press inquiries",
+      "Answering phones",
+      "Giving tours",
+      "Interacting with constituents"
+    ],
+    "qualifications": [
+      "Experience or education in digital media, new media or journalism",
+      "Strong writing skills",
+      "Ability to boil down complex issues into easily understandable social media content",
+      "Self-starter with the ability to learn and grow in a fast-paced environment",
+      "Ability and interest in learning to create graphics and editing video is a must"
+    ],
+    "how_to_apply": "Resumes and cover letters can be sent to press.messer@mail.house.gov.",
+    "salary_info": null,
+    "contact": "press.messer@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-144-16",
+    "position_title": "Legislative Correspondent/Press Assistant",
+    "office": "Pacific Northwest Democrat",
+    "location": "Washington, D.C.",
+    "posting_date": "2016-05-16",
+    "description": "Primary responsibilities include managing the office mail program and ensuring that constituent correspondence is responded to in a timely manner. The Legislative Correspondent/Press Assistant will also assist the Communications Director with press-related materials, research, daily news clips, and media tracking.",
+    "responsibilities": [
+      "Managing the office mail program",
+      "Ensuring that constituent correspondence is responded to in a timely manner",
+      "Assist the Communications Director with press-related materials, research, daily news clips, and media tracking"
+    ],
+    "qualifications": [
+      "Strong, proven writing skills a must",
+      "Previous Capitol Hill experience strongly preferred",
+      "Familiarity with Intranet Quorum software strongly preferred",
+      "Ties to the Pacific Northwest strongly preferred"
+    ],
+    "how_to_apply": "Please send resume, cover letter, and two independently written examples of legislative correspondence on topic of applicant’s choice to heck.resumes@mail.house.gov. No calls or drop-bys please.",
+    "salary_info": null,
+    "contact": "heck.resumes@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-143-16",
+    "position_title": "Communications Director",
+    "office": "Congresswoman Anna G. Eshoo (CA-18)",
+    "location": "Washington, D.C.",
+    "posting_date": "2016-05-16",
+    "description": "Congresswoman Anna G. Eshoo (CA-18) seeks a Communications Director to handle all media matters. Duties include long-term planning, working with local and national reporters, producers, and bookers, as well as conducting proactive media outreach, managing online communications, and drafting press releases, op-eds, and speeches.\n\nThe Communications Director also oversees an active social media, online operation, and email communications program. The position requires excellent organizational skills, understanding of message development, sound judgement, a positive attitude and the ability to work well in a team environment. Hill experience preferred. This is not an entry level position.",
+    "responsibilities": [
+      "Long-term planning",
+      "Working with local and national reporters, producers, and bookers",
+      "Conducting proactive media outreach",
+      "Managing online communications",
+      "Drafting press releases, op-eds, and speeches",
+      "Overseeing an active social media, online operation, and email communications program"
+    ],
+    "qualifications": [
+      "Excellent organizational skills",
+      "Understanding of message development",
+      "Sound judgement",
+      "Positive attitude",
+      "Ability to work well in a team environment",
+      "Hill experience preferred",
+      "Attention to detail",
+      "Ability to work well under pressure"
+    ],
+    "how_to_apply": "Email cover letter, resume, references, and two writing samples to ca18resumes@gmail.com. NO CALLS OR DROP BYS PLEASE.",
+    "salary_info": null,
+    "contact": "ca18resumes@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-142-16",
+    "position_title": "Caseworker",
+    "office": "Congressman Raul Ruiz, M.D. of California",
+    "location": "Palm Desert, California",
+    "posting_date": "2016-05-16",
+    "description": "Caseworkers in the Office of Congressman Ruiz assist constituents by navigating complex casework through federal agencies in areas such as veterans' affairs, social security, housing, immigration. Caseworkers also assess casework and community activities for matters warranting legislative action.",
+    "responsibilities": [
+      "Assist constituents by navigating complex casework through federal agencies in areas such as veterans' affairs, social security, housing, immigration.",
+      "Assess casework and community activities for matters warranting legislative action."
+    ],
+    "qualifications": [
+      "Previous experience in social work",
+      "Familiarity with federal agencies",
+      "Excellent written and oral communication skills",
+      "Team-oriented",
+      "Comfortable working both independently and as part of a team.",
+      "Prior experience working for federal, state, or local government is a plus.",
+      "Candidates with fluency or strong verbal and written proficiency in Spanish are strongly preferred.",
+      "Strong knowledge or connection with Riverside County and California's 36th Congressional District is a plus.",
+      "Availability for evening and weekend assignments is required."
+    ],
+    "how_to_apply": "Interested candidates should send their resume and cover letter to Octavio.Gonzalez@mail.house.gov. Please write “Caseworker” in the subject line of your email message.\nPLEASE NO WALK-INS OR PHONE CALLS.",
+    "salary_info": null,
+    "contact": "Octavio.Gonzalez@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-141-16",
+    "position_title": "Communications Director",
+    "office": "North Carolina Democrat",
+    "location": "DC",
+    "posting_date": "2016-05-16",
+    "description": "This person will be responsible for planning and executing a proactive and aggressive media and community outreach strategy. Candidates must have excellent writing skills, be creative, energetic, politically astute and able to work well in a fast-paced collaborative environment. It is preferred that candidates have prior on-the-record experience, have drafted all forms of communications materials-especially op-eds-and an ability to respond to challenging situations quickly and strategically. Candidates should have a track-record of successfully pitching both national and local media entities as well as existing relationships with DC reporters and producers. This person will also manage a press secretary and be responsible of implementing a strategic social media outreach. North Carolina ties preferred.",
+    "responsibilities": [
+      "Serving as spokesperson",
+      "Drafting press releases and advisories, op-eds, and talking points",
+      "Implementing a strategic social media outreach"
+    ],
+    "qualifications": [
+      "At least 2 years of experience",
+      "Excellent writing skills",
+      "Creative, energetic, politically astute",
+      "Able to work well in a fast-paced collaborative environment",
+      "Prior on-the-record experience (preferred)",
+      "Experience drafting all forms of communications materials-especially op-eds (preferred)",
+      "Ability to respond to challenging situations quickly and strategically (preferred)",
+      "Track-record of successfully pitching both national and local media entities",
+      "Existing relationships with DC reporters and producers",
+      "North Carolina ties preferred"
+    ],
+    "how_to_apply": "Please send cover letter, resume and two writing samples (including a press release) to NCHouseJobs@gmail.com with Communications Director in subject line. No calls or drop ins.",
+    "salary_info": null,
+    "contact": "NCHouseJobs@gmail.com",
+    "equal_opportunity": "The Office is an Equal Opportunity Employer and strongly values the diversity of its employees. We encourage women and people of color to apply."
+  },
+  {
+    "id": "MEM-140-16",
+    "position_title": "Legislative Assistant",
+    "office": "Senior Democrat",
+    "location": "Capitol Hill",
+    "posting_date": "2016-05-16",
+    "description": "Senior Democrat seeks a Legislative Assistant to handle a diverse portfolio of issues including science, technology, education, energy, and agriculture.\n\nStaffer must be able to handle multiple projects simultaneously in a demanding office environment; must have superior written and oral communications skills; and must be able to interface effectively with committee staff.\n\nThis is not an entry-level position and prior Capitol Hill experience either as a Legislative Correspondent or Legislative Assistant is required.",
+    "responsibilities": [
+      "Handle a diverse portfolio of issues including science, technology, education, energy, and agriculture.",
+      "Handle multiple projects simultaneously in a demanding office environment",
+      "Interface effectively with committee staff."
+    ],
+    "qualifications": [
+      "Superior written and oral communications skills",
+      "Prior Capitol Hill experience either as a Legislative Correspondent or Legislative Assistant is required.",
+      "Not an entry-level position"
+    ],
+    "how_to_apply": "Please send resume with cover letter to txdemjobs@gmail.com. No phone calls or walk-ins will be considered.",
+    "salary_info": null,
+    "contact": "txdemjobs@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-135-16",
+    "position_title": "Staff Assistant/Scheduler",
+    "office": "California Democrat",
+    "location": "Washington, DC",
+    "posting_date": "2016-05-16",
+    "description": "Responsibilities include coordinating and maintaining the Member's schedule, front office duties, conducting Capitol tours, and greeting office visitors. Qualified applicants must be personable, dependable, and able to juggle multiple tasks with competing priorities. California ties and Spanish language proficiency strongly preferred.",
+    "responsibilities": [
+      "Coordinating and maintaining the Member's schedule",
+      "Front office duties",
+      "Conducting Capitol tours",
+      "Greeting office visitors"
+    ],
+    "qualifications": [
+      "Personable",
+      "Dependable",
+      "Able to juggle multiple tasks with competing priorities",
+      "California ties strongly preferred",
+      "Spanish language proficiency strongly preferred"
+    ],
+    "how_to_apply": "To apply, please submit resume, cover letter, and a short writing sample to CADemOfficeJob@gmail.com.",
+    "salary_info": null,
+    "contact": "CADemOfficeJob@gmail.com",
+    "equal_opportunity": null
+  }
+]

@@ -1,1 +1,279 @@
-[{"date": "2018-08-06", "id": "MEM-264-18", "office": "Senior Democratic Member", "position": "Policy Advisor", "location": "Washington, D.C.", "key_responsibilities": ["develop and implement legislative initiatives", "conduct oversight and investigations", "write floor speeches and committee statements", "handle meetings with constituents and interest groups"], "requirements": ["advanced degree", "exceptional writing ability", "Hill experience preferred"], "job_type": "None", "salary": "None", "email": "job_09@live.com"}, {"date": "2018-08-06", "id": "MEM-263-18", "office": "Senior Democratic Congressman", "position": "Press Secretary", "location": "Washington, D.C.", "key_responsibilities": ["generating ideas that yield media coverage", "promoting the Member’s agenda through traditional and social media", "raising the Member’s national profile", "media strategy development and implementation", "serving as primary spokesperson for national and local media", "coordinating press conferences", "pitching story ideas", "managing coverage of legislative action and events", "drafting statements, releases, speeches, opinion editorials and responses to articles"], "requirements": ["previous Capitol Hill experience", "extensive media contacts and background working with both print and electronic media", "excellent oral and written communications skills", "ability to work in a high pressure, team-oriented environment"], "job_type": "None", "salary": "None", "email": "job_09@live.com"}, {"date": "2018-08-06", "id": "MEM-250-18", "office": "GOP Congressman Office", "position": "Military Legislative Assistant", "location": "Washington, D.C.", "key_responsibilities": ["staffing the Congressman on the Appropriations Committee for defense, veterans, and foreign affairs policy issues", "several other policy areas would be included in legislative portfolio"], "requirements": ["Congressional staff experience"], "job_type": "None", "salary": "None", "email": "GOPCongressionalJob@gmail.com"}, {"date": "2018-08-06", "id": "MEM-246-18", "office": "House Committee on Homeland Security", "position": "Counsel", "location": "Washington, D.C.", "key_responsibilities": ["advising the Chairman and Subcommittee staff", "crafting policy", "drafting legislation", "being the point person for all Committee Members on border security and immigration law"], "requirements": ["well versed in border security and immigration law", "current or previous Hill experience preferred", "good relationships with relevant Hill and Administration points of contact"], "job_type": "None", "salary": "None", "email": "resumes.CHS@mail.house.gov"}, {"date": "2018-08-06", "id": "MEM-236-18", "office": "Congresswoman Frederica S. Wilson (D-FL)", "position": "Press Assistant", "location": "Washington, D.C.", "key_responsibilities": ["helping to compile daily clips", "drafting social media content", "creating graphics", "assisting in any other aspects of the team’s fast-paced media operation"], "requirements": ["strong digital media skills", "strong writing skills", "expertise in and a passion for digital media and politics", "Hill experience and Florida ties a plus"], "job_type": "None", "salary": "None", "email": "FL24.Resumes@mail.house.gov"}, {"date": "2018-08-06", "id": "MEM-228-18", "office": "New York Republican Member of Congress", "position": "Legislative Assistant", "location": "Washington, D.C.", "key_responsibilities": ["drafting legislation", "analyzing bills", "meeting with constituents"], "requirements": ["impeccable writing skills", "ability to work in a fast-paced environment", "two or more years of Hill experience", "NY ties a plus"], "job_type": "None", "salary": "None", "email": "nyrepjobs@gmail.com"}, {"date": "2018-08-06", "id": "MEM-219-18", "office": "Progressive Democrat", "position": "Scheduler/Executive Assistant", "location": "Washington, D.C.", "key_responsibilities": ["maintain the Member’s daily and long-range official Washington, D.C. and district appointments", "tracking, evaluating and responding to invitations and incoming requests for appointments", "managing all travel and logistical details", "working directly with the Chief of Staff and District Director to ensure smooth daily operations and a seamless schedule between both offices", "managing the Member’s correspondence", "performing various additional administrative duties", "effectively relaying changes and updated information to the Member and staff in a timely manner"], "requirements": ["excellent communications, organizational and inter-personal skills", "self-starter", "ability to multi-task", "ability to quickly solve problems", "comfortable communicating with a wide variety of people", "previous Capitol Hill scheduling or other related experience preferred", "positive attitude", "ability to be flexible and adapt quickly to changing circumstances", "strong level of competency and attention to detail", "availability to assist the Member outside of regular business hours", "Bachelor’s degree", "1-3 years of prior scheduling experience desired"], "job_type": "None", "salary": "commensurate with experience", "email": "CA17Scheduler@gmail.com"}, {"date": "2018-08-06", "id": "MEM-306-18", "office": "Representative Debbie Wasserman Schultz", "position": "Legislative Assistant", "location": "Washington, D.C.", "key_responsibilities": ["advising the Member on all matters in the issue portfolio", "developing and advancing policy proposals", "drafting vote recommendations and talking points for related floor and committee proceedings", "staffing the Member in relevant meetings", "representing the Member before constituents and stakeholders"], "requirements": ["previous work expertise in the issue areas", "prior experience advising a Member of Congress and advancing policy proposals", "excellent written and verbal communication skills", "eagerness to work in a fast-paced, collaborative environment", "Florida ties a plus"], "job_type": "None", "salary": "None", "email": "FL23Resume@mail.house.gov"}, {"date": "2018-08-06", "id": "MEM-204-18", "office": "Senior Democratic Member of Congress", "position": "Events Coordinator/Constituent Liaison", "location": "Washington, D.C.", "key_responsibilities": ["helping constituents with federal issues", "managing and directing very diverse city-wide and neighborhood events", "developing major events", "staying on top of everyday events in the Member’s district"], "requirements": ["ability to handle multiple tasks", "ability to think outside the box and work independently", "bachelor’s degree", "excellent writing and communication skills", "experience interacting with the public", "leadership qualities", "resident of the District of Columbia or willing to move immediately to DC if hired"], "job_type": "None", "salary": "based on skill and experience level", "email": "dc00.nortonresume@mail.house.gov"}, {"date": "2018-08-06", "id": "MEM-179-18", "office": "Rep. Justin Amash (R-MI)", "position": "Executive Assistant", "location": "Washington, D.C.", "key_responsibilities": ["efficient and accurate management of all aspects of the member’s daily and long-term schedule", "meeting logistics", "maintaining files and drafting correspondence", "greeting visitors", "answering phones", "contributing to other miscellaneous projects as needed", "scheduling staff meetings and briefings", "helping constituents with their visits to Washington, DC"], "requirements": ["personable", "organized", "flexible", "calm under pressure", "excellent communication and time-management skills", "sense of urgency", "ability to work independently with sound judgment and minimal direction", "ability to work cooperatively and courteously with others", "BA or equivalent", "two years of experience in an administrative or scheduling role preferred"], "job_type": "None", "salary": "None", "email": "applydc@amash.com"}]
+[
+  {
+    "id": "MEM-264-18",
+    "position_title": "Policy Advisor",
+    "office": "Senior Democratic Member",
+    "location": "Hill",
+    "posting_date": "2018-08-06",
+    "description": "Position will develop and implement legislative initiatives, conduct oversight and investigations, write floor speeches and committee statements, and handle meetings with constituents and interest groups on behalf of Member. Portfolio will likely include health, social security, labor and workforce, energy and the environment, and agriculture and nutrition.",
+    "responsibilities": [
+      "Develop and implement legislative initiatives",
+      "Conduct oversight and investigations",
+      "Write floor speeches and committee statements",
+      "Handle meetings with constituents and interest groups on behalf of Member"
+    ],
+    "qualifications": [
+      "An advanced degree and exceptional writing ability required",
+      "Hill experience strongly preferred"
+    ],
+    "how_to_apply": "To apply, please email a cover letter and resume with the words “Policy Advisor” in the subject line to job_09@live.com.",
+    "salary_info": null,
+    "contact": "job_09@live.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-263-18",
+    "position_title": "Press Secretary",
+    "office": "Senior Democratic Congressman",
+    "location": "Capitol Hill",
+    "posting_date": "2018-08-06",
+    "description": "Senior Democratic Congressman who serves as Ranking Member on a full committee seeks an experienced, energetic and creative Press Secretary to work in a fast-paced press operation. The ideal candidate should be entrepreneurial and aggressive in generating ideas that yield media coverage, promoting the Member’s agenda through traditional and social media, and raising the Member’s national profile. The Press Secretary will be responsible for all facets of daily press operation including: media strategy development and implementation; serving as primary spokesperson for national and local media; coordinating press conferences; pitching story ideas; managing coverage of legislative action and events; and drafting statements, releases, speeches, opinion editorials and responses to articles. This is not an entry-level position. The candidate must have previous Capitol Hill experience, extensive media contacts and background working with both print and electronic media. Excellent oral and written communications skills and the ability to work in a high pressure, team-oriented environment while juggling multiple tasks are required. On-the-record experience preferred.",
+    "responsibilities": [
+      "Media strategy development and implementation",
+      "Serving as primary spokesperson for national and local media",
+      "Coordinating press conferences",
+      "Pitching story ideas",
+      "Managing coverage of legislative action and events",
+      "Drafting statements, releases, speeches, opinion editorials and responses to articles"
+    ],
+    "qualifications": [
+      "Previous Capitol Hill experience",
+      "Extensive media contacts",
+      "Background working with both print and electronic media",
+      "Excellent oral and written communications skills",
+      "Ability to work in a high pressure, team-oriented environment while juggling multiple tasks",
+      "On-the-record experience preferred"
+    ],
+    "how_to_apply": "To apply, please e-mail a cover letter and resume with the words “Press Secretary” in the subject line to job_09@live.com.",
+    "salary_info": null,
+    "contact": "job_09@live.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-250-18",
+    "position_title": "Military Legislative Assistant",
+    "office": "GOP Congressman Office",
+    "location": null,
+    "posting_date": "2018-08-06",
+    "description": "Congressional staff experience required for candidates to be considered for this job opening.\n\nThe duties of this position would include directly staffing the Congressman on the Appropriations Committee for defense, veterans, and foreign affairs policy issues. Several other policy areas would be included in legislative portfolio for this position.",
+    "responsibilities": [],
+    "qualifications": [
+      "Congressional staff experience required"
+    ],
+    "how_to_apply": "Please send your resume to GOPCongressionalJob@gmail.com.",
+    "salary_info": null,
+    "contact": "GOPCongressionalJob@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-246-18",
+    "position_title": "Counsel",
+    "office": "House Committee on Homeland Security",
+    "location": "Washington, DC",
+    "posting_date": "2018-08-06",
+    "description": "The Majority staff of the House Committee on Homeland Security is seeking a counsel well versed in border security and immigration law to advise the Chairman and Subcommittee staff.",
+    "responsibilities": [
+      "Crafting policy",
+      "Drafting legislation",
+      "Being the point person for all Committee Members on these subject areas"
+    ],
+    "qualifications": [
+      "Candidates with current or previous Hill experience are strongly preferred",
+      "Preference is also given to candidates with good relationships with relevant Hill and Administration points of contact"
+    ],
+    "how_to_apply": "Please email a resume to resumes.CHS@mail.house.gov.",
+    "salary_info": null,
+    "contact": "resumes.CHS@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-236-18",
+    "position_title": "Press Assistant",
+    "office": "Congresswoman Frederica S. Wilson (D-FL)",
+    "location": null,
+    "posting_date": "2018-08-06",
+    "description": "The office of Congresswoman Frederica S. Wilson (D-FL) seeks a dynamic press assistant with strong digital media skills to join our team. Press assistant tasks include helping to compile daily clips, drafting social media content, creating graphics, and assisting in any other aspects of the team's fast-paced media operation. Strong writing skills and expertise in and a passion for digital media and politics are required. Hill experience and Florida ties are a plus.",
+    "responsibilities": [
+      "Helping to compile daily clips",
+      "Drafting social media content",
+      "Creating graphics",
+      "Assisting in any other aspects of the team's fast-paced media operation"
+    ],
+    "qualifications": [
+      "Strong writing skills",
+      "Expertise in and a passion for digital media and politics are required",
+      "Hill experience and Florida ties are a plus"
+    ],
+    "how_to_apply": "Applicants should send a cover letter, resume, and two writing samples to: FL24.Resumes@mail.house.gov. No calls or drop-ins allowed.",
+    "salary_info": null,
+    "contact": "FL24.Resumes@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-228-18",
+    "position_title": "Legislative Assistant",
+    "office": "New York Republican Member of Congress",
+    "location": "Washington, DC",
+    "posting_date": "2018-08-06",
+    "description": "New York Republican Member of Congress is seeking an experienced legislative assistant to join the team. The legislative assistant is responsible for drafting legislation, analyzing bills, and meeting with constituents within their policy portfolio. The position requires a successful candidate to handle a diverse portfolio of policy issues. A successful candidate will possess impeccable writing skills, as well as the ability to work in a fast-paced environment. Two or more years of Hill experience is required. Candidates with NY ties a plus. This is not an entry level position.",
+    "responsibilities": [
+      "Formulates legislative initiatives for assigned issue areas which include:",
+      "devising a legislative plan;",
+      "drafting the plan into legislative form;",
+      "planning, coordinating and scheduling introduction of legislation in the House (or offering it on an appropriate vehicle if it is in an amendment);",
+      "gathering support for a bill or amendment from other Members, as well as appropriate interest groups;",
+      "working with committees on legislation;",
+      "coordinating legislative support to get the bill passed in the House.",
+      "Tracks legislation and other developments in his or her assigned issue areas and briefs the Member for floor work, committee work, work in the district, and outside House-related activities;",
+      "Monitors legislative developments within committees;",
+      "Plans and coordinates co-sponsorship and support of other legislation;",
+      "Monitors legislation on the House floor, providing the Member with information on each vote;",
+      "Writes Floor speeches for the Member;",
+      "If assigned to issues pending before a specific committee, prepares for and attends committee meetings and hearings with or without the Member (i.e., keeps in contact with committee staff and meets with interest groups and constituents with interests in such meetings);",
+      "Acts as a liaison with committee and agency staffs;",
+      "Performs special projects assigned by the Member or Chief of Staff/Administrative Assistant;",
+      "Meets with constituents and interest groups;",
+      "Provides information on and generates ideas for press, mass mailings, and newsletters;",
+      "Drafts press releases in issue areas and provides background on media inquiries;",
+      "Answers constituent letters and helps constituents on federal matters;",
+      "Supervises interns with regard to legislative issues and constituent responses;",
+      "Meets attendance requirements as established by the office;",
+      "Maintains a good working relationship with the Member, staff, and constituents;",
+      "Accepts performance based criticism and direction;",
+      "Works well under pressure and handles stress;",
+      "Works a flexible schedule including long hours, nights and weekends;",
+      "Performs other duties as assigned."
+    ],
+    "qualifications": [
+      "A bachelor’s degree or higher education level is preferred, including strong academic credentials. Some period of related experience or training in legislation or equivalent is beneficial.",
+      "Thorough knowledge of the legislative process and of House organization and procedures;",
+      "Ability to perform the essential job functions above;",
+      "Ability to exercise discretion and independent judgment in the formulation and recommendation of policy positions for the Member;",
+      "Ability to work cooperatively and courteously with others;",
+      "Temperament to communicate with a variety of personalities in a tactful, pleasant, and professional manner;",
+      "Knowledge of office policies, practices, and procedures;",
+      "Knowledge of office computer applications;",
+      "Proficiency in word processing."
+    ],
+    "how_to_apply": "Please send resume and writing sample to nyrepjobs@gmail.com. Phone calls and drop-ins not accepted.",
+    "salary_info": null,
+    "contact": "nyrepjobs@gmail.com",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-219-18",
+    "position_title": "Scheduler/Executive Assistant",
+    "office": "Progressive Democrat",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-08-06",
+    "description": "Progressive Democrat seeks a highly motivated, detail-orientated and energetic Scheduler/Executive Assistant with excellent communications, organizational and inter-personal skills to maintain the Member’s daily and long-range official Washington, D.C. and district appointments.\n\nPrimary responsibilities are tracking, evaluating and responding to invitations and incoming requests for appointments, managing all travel and logistical details, and working directly with the Chief of Staff and District Director to ensure smooth daily operations and a seamless schedule between both offices. Additionally, the Scheduler manages the Member’s correspondence, performs various additional administrative duties, and effectively relays changes and updated information to the Member and staff in a timely manner.\n\nThe successful candidate is a self-starter, able to multi-task, quickly solve problems in a fast-paced, dynamic, team-oriented and constantly changing environment. The candidate must also be comfortable communicating with a wide variety of people. Previous Capitol Hill scheduling or other related experience is strongly preferred.\n\nThis position requires a positive attitude, an ability to be flexible and adapt quickly to changing circumstances, a strong level of competency and attention to detail and availability to assist the Member outside of regular business hours.",
+    "responsibilities": [
+      "Tracking, evaluating and responding to invitations and incoming requests for appointments",
+      "Managing all travel and logistical details",
+      "Working directly with the Chief of Staff and District Director to ensure smooth daily operations and a seamless schedule between both offices",
+      "Managing the Member’s correspondence",
+      "Performing various additional administrative duties",
+      "Effectively relaying changes and updated information to the Member and staff in a timely manner"
+    ],
+    "qualifications": [
+      "Bachelor’s degree is required",
+      "1-3 years of prior scheduling experience desired",
+      "Previous Capitol Hill scheduling or other related experience is strongly preferred",
+      "Positive attitude",
+      "Ability to be flexible and adapt quickly to changing circumstances",
+      "Strong level of competency and attention to detail",
+      "Availability to assist the Member outside of regular business hours",
+      "Bay Area ties are a plus"
+    ],
+    "how_to_apply": "Interested applicants should email their resume, one short writing sample and a list of references to CA17Scheduler@gmail.com. Please no walk-ins, faxes or phone-calls.",
+    "salary_info": "The salary is commensurate with the candidate’s level of experience with a wide range of benefits.",
+    "contact": "CA17Scheduler@gmail.com",
+    "equal_opportunity": "Women and people of color are strongly encouraged to apply. The office does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, military status, gender identity, or expression, or sexual orientation, or in any of its activities or operations."
+  },
+  {
+    "id": "MEM-306-18",
+    "position_title": "Legislative Assistant",
+    "office": "Representative Debbie Wasserman Schultz",
+    "location": null,
+    "posting_date": "2018-08-06",
+    "description": "The office of Representative Debbie Wasserman Schultz is seeking a Legislative Assistant to handle energy, environment, transportation, agriculture, Native American issues, disaster response and other related issues.",
+    "responsibilities": [
+      "Advising the Member on all matters in the issue portfolio",
+      "Developing and advancing policy proposals",
+      "Drafting vote recommendations and talking points for related floor and committee proceedings",
+      "Staffing the Member in relevant meetings",
+      "Representing the Member before constituents and stakeholders"
+    ],
+    "qualifications": [
+      "Previous work expertise in the issue areas",
+      "Prior experience advising a Member of Congress and advancing policy proposals",
+      "Excellent written and verbal communication skills",
+      "An eagerness to work in a fast-paced, collaborative environment",
+      "Florida ties are a plus"
+    ],
+    "how_to_apply": "Interested parties should e-mail a cover letter and resume to FL23Resume@mail.house.gov with the subject line “Legislative Assistant.” Please save cover letter and resume in a single file (pdf preferred) and name the file “Last name, First name.”",
+    "salary_info": null,
+    "contact": "FL23Resume@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity or expression."
+  },
+  {
+    "id": "MEM-204-18",
+    "position_title": "Events Coordinator/Constituent Liaison",
+    "office": "Senior Democratic Member of Congress",
+    "location": "District of Columbia",
+    "posting_date": "2018-08-06",
+    "description": "The Events Coordinator is also a caseworker who helps constituents with federal issues but spends more of the time managing and directing very diverse city-wide and neighborhood events that relate to the Congresswoman’s congressional and constituent responsibilities, including staying on top of everyday events in the Member’s district that keep the community connected to the Member’s work. The Events Coordinator takes the lead to develop major events, among them, the Small Business Fair and Job Fair.",
+    "responsibilities": [
+      "Managing and directing city-wide and neighborhood events",
+      "Staying on top of everyday events in the Member’s district",
+      "Developing major events, among them, the Small Business Fair and Job Fair"
+    ],
+    "qualifications": [
+      "Ability to handle multiple tasks",
+      "Ability to think outside the box and work independently",
+      "Ability to assist in co-worker projects",
+      "Prior community or event planning experience is desirable",
+      "Bachelor’s degree",
+      "Excellent writing and communication skills",
+      "Experience interacting with the public",
+      "Leadership qualities",
+      "Must be a resident of the District of Columbia or willing to move immediately to DC if hired"
+    ],
+    "how_to_apply": "Interested applicants should send a resume, cover letter and references to: dc00.nortonresume@mail.house.gov.",
+    "salary_info": "Salary: based on skill and experience level.",
+    "contact": "dc00.nortonresume@mail.house.gov",
+    "equal_opportunity": null
+  },
+  {
+    "id": "MEM-179-18",
+    "position_title": "Executive Assistant",
+    "office": "Rep. Justin Amash (R-MI)",
+    "location": "Washington, DC",
+    "posting_date": "2018-08-06",
+    "description": "The Office of Rep. Justin Amash (R-MI) is seeking a professional and dynamic executive assistant to join our Washington, DC-based team.\nThe executive assistant will be responsible for efficient and accurate management of all aspects of the member’s daily and long-term schedule, meeting logistics, maintaining files and drafting correspondence, greeting visitors, answering phones, and contributing to other miscellaneous projects as needed. The person also will be involved in scheduling staff meetings and briefings, and helping constituents with their visits to Washington, DC, among other duties.",
+    "responsibilities": [
+      "Efficient and accurate management of all aspects of the member’s daily and long-term schedule",
+      "Meeting logistics",
+      "Maintaining files",
+      "Drafting correspondence",
+      "Greeting visitors",
+      "Answering phones",
+      "Contributing to other miscellaneous projects as needed",
+      "Scheduling staff meetings and briefings",
+      "Helping constituents with their visits to Washington, DC"
+    ],
+    "qualifications": [
+      "BA or equivalent required",
+      "Two years of experience in an administrative or scheduling role is preferred, although Hill experience is not required.",
+      "Personable, organized, flexible, and calm under pressure.",
+      "Excellent communication and time-management skills",
+      "A sense of urgency",
+      "Ability to work independently with sound judgment and minimal direction",
+      "Ability to work cooperatively and courteously with others."
+    ],
+    "how_to_apply": "To apply, please send a resume, cover letter, and two writing samples to applydc@amash.com. Please include \"executive assistant applicant\" in the subject line. No walk-in applicants or phone interviews.",
+    "salary_info": null,
+    "contact": "applydc@amash.com",
+    "equal_opportunity": null
+  }
+]
