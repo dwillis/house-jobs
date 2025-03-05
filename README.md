@@ -1,7 +1,7 @@
 # house-jobs
 PDF files of House of Representatives Job and Internship Announcements
 
-This repository contains tools for extracting, processing, and structuring job listings from the U.S. House of Representatives.
+This repository contains tools for extracting, processing, and structuring job listings from the U.S. House of Representatives. See related blog post: https://thescoop.org/archives/2025/02/28/turning-congressional-job-listings-into-data/index.html
 
 ## Overview
 
