@@ -25,7 +25,7 @@ def process_chunk(chunk: str, example_text: str, filename: str) -> List[Dict]:
             3. Maintain hierarchical relationships in nested lists \\
             4. Preserve paragraph breaks in description fields \\
             5. Format all dates in ISO 8601 format \\(YYYY-MM-DD\\)' \\
-            -m gemini-2.0-flash-exp -o json_object 1 \\
+            -m gemini-2.5-pro-preview-06-05 -o json_object 1 \\
             $'Create a JSON array containing objects for each job listing with the following required fields: \\
             - id: Job ID in format "MEM-XXX-YY", where XXX is the number from the listing \\(do not use literally XXX\\). do not carry over IDs from one chunk to the next. \\
             - position_title: Full position title \\
@@ -59,7 +59,7 @@ def process_chunk(chunk: str, example_text: str, filename: str) -> List[Dict]:
             return parsed_jobs
         except json.JSONDecodeError as je:
             print(f"JSON Decode Error: {je}")
-            print(f"Raw output that failed to parse: {result.stdout[:500]}...")  # Print first 500 chars
+            print(f"Raw output that failed to parse: {result.stdout}...")  # Print first 500 chars
             return []
 
     except subprocess.CalledProcessError as ce:
