@@ -51,9 +51,30 @@ This will:
 
 ## Usage
 
-### Web Interface
+### Web Interfaces
 
-The easiest way to explore the data:
+**Two options available - see [INTERFACES.md](INTERFACES.md) for detailed comparison**
+
+#### Option 1: Datasette (Recommended for Research)
+
+```bash
+python run_datasette.py
+```
+
+Then open http://localhost:8001 in your browser.
+
+Features:
+- **Faceted search** - Filter by any column with live counts
+- **SQL query interface** - Run custom queries directly in browser
+- **Pre-built research queries** - 8+ queries ready to use
+- **CSV/JSON export** - Export any view or query result
+- **Automatic API** - Every table/query gets JSON endpoint
+- **URL-based sharing** - Share exact filtered views
+- Zero maintenance, powered by [Datasette](https://datasette.io)
+
+**Why Datasette?** It's purpose-built for data exploration and gives you SQL access, exports, and powerful filtering with zero custom code.
+
+#### Option 2: Flask Custom Interface
 
 ```bash
 python web_interface.py
@@ -62,10 +83,14 @@ python web_interface.py
 Then open http://localhost:5000 in your browser.
 
 Features:
+- Custom-designed job search UI
 - Search by keyword across titles, offices, and descriptions
 - Filter by party, state, and position type
 - View detailed job information including responsibilities and qualifications
 - See posting history (first posted, last posted, times reposted)
+- Modal dialogs for job details
+
+**Why Flask?** Better for public-facing job boards with custom branding/UX.
 
 ### Command-Line Interface
 

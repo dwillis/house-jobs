@@ -1,0 +1,207 @@
+title: Congressional Jobs Research Database
+description: |-
+  Searchable database of U.S. House of Representatives job listings from 2013-2025.
+
+  **Database contains:**
+  - 5,272 unique jobs (deduplicated from 10,016 postings)
+  - 11+ years of historical data
+  - Party/district enrichment for 37% of jobs
+  - Timeline tracking (first posted, last posted, times reposted)
+
+about: dwillis/house-jobs
+about_url: https://github.com/dwillis/house-jobs
+license: MIT
+license_url: https://opensource.org/licenses/MIT
+
+databases:
+  congress_jobs:
+    tables:
+      jobs:
+        title: Job Listings
+        description: Deduplicated unique job postings
+        sort_desc: last_posted
+        facets:
+          - party
+          - state
+          - position_title
+        columns:
+          position_title:
+            description: Job title/position
+          office:
+            description: Congressional office or committee
+          location:
+            description: Work location (DC, district, or remote)
+          party:
+            description: Party affiliation (if matched to legislator)
+          state:
+            description: State (if matched to legislator)
+          district:
+            description: Congressional district number
+          first_posted:
+            description: Date job first appeared
+          last_posted:
+            description: Most recent appearance date
+          times_posted:
+            description: Number of times reposted (indicates difficulty filling)
+          description:
+            description: Full job description
+          salary_info:
+            description: Salary or compensation information
+          contact:
+            description: Contact email for applications
+
+      legislators:
+        title: Current House Members
+        description: Current U.S. House members with party and district info
+        sort_desc: state
+        facets:
+          - party
+          - state
+        columns:
+          name_official:
+            description: Official full name
+          party:
+            description: Political party
+          state:
+            description: State represented
+          district:
+            description: District number
+
+      job_postings:
+        title: Posting History
+        description: Individual appearances of jobs in bulletins (tracks timeline)
+        sort_desc: bulletin_date
+
+      active_jobs:
+        title: Active Jobs (View)
+        description: Currently active listings with legislator info
+
+queries:
+  most_reposted:
+    title: Most Frequently Reposted Jobs
+    description: Jobs that have been reposted many times (may indicate hard-to-fill positions)
+    sql: |-
+      SELECT
+        position_title,
+        office,
+        party,
+        times_posted,
+        first_posted,
+        last_posted,
+        julianday(last_posted) - julianday(first_posted) as days_open
+      FROM jobs
+      WHERE times_posted >= 5
+      ORDER BY times_posted DESC
+      LIMIT 100
+
+  recent_by_party:
+    title: Recent Jobs by Party
+    description: Recently posted jobs grouped by party affiliation
+    sql: |-
+      SELECT
+        party,
+        position_title,
+        office,
+        location,
+        last_posted,
+        salary_info
+      FROM jobs
+      WHERE party IS NOT NULL
+      ORDER BY last_posted DESC
+      LIMIT 100
+
+  salary_analysis:
+    title: Jobs with Salary Information
+    description: Positions that include salary or compensation details
+    sql: |-
+      SELECT
+        position_title,
+        office,
+        party,
+        state,
+        salary_info,
+        last_posted
+      FROM jobs
+      WHERE salary_info IS NOT NULL
+        AND salary_info != ''
+      ORDER BY last_posted DESC
+
+  hiring_trends:
+    title: Monthly Hiring Trends
+    description: Number of unique jobs posted per month
+    sql: |-
+      SELECT
+        strftime('%Y-%m', first_posted) as month,
+        party,
+        COUNT(*) as jobs_posted
+      FROM jobs
+      WHERE party IS NOT NULL
+      GROUP BY month, party
+      ORDER BY month DESC
+      LIMIT 100
+
+  top_hiring_offices:
+    title: Most Active Hiring Offices
+    description: Offices that have posted the most job listings
+    sql: |-
+      SELECT
+        office,
+        party,
+        state,
+        COUNT(*) as total_jobs,
+        MAX(last_posted) as most_recent_posting
+      FROM jobs
+      GROUP BY office
+      HAVING COUNT(*) >= 3
+      ORDER BY total_jobs DESC
+      LIMIT 50
+
+  position_breakdown:
+    title: Jobs by Position Type
+    description: Count of jobs by position title
+    sql: |-
+      SELECT
+        position_title,
+        COUNT(*) as count,
+        COUNT(CASE WHEN party = 'Democrat' THEN 1 END) as democrat,
+        COUNT(CASE WHEN party = 'Republican' THEN 1 END) as republican,
+        AVG(times_posted) as avg_reposts
+      FROM jobs
+      GROUP BY LOWER(position_title)
+      HAVING count >= 5
+      ORDER BY count DESC
+      LIMIT 50
+
+  state_analysis:
+    title: Jobs by State
+    description: Geographic distribution of job postings
+    sql: |-
+      SELECT
+        state,
+        party,
+        COUNT(*) as total_jobs,
+        COUNT(DISTINCT position_title) as unique_positions,
+        AVG(times_posted) as avg_reposts
+      FROM jobs
+      WHERE state IS NOT NULL
+      GROUP BY state, party
+      ORDER BY total_jobs DESC
+
+  search_full_text:
+    title: Search Job Descriptions
+    description: Search across all job fields (use :search parameter)
+    sql: |-
+      SELECT
+        position_title,
+        office,
+        party,
+        location,
+        description,
+        last_posted
+      FROM jobs
+      WHERE
+        position_title LIKE '%' || :search || '%'
+        OR office LIKE '%' || :search || '%'
+        OR description LIKE '%' || :search || '%'
+      ORDER BY last_posted DESC
+      LIMIT 100
