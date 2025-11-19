@@ -1,0 +1,16 @@
+# Core dependencies
+PyYAML>=6.0
+
+# Web interface options (choose one or both)
+# Option 1: Flask-based custom interface
+Flask>=3.0.0
+Flask-CORS>=4.0.0
+
+# Option 2: Datasette (recommended for research/exploration)
+datasette>=0.64.0
+datasette-cluster-map>=0.17.0  # Geographic visualization
+datasette-vega>=0.6.2          # Charts and graphs
+
+# Optional: for advanced analysis
+# pandas>=2.0.0
+# numpy>=1.24.0
