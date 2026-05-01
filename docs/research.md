@@ -27,46 +27,13 @@ Each listing is hashed on `office + title + description-snippet` (`dedup_key`). 
 
 Enrichment links each job to a House member by extracting state/district from the office name (e.g. `(CA-43)`) and fuzzy-matching surnames. The current rate is ~37%; committee jobs and oddly-formatted office names account for most misses.
 
-## Interfaces
+## Querying the database
 
-### Datasette (recommended for research)
-
-```bash
-python run_datasette.py    # http://localhost:8001
-```
-
-Datasette gives you faceted search on every column, a SQL editor, eight pre-built queries (defined in `metadata.yml`), CSV/JSON export from any view, and an automatic API. Filtered URLs are shareable — bookmark and pass them around.
-
-Useful starting points:
-
-- **Most-reposted jobs** — `Queries → Most Frequently Reposted Jobs`. Indicates roles that are hard to fill or have high turnover.
-- **Top hiring offices** — `Queries → Top Hiring Offices`. Concentrates on offices with five or more postings.
-- **Monthly trends** — `Queries → Monthly Hiring Trends`.
-- **Salary mentions** — `Queries → Jobs with Salary Information`. (Caveat: free-text; see "Known limitations" below.)
-- **Facets** — open the `jobs` table, click *Facets*, add `party`, `state`, `position_title`. Cross-tabs appear instantly.
-
-#### Publishing online
-
-```bash
-datasette publish vercel congress_jobs.db --metadata metadata.yml --project congress-jobs-research
-# or
-datasette publish cloudrun congress_jobs.db --metadata metadata.yml --service congress-jobs
-```
-
-### Flask (custom job board)
-
-```bash
-python web_interface.py    # http://localhost:5000
-```
-
-Lighter-weight, job-seeker-oriented UI. No SQL or export — use Datasette if you need either.
-
-### Choosing between them
-
-| You want… | Use |
-| --- | --- |
-| Ad-hoc queries, exports, sharing URLs | Datasette |
-| A polished, opinionated job-search page for end users | Flask |
+The dataset is a SQLite file. Point any SQL tool at `congress_jobs.db` — the
+command-line `sqlite3`, [DB Browser for SQLite](https://sqlitebrowser.org/),
+DuckDB, pandas, R's `RSQLite`, etc. The `web_interface.py` Flask app
+(`python web_interface.py`, http://localhost:5000) provides a job-seeker UI
+on top of the same database; it is not intended for analytical use.
 
 ## Example queries
 
@@ -148,8 +115,6 @@ house-jobs/
 ├── schema.sql
 ├── init_database.py      # builds congress_jobs.db
 ├── db_loader.py
-├── run_datasette.py      # research interface
 ├── web_interface.py      # job-board interface
-├── metadata.yml          # Datasette config + canned queries
 └── congress_jobs.db
 ```

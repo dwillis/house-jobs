@@ -1,14 +1,14 @@
 # house-jobs
 
-Tools and a public archive for U.S. House of Representatives **job and internship announcements**. The Office of the Chief Administrative Officer publishes weekly bulletins as PDFs; this repository archives them, extracts text, parses each listing into structured JSON with an LLM, loads everything into a deduplicated SQLite database enriched with party/district data, and exposes it for research.
+Tools and a public archive for U.S. House of Representatives **job and internship announcements**. The Office of the Chief Administrative Officer publishes weekly bulletins as PDFs; this repository archives them, extracts text, parses each listing into structured JSON with an LLM, and loads everything into a deduplicated SQLite database enriched with party/district data.
 
 Companion blog post: <https://thescoop.org/archives/2025/02/28/turning-congressional-job-listings-into-data/index.html>
 
 ## Pipeline
 
 ```
-PDF  →  pdftotext  →  parser.py (Gemini)  →  JSON  →  db_loader.py  →  SQLite  →  Datasette / Flask / CSV exports
-input/    output/         json/               congress_jobs.db
+PDF  →  pdftotext  →  parser.py (LLM)  →  JSON  →  db_loader.py  →  SQLite
+input/    output/        json/                       congress_jobs.db
 ```
 
 - `input/` — original PDFs, committed for provenance.
@@ -29,8 +29,8 @@ git clone --depth 1 https://github.com/unitedstates/congress-legislators.git /tm
 python init_database.py
 
 # 4. Explore
-python run_datasette.py        # http://localhost:8001 — recommended for research
-python web_interface.py        # http://localhost:5000 — custom job-board UI
+python web_interface.py        # http://localhost:5000 — job-board UI
+# or query congress_jobs.db directly with sqlite3 / your tool of choice
 ```
 
 To process a new bulletin:
@@ -66,7 +66,7 @@ python db_loader.py --load-dir json/   # loads + dedupes + enriches
 
 ## Documentation
 
-- [docs/research.md](docs/research.md) — research guide (database schema, Datasette + Flask interfaces, query examples, classifier).
+- [docs/research.md](docs/research.md) — research guide (database schema, query examples, classifier).
 - [CLAUDE.md](CLAUDE.md) — developer reference for the codebase.
 
 ## Contributing

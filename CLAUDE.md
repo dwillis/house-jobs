@@ -132,34 +132,12 @@ python db_loader.py --stats
 - Handles various JSON field formats with normalization
 - Updates existing jobs on repost, creates new entries otherwise
 
-### 6. Web Interfaces
+### 6. Web Interface
 
-Two different approaches for different use cases:
-
-**Datasette Interface** (`run_datasette.py`) - RECOMMENDED for research:
-```bash
-python run_datasette.py
-# Visit http://localhost:8001
-```
-- Faceted search on any column
-- Full SQL query interface
-- Built-in CSV/JSON export
-- Pre-built research queries (defined in `metadata.yml`)
-- Automatic API endpoints
-- Zero code maintenance
-- **Use when:** Doing research, need SQL access, want exports
-
-**Flask Interface** (`web_interface.py`) - For custom job board:
-```bash
-python web_interface.py
-# Visit http://localhost:5000
-```
-- Custom-designed job search UI
-- Job seeker-friendly interface
-- Modal dialogs for job details
-- **Use when:** Need custom branding, building public job board
-
-**Configuration:** Datasette queries and metadata are defined in `metadata.yml`
+`web_interface.py` is a small Flask app (http://localhost:5000) that
+provides a job-seeker UI on top of `congress_jobs.db`. For analytical
+work, query the SQLite database directly with `sqlite3`, DuckDB, pandas,
+or your tool of choice.
 
 ## Common Development Tasks
 
@@ -247,9 +225,7 @@ house-jobs/
 ├── init_database.py    # Initial database setup
 ├── db_loader.py        # Core database loading logic
 │
-├── run_datasette.py    # Datasette interface (research)
-├── web_interface.py    # Flask interface (job board)
-├── metadata.yml        # Datasette configuration
+├── web_interface.py    # Flask job-board UI
 ├── templates/          # Flask templates
 │
 ├── validate.py         # JSON validation (report-only by default)
@@ -290,7 +266,6 @@ The repository uses GitHub Actions for automated processing (see `.github/` dire
 - **congress-legislators repo:** Required for legislator data enrichment. Must be cloned to `/tmp/congress-legislators` before running `init_database.py`
 - **pdftotext:** System utility for PDF text extraction
 - **llm library:** Simon Willison's tool for LLM interaction, requires API key configuration
-- **Datasette:** For research interface
 - **sqlite-utils:** For database utilities
 
 ## Notes for AI Assistants
