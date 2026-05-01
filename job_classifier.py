@@ -19,6 +19,8 @@ import time
 from typing import List, Dict, Optional
 from pathlib import Path
 
+from config import JSON_DIR
+
 def classify_job(job_data: Dict) -> Optional[str]:
     """
     Classify a single job using the LLM library.
@@ -155,7 +157,7 @@ def process_json_file(input_file: str) -> Dict[str, int]:
 def main():
     """Main function to process all JSON files."""
     # Configuration
-    input_dir = "json_gemini_flash"
+    input_dir = JSON_DIR
     
     # Get list of JSON files to process
     input_path = Path(input_dir)

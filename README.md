@@ -1,143 +1,78 @@
 # house-jobs
-PDF files of House of Representatives Job and Internship Announcements
 
-This repository contains tools for extracting, processing, and structuring job listings from the U.S. House of Representatives. See related blog post: https://thescoop.org/archives/2025/02/28/turning-congressional-job-listings-into-data/index.html
+Tools and a public archive for U.S. House of Representatives **job and internship announcements**. The Office of the Chief Administrative Officer publishes weekly bulletins as PDFs; this repository archives them, extracts text, parses each listing into structured JSON with an LLM, loads everything into a deduplicated SQLite database enriched with party/district data, and exposes it for research.
 
-## Overview
+Companion blog post: <https://thescoop.org/archives/2025/02/28/turning-congressional-job-listings-into-data/index.html>
 
-The House of Representatives regularly distributes PDF files containing job and internship announcements from members and committees. This project:
-
-1. Collects these PDF files
-2. Extracts the text content
-3. Processes the text using Large Language Models (LLMs)
-4. Produces structured JSON files with detailed information about each job listing
-
-This is a public archive of those files.
-
-## Process Flow
+## Pipeline
 
 ```
-PDF Files → Text Extraction → LLM Processing → Structured JSON
+PDF  →  pdftotext  →  parser.py (Gemini)  →  JSON  →  db_loader.py  →  SQLite  →  Datasette / Flask / CSV exports
+input/    output/         json/               congress_jobs.db
 ```
 
-### 1. PDF Collection
+- `input/` — original PDFs, committed for provenance.
+- `output/` — extracted text, produced automatically by GitHub Actions.
+- `json/` — structured listings, one file per bulletin.
+- `congress_jobs.db` — SQLite database with deduplication, posting history, and legislator enrichment.
 
-Weekly emails from the House of Representatives include PDF attachments with job and internship listings. These are archived in this repository.
+## Quick start
 
-### 2. Text Extraction
+```bash
+# 1. Install
+uv sync
 
-The PDFs are converted to plain text files using `pdftotext`, triggered by GitHub Actions. The extracted text files are stored in the `output` directory with filenames that include the date of the listing.
+# 2. Get House member data (one-time, used for party/district enrichment)
+git clone --depth 1 https://github.com/unitedstates/congress-legislators.git /tmp/congress-legislators
 
-### 3. LLM Processing
+# 3. Build the database
+python init_database.py
 
-Two parser implementations are provided:
+# 4. Explore
+python run_datasette.py        # http://localhost:8001 — recommended for research
+python web_interface.py        # http://localhost:5000 — custom job-board UI
+```
 
-#### Parser 1 (`parser.py`)
+To process a new bulletin:
 
-The first approach:
-- Processes entire text files at once
-- Uses the Gemini 1.5 Flash model
-- Formats output as a JSON array of job listings
-- Handles basic text normalization
+```bash
+pdftotext -layout input/<file>.pdf output/<file>.txt
+python parser.py                       # writes json/<file>.json
+python job_classifier.py               # adds job_category to each listing (optional)
+python db_loader.py --load-dir json/   # loads + dedupes + enriches
+```
 
-#### Parser 2 (`parser2.py`)
-
-The improved implementation:
-- Splits text into chunks based on job IDs (MEM-xxx-yy pattern)
-- Processes each chunk separately
-- Uses the Gemini 2.0 Flash model
-- Implements more robust error handling
-- Provides more comprehensive field extraction
-- Includes better handling of non-ASCII characters and formatting
-
-### 4. JSON Output
-
-The final output is stored in JSON files with a structured format. Each job listing contains fields such as:
-
-- `id`: Job ID in MEM-XXX-YY format
-- `position_title`: Full position title
-- `office`: Congressional office or committee name
-- `location`: Primary work location
-- `posting_date`: Date in YYYY-MM-DD format
-- `description`: Full job description
-- `responsibilities`: Array of responsibilities
-- `qualifications`: Array of required qualifications
-- `how_to_apply`: Application instructions
-- `salary_info`: Salary information
-- `contact`: Contact information
-- `equal_opportunity`: Equal opportunity statement
-
-## Example
-
-Here's an example of a parsed job listing:
+## Example listing
 
 ```json
 {
   "id": "MEM-458-24",
-  "office": "Congressman Steven Horsford",
   "position_title": "District Representative",
+  "office": "Congressman Steven Horsford",
   "location": "North Las Vegas, Nevada",
   "posting_date": "2024-11-04",
-  "responsibilities": [
-    "strengthening relationships with key stakeholders, as well as attending engagements on behalf of the Member",
-    "helping constituents resolve problems with federal agencies through written and verbal communication"
-  ],
-  "qualifications": [
-    "Political knowledge and comfortable navigating complicated situations",
-    "Strong written, verbal, analytical, and organization skills; impeccable customer service manners; public speaking skills"
-  ],
-  "job_type": "Full-time",
+  "description": "...",
+  "responsibilities": ["..."],
+  "qualifications": ["..."],
+  "how_to_apply": "Submit resume and cover letter to NV04Resume@mail.house.gov",
   "salary_info": "Commensurate with experience",
   "contact": "NV04Resume@mail.house.gov",
-  "how_to_apply": "Submit resume and cover letter to NV04Resume@mail.house.gov",
-  "description": "The Office of Congressman Steven Horsford seeks a District Representative to serve constituents in Nevada's 4th Congressional District.",
-  "equal_opportunity": "The Office of Congressman Steven Horsford is an Equal Opportunity Employer."
+  "equal_opportunity": "...",
+  "job_category": "constituent_services"
 }
 ```
 
-## Usage
+`job_category` is one of `administrative`, `legislative`, `communications`, `constituent_services`. The parser produces every other field directly from the bulletin.
 
-1. Place PDF-extracted text files in the `output` directory
-2. Run either parser:
-   ```bash
-   python parser.py
-   # or
-   python parser2.py
-   ```
-3. Find parsed JSON files in the `json_gemini_flash` directory
+## Documentation
 
-## Requirements
-
-- Python 3.6+
-- Gemini API access
-- Subprocess module
-- JSON module
-- Regular expressions library
+- [docs/research.md](docs/research.md) — research guide (database schema, Datasette + Flask interfaces, query examples, classifier).
+- [CLAUDE.md](CLAUDE.md) — developer reference for the codebase.
 
 ## Contributing
 
-If you have House job announcement PDFs or emails that aren't in this collection, please send them to dwillis+housejobs@gmail.com.
+If you have House job-announcement PDFs or emails not in this collection, please send them to `dwillis+housejobs@gmail.com`.
 
 ## License
 
-MIT License
-
-Copyright (c) 2025 Derek Willis
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+MIT — see [LICENSE](LICENSE).

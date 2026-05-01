@@ -15,13 +15,11 @@ PDF → Text Extraction (pdftotext) → LLM Parsing → JSON → Database Loadin
 
 **Python Version:** >=3.12 (specified in pyproject.toml)
 
-**Package Management:** Uses `uv` for modern Python dependency management. The project has both legacy Pipfile and modern pyproject.toml.
+**Package Management:** Uses `uv`. Dependencies are declared in `pyproject.toml`.
 
 **Install dependencies:**
 ```bash
 uv sync
-# Or legacy approach:
-pip install -r requirements.txt
 ```
 
 ## Core Components & Architecture
@@ -32,29 +30,24 @@ pip install -r requirements.txt
 - **Input:** PDF files in `input/` directory
 - **Output:** Text files in `output/` directory with date-based filenames
 
-### 2. LLM-based Parsers
+### 2. LLM-based Parser
 
-**Parser 1** (`parser.py`):
-- Legacy implementation using Gemini 1.5 Flash
-- Processes entire text files at once
-- Basic approach, kept for reference
+**`parser.py`** uses the `llm` Python API with `gemini-2.5-pro`:
+- Splits each bulletin's text into chunks at MEM-XXX-YY job-ID boundaries
+- Processes each chunk independently for accuracy
+- UTF-8 normalization, structured JSON output
+- Processes both Member and Internship bulletins
+- **Output:** JSON files in `json/` directory (one per bulletin)
 
-**Parser 2** (`parser2.py`) - RECOMMENDED:
-- Improved implementation using Gemini 2.0 Flash
-- **Key Innovation:** Splits text into chunks based on job ID patterns (MEM-xxx-yy)
-- Processes each job listing separately for better accuracy
-- Better error handling and UTF-8 character normalization
-- **Output:** JSON files in `json_gemini_flash/` directory
-
-**Run Parser:**
+**Run:**
 ```bash
-python parser2.py
+python parser.py
 ```
 
 **Important Notes:**
-- Parsers use the `llm` library with subprocess calls
-- Rate limiting built in (7-8 second delays between chunks)
-- Requires Gemini API access configured in `llm` tool
+- Requires Gemini API access configured via `llm keys set gemini`
+- Rate limiting built in (8s between chunks, 5s between files)
+- Skips bulletins already present in `json/`
 
 ### 3. Job Classification System
 
@@ -126,7 +119,7 @@ python init_database.py
 python db_loader.py --load-file path/to/new_jobs.json
 
 # Load entire directory
-python db_loader.py --load-dir json_gemini_flash/
+python db_loader.py --load-dir json/
 
 # View statistics
 python db_loader.py --stats
@@ -174,9 +167,6 @@ python web_interface.py
 ```bash
 # Test classifier on sample data
 python test_classifier.py
-
-# Test validation
-python test.py
 ```
 
 ### Processing New PDF Files
@@ -188,7 +178,7 @@ python test.py
    ```
 3. Parse with LLM:
    ```bash
-   python parser2.py
+   python parser.py
    ```
 4. Optionally classify jobs:
    ```bash
@@ -196,23 +186,19 @@ python test.py
    ```
 5. Load into database:
    ```bash
-   python db_loader.py --load-dir json_gemini_flash/
+   python db_loader.py --load-dir json/
    ```
 
 ### Validating JSON Output
 ```bash
-python validate.py
-```
-
-### Creating CSV Export
-```bash
-python make_csv.py
+python validate.py json/          # report-only
+python validate.py json/ --delete # destructive
 ```
 
 ## Important Implementation Details
 
 ### UTF-8 and Character Normalization
-The PDFs often contain smart quotes, em-dashes, and other non-ASCII characters. Both parsers include system prompts to normalize these to UTF-8 equivalents. Pay attention to this when modifying parser prompts.
+The PDFs often contain smart quotes, em-dashes, and other non-ASCII characters. The parser system prompt normalizes these to UTF-8 equivalents — preserve those instructions when modifying the prompt.
 
 ### Job ID Pattern
 House job listings use the pattern `MEM-XXX-YY` where:
@@ -220,7 +206,7 @@ House job listings use the pattern `MEM-XXX-YY` where:
 - `XXX` = Sequential number
 - `YY` = Two-digit year
 
-This pattern is used in `parser2.py` to split text into chunks: `re.split(r'(?=MEM-)', text)`
+This pattern is used in `parser.py` to split text into chunks: `re.split(r'(?=MEM-)', text)`
 
 ### Date Extraction from Filenames
 The `db_loader.py` includes logic to extract dates from various filename formats:
@@ -239,9 +225,8 @@ Office name matching in `db_loader.py` uses:
 - Committee detection to avoid false matches
 
 ### Rate Limiting
-Both parsers and the classifier include sleep() calls to respect API rate limits:
-- `parser.py`: 7 seconds between files
-- `parser2.py`: 8 seconds between chunks, 5 seconds between files
+The parser and classifier include sleep() calls to respect API rate limits:
+- `parser.py`: 8 seconds between chunks, 5 seconds between files
 - `job_classifier.py`: 2 seconds between jobs, 5 seconds between files
 
 Adjust these if you hit rate limits or want faster processing.
@@ -252,13 +237,11 @@ Adjust these if you hit rate limits or want faster processing.
 house-jobs/
 ├── input/              # PDF files (tracked in git)
 ├── output/             # Extracted text files (tracked in git)
-├── json_gemini_flash/  # Parsed JSON output (tracked in git)
-├── json_gemini_pro/    # Alternative parser output
-├── json_classified/    # Classified job output
+├── json/               # Parsed JSON output (tracked in git)
 │
-├── parser.py           # Legacy parser (Gemini 1.5)
-├── parser2.py          # Recommended parser (Gemini 2.0)
+├── parser.py           # Bulletin parser (Gemini 2.5 Pro, llm Python API)
 ├── job_classifier.py   # Job categorization
+├── config.py           # Shared path/db constants
 │
 ├── schema.sql          # Database schema
 ├── init_database.py    # Initial database setup
@@ -269,9 +252,7 @@ house-jobs/
 ├── metadata.yml        # Datasette configuration
 ├── templates/          # Flask templates
 │
-├── validate.py         # JSON validation
-├── make_csv.py         # CSV export utility
-├── test.py             # Tests
+├── validate.py         # JSON validation (report-only by default)
 ├── test_classifier.py  # Classifier tests
 └── analyze_classifications.py  # Classification analysis
 ```

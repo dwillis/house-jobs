@@ -6,6 +6,7 @@ Initialize the congressional jobs database with all existing data.
 import os
 from pathlib import Path
 from db_loader import CongressionalJobsDB
+from config import JSON_DIR, DB_PATH, LEGISLATORS_PATH
 
 
 def main():
@@ -14,9 +15,9 @@ def main():
     print("=" * 60)
 
     # Paths
-    db_path = "congress_jobs.db"
-    legislators_path = "/tmp/congress-legislators/legislators-current.yaml"
-    json_dir = "json_gemini_flash"
+    db_path = DB_PATH
+    legislators_path = LEGISLATORS_PATH
+    json_dir = JSON_DIR
 
     # Check if legislators data exists
     if not Path(legislators_path).exists():
