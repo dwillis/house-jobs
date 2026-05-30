@@ -11,4 +11,7 @@ dependencies = [
     "pandas>=2.0.0",
     "matplotlib>=3.7.0",
     "seaborn>=0.12.0",
+    "hdbscan>=0.8.43",
+    "umap-learn>=0.5.12",
+    "ollama>=0.6.2",
 ]

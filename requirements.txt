@@ -1,6 +1,0 @@
-# Core dependencies
-PyYAML>=6.0
-
-# Custom job-board web interface
-Flask>=3.0.0
-Flask-CORS>=4.0.0

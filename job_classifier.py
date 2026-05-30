@@ -60,28 +60,30 @@ Qualifications: {qualifications_text}"""
 
 Respond with ONLY the category name (administrative, legislative, communications, or constituent_services). Do not include any other text or explanation."""
 
-        user_prompt = """Classify this congressional job position into one of the four categories: administrative, legislative, communications, or constituent_services.
+        user_prompt = f"""Classify this congressional job into one of: administrative, legislative, communications, constituent_services.
 
-Based on the job title, description, responsibilities, and qualifications, determine which category best fits this position."""
+{job_text}"""
 
-        # Run the LLM command with direct input
+        # Run the LLM command
         result = subprocess.run(
-            ['uv', 'run', 'llm', '--system', system_prompt, '-m', 'gemini-2.5-flash', user_prompt],
-            input=job_text,
+            ['uv', 'run', 'llm', '--system', system_prompt, '-m', 'qwen3.5:397b-cloud', user_prompt],
             capture_output=True,
             text=True,
             check=True
         )
         
-        classification = result.stdout.strip().lower()
+        response = result.stdout.strip().lower()
         
-        # Validate the classification
+        # Validate the classification, with fuzzy extraction for verbose responses
         valid_categories = ['administrative', 'legislative', 'communications', 'constituent_services']
-        if classification in valid_categories:
-            return classification
-        else:
-            print(f"Invalid classification '{classification}' for job {job_data.get('id', 'unknown')}")
-            return None
+        if response in valid_categories:
+            return response
+        # Try extracting a valid category from a longer response
+        for category in valid_categories:
+            if category in response:
+                return category
+        print(f"Invalid classification '{response[:80]}' for job {job_data.get('id', 'unknown')}")
+        return None
             
     except subprocess.CalledProcessError as e:
         print(f"LLM command failed for job {job_data.get('id', 'unknown')}: {e}")
@@ -111,10 +113,10 @@ def process_json_file(input_file: str) -> Dict[str, int]:
             print(f"Warning: {input_file} does not contain a list of jobs")
             return {}
         
-        # Check if any jobs already have classifications
-        already_classified = any('job_category' in job for job in jobs)
+        # Check if all jobs already have classifications (supports partial-file resume)
+        already_classified = all(job.get('job_category') for job in jobs)
         if already_classified:
-            print(f"  File already contains classifications, skipping...")
+            print(f"  File already fully classified, skipping...")
             return {}
         
         classification_counts = {
@@ -126,12 +128,22 @@ def process_json_file(input_file: str) -> Dict[str, int]:
         }
         
         for i, job in enumerate(jobs):
+            # Skip jobs already classified (enables resume of partial runs)
+            if job.get('job_category'):
+                continue
+
             print(f"  Classifying job {i+1}/{len(jobs)}: {job.get('position_title', 'Unknown')}")
             
             # Add small delay to respect rate limits
             time.sleep(2)
             
             classification = classify_job(job)
+
+            # Retry once on failure
+            if classification is None:
+                print(f"  Retrying job {job.get('id', 'unknown')}...")
+                time.sleep(3)
+                classification = classify_job(job)
             
             # Add classification directly to the job data
             if classification:
@@ -140,10 +152,10 @@ def process_json_file(input_file: str) -> Dict[str, int]:
             else:
                 job['job_category'] = 'unclassified'
                 classification_counts['unclassified'] += 1
-        
-        # Write updated jobs back to the same file
-        with open(input_file, 'w', encoding='utf-8') as f:
-            json.dump(jobs, f, indent=2, ensure_ascii=False)
+
+            # Save incrementally after each job to preserve progress on interruption
+            with open(input_file, 'w', encoding='utf-8') as f:
+                json.dump(jobs, f, indent=2, ensure_ascii=False)
         
         print(f"  Completed {os.path.basename(input_file)}")
         print(f"  Classifications: {classification_counts}")

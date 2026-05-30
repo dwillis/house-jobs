@@ -15,6 +15,11 @@ venv/
 congress_jobs.db
 *.db-journal
 
+# Generated data outputs
+data/
+house_jobs.csv
+duplicates.csv
+
 # IDE
 .vscode/
 .idea/
