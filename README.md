@@ -1,46 +1,57 @@
-# house-jobs
+# House Jobs
 
-Tools and a public archive for U.S. House of Representatives **job and internship announcements**. The Office of the Chief Administrative Officer publishes weekly bulletins as PDFs; this repository archives them, extracts text, parses each listing into structured JSON with an LLM, and loads everything into a deduplicated SQLite database enriched with party/district data.
+Tools and a public archive for U.S. House of Representatives **job and internship announcements**. The Office of the Chief Administrative Officer publishes weekly bulletins as PDFs; this repository archives them, extracts text, and parses each listing into structured JSON with an LLM. The `json/` directory is the primary corpus — over 12 years of weekly bulletins dating back to 2013.
 
 Companion blog post: <https://thescoop.org/archives/2025/02/28/turning-congressional-job-listings-into-data/index.html>
 
 ## Pipeline
 
 ```
-PDF  →  pdftotext  →  parser.py (LLM)  →  JSON  →  db_loader.py  →  SQLite
-input/    output/        json/                       congress_jobs.db
+PDF  →  pdftotext  →  parser.py (LLM)  →  JSON  →  skills/ (NLP analysis)
+input/    output/        json/
 ```
 
 - `input/` — original PDFs, committed for provenance.
 - `output/` — extracted text, produced automatically by GitHub Actions.
-- `json/` — structured listings, one file per bulletin.
-- `congress_jobs.db` — SQLite database with deduplication, posting history, and legislator enrichment.
+- `json/` — structured listings, one file per bulletin (~600 files, 2013–present).
+- `skills/` — NLP analysis: skill extraction, embeddings, and semantic clustering.
 
 ## Quick start
 
 ```bash
-# 1. Install
+# Install dependencies
 uv sync
-
-# 2. Get House member data (one-time, used for party/district enrichment)
-git clone --depth 1 https://github.com/unitedstates/congress-legislators.git /tmp/congress-legislators
-
-# 3. Build the database
-python init_database.py
-
-# 4. Explore
-python web_interface.py        # http://localhost:5000 — job-board UI
-# or query congress_jobs.db directly with sqlite3 / your tool of choice
 ```
 
 To process a new bulletin:
 
 ```bash
 pdftotext -layout input/<file>.pdf output/<file>.txt
-python parser.py                       # writes json/<file>.json
-python job_classifier.py               # adds job_category to each listing (optional)
-python db_loader.py --load-dir json/   # loads + dedupes + enriches
+uv run python parser.py                  # writes json/<file>.json
+uv run python job_classifier.py          # adds job_category to each listing (optional)
 ```
+
+To run NLP analysis on the full corpus:
+
+```bash
+# Regex-based skill extraction and trend charts
+uv run python skills/skill_extractor.py
+
+# Semantic clustering via Ollama embeddings + UMAP + HDBSCAN
+# Requires: ollama serve (uses qwen3-embedding:latest by default)
+uv run python skills/cluster_jobs.py
+uv run python skills/cluster_jobs.py --model embeddinggemma   # faster alternative
+```
+
+## NLP Analysis (`skills/`)
+
+**Skill extraction** (`skills/skill_extractor.py`) matches 80+ named skills across categories (software tools, languages, policy areas, communications, clearances) against deduplicated job text. Counts are normalised by total jobs per period so trend charts reflect actual demand change rather than corpus growth.
+
+Outputs: `skills_raw.csv`, `skill_trends.csv`, `skill_trends.png`, `skill_categories.png`, `skill_emerging.png`.
+
+**Semantic clustering** (`skills/cluster_jobs.py`) embeds each job description via Ollama, reduces to 2-D with UMAP, and clusters with HDBSCAN. Clusters are auto-labelled by tf-idf top terms. Embeddings are cached locally and invalidated automatically when the corpus or model changes.
+
+Outputs: `job_embeddings.csv`, `clusters.png`, `cluster_drift.png`, `cluster_summary.txt`.
 
 ## Example listing
 
@@ -66,7 +77,7 @@ python db_loader.py --load-dir json/   # loads + dedupes + enriches
 
 ## Documentation
 
-- [docs/research.md](docs/research.md) — research guide (database schema, query examples, classifier).
+- [docs/research.md](docs/research.md) — research guide (query examples, classifier).
 - [CLAUDE.md](CLAUDE.md) — developer reference for the codebase.
 
 ## Contributing

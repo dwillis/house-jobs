@@ -9,6 +9,8 @@ This repository processes U.S. House of Representatives job and internship annou
 **Key Data Flow:**
 ```
 PDF → Text Extraction (pdftotext) → LLM Parsing → JSON → Database Loading → Web Interfaces
+                                                     ↓
+                                             skills/ (NLP Analysis)
 ```
 
 ## Development Environment
@@ -72,73 +74,6 @@ uv run python job_classifier.py
 ./job_classifier.py
 ```
 
-### 4. Database System
-
-**Database:** SQLite (`congress_jobs.db` or `house_jobs.db`)
-
-**Key Tables:**
-- `jobs` - Deduplicated master job listings
-- `job_postings` - Individual postings tracking each bulletin appearance
-- `legislators` - Current House members with party/district from congress-legislators repo
-- `raw_jobs` - Raw JSON before processing
-- `office_name_variants` - Office name normalization mapping
-
-**Views:**
-- `active_jobs` - Currently active listings with enriched legislator data
-- `job_timeline` - Timeline of all postings for research
-
-**Schema:** Defined in `schema.sql`
-
-**Critical Feature - Deduplication:**
-The system uses a `dedup_key` (MD5 hash of normalized office + title + description snippet) to identify the same job posted multiple times. This enables tracking:
-- `times_posted` - How many times a job has appeared
-- `first_posted` / `last_posted` - Temporal tracking
-- Individual posting history in `job_postings` table
-
-**Critical Feature - Enrichment:**
-The `db_loader.py` implements fuzzy matching to link job listings to House members:
-- Extracts state/district from office names (e.g., "(CA-43)")
-- Fuzzy matches office names to legislator names
-- Adds `party`, `state`, `district`, `legislator_id` fields
-- Caches matches for performance
-
-### 5. Database Initialization & Loading
-
-**Initial Setup:**
-```bash
-# Clone legislator data (required for enrichment)
-git clone --depth 1 https://github.com/unitedstates/congress-legislators.git /tmp/congress-legislators
-
-# Initialize database with all existing data
-python init_database.py
-```
-
-**Load Additional Data:**
-```bash
-# Load single file
-python db_loader.py --load-file path/to/new_jobs.json
-
-# Load entire directory
-python db_loader.py --load-dir json/
-
-# View statistics
-python db_loader.py --stats
-```
-
-**db_loader.py Architecture:**
-- Context manager pattern (`with CongressionalJobsDB(db_path) as db`)
-- Automatic deduplication on load
-- Automatic legislator matching and enrichment
-- Handles various JSON field formats with normalization
-- Updates existing jobs on repost, creates new entries otherwise
-
-### 6. Web Interface
-
-`web_interface.py` is a small Flask app (http://localhost:5000) that
-provides a job-seeker UI on top of `congress_jobs.db`. For analytical
-work, query the SQLite database directly with `sqlite3`, DuckDB, pandas,
-or your tool of choice.
-
 ## Common Development Tasks
 
 ### Running Tests
@@ -194,14 +129,6 @@ The `db_loader.py` includes logic to extract dates from various filename formats
 
 Add new patterns to `_extract_date_from_filename()` if needed.
 
-### Fuzzy Matching Algorithm
-Office name matching in `db_loader.py` uses:
-- State/district extraction from patterns like "(PA-2)"
-- Sequence matching on normalized office names
-- Last name substring matching
-- Minimum confidence threshold of 40.0
-- Committee detection to avoid false matches
-
 ### Rate Limiting
 The parser and classifier include sleep() calls to respect API rate limits:
 - `parser.py`: 8 seconds between chunks, 5 seconds between files
@@ -215,22 +142,34 @@ Adjust these if you hit rate limits or want faster processing.
 house-jobs/
 ├── input/              # PDF files (tracked in git)
 ├── output/             # Extracted text files (tracked in git)
-├── json/               # Parsed JSON output (tracked in git)
+├── json/               # Parsed JSON output — primary corpus (tracked in git)
+├── json_qwen/          # Alternate parse corpus (Qwen model, includes internships)
 │
 ├── parser.py           # Bulletin parser (Gemini 2.5 Pro, llm Python API)
-├── job_classifier.py   # Job categorization
+├── job_classifier.py   # Job categorization (Gemini 2.5 Flash)
 ├── config.py           # Shared path/db constants
 │
-├── schema.sql          # Database schema
-├── init_database.py    # Initial database setup
-├── db_loader.py        # Core database loading logic
-│
-├── web_interface.py    # Flask job-board UI
-├── templates/          # Flask templates
-│
 ├── validate.py         # JSON validation (report-only by default)
+├── compare_parses.py   # Compare outputs across parse runs
+├── find_duplicates.py  # Identify duplicate listings
+├── analyze_classifications.py  # Classification analysis
 ├── test_classifier.py  # Classifier tests
-└── analyze_classifications.py  # Classification analysis
+│
+├── house_jobs.csv      # Flattened export
+├── duplicates.csv      # Duplicate listing report
+├── data/
+│   └── duplicates.csv
+├── docs/
+│   └── research.md
+│
+└── skills/             # NLP analysis
+    ├── skill_extractor.py      # Regex-based skill extraction + trend charts
+    ├── cluster_jobs.py         # Ollama embeddings + UMAP + HDBSCAN clustering
+    ├── skills_raw.csv          # Output: skill × job mentions (gitignored)
+    ├── skill_trends.csv        # Output: annual skill pivot
+    ├── skill_trends.png        # Output: trend chart
+    ├── skill_categories.png    # Output: category bar chart
+    ├── skill_emerging.png      # Output: prevalence-change chart
 ```
 
 ## Data Formats
@@ -254,9 +193,6 @@ house-jobs/
 }
 ```
 
-### Database Job Record
-The database normalizes this into multiple tables with additional enriched fields (`party`, `state`, `district`, `legislator_id`, `times_posted`, `first_posted`, `last_posted`, etc.).
-
 ## GitHub Actions
 
 The repository uses GitHub Actions for automated processing (see `.github/` directory). Text extraction from PDFs happens automatically on push.
@@ -266,7 +202,6 @@ The repository uses GitHub Actions for automated processing (see `.github/` dire
 - **congress-legislators repo:** Required for legislator data enrichment. Must be cloned to `/tmp/congress-legislators` before running `init_database.py`
 - **pdftotext:** System utility for PDF text extraction
 - **llm library:** Simon Willison's tool for LLM interaction, requires API key configuration
-- **sqlite-utils:** For database utilities
 
 ## Notes for AI Assistants
 
