@@ -1,0 +1,28 @@
+{
+  "classify": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Classify a congressional job listing into exactly one of the following categories:\n\n- administrative: office management, HR, scheduling, administrative support, front office duties (phones, mail processing, tours, flag requests).\n- legislative: policy research, bill analysis, committee work, legal research.\n- communications: press, media relations, social media, public outreach.\n- constituent_services: casework, community engagement, district representation.\n\nImportant classification guidelines:\n1. Roles such as \"Intern\" and \"Staff Assistant\" are predominantly classified as 'administrative'. Their primary duties typically involve front office management, answering phones, processing mail, coordinating tours/flags, and providing general administrative support.\n2. Job listings often include a mix of duties. If a listing mentions some legislative tasks (e.g., attending hearings, legislative research, policy projects) or constituent services tasks (e.g., casework intake, constituent calls), but the core and majority of the responsibilities are front office or administrative support duties, classify it as 'administrative'.\n3. Focus on the primary, overarching role rather than minor, occasional, or secondary duties. For example, a Staff Assistant who \"occasionally represents at community meetings\" should still be classified as 'administrative'.",
+      "fields": [
+        {
+          "prefix": "Job Text:",
+          "description": "Position title, office, description, responsibilities, qualifications"
+        },
+        {
+          "prefix": "Job Category:",
+          "description": "${job_category}"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MEM-217-24",
+    "position_title": "Intern",
+    "office": "Congresswoman Suzan DelBene (WA-01)",
+    "location": "Washington, D.C. and Kirkland, WA",
+    "posting_date": "2024-06-03",
+    "description": "Congresswoman Suzan DelBene, representing the 1st Congressional District of Washington state, seeks interns for her Washington, D.C. and District (Kirkland) offices. Interns will work in a fast-paced congressional office, gaining valuable experience and knowledge of the United States Congress. Intern responsibilities include greeting constituents and handling constituent phone calls, assisting staff with administrative tasks, conducting research, and assisting with constituent correspondence. Washington, D.C. interns will have the opportunity to lead tours of the U.S. Capitol as well as attend hearings and briefings for the legislative staff. The deadline for Fall 2024 internship applications is Wednesday, July 3rd at 11:59 PM.",
+    "responsibilities": [
+      "Greeting constituents and handling constituent phone calls",
+      "Assisting staff with administrative tasks",
+      "Conducting research",
+      "Assisting with constituent correspondence",
+      "Leading tours of the U.S. Capitol (D.C. interns)",
+      "Attending hearings and briefings for the legislative staff (D.C. interns)"
+    ],
+    "qualifications": [
+      "Interest in the legislative process and U.S. Congress",
+      "Strong written and verbal communication skills",
+      "Ability to work in a fast-paced environment",
+      "Organizational skills and attention to detail"
+    ],
+    "how_to_apply": "Send a cover letter, resume, and short writing sample (1 to 2 pages) to Internship.DelBene@mail.house.gov. In the subject line, specify whether you are applying for a D.C. or District internship. In the body of the email, list any start and end date constraints, whether you are interested in a part-time or full-time position, and the number of hours per week you can work. The deadline for Fall 2024 internship applications is Wednesday, July 3rd at 11:59 PM.",
+    "salary_info": null,
+    "contact": "Internship.DelBene@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-195-24",
+    "position_title": "Intern",
+    "office": "Congressman Seth Moulton (MA-06)",
+    "location": "Salem, MA and Washington, D.C.",
+    "posting_date": "2024-06-03",
+    "description": "Congressman Moulton is seeking hard-working individuals who are passionate, driven, and committed to public service for an internship in his Salem office and Washington D.C. office. Internships are intended for current undergraduate students, current graduate students, and recent college graduates. Interns receive a stipend distributed based on total hours worked. D.C. responsibilities include answering constituent phone calls, greeting constituents, categorizing and responding to constituent mail, drafting form letters and cosponsor requests, taking notes at briefings and hearings, conducting tours of the Capitol, assembling press and news clips, and performing other duties as assigned such as legislative research. District responsibilities include answering constituent phone calls, greeting constituents, assisting the Casework Team on casework requests involving federal agencies, taking notes at briefings and hearings, assembling press and news clips, and performing other duties as assigned such as legislative research and attending community events.",
+    "responsibilities": [
+      "Answering constituent phone calls and greeting constituents at the front desk (D.C.)",
+      "Categorizing and responding to constituent mail (D.C.)",
+      "Drafting form letters and cosponsor requests for the Congressman (D.C.)",
+      "Taking notes at briefings and hearings (D.C.)",
+      "Conducting tours of the Capitol for constituents (D.C.)",
+      "Assembling press and news clips (D.C.)",
+      "Performing a variety of other duties as assigned, such as conducting legislative research (D.C.)",
+      "Answering constituent phone calls and greeting constituents at the front desk (District)",
+      "Assisting the Casework Team on a variety of casework requests involving federal agencies (District)",
+      "Taking notes at briefings and hearings (District)",
+      "Assembling press and news clips (District)",
+      "Performing a variety of other duties as assigned, such as conducting legislative research and attending community events (District)"
+    ],
+    "qualifications": [
+      "Current undergraduate student, current graduate student, or recent college graduate",
+      "Hard-working, passionate, driven, and committed to public service"
+    ],
+    "how_to_apply": "Applicants can access the application at https://docs.google.com/forms/d/e/1FAIpQLSd1NOVxgvmGvGyH_1u4e35RUkweWU24Rmu7gA0Y3HOxKXTkjQ/viewform. More information is available on the internship portal at moulton.house.gov under the 'Services' tab. All applications are due on July 15th, 2024.",
+    "salary_info": null,
+    "contact": "bridget.pegg@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

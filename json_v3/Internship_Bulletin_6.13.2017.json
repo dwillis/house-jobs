@@ -1,0 +1,87 @@
+[
+  {
+    "id": "MEM-164-17",
+    "position_title": "Fall 2017 Intern",
+    "office": "Congressman Rob Wittman (VA-01)",
+    "location": "Washington, D.C.",
+    "posting_date": "2017-06-13",
+    "description": "Republican Congressman Rob Wittman (VA-01) is seeking unpaid interns for the fall 2017 semester in the Capitol Hill office. Interns will have the opportunity to attend committee hearings and briefings for staff members, assist in the constituent correspondence process, as well as assist with other constituent services. Responsibilities include: taking phone calls, processing constituent mail, and performing other general office duties. Ideal applicants should be interested in the legislative process, enthusiastic, reliable, and hard-working. Full or part time internships with flexible schedules are available. Ties to Virginia's First Congressional District are preferred but not required. Interested candidates should e-mail their resume and cover letter to katie.mazzola@mail.house.gov before July 7, 2017.",
+    "responsibilities": [
+      "Taking phone calls",
+      "Processing constituent mail",
+      "Performing other general office duties",
+      "Attending committee hearings and briefings for staff members",
+      "Assisting in the constituent correspondence process",
+      "Assisting with other constituent services"
+    ],
+    "qualifications": [
+      "Interested in the legislative process",
+      "Enthusiastic",
+      "Reliable",
+      "Hard-working",
+      "Ties to Virginia's First Congressional District are preferred but not required"
+    ],
+    "how_to_apply": "E-mail resume and cover letter to katie.mazzola@mail.house.gov before July 7, 2017.",
+    "salary_info": null,
+    "contact": "katie.mazzola@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-160-17",
+    "position_title": "Fall Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2017-06-13",
+    "description": "Republican side of the House Foreign Affairs Committee is seeking a Fall intern to handle administrative and some policy duties in the office. Duties will include answering phones, handling logistics for hearings, conducting research, and drafting statements. Qualified candidates will have a foreign policy background, possess excellent writing and communication skills, and be well-organized, responsible, and detail-oriented. All interested applicants should e-mail their cover letter, resume, and a 2-5 page writing sample to tnthfac@gmail.com by June 23, 2017. Cover letters should include the applicant's anticipated availability for the duration of the internship; writing samples may be excerpts of larger works. No walk-ins or phone calls please.",
+    "responsibilities": [
+      "Answering phones",
+      "Handling logistics for hearings",
+      "Conducting research",
+      "Drafting statements"
+    ],
+    "qualifications": [
+      "Foreign policy background",
+      "Excellent writing and communication skills",
+      "Well-organized",
+      "Responsible",
+      "Detail-oriented"
+    ],
+    "how_to_apply": "E-mail cover letter, resume, and a 2-5 page writing sample to tnthfac@gmail.com by June 23, 2017. Cover letters should include the applicant's anticipated availability for the duration of the internship; writing samples may be excerpts of larger works. No walk-ins or phone calls please.",
+    "salary_info": null,
+    "contact": "tnthfac@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-155-17",
+    "position_title": "Intern And Fellow",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2017-06-13",
+    "description": "Illinois Democratic Office has openings for full-time interns and fellows to support our administrative, legislative, and communication teams in our Washington Office. Responsibilities include: researching legislative issues, attending legislative briefings and hearings, answering phone calls, processing constituent mail, researching information, and other duties as assigned. Applicants should be professional, hardworking, reliable and have strong writing and communication skills. Illinois ties are preferred, but not required. Internships are unpaid and are available for the Summer and Fall semesters. Interested candidates should submit your writing sample and resume to Illinois.Resume@mail.house.gov. No phone calls or walk-ins please.",
+    "responsibilities": [
+      "Researching legislative issues",
+      "Attending legislative briefings and hearings",
+      "Answering phone calls",
+      "Processing constituent mail",
+      "Researching information",
+      "Other duties as assigned"
+    ],
+    "qualifications": [
+      "Professional",
+      "Hardworking",
+      "Reliable",
+      "Strong writing and communication skills",
+      "Illinois ties preferred, but not required"
+    ],
+    "how_to_apply": "Submit a writing sample and resume to Illinois.Resume@mail.house.gov. No phone calls or walk-ins please.",
+    "salary_info": null,
+    "contact": "Illinois.Resume@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

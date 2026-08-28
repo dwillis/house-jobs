@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MEM-295-14",
+    "position_title": "Legislative Correspondent",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2014-08-25",
+    "description": "Republican Member seeks Legislative Correspondent with strong Tennessee ties to manage all aspects of constituent correspondence. In addition, this position works with the scheduler to coordinate Member's schedule in the Washington office. Other duties include: sorting incoming letters and emails, tracking and assigning mail through constituent management software, drafting and sending timely responses. Successful candidates must demonstrate exceptional writing ability, attention to detail, and organizational skills. Hill experience, familiarity with IQ ties are a plus. Send resume and cover letter to TNHousejob@gmail.com",
+    "responsibilities": [
+      "Manage all aspects of constituent correspondence",
+      "Work with the scheduler to coordinate Member's schedule in the Washington office",
+      "Sort incoming letters and emails",
+      "Track and assign mail through constituent management software",
+      "Draft and send timely responses"
+    ],
+    "qualifications": [
+      "Strong Tennessee ties",
+      "Exceptional writing ability",
+      "Attention to detail",
+      "Organizational skills",
+      "Hill experience (a plus)",
+      "Familiarity with IQ (a plus)"
+    ],
+    "how_to_apply": "Send resume and cover letter to TNHousejob@gmail.com",
+    "salary_info": null,
+    "contact": "TNHousejob@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-286-14",
+    "position_title": "Staff Assistant",
+    "office": "Congresswoman Eleanor Holmes Norton (DC-00)",
+    "location": "Washington, D.C.",
+    "posting_date": "2014-08-25",
+    "description": "We are seeking a highly energetic, motivated, and organized individual to join the team of a Senior Democratic member of Congress. The candidate will have strong interpersonal skills, be comfortable with managing multiple tasks and work well under pressure. The staff assistant is responsible for preparing letters of greetings, condolence and congratulations on behalf of the Member; answering the phones; coordinating mail and casework distribution; making room reservations for meetings. Light casework assignments will include post office problems and requests for expedited passports and as assigned by the District Director. The staff assistant also serves as intern coordinator by recruiting training, scheduling and assigning duties. The ideal candidate will have a bachelor's degree, significant experience interacting with the public, excellent writing and communication skills and a working knowledge of the District of Columbia. Candidate must be a resident of the District of Columbia or willing to move immediately to D.C., if hired. The closing date for this until filled. Salary is based on skill and experience level. Interested applicants should send a resume, cover letter, references and two writing samples to: DC00.NortonResume@mail.house.gov or fax to (202) 225-1129. Absolutely no phone calls will be accepted!",
+    "responsibilities": [
+      "Preparing letters of greetings, condolence and congratulations on behalf of the Member",
+      "Answering the phones",
+      "Coordinating mail and casework distribution",
+      "Making room reservations for meetings",
+      "Light casework assignments including post office problems and requests for expedited passports as assigned by the District Director",
+      "Serving as intern coordinator by recruiting, training, scheduling and assigning duties"
+    ],
+    "qualifications": [
+      "Bachelor's degree",
+      "Significant experience interacting with the public",
+      "Excellent writing and communication skills",
+      "Working knowledge of the District of Columbia",
+      "Must be a resident of the District of Columbia or willing to move immediately to D.C., if hired",
+      "Highly energetic, motivated, and organized",
+      "Strong interpersonal skills",
+      "Comfortable with managing multiple tasks and working well under pressure"
+    ],
+    "how_to_apply": "Send a resume, cover letter, references and two writing samples to DC00.NortonResume@mail.house.gov or fax to (202) 225-1129. Absolutely no phone calls will be accepted.",
+    "salary_info": null,
+    "contact": "DC00.NortonResume@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-281-14",
+    "position_title": "Scheduler/Executive Assistant",
+    "office": null,
+    "location": "Washington, DC",
+    "posting_date": "2014-08-25",
+    "description": "California Democrat is hiring a Scheduler/Executive Assistant for a fast-paced and team-oriented Washington, DC office. Duties include coordinating between DC and district offices, making travel arrangements, managing the Member's schedule, and overseeing all front office operations in the Washington DC office. Previous scheduling experience is strongly preferred. This is not an entry level position.",
+    "responsibilities": [
+      "Coordinating between DC and district offices",
+      "Making travel arrangements",
+      "Managing the Member's schedule",
+      "Managing all front office operations in the Washington DC office"
+    ],
+    "qualifications": [
+      "Strong interpersonal skills",
+      "Ability to multi-task in a fast-paced environment",
+      "Ability to coordinate with the district while managing the schedule",
+      "Ability to anticipate the Member's needs while being creative",
+      "Ability to work well as an individual and as a member of a team",
+      "Previous scheduling experience is strongly preferred",
+      "This is not an entry level position"
+    ],
+    "how_to_apply": "Email a resume, cover letter, and references to CAJobs@mail.house.gov with \"Scheduler/Executive Assistant\" in the subject line.",
+    "salary_info": null,
+    "contact": "CAJobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  }
+]

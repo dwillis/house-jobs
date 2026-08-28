@@ -1,0 +1,32 @@
+{
+  "extract.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Extract congressional job or internship listings from one bulletin chunk.\n\nThe chunk begins with the source filename on its own line, followed by\ntext starting at a MEM-XXX-YY job ID; treat that ID as this chunk's job id\nand never carry an ID over from another chunk. Derive posting_date from\nthe filename and format it strictly as YYYY-MM-DD (ISO 8601). Repair OCR/ligature\ndamage before populating any field (e.g. \"o2ice\"/\"O&ice\" -> \"office\",\n\"sta2\"/\"sta5\"/\"sta&\" -> \"staff\", \"eEorts\"/\"e&orts\" -> \"efforts\",\n\"enicient\"/\"e&icient\" -> \"efficient\").\n\nFormat office as \"Congressman/Congresswoman Name (ST-NN)\" only when the\nspecific member and state-district are identifiable. If only a general\ndescription (e.g., \"House Democrat\") or a committee name is given, leave\noffice as None. Format salary_info strictly as \"$XX,000 per year\" or\n\"$XX,000-$YY,000 per year\". If no specific salary figure is given (even\nif the position is stated as \"unpaid\" or \"paid\"), set salary_info to None.\nFor contact, extract only the email address or phone number if provided;\ndo not include titles or names (e.g., use \"ny13intern@gmail.com\" not\n\"Comm. Director at ny13intern@gmail.com\").\n\nNever leave responsibilities or qualifications empty. If no explicit\nqualifications are stated in the text, infer reasonable qualifications\nfrom the context and responsibilities, or use the fallback string\n\"None specified\" to ensure the list is not empty. Only populate the\nequal_opportunity field if a formal Equal Employment Opportunity (EEO)\nstatement is present (e.g., \"The office is an equal opportunity employer\nand does not discriminate...\"); do not include general encouragement\nstatements (e.g., \"Women and minorities are highly encouraged to apply\").\n\nDo not invent fields beyond the schema, and do not treat boilerplate or\nsubscribe/unsubscribe text as a listing.",
+      "fields": [
+        {
+          "prefix": "Chunk Text:",
+          "description": "Bulletin filename on the first line, then the chunk text starting at a MEM- id"
+        },
+        {
+          "prefix": "Reasoning:",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Jobs:",
+          "description": "One or more job listings extracted from this chunk"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.3.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

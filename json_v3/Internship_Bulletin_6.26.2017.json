@@ -1,0 +1,199 @@
+[
+  {
+    "id": "MEM-179-17",
+    "position_title": "Fall Intern",
+    "office": "Congressman Mario Diaz-Balart (FL-25)",
+    "location": "Washington, D.C.",
+    "posting_date": "2017-06-26",
+    "description": "The office of Congressman Mario Diaz-Balart (FL-25) is currently seeking applications for our fall internship program running from August 2017 through the beginning of December. This position requires greeting guests and constituents, leading Capitol tours, attending hearings, drafting constituent correspondence letters, and assisting in general day to day activities. While unpaid, this position will strengthen your understanding of the legislative process and give you firsthand experience of the operations necessary to run a Congressional office. Qualified candidates will be hard working, possess strong written and oral skills, and have the ability to work in a professional environment. Interested candidates should send a resume and cover letter to Elizabeth.DosSantos@mail.house.gov.",
+    "responsibilities": [
+      "Greeting guests and constituents",
+      "Leading Capitol tours",
+      "Attending hearings",
+      "Drafting constituent correspondence letters",
+      "Assisting in general day to day activities"
+    ],
+    "qualifications": [
+      "Hard working",
+      "Strong written and oral skills",
+      "Ability to work in a professional environment"
+    ],
+    "how_to_apply": "Send a resume and cover letter to Elizabeth.DosSantos@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Elizabeth.DosSantos@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-178-17",
+    "position_title": "Full-Time/Part-Time Intern (Fall 2017)",
+    "office": "Congresswoman Kathy Castor (FL-14)",
+    "location": "Washington, D.C.",
+    "posting_date": "2017-06-26",
+    "description": "The Office of Representative Kathy Castor (FL-14) is accepting applications for unpaid Full-Time/Part-Time Interns to work Fall 2017. The internship will offer students and young professionals invaluable experience with the legislative process. Intern responsibilities include answering phone calls, greeting visitors, sorting mail, attending hearings/briefings, handling constituent requests, leading tours of the Capitol, legislative correspondence and helping conduct research for various administrative projects. Ideal candidates will have a meticulous attention to detail, strong writing skills, an ability to work in a fast-paced environment and an enthusiasm for the political process and congressional operations. Our internship program begins in September until the end of December. First priority will be given to applicants who can work full-time. Please send resume, cover letter and work availability with the subject line \"Fall 2017 Internship\" to fl.demresume@gmail.com. Florida ties are a plus, but are not required.",
+    "responsibilities": [
+      "Answering phone calls",
+      "Greeting visitors",
+      "Sorting mail",
+      "Attending hearings/briefings",
+      "Handling constituent requests",
+      "Leading tours of the Capitol",
+      "Legislative correspondence",
+      "Helping conduct research for various administrative projects"
+    ],
+    "qualifications": [
+      "Meticulous attention to detail",
+      "Strong writing skills",
+      "Ability to work in a fast-paced environment",
+      "Enthusiasm for the political process and congressional operations"
+    ],
+    "how_to_apply": "Send resume, cover letter and work availability with the subject line \"Fall 2017 Internship\" to fl.demresume@gmail.com.",
+    "salary_info": null,
+    "contact": "fl.demresume@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-177-17",
+    "position_title": "Fall Intern",
+    "office": null,
+    "location": null,
+    "posting_date": "2017-06-26",
+    "description": "The Democratic Staff of the Committee on Science, Space and Technology is seeking interns for the fall semester. Interns are asked to work with staff to help prepare for committee hearings and markups, and will work on substantive research and oversight projects in addition to press matters. Furthermore, interns will be critical to the daily operation of the office including tasks such as answering phones, greeting visitors, and filing official documents. Interested applicants should visit the Committee's website at http://democrats.science.house.gov/internships. Please fill out the provided application and attach a resume. No calls or drop-ins please.",
+    "responsibilities": [
+      "Prepare for committee hearings and markups",
+      "Work on substantive research and oversight projects",
+      "Assist with press matters",
+      "Answer phones",
+      "Greet visitors",
+      "File official documents"
+    ],
+    "qualifications": [
+      "Interest in science, space, and technology policy",
+      "Strong research and writing skills",
+      "Ability to work in a fast-paced committee environment",
+      "Currently enrolled in or recently graduated from an undergraduate or graduate program"
+    ],
+    "how_to_apply": "Visit the Committee's website at http://democrats.science.house.gov/internships, fill out the provided application, and attach a resume. No calls or drop-ins please.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-174-17",
+    "position_title": "Fall 2017 Intern",
+    "office": "Congressman Denny Heck (WA-10)",
+    "location": "Washington, D.C.",
+    "posting_date": "2017-06-26",
+    "description": "The Office of Congressman Denny Heck (WA-10) is currently seeking full- or part-time interns for the Fall 2017 semester in Washington DC. Intern responsibilities include answering phone calls, greeting visitors, leading tours of the Capitol, drafting letters to constituents, and helping conduct research for various administrative projects. Ideal candidates will have a meticulous attention to detail, strong writing skills, an ability to work in a fast-paced environment, and an enthusiasm for the political process and congressional operations. Internships are unpaid, but can serve as a first-step towards a career on Capitol Hill. Ties to the Pacific Northwest preferred but not required. Interested applicants should send a resume, cover letter, two references, and work availability with the subject line \"Fall 2017 Internship\" to Nick Vargish at nick.vargish@mail.house.gov.",
+    "responsibilities": [
+      "Answering phone calls",
+      "Greeting visitors",
+      "Leading tours of the Capitol",
+      "Drafting letters to constituents",
+      "Helping conduct research for various administrative projects"
+    ],
+    "qualifications": [
+      "Meticulous attention to detail",
+      "Strong writing skills",
+      "Ability to work in a fast-paced environment",
+      "Enthusiasm for the political process and congressional operations",
+      "Ties to the Pacific Northwest preferred but not required"
+    ],
+    "how_to_apply": "Send a resume, cover letter, two references, and work availability with the subject line \"Fall 2017 Internship\" to nick.vargish@mail.house.gov.",
+    "salary_info": null,
+    "contact": "nick.vargish@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-171-17",
+    "position_title": "Fall 2017 Intern",
+    "office": "Congressman Glenn Grothman (WI-06)",
+    "location": "Washington, D.C.",
+    "posting_date": "2017-06-26",
+    "description": "The Office of Congressman Glenn Grothman (WI-06) is currently seeking fulltime interns for fall of 2017 in the Washington D.C. office. Ideal candidates would be professional, dependable and possess strong writing and communication skills. Responsibilities include answering phones, constituent correspondence, Capitol tours and other legislative projects. Internships are unpaid, but serve to provide professional and educational value to participants. The office is flexible in allowing interns to attend hearings and briefings, as well as work with Legislative Assistants on issues of their interest. Candidates must be willing to work in a fast-paced environment and be interested in learning more about the legislative process. Wisconsin ties preferred, but not required. Interested applicants should send resume, cover letter and availability to wi06resumes@gmail.com.",
+    "responsibilities": [
+      "Answering phones",
+      "Constituent correspondence",
+      "Capitol tours",
+      "Other legislative projects",
+      "Attending hearings and briefings",
+      "Working with Legislative Assistants on issues of interest"
+    ],
+    "qualifications": [
+      "Professional and dependable",
+      "Strong writing and communication skills",
+      "Willing to work in a fast-paced environment",
+      "Interested in learning more about the legislative process",
+      "Wisconsin ties preferred, but not required"
+    ],
+    "how_to_apply": "Interested applicants should send resume, cover letter and availability to wi06resumes@gmail.com.",
+    "salary_info": null,
+    "contact": "wi06resumes@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-170-17",
+    "position_title": "Fall 2017 Intern",
+    "office": null,
+    "location": null,
+    "posting_date": "2017-06-26",
+    "description": "The Republican Office of the Committee on Science, Space, and Technology seeks energetic and self-motivated undergraduate or graduate-level students, as well as recent graduates, with an interest in government and public policy for a Fall 2017 internship. Working closely with Committee staff, interns will have the opportunity to gain first-hand knowledge of the inner-workings of a congressional committee and learn about the day-to-day administrative operations of the House of Representatives. Interns are responsible for assisting Committee staff with official proceedings (hearings/markups), oversight, research, assisting with phone inquiries and providing support to all Committee staff. Background in science is a plus. To apply, please send your resume and cover letter to house.science.committee@mail.house.gov.",
+    "responsibilities": [
+      "Assisting Committee staff with official proceedings (hearings/markups)",
+      "Assisting with oversight",
+      "Conducting research",
+      "Assisting with phone inquiries",
+      "Providing support to all Committee staff"
+    ],
+    "qualifications": [
+      "Energetic and self-motivated undergraduate or graduate-level students",
+      "Recent graduates are also eligible",
+      "Interest in government and public policy",
+      "Background in science is a plus"
+    ],
+    "how_to_apply": "Send your resume and cover letter to house.science.committee@mail.house.gov.",
+    "salary_info": null,
+    "contact": "house.science.committee@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-164-17",
+    "position_title": "Fall 2017 Intern",
+    "office": "Congressman Rob Wittman (VA-01)",
+    "location": "Washington, D.C.",
+    "posting_date": "2017-06-26",
+    "description": "Republican Congressman Rob Wittman (VA-01) is seeking unpaid interns for the fall 2017 semester in the Capitol Hill office. Interns will have the opportunity to attend committee hearings and briefings for staff members, assist in the constituent correspondence process, as well as assist with other constituent services. Responsibilities include: taking phone calls, processing constituent mail, and performing other general office duties. Ideal applicants should be interested in the legislative process, enthusiastic, reliable, and hard-working. Full or part time internships with flexible schedules are available. Ties to Virginia's First Congressional District are preferred but not required. Interested candidates should e-mail their resume and cover letter to katie.mazzola@mail.house.gov before July 7, 2017.",
+    "responsibilities": [
+      "Taking phone calls",
+      "Processing constituent mail",
+      "Performing other general office duties",
+      "Attending committee hearings and briefings for staff members",
+      "Assisting in the constituent correspondence process",
+      "Assisting with other constituent services"
+    ],
+    "qualifications": [
+      "Interested in the legislative process",
+      "Enthusiastic",
+      "Reliable",
+      "Hard-working",
+      "Ties to Virginia's First Congressional District are preferred but not required"
+    ],
+    "how_to_apply": "E-mail resume and cover letter to katie.mazzola@mail.house.gov before July 7, 2017.",
+    "salary_info": null,
+    "contact": "katie.mazzola@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

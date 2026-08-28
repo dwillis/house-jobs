@@ -1,0 +1,58 @@
+[
+  {
+    "id": "MEM-195-24",
+    "position_title": "Intern",
+    "office": "Congressman Seth Moulton (MA-06)",
+    "location": "Salem, MA and Washington, D.C.",
+    "posting_date": "2024-05-20",
+    "description": "Congressman Moulton is seeking hard-working individuals who are passionate, driven, and committed to public service for an internship in his Salem office and Washington D.C. office. Internships are intended for current undergraduate students, current graduate students, and recent college graduates. Interns receive a stipend distributed based on total hours worked. D.C. responsibilities include answering constituent phone calls, greeting constituents, categorizing and responding to constituent mail, drafting form letters and cosponsor requests, taking notes at briefings and hearings, conducting Capitol tours, assembling press clips, and other duties. District responsibilities include answering phones, assisting the Casework Team on federal agency casework, taking notes at briefings, assembling press clips, and attending community events. Applications are due July 15, 2024.",
+    "responsibilities": [
+      "Answering constituent phone calls and greeting constituents at the front desk (D.C. and District)",
+      "Categorizing and responding to constituent mail (D.C.)",
+      "Drafting form letters and cosponsor requests for the Congressman (D.C.)",
+      "Taking notes at briefings and hearings (D.C. and District)",
+      "Conducting tours of the Capitol for constituents (D.C.)",
+      "Assembling press and news clips (D.C. and District)",
+      "Assisting the Casework Team on a variety of casework requests involving federal agencies (District)",
+      "Performing a variety of other duties as assigned, such as conducting legislative research and attending community events"
+    ],
+    "qualifications": [
+      "Current undergraduate student, current graduate student, or recent college graduate",
+      "Hard-working, passionate, driven, and committed to public service"
+    ],
+    "how_to_apply": "Applicants can access the application at https://docs.google.com/forms/d/e/1FAIpQLSd1NOVxgvmGvGyH_1u4e35RUkweWU24Rmu7gA0Y3HOxKXTkjQ/viewform. More information is available on the internship portal at moulton.house.gov under the 'Services' tab. All applications are due on July 15th, 2024.",
+    "salary_info": null,
+    "contact": "bridget.pegg@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-192-24",
+    "position_title": "Digital and Press Fellow",
+    "office": "Congresswoman Terri Sewell (AL-07)",
+    "location": null,
+    "posting_date": "2024-05-20",
+    "description": "Congresswoman Terri Sewell (AL-07) seeks a creative Digital and Press Fellow to help her legislative and communications teams execute the office's press, outreach, and social media strategy. A major portion of the office's legislative work is centered on voting rights, healthcare, and economic equity. The office also has a robust district outreach agenda, which includes both virtual and in-person programming throughout the year. As a member of the press team, the Digital and Press Fellow will be engaged in all of this work. This position is paid and a commitment of three months is expected. We strongly encourage candidates from diverse backgrounds to apply.",
+    "responsibilities": [
+      "Drafting social media and outreach content with an emphasis on videos and graphic design",
+      "Media monitoring",
+      "Distributing daily news clips",
+      "Various other tasks to support the office's press, outreach, and social media strategy"
+    ],
+    "qualifications": [
+      "Creative self-starter with a high level of attention to detail",
+      "Willingness to work collaboratively to advance the office's goals",
+      "Advanced artistic ability",
+      "Strong writing, video editing, graphic design, and digital communication skills",
+      "Prior experience creating social media and digital content is preferred",
+      "Past experience in communications and experience with Adobe suite, Canva, Streamyard, Zoom, and other digital and virtual platforms is preferred"
+    ],
+    "how_to_apply": "Email a resume, two writing samples (700 word max), and samples of original digital content (graphics, videos, etc.) to AL07.DigitalFellow@mail.house.gov with \"First and Last Name, Digital & Press Fellow\" in the subject line by Friday, May 24th.",
+    "salary_info": null,
+    "contact": "AL07.DigitalFellow@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer and doesn't discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "MEM-304-22",
+    "position_title": "Fall Intern",
+    "office": "Congresswoman Katie Porter (CA-45)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "Rep. Katie Porter (CA-45) seeks highly motivated interns for her DC office fall internship program. The ideal candidate is highly organized, able to multitask, and has strong written and verbal communication skills. Interns are expected in the office from 9 am to 6 pm, however hours are flexible based on a student's course schedule. All interns receive a monthly stipend.",
+    "responsibilities": [
+      "Answer incoming phone calls to log opinions, connect staffers to outside stakeholders, and direct callers to appropriate resources",
+      "Enter and organize incoming constituent messages from mail and voicemail into the IQ database",
+      "Draft form letters responding to constituent concerns",
+      "Respond to constituent messages through phone calls or emails as needed",
+      "Assist legislative team with researching data and information",
+      "Compile draft meeting memos for the legislative staff",
+      "Track and input legislative meetings with partners, stakeholders, and constituents, in IQ",
+      "Perform other duties as assigned by the DC Staff Assistant"
+    ],
+    "qualifications": [
+      "Highly organized",
+      "Able to multitask",
+      "Strong written and verbal communication skills"
+    ],
+    "how_to_apply": "Send a cover letter, resume and two references to CA45.Internship@mail.house.gov with \"Fall 2022 DC Internship\" in the subject line. The deadline for submission is Friday, July 15th.",
+    "salary_info": null,
+    "contact": "CA45.Internship@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-302-22",
+    "position_title": "Press Intern",
+    "office": "Congresswoman Chrissy Houlahan (PA-06)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "The office of Representative Chrissy Houlahan (D-PA06) is accepting applications for a Fall 2022 press intern in our Washington, D.C. office. This internship will run from late August through mid-December. We offer needs-based stipends to students who are Pell Grant eligible. Our internship program has returned to in-person work with flexible telework options. Ideal applicants are adaptable and proactive self-starters who have experience in a fast-paced, deadline-oriented work environment. Applicants must be independent problem-solvers, have strong writing skills, and be comfortable communicating to both internal and external audience. Technical experience with graphic design tools (Canva, InDesign, Illustrator), photo editing programs (Photoshop, Lightroom), or video editing software (Premiere, Headliner) a major plus. Press interns will be responsible for compiling and distributing press clips, helping draft copy for press and digital materials, and developing digital content. Press interns will have the opportunity to staff the congresswoman to capture videos and photos of events. We offer interns the opportunity to see Congress up close and from the inside. Prior volunteer, leadership, and work experience are a plus. Ties to PA-06 are also a plus.",
+    "responsibilities": [
+      "Compiling and distributing press clips",
+      "Helping draft copy for press and digital materials",
+      "Developing digital content",
+      "Staffing the congresswoman to capture videos and photos of events"
+    ],
+    "qualifications": [
+      "Adaptable and proactive self-starters with experience in a fast-paced, deadline-oriented work environment",
+      "Independent problem-solvers with strong writing skills",
+      "Comfortable communicating to both internal and external audiences",
+      "Technical experience with graphic design tools (Canva, InDesign, Illustrator), photo editing programs (Photoshop, Lightroom), or video editing software (Premiere, Headliner) a major plus",
+      "Prior volunteer, leadership, and work experience are a plus",
+      "Ties to PA-06 are also a plus"
+    ],
+    "how_to_apply": "Send 1) a resume, 2) ONE brief paragraph about yourself and why you're interested in interning in our office, 3) a writing sample, and 4) one example of digital work (video, graphic or photo) to PA06Press.Interships@mail.house.gov.",
+    "salary_info": null,
+    "contact": "PA06Press.Interships@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-301-22",
+    "position_title": "Legislative Intern",
+    "office": "Congresswoman Chrissy Houlahan (PA-06)",
+    "location": "West Chester, Reading, and Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "The office of Representative Chrissy Houlahan (D-PA-06) is accepting applications for Fall 2022 legislative interns in our West Chester, Reading, and Washington, D.C. offices. This internship will run from late August through mid-December. Both full and part time internships are available, and we offer needs-based stipends to students who are Pell Grant eligible. Our internship program has returned to in-person work with flexible telework options. Ideal applicants are self-starters who bring a customer service mindset and a passion for community service. Applicants must be intellectually curious, willing to spend a lot of time on the phone, and write well. Responsibilities range from helping constituents, to doing research and drafting memos for our legislative staff, to staffing the Congresswoman in hearings or meetings. We offer interns the opportunity to see Congress up close and from the inside. Prior volunteer, leadership, and work experience are a plus. Ties to PA-06 are also a plus.",
+    "responsibilities": [
+      "Helping constituents",
+      "Doing research and drafting memos for legislative staff",
+      "Staffing the Congresswoman in hearings or meetings"
+    ],
+    "qualifications": [
+      "Self-starters who bring a customer service mindset and a passion for community service",
+      "Intellectually curious",
+      "Willing to spend a lot of time on the phone",
+      "Write well",
+      "Prior volunteer, leadership, and work experience are a plus",
+      "Ties to PA-06 are also a plus"
+    ],
+    "how_to_apply": "Please submit applications via the following form on our website: https://houlahan.house.gov/services/internships.htm",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-299-22",
+    "position_title": "Intern",
+    "office": "Congressman Jeff Van Drew (NJ-02)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "The office of Congressman Jeff Van Drew (NJ-02) is currently accepting applications for full and part-time interns for the Fall internship session. The start date would be as early as August 15th (with a flexible start and end date depending on availability). Interns are paid a stipend based on availability and have access to transit benefits. The internship will offer students and young professionals invaluable experience with our nation's legislative process. Interns contribute to the daily operations of the office and are expected to act in a reliable, professional manner at all times. Duties include (but are not limited to): greeting visitors, answering phones, leading tours of the Capitol, opening and sorting mail, attending briefings, performing legislative research, and various other tasks to assist staff. Congressman Van Drew supports students requesting credit for their internship through their university.",
+    "responsibilities": [
+      "Greeting visitors",
+      "Answering phones",
+      "Leading tours of the Capitol",
+      "Opening and sorting mail",
+      "Attending briefings",
+      "Performing legislative research",
+      "Various other tasks to assist staff"
+    ],
+    "qualifications": [
+      "Current student or young professional",
+      "Must act in a reliable, professional manner at all times",
+      "Available for full or part-time internship starting as early as August 15th"
+    ],
+    "how_to_apply": "Email a resume and cover letter to JeffVanDrewNJ@gmail.com. Indicate in your cover letter that you're applying for a spring internship and format the files as [Full Name_Resume], [Full Name_Cover Letter].",
+    "salary_info": null,
+    "contact": "JeffVanDrewNJ@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-297-22",
+    "position_title": "Fall 2022 Paid Intern",
+    "office": "Representative Pramila Jayapal (WA-07)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "The Washington, D.C. Office of Representative Pramila Jayapal (WA-07), Chair of the Congressional Progressive Caucus, is seeking full-time and part-time paid interns for the Fall 2022 term. Interns will work primarily with D.C.-based staff performing legislative and administrative work. All interns will be paid $15/hr unless funded by an outside organization. Applications will be accepted until Friday, July 22nd. Incomplete or late applications will not be accepted.",
+    "responsibilities": [
+      "Answering phones",
+      "Sorting and drafting responses to constituent correspondence",
+      "Attending briefings/hearings",
+      "Performing legislative research",
+      "Supporting staff members on various projects"
+    ],
+    "qualifications": [
+      "Professional demeanor",
+      "Excellent communication skills",
+      "Strong attention to detail",
+      "Commitment to public service and progressive values",
+      "State and/or district ties are a plus but not required"
+    ],
+    "how_to_apply": "E-mail a resume, cover letter, short writing sample, three references, and availability to Diego.Sanchez@mail.house.gov with the subject \"First Name.Last Name Internship Application.\" Applications will be accepted until Friday, July 22nd.",
+    "salary_info": null,
+    "contact": "Diego.Sanchez@mail.house.gov",
+    "equal_opportunity": "The Office of Representative Pramila Jayapal is an equal opportunity employer.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-296-22",
+    "position_title": "Fall Intern",
+    "office": "Congressman Jeff Van Drew (NJ-02)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "The office of Congressman Jeff Van Drew (NJ-02) is currently accepting applications for full and part-time interns for the Fall internship session. The start date would be as early as August 15th (with a flexible start and end date depending on availability). Interns are paid a stipend based on availability and have access to transit benefits. The internship will offer students and young professionals invaluable experience with our nation's legislative process. Interns contribute to the daily operations of the office and are expected to act in a reliable, professional manner at all times. Congressman Van Drew supports students requesting credit for their internship through their university.",
+    "responsibilities": [
+      "Greeting visitors",
+      "Answering phones",
+      "Leading tours of the Capitol",
+      "Opening and sorting mail",
+      "Attending briefings",
+      "Performing legislative research",
+      "Various other tasks to assist staff"
+    ],
+    "qualifications": [
+      "Current student or young professional",
+      "Reliable and professional manner at all times",
+      "Available for full or part-time internship starting as early as August 15th"
+    ],
+    "how_to_apply": "Email a resume and cover letter to JeffVanDrewNJ@gmail.com. Indicate in your cover letter that you're applying for a spring internship and format the files as [Full Name_Resume], [Full Name_Cover Letter].",
+    "salary_info": null,
+    "contact": "JeffVanDrewNJ@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-294-22",
+    "position_title": "Congressional Internship",
+    "office": "Congresswoman Carolyn B. Maloney (NY-12)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "The Office of Congresswoman Carolyn B. Maloney (D-NY-12) is seeking candidates for a Fall Internship in our Washington D.C. office. Qualified candidates will have strong oral and written communication skills, eager to learn, detail oriented and, passionate about public service. Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged to apply. Students from NY-12 are also strongly preferred. The ideal candidate will be available from late August through December and can work from 9am - 6pm ET when Congress is in session and from 9am - 5pm ET when Congress is not in session.",
+    "responsibilities": [
+      "Answering phones",
+      "Writing letters to constituents on a variety of policy topics",
+      "Assisting constituents with matters related to federal agencies",
+      "Researching legislation for the Member and the staff",
+      "Attending hearings and briefings"
+    ],
+    "qualifications": [
+      "Strong oral and written communication skills",
+      "Eager to learn",
+      "Detail oriented",
+      "Passionate about public service",
+      "Available from late August through December",
+      "Can work from 9am - 6pm ET when Congress is in session and from 9am - 5pm ET when Congress is not in session",
+      "Students from NY-12 are strongly preferred"
+    ],
+    "how_to_apply": "Email NY12Internships@mail.house.gov by midnight on July 8th, 2022, with a resume, cover letter, and 2 writing samples. Please include the office you are applying to and the term for which you are applying in the subject line (e.g. Washington, DC, Fall 2022.)",
+    "salary_info": null,
+    "contact": "NY12Internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-288-22",
+    "position_title": "Fall Intern",
+    "office": "Congressman Chris Pappas (NH-01)",
+    "location": "Washington, D.C. and district offices",
+    "posting_date": "2022-06-27",
+    "description": "The Washington, D.C. and district offices of Congressman Chris Pappas are currently accepting applications for the Spring internship program which will run from September to December 2022. This is an in-person internship with academic credit and stipend opportunities. Applications for full and part-time positions will be considered. Serving as an intern on our team is an exciting opportunity to work closely alongside staff and develop professional skills in a Congressional office setting. The ideal intern should be responsible, focused, enthusiastic, able to work cooperatively with Congressional staff, and possess excellent oral and written communications skills. To apply for an internship, please submit your resume, cover letter, and one short writing sample (no longer than two pages) to Pappas.Internships@mail.house.gov with \"[Last Name] [Location: DC or District] Internship Application – Spring 2022\" in the subject line by 11:59pm, Tuesday, July 12, 2022. In your email, please also specify your dates of availability. For more information visit https://pappas.house.gov/services/internships",
+    "responsibilities": [
+      "Work closely alongside staff in a Congressional office setting",
+      "Develop professional skills through hands-on internship experience"
+    ],
+    "qualifications": [
+      "Responsible",
+      "Focused",
+      "Enthusiastic",
+      "Able to work cooperatively with Congressional staff",
+      "Excellent oral and written communications skills"
+    ],
+    "how_to_apply": "Submit your resume, cover letter, and one short writing sample (no longer than two pages) to Pappas.Internships@mail.house.gov with \"[Last Name] [Location: DC or District] Internship Application – Spring 2022\" in the subject line by 11:59pm, Tuesday, July 12, 2022. In your email, please also specify your dates of availability.",
+    "salary_info": null,
+    "contact": "Pappas.Internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-286-22",
+    "position_title": "Intern",
+    "office": "Representative Andy Harris (MD-01)",
+    "location": "Washington, D.C.; Kent Island, MD; Salisbury, MD",
+    "posting_date": "2022-06-27",
+    "description": "The Office of Representative Andy Harris (MD-01) is seeking full-time and part-time interns for the fall in the D.C., Kent Island, and Salisbury offices. Duties will include but are not limited to answering constituent calls, assisting in sorting and distributing mail, performing research and assisting the legislative team, attending briefings, and administrative work as needed. Candidates should be interested in public policy and be detail-oriented, motivated, organized, and willing to learn. Candidates of all backgrounds are encouraged to apply. Maryland ties are preferred, but not required. To apply, please visit https://harris.house.gov/services/internships and complete the application. No phone calls please.",
+    "responsibilities": [
+      "Answering constituent calls",
+      "Assisting in sorting and distributing mail",
+      "Performing research and assisting the legislative team",
+      "Attending briefings",
+      "Administrative work as needed"
+    ],
+    "qualifications": [
+      "Interested in public policy",
+      "Detail-oriented",
+      "Motivated",
+      "Organized",
+      "Willing to learn",
+      "Maryland ties preferred, but not required"
+    ],
+    "how_to_apply": "Visit https://harris.house.gov/services/internships and complete the application. No phone calls please.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-285-22",
+    "position_title": "Legislative Intern",
+    "office": "Congressman Matt Cartwright (PA-08)",
+    "location": "Washington, DC",
+    "posting_date": "2022-06-27",
+    "description": "The Office of Congressman Matt Cartwright (PA-08) seeks motivated, detail-oriented, and energetic individuals for legislative internships in Washington, DC for the Fall 2022 semester. Responsibilities include but are not limited to: logging constituent concerns, drafting constituent correspondence on a variety of issues, attending legislative briefings, greeting constituents and visitors when in the office, assisting staff with research and special projects, tracking media coverage, and performing administrative duties. As a result, interns learn about the legislative process and the many other functions of a congressional office.",
+    "responsibilities": [
+      "Logging constituent concerns",
+      "Drafting constituent correspondence on a variety of issues",
+      "Attending legislative briefings",
+      "Greeting constituents and visitors when in the office",
+      "Assisting staff with research and special projects",
+      "Tracking media coverage",
+      "Performing administrative duties"
+    ],
+    "qualifications": [
+      "Strong interpersonal skills",
+      "Ability to manage multiple tasks",
+      "Strong writing skills",
+      "Demonstrate a solid work ethic"
+    ],
+    "how_to_apply": "Submit an application (including a resume, cover letter, and a short writing sample) to https://cartwright.house.gov/services/internships.htm. No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-282-22",
+    "position_title": "Fall Intern",
+    "office": "Congressman Scott Fitzgerald (WI-05)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "The Office of Representative Scott Fitzgerald (WI-05) is seeking full-time and part-time interns for the fall in the D.C. office. Duties will include but are not limited to answering constituent calls, assisting in sorting and distributing mail, performing research and assisting the legislative team, attending briefings, and administrative work as needed. Candidates should be interested in public policy and be detail-oriented, motivated, organized, and willing to learn. Candidates of all backgrounds are encouraged to apply. Wisconsin ties are preferred, but not required. To apply, please send an email with a resume and writing sample to Jack Hogerty at jack.hogerty@mail.house.gov. No phone calls please.",
+    "responsibilities": [
+      "Answering constituent calls",
+      "Assisting in sorting and distributing mail",
+      "Performing research and assisting the legislative team",
+      "Attending briefings",
+      "Administrative work as needed"
+    ],
+    "qualifications": [
+      "Interested in public policy",
+      "Detail-oriented",
+      "Motivated",
+      "Organized",
+      "Willing to learn",
+      "Wisconsin ties preferred, but not required"
+    ],
+    "how_to_apply": "Send an email with a resume and writing sample to jack.hogerty@mail.house.gov. No phone calls please.",
+    "salary_info": null,
+    "contact": "jack.hogerty@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-280-22",
+    "position_title": "Full-Time Intern",
+    "office": "House Committee on Oversight and Reform Democratic Staff",
+    "location": null,
+    "posting_date": "2022-06-27",
+    "description": "The House Committee on Oversight and Reform Democratic Staff is seeking college students wishing to gain Capitol Hill experience in a fast-paced office for full-time internships. Successful candidates will be professional, detail-oriented, and work well under pressure. Successful candidates will also have a sincere interest in public service and a desire to learn. Primary responsibilities include administrative tasks such as answering phones and handling mail as well as assisting with Committee hearings. Interns may also be asked to assist with investigative research or other projects as needed. Candidates with diverse backgrounds and experiences are strongly encouraged to apply. To apply, please submit a cover letter and resume to Oversight_Clerks@mail.house.gov with \"Clerk Internship Application\" in the subject line. No phone calls or drop-ins please.",
+    "responsibilities": [
+      "Administrative tasks such as answering phones and handling mail",
+      "Assisting with Committee hearings",
+      "Assisting with investigative research or other projects as needed"
+    ],
+    "qualifications": [
+      "College student",
+      "Professional",
+      "Detail-oriented",
+      "Work well under pressure",
+      "Sincere interest in public service",
+      "Desire to learn"
+    ],
+    "how_to_apply": "Submit a cover letter and resume to Oversight_Clerks@mail.house.gov with \"Clerk Internship Application\" in the subject line. No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": "Oversight_Clerks@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-277-22",
+    "position_title": "Paid Intern",
+    "office": "Congressman Doug LaMalfa (CA-01)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "Republican Congressman Doug LaMalfa (CA-01) is seeking paid, in-person interns for his Washington, DC office for the Fall 2022 term. Functioning as a key part of the staff, our interns help draft constituent correspondence, memos, and press releases, research legislation, take phone calls, and assist with various administrative tasks. We're looking for college students or recent graduates who are motivated, detail-orientated, and ready to work in a fast-paced setting. Ideal candidates possess strong organizational, communication, and writing skills, as well as the ability to manage multiple tasks and work well under pressure in a team environment. A positive attitude and interest in politics is a must. California ties are preferred, but not required and academic credit is available for qualifying students.",
+    "responsibilities": [
+      "Draft constituent correspondence, memos, and press releases",
+      "Research legislation",
+      "Take phone calls",
+      "Assist with various administrative tasks"
+    ],
+    "qualifications": [
+      "College students or recent graduates",
+      "Motivated, detail-orientated, and ready to work in a fast-paced setting",
+      "Strong organizational, communication, and writing skills",
+      "Ability to manage multiple tasks and work well under pressure in a team environment",
+      "Positive attitude and interest in politics",
+      "California ties preferred, but not required"
+    ],
+    "how_to_apply": "Email resume, cover letter, and dates of availability to seth.enderson@mail.house.gov with \"Fall 2022 Internship\" in the subject line.",
+    "salary_info": null,
+    "contact": "seth.enderson@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-276-22",
+    "position_title": "Fall 2022 Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2022-06-27",
+    "description": "The Committee on House Administration Republican Office seeks energetic and self-motivated individuals with an interest in government and public policy, to apply for its paid, full-time Fall 2022 internship program. The Committee on House Administration maintains jurisdiction of federal election policy and manages the day-to-day operations of the House of Representatives with oversight of several offices within the Capitol Complex, including the Chief Administrative Officer, Architect of the Capitol, Clerk of the House, House Inspector General, Sergeant at Arms, U.S. Capitol Police, and other legislative branch entities like the Library of Congress, Government Publishing Office, and the Smithsonian Institution. Working closely with Committee staff, interns will have the opportunity to gain first-hand knowledge of the inner-workings of a congressional committee and learn about the day-to-day administrative operations of the House of Representatives.",
+    "responsibilities": [
+      "Assisting Committee staff with official proceedings (hearings/markups)",
+      "Assisting with oversight and research",
+      "Assisting with phones",
+      "Providing support to all Committee staff",
+      "Answering phones",
+      "Greeting visitors",
+      "Sorting mail",
+      "Entering data",
+      "Drafting correspondence",
+      "Performing research",
+      "Drafting public statements",
+      "Prepping materials for hearings",
+      "Attending hearings and briefings",
+      "Reaching out to agencies and other congressional offices",
+      "Various special projects"
+    ],
+    "qualifications": [
+      "Energetic and self-motivated",
+      "Interest in government and public policy"
+    ],
+    "how_to_apply": "Please send a resume, cover letter, and availability to CHAInternGOP@mail.house.gov.",
+    "salary_info": null,
+    "contact": "CHAInternGOP@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

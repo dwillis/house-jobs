@@ -1,0 +1,618 @@
+[
+  {
+    "id": "MEM-087-25",
+    "position_title": "Paid Summer Intern",
+    "office": null,
+    "location": "Washington, DC",
+    "posting_date": "2025-03-03",
+    "description": "The House Democratic Caucus is seeking candidates for paid internships for the 2025 Summer term. Internships are full-time and in-person in the Washington, DC office. Current college students and recent graduates are welcome to apply. The internship offers students and young professionals invaluable experience supporting Members and staff of the House Democratic Caucus. Interns contribute to the daily operations of the office and are expected to act in a dependable and professional manner at all times. The internships include some physical tasks like lifting and pushing carts as part of event setup and logistical responsibilities. Three tracks are available: Press Intern, Digital Intern, and Operations Intern. The internship runs from Tuesday, May 27 to Friday, August 1, 2025. The deadline to apply is Friday, April 4, 2025.",
+    "responsibilities": [
+      "Press Intern: Drafting press releases and other written materials, maintaining press lists, and assisting with press events and other Caucus events and meetings",
+      "Digital Intern: Drafting digital copy for the Caucus official social media channels, collaborating on creative graphic and video content, and assisting with press conferences and other Caucus events and meetings",
+      "Operations Intern: Greeting guests, answering phones, monitoring and responding to the Caucus email inbox, assisting with Caucus Meetings and events, supporting office operations, attending briefings and drafting memos, and various day-to-day office tasks",
+      "Contributing to the daily operations of the office in a dependable and professional manner",
+      "Performing physical tasks like lifting and pushing carts as part of event setup and logistical responsibilities"
+    ],
+    "qualifications": [
+      "Current college student or recent graduate",
+      "Detail-oriented",
+      "Ability to work efficiently under pressure",
+      "Ability to manage multiple projects at one time",
+      "Dependable and professional manner at all times",
+      "Familiarity with livestreaming and livestreaming software is a plus (Press and Digital tracks)",
+      "Fluency in Spanish is a plus (Press track)"
+    ],
+    "how_to_apply": "Interested applicants should submit an application through the form at https://bit.ly/HDCSummerInternship and upload a resume, cover letter, and one-paged writing sample. Digital applicants may submit 1-2 digital samples. The deadline to apply for the Summer cohort is Friday, April 4, 2025.",
+    "salary_info": "$2,400 per month",
+    "contact": null,
+    "equal_opportunity": "The House Democratic Caucus is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law. Applicants with disabilities who require a reasonable accommodation to participate in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-085-25",
+    "position_title": "Press Intern",
+    "office": "Congressman Brad Schneider (IL-10)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Office of Representative Brad Schneider (D-IL-10) is now accepting applications for Summer 2025 Press Interns in the Washington, D.C., office. This paid internship runs from early May through late August and is open to both undergraduate and graduate students. Hours are flexible to accommodate academic schedules, with general hours from 9:00 a.m. to 6:00 p.m. when Congress is in session and 9:00 a.m. to 5:00 p.m. when not in session. As a press intern, you will collaborate closely with the communications team to create engaging graphics, edit videos, and draft social media content. You may also have the opportunity to join staffers alongside the Congressman at events or during meetings to capture pictures and draft content on-site. Additional responsibilities include some legislative internship duties, such as answering constituent calls, leading Capitol tours, and assisting with front office administrative tasks. The ideal candidate is adaptable, detail-oriented, and thrives in a fast-paced, deadline-driven environment. Strong writing skills are essential, as is the ability to communicate effectively with both internal and external stakeholders. Experience with graphic design platforms like Canva, as well as photo and video editing software, is a plus. Interested applicants should submit one PDF file containing a cover letter, resume, one example of digital work (video, graphic, or photo). These materials should be sent to Matthew.Rodriguez@mail.house.gov with the subject line \"Summer 2025 Press Internship Application – [Your Name]\". Please submit your application by 11:59 p.m. EST on March 21, 2025. Due to a high volume of applicants, you will only be contacted if you are selected for an interview. This office is an equal-opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status. Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged to apply.",
+    "responsibilities": [
+      "Collaborate closely with the communications team to create engaging graphics",
+      "Edit videos",
+      "Draft social media content",
+      "Join staffers alongside the Congressman at events or during meetings to capture pictures and draft content on-site",
+      "Answer constituent calls",
+      "Lead Capitol tours",
+      "Assist with front office administrative tasks"
+    ],
+    "qualifications": [
+      "Open to both undergraduate and graduate students",
+      "Adaptable and detail-oriented",
+      "Thrives in a fast-paced, deadline-driven environment",
+      "Strong writing skills",
+      "Ability to communicate effectively with both internal and external stakeholders",
+      "Experience with graphic design platforms like Canva, as well as photo and video editing software (a plus)"
+    ],
+    "how_to_apply": "Submit one PDF file containing a cover letter, resume, and one example of digital work (video, graphic, or photo) to Matthew.Rodriguez@mail.house.gov with the subject line \"Summer 2025 Press Internship Application – [Your Name]\" by 11:59 p.m. EST on March 21, 2025.",
+    "salary_info": null,
+    "contact": "Matthew.Rodriguez@mail.house.gov",
+    "equal_opportunity": "This office is an equal-opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-084-25",
+    "position_title": "Legislative Intern",
+    "office": "Congressman Brad Schneider (IL-10)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Office of Representative Brad Schneider (D-IL-10) is now accepting applications for Summer 2025 legislative interns in the Washington, D.C., office. This paid internship runs from early June through late August and is open to both undergraduate and graduate students. Hours are flexible to accommodate academic schedules, with general hours from 9:00 a.m. to 6:00 p.m. when Congress is in session and 9:00 a.m. to 5:00 p.m. when not in session. As a legislative intern, you will play a key role in ensuring the smooth operation of the office while gaining valuable experience working with the legislative team on policy matters. This position provides a unique opportunity to gain first-hand experience in learning about the legislative process and the diverse functions of a congressional office.",
+    "responsibilities": [
+      "Answering phones",
+      "Managing errands",
+      "Researching legislation for the Congressman and staff",
+      "Attending hearings and briefings",
+      "Leading Capitol tours",
+      "Responding to constituent inquiries"
+    ],
+    "qualifications": [
+      "Adaptable and detail-oriented",
+      "Thrives in a fast-paced, deadline-driven environment",
+      "Strong writing skills",
+      "Ability to communicate effectively with both internal and external stakeholders",
+      "Experience in a professional environment is a plus",
+      "Knowledge of basic congressional operations is a plus"
+    ],
+    "how_to_apply": "Complete the internship application form on the website (https://schneider.house.gov/students/internships) by 11:59 p.m. EST on March 21, 2025.",
+    "salary_info": null,
+    "contact": "Matthew.Rodriguez@mail.house.gov",
+    "equal_opportunity": "This office is an equal-opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-083-25",
+    "position_title": "Scheduling & Administrative Internship",
+    "office": "Congressman Brad Schneider (IL-10)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Office of Representative Brad Schneider (D-IL-10) is now accepting applications for a Summer 2025 scheduling & administrative intern in the Washington, D.C. office. This paid internship runs from early June through early August and is open to both undergraduate and graduate students. This internship offers an exciting opportunity to contribute to the Congressman's success by assisting with administrative tasks, incoming scheduling requests, and constituent services. General hours for this internship are 9:00 a.m. to 6:00 p.m. when Congress is in session and 9:00 a.m. to 5:00 p.m. when not in session. Preference will be given to residents of Illinois' 10th Congressional District, rising Seniors and spring 2025 graduates, and applicants with availability to work three full days or more a week.",
+    "responsibilities": [
+      "Serve as the first point of contact for visitors, providing exceptional customer service at the front desk.",
+      "Answer and direct incoming phone calls, take messages, and handle constituent inquiries efficiently.",
+      "Assist with managing incoming mail and email, ensuring correspondence is logged and routed appropriately.",
+      "Organizing, vetting, and tracking incoming meeting requests and invitations; assisting the Director of Scheduling with the Congressman's daily and long-term schedules; maintaining all scheduling files; and other executive assistant and operations duties as needed.",
+      "In coordination with the Director of Scheduling, acting as a point of contact for the Congressman's staff, constituents, and external stakeholders regarding scheduling inquiries."
+    ],
+    "qualifications": [
+      "Strong organizational skills with a keen attention to detail and the ability to multitask in a fast-paced environment.",
+      "Excellent communication skills, both written and verbal, with a professional and friendly demeanor.",
+      "The ability to thrive in a fast-paced environment and work well with a team."
+    ],
+    "how_to_apply": "Complete the internship application form on the website (https://schneider.house.gov/students/internships) by 11:59 p.m. EST on March 21, 2025. If you have trouble accessing the application form or have any questions, email Matthew.Rodriguez@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Matthew.Rodriguez@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-079-25",
+    "position_title": "Congressional Intern",
+    "office": "Congressman Rob Wittman (VA-01)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "As a Congressional Intern for Congressman Rob Wittman, you will have the unique opportunity to gain hands-on experience working for Virginia's 1st Congressional District in the U.S. House of Representatives. Our office is committed to serving our constituents, advancing thoughtful policies, and making a difference in the lives of Virginians and all Americans. This paid internship will provide you with valuable insights into the legislative process and a chance to contribute to meaningful work in a congressional office. You will have the opportunity for exposure to the legislative process and policymaking, insight into the workings of a congressional office, and valuable professional development and mentorship.",
+    "responsibilities": [
+      "Answering phone calls from constituents",
+      "Sorting mail and emails from constituents",
+      "Compile media clips",
+      "Conduct legislative research on various issues",
+      "Assist in drafting and editing policy briefs, speeches, and press releases",
+      "Attend congressional hearings, briefings, and meetings",
+      "Assist with administrative tasks and office operations",
+      "Perform various other duties as assigned"
+    ],
+    "qualifications": [
+      "Experience with constituent/customer services",
+      "Strong interest in politics, government, and public policy",
+      "Excellent research and writing skills",
+      "Effective communication and interpersonal skills",
+      "Enthusiastic, reliable, and hard-working",
+      "Detail-oriented and able to multitask",
+      "Proficiency in Microsoft Office and other relevant software",
+      "A willingness to learn and adapt in a fast-paced environment"
+    ],
+    "how_to_apply": "Submit a resume, a cover letter explaining your interest in the congressional internship and your relevant qualifications, and contact information for two references to Nicolle.Miranda@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Nicolle.Miranda@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-078-25",
+    "position_title": "Summer 2025 Legislative Internship",
+    "office": "Congresswoman Mary Gay Scanlon (PA-05)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "Internships are based in Congresswoman Scanlon's Washington, DC office for college students and recent graduates and will be in person. Hours are flexible to accommodate students' course schedules, but generally run from 9 a.m. to 5 p.m. The Legislative Internship is paid via monthly stipend. Applications for Summer 2025 internships will be accepted beginning Feb 21st, and are due March 21st, 2025.",
+    "responsibilities": [
+      "Drafting constituent correspondence",
+      "Researching various legislative issues and writing policy memos for the Congresswoman",
+      "Attending briefings, hearings, and markups and drafting related memoranda",
+      "Responding to constituent mail and answering office phones"
+    ],
+    "qualifications": [
+      "Motivated team players with strong written and oral communication skills",
+      "Demonstrated interest in government and public service",
+      "Strong work ethic",
+      "Ability to excel in fast-paced environments",
+      "Willingness to assist wherever needed"
+    ],
+    "how_to_apply": "Submit a resume, cover letter, one short writing sample, and two references to Madhumita.Gupta@mail.house.gov with the subject line \"Summer Legislative Internship, NAME\". Please include availability in the cover letter and compile all application materials into one PDF document.",
+    "salary_info": null,
+    "contact": "Madhumita.Gupta@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-077-25",
+    "position_title": "Communications Intern/Fellow",
+    "office": null,
+    "location": null,
+    "posting_date": "2025-03-03",
+    "description": "The Committee on House Administration Democratic staff is currently seeking to fill the Communications Intern/Communications Fellow vacancy. The individual in this role will work closely with a fast-paced communications team. Qualified candidates should have demonstrated graphic design experience, strong writing and social media skills, and a desire to help create engaging content. The Committee on House Administration is primarily responsible for oversight of the House offices and legislative branch agencies within the Committee's portfolio. These include the Library of Congress, Smithsonian Institution (including the National Zoo), Chief Administrative Officer, Clerk of the House, Sergeant at Arms, House Inspector General, United States Capitol Police, Government Publishing Office, Architect of the Capitol, Office of Congressional Accessibility Services, and the Office of Congressional Workplace Rights. This is a paid, full-time, limited term position.",
+    "responsibilities": [
+      "Drafting social media content and designing graphics",
+      "Editing and captioning videos",
+      "Compiling daily press clips",
+      "Taking photos during Committee hearings and events",
+      "Drafting press releases, media advisories, and weekly reports"
+    ],
+    "qualifications": [
+      "Demonstrated graphic design experience",
+      "Strong writing and social media skills",
+      "Desire to help create engaging content"
+    ],
+    "how_to_apply": "Submit a resume and at least two graphic design and writing samples to resume.chadem@mail.house.gov with the subject line: \"Communications Intern _ [First Name] [Last Name]\".",
+    "salary_info": null,
+    "contact": "resume.chadem@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-075-25",
+    "position_title": "Legislative Intern",
+    "office": "Congressman Mike Levin (CA-49)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "Congressman Mike Levin (CA-49) seeks Legislative Interns for his Washington, D.C., office for the Summer 2025 term. These internships provide an opportunity for undergraduate students, graduate students, and recent graduates to learn more about the workings of a Congressional office and the legislative process. Internships last approximately three to four months and are intended to be an educational experience. Internships are offered for either academic credit or a stipend. Current students and recent graduates will be given first priority for the internship program. Applicants with strong ties to the 49th District are given preference.",
+    "responsibilities": [
+      "Attending committee hearings and congressional briefings",
+      "Conducting policy research and drafting legislative materials",
+      "Authoring constituent correspondence on a range of policy issues",
+      "Answering phones and processing mail",
+      "Leading constituents on tours of the Capitol",
+      "Working on other administrative and legislative tasks, as directed"
+    ],
+    "qualifications": [
+      "Must be a high school graduate",
+      "General understanding of the U.S. political system",
+      "Value open communication",
+      "Eager to grow",
+      "Bring a can-do attitude",
+      "Current students and recent graduates given first priority"
+    ],
+    "how_to_apply": "Email a cover letter, resume, three references, and a brief writing sample all in one PDF file, with the file name including internship class, year, last name, and first name (i.e. Summer2025.Doe.Jane.pdf) to CA49.DCInternships@mail.house.gov by March 15, 2025. Specify whether you are applying for the press internship or the legislative internship.",
+    "salary_info": null,
+    "contact": "CA49.DCInternships@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation. We deeply value the diversity of our employees and encourage candidates from diverse backgrounds to apply.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-075-25",
+    "position_title": "Press Intern",
+    "office": "Congressman Mike Levin (CA-49)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "Congressman Mike Levin (CA-49) seeks Press Interns for his Washington, D.C., office for the Summer 2025 term. These internships provide an opportunity for undergraduate students, graduate students, and recent graduates to learn more about the workings of a Congressional office and the legislative process. Internships last approximately three to four months and are intended to be an educational experience. Internships are offered for either academic credit or a stipend. Current students and recent graduates will be given first priority for the internship program. Press interns should have strong social media skills and basic familiarity with graphic design and video editing. Submission of a sample graphic or similar communications work with your application is strongly encouraged. Applicants with strong ties to the 49th District are given preference.",
+    "responsibilities": [
+      "Assisting the Communications Director and Digital Manager/Press Secretary in drafting and editing social media content, digital graphics, and other digital materials",
+      "Drafting press releases, newsletters, remarks, and talking points",
+      "Compiling daily press clips and maintaining press lists",
+      "Answering phones and processing mail",
+      "Leading constituents on tours of the Capitol",
+      "Working on other administrative and communications-related tasks, as directed"
+    ],
+    "qualifications": [
+      "Must be a high school graduate",
+      "General understanding of the U.S. political system",
+      "Strong social media skills",
+      "Basic familiarity with graphic design and video editing",
+      "Submission of a sample graphic or similar communications work strongly encouraged",
+      "Current students and recent graduates given first priority"
+    ],
+    "how_to_apply": "Email a cover letter, resume, three references, and a brief writing sample all in one PDF file, with the file name including internship class, year, last name, and first name (i.e. Summer2025.Doe.Jane.pdf) to CA49.DCInternships@mail.house.gov by March 15, 2025. Specify whether you are applying for the press internship or the legislative internship.",
+    "salary_info": null,
+    "contact": "CA49.DCInternships@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation. We deeply value the diversity of our employees and encourage candidates from diverse backgrounds to apply.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-073-25",
+    "position_title": "Intern",
+    "office": "Congresswoman Janelle Bynum (OR-05)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Office of Congresswoman Janelle Bynum (OR-05) is seeking an energetic Intern to join our DC team. Paid position 16-24 hours per week; with a targeted start date in early or middle March 2025. Key duties include providing a welcoming environment, handling incoming calls, assisting with logistical and administrative duties, logging constituent input, assisting with flag requests and tours, attending briefings and hearings, and drafting correspondence.",
+    "responsibilities": [
+      "Provide a welcoming environment and positive first impression of the Member office to constituents, visitors, and other VIPs",
+      "Handle incoming calls with poise, professionalism, and promptness",
+      "Assist Member and key staff with logistical and administrative duties",
+      "Receive and log input from constituents on policy matters for the Member office's consideration and response",
+      "Assist with constituent flag requests, tours of the Capitol, and arranging visits to other national landmarks",
+      "Attend briefings and hearings, collect Member signatures, deliver time sensitive Member to Member correspondence, conduct research, and draft correspondence and memoranda"
+    ],
+    "qualifications": [
+      "Energetic and professional demeanor",
+      "Strong communication and interpersonal skills",
+      "Ability to handle incoming calls with poise and promptness",
+      "Organizational skills for logistical and administrative duties",
+      "Research and writing skills for drafting correspondence and memoranda",
+      "Interest in congressional operations and constituent services"
+    ],
+    "how_to_apply": "Interested applicants can send their Resume and a Cover Letter to Brett.Mulligan@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Brett.Mulligan@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-070-25",
+    "position_title": "Congressional Intern",
+    "office": "Congresswoman Sydney Kamlager-Dove (CA-37)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Office of Congresswoman Sydney Kamlager-Dove (CA-37) is seeking Congressional Interns for our Washington, D.C. office for the Summer 2025 term. Our office values open communication, hard work, and creating a collegial environment. We are looking for interns with a can-do attitude who are eager to grow. Interns will have great opportunities to learn from office staff and network with others to make the most of their time with our office! Summer internships are slated to start mid-May 2025 and go until the end of August 2025, with some flexibility based on academic schedule. Interns are expected to work in person in the office, Monday-Friday 9 a.m.- 5 p.m. Unfortunately, we cannot accommodate remote or hybrid internships. Deadline: Applications must be submitted by 11:59 p.m. ET on Sunday, March 16, 2025.",
+    "responsibilities": [
+      "Answer phones and assist in correspondence with constituents",
+      "Greet constituents and office visitors",
+      "Process tour requests and lead Capitol tours",
+      "Handle mail",
+      "Perform legislative research and draft memos",
+      "Assist the Communications Director and Press Assistant in drafting social media content and other materials like press releases, website content, and newsletters",
+      "Compile daily press clips",
+      "Edit video clips",
+      "Work on other administrative tasks as directed"
+    ],
+    "qualifications": [
+      "Interest in the legislative process and civic service",
+      "Excellent writing, research, organization, time management, and communication skills",
+      "Work well in a team environment",
+      "General understanding of the US political system",
+      "Can-do attitude and eagerness to grow"
+    ],
+    "how_to_apply": "Interested applicants should send their resume and a brief cover letter detailing weekly available hours IN ONE COMBINED DOCUMENT to CA37.internships@mail.house.gov for DC office internship. Use the subject line and title your document \"First name Last name [legislative] OR [press] – Summer 2025 internship\".",
+    "salary_info": null,
+    "contact": "Maite.McPherson@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-069-25",
+    "position_title": "Summer 2025 Intern",
+    "office": "Congresswoman Grace Meng (NY-06)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Office of Congresswoman Grace Meng (NY-06) seeks candidates for paid Summer 2025 internship positions in the Washington D.C. office. Intern responsibilities will vary and are designed to give interns insight into the legislative process and a well-rounded experience on Capitol Hill. Some duties include answering phones, running errands, giving Capitol tours, researching legislation for the Member and legislative staff, attending hearings and briefings, and answering constituent letters on various issues before the House. This internship will run from May/June to August. Hours are flexible to accommodate students course schedules, but generally run from Monday to Friday, 9:00am to 5:00pm. Applications for the Summer semester will be considered on a rolling basis. Priority will be given to applicants who apply before March 15th. Interested applicants should email a resume, cover letter, writing sample, and their availability to ny06_intern_app@mail.house.gov. Please include your name and the semester for which you are applying in the subject line.",
+    "responsibilities": [
+      "Answering phones",
+      "Running errands",
+      "Giving Capitol tours",
+      "Researching legislation for the Member and legislative staff",
+      "Attending hearings and briefings",
+      "Answering constituent letters on various issues before the House"
+    ],
+    "qualifications": [
+      "Current student or recent graduate",
+      "Strong written and verbal communication skills",
+      "Interest in the legislative process and Capitol Hill operations",
+      "Ability to work flexible hours Monday through Friday"
+    ],
+    "how_to_apply": "Email a resume, cover letter, writing sample, and availability to ny06_intern_app@mail.house.gov. Include your name and the semester for which you are applying in the subject line.",
+    "salary_info": null,
+    "contact": "ny06_intern_app@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-068-25",
+    "position_title": "Summer 2025 Intern",
+    "office": "Representative Donald Norcross (NJ-01)",
+    "location": null,
+    "posting_date": "2025-03-03",
+    "description": "The Office of Representative Donald Norcross (NJ-01) is seeking motivated candidates for the Summer 2025 Internship program. Intern responsibilities will include but are not limited to assisting staff with legislative, administrative, constituent relations, scheduling, and communications activities. Interns will answer phones; sort, distribute, and respond to constituent mail; attend hearings and briefings; assist with legislative research; compile daily clips; and participate in professional development activities. Successful candidates will demonstrate that they are organized, detail-oriented, and professional. Strong written and oral communication skills are essential. Interns receive a stipend. Please send a resume, cover letter, two or three professional references, and a brief writing sample as one combined PDF to internships.norcross@mail.house.gov. No phone calls or drop-ins, please. Incomplete applications will not be reviewed.",
+    "responsibilities": [
+      "Assisting staff with legislative, administrative, constituent relations, scheduling, and communications activities",
+      "Answering phones",
+      "Sorting, distributing, and responding to constituent mail",
+      "Attending hearings and briefings",
+      "Assisting with legislative research",
+      "Compiling daily clips",
+      "Participating in professional development activities"
+    ],
+    "qualifications": [
+      "Organized",
+      "Detail-oriented",
+      "Professional",
+      "Strong written and oral communication skills"
+    ],
+    "how_to_apply": "Send a resume, cover letter, two or three professional references, and a brief writing sample as one combined PDF to internships.norcross@mail.house.gov. No phone calls or drop-ins, please. Incomplete applications will not be reviewed.",
+    "salary_info": null,
+    "contact": "internships.norcross@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-066-25",
+    "position_title": "Legislative Intern",
+    "office": "Congresswoman Chrissy Houlahan (PA-06)",
+    "location": "West Chester, Reading, and Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Office of Representative Chrissy Houlahan (D-PA-06) is accepting applications for Summer 2025 legislative interns in our West Chester, Reading, and Washington, D.C. offices. This internship will run from late May through early August. Both full and part time internships are available, and we offer stipends to students who are in need. Our internship program has returned to in-person work with flexible telework options should interns need to work from home. Ideal applicants are self-starters who bring a customer service mindset and a passion for community service. Applicants must be intellectually curious, willing to spend a lot of time on the phone and write well. Responsibilities range from helping constituents, to doing research and drafting memos for our legislative staff, to staffing the Congresswoman in hearings or meetings. We offer interns the opportunity to see Congress up close and from the inside. Prior volunteer, leadership, and work experience are a plus. Ties to PA-06 are also a plus. Please submit applications through the \"Legislative Internship\" form on our website, Houlahan.house.gov. Due to a high volume of applicants, you will likely only be contacted if you are selected for an interview. This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status. Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged to apply.",
+    "responsibilities": [
+      "Helping constituents",
+      "Doing research and drafting memos for legislative staff",
+      "Staffing the Congresswoman in hearings or meetings"
+    ],
+    "qualifications": [
+      "Self-starters who bring a customer service mindset and a passion for community service",
+      "Intellectually curious",
+      "Willing to spend a lot of time on the phone",
+      "Write well",
+      "Prior volunteer, leadership, and work experience are a plus",
+      "Ties to PA-06 are also a plus"
+    ],
+    "how_to_apply": "Submit applications through the \"Legislative Internship\" form on the website Houlahan.house.gov.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-065-25",
+    "position_title": "Press Intern",
+    "office": "Congresswoman Chrissy Houlahan (PA-06)",
+    "location": "Washington, D.C.; Reading, PA; West Chester, PA",
+    "posting_date": "2025-03-03",
+    "description": "The Office of Representative Chrissy Houlahan (D-PA-06) is accepting applications for Summer 2025 Press Interns in our Washington, D.C., Reading, and West Chester offices. This internship will run from late May through early August. We offer needs-based stipends to students who are in need. Our internship program has returned to in-person work with flexible telework options. Ideal applicants are adaptable and proactive self-starters who have experience in a fast-paced, deadline-oriented work environment. Applicants must be independent problem-solvers, have strong writing skills, and be comfortable communicating to both internal and external audiences. Technical experience with graphic design tools (Canva, InDesign, Illustrator), photo editing programs (Photoshop, Lightroom), or video editing software (Premiere, Headliner) a major plus. Press interns will be responsible for compiling and distributing press clips, helping draft copy for press and digital materials, and developing digital content. Press interns will have the opportunity to staff the congresswoman to capture videos and photos of events. We offer interns the opportunity to see Congress up close and from the inside. Prior volunteer, leadership, and work experience are a plus. Ties to PA-06 are also a plus.",
+    "responsibilities": [
+      "Compiling and distributing press clips",
+      "Helping draft copy for press and digital materials",
+      "Developing digital content",
+      "Staffing the congresswoman to capture videos and photos of events"
+    ],
+    "qualifications": [
+      "Adaptable and proactive self-starters with experience in a fast-paced, deadline-oriented work environment",
+      "Independent problem-solvers with strong writing skills",
+      "Comfortable communicating to both internal and external audiences",
+      "Technical experience with graphic design tools (Canva, InDesign, Illustrator), photo editing programs (Photoshop, Lightroom), or video editing software (Premiere, Headliner) a major plus",
+      "Prior volunteer, leadership, and work experience are a plus",
+      "Ties to PA-06 are also a plus"
+    ],
+    "how_to_apply": "Send 1) a resume, 2) ONE brief paragraph about yourself and why you're interested in interning in our office, 3) a writing sample, and 4) one example of digital work (video, graphic or photo) to PA06Press.Internships@mail.house.gov.",
+    "salary_info": null,
+    "contact": "PA06Press.Internships@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-059-25",
+    "position_title": "Summer Intern",
+    "office": "Congressman Joseph D. Morelle (NY-25)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Washington, D.C. Office of Representative Joe Morelle is now accepting applications for an internship during the 2025 Summer term. Applicants must be based in Washington, D.C. for the duration of the summer internship (mid-May to mid-August, subject to change). Full-time paid internships run Monday through Friday from 9:00 a.m. to 6:00 p.m. when Congress is in session, and 9:00 a.m. to 5:00 p.m. when not in session. Part-time internships are scheduled to accommodate students' course schedules, as well as the needs of the office. Part-time interns can expect to receive either a stipend or academic credit. Interns must be legally eligible to work for the U.S. federal government. Throughout the semester, interns will learn about the operations of a congressional office, congressional communications, and the legislative process.",
+    "responsibilities": [
+      "Greeting guests and assisting with front office operations",
+      "Answering phones, recording constituent opinions, and correctly processing inquiries",
+      "Conducting Capitol tours for constituents and other guests",
+      "Day-to-day office work to assist with the functioning of the congressional office and other duties as delegated by members of the staff",
+      "Supporting the Legislative Correspondent with sorting mail and drafting constituent letters",
+      "Attending hearings and briefings, as requested by senior staff",
+      "Researching legislation for the Member and legislative team",
+      "Interacting with members of staff in the D.C. office and virtually with the Rochester office",
+      "Other administrative tasks as assigned"
+    ],
+    "qualifications": [
+      "Excellent written and verbal communications skills",
+      "Strong attention to detail",
+      "Ability to succeed in a fast-paced work environment",
+      "Good sense of humor",
+      "Must be legally eligible to work for the U.S. federal government",
+      "New York State ties are preferred but not required",
+      "Intended for current undergraduate students, current graduate students, and recent college graduates"
+    ],
+    "how_to_apply": "Interested applicants should submit a resume, cover letter, and writing sample (max. 2 pages) via the Google form at https://forms.gle/vPks4HTwadRtpDDF6. Applications are accepted on a rolling basis until March 15th at 11:59pm EST. For more information, visit https://morelle.house.gov/congressional-internships.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, disability, military status, age, marital status, or parental status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-058-25",
+    "position_title": "Legislative Intern",
+    "office": null,
+    "location": null,
+    "posting_date": "2025-03-03",
+    "description": "The Democratic Staff of the House Energy and Commerce Committee seeks qualified undergrad students and recent graduates for Legislative Interns for the Summer 2025 session. An internship with the Energy and Commerce Democrats is designed to give students a thorough understanding of a Congressional committee's role in the legislative process. Throughout the course of the program, interns will assist staff with administrative tasks such as answering phones, conducting legislative research, and preparing materials for staff and member briefings. In addition, interns will have the opportunity to shadow staff at hearings and markups, as well as attend briefings on subjects within the Committee's broad jurisdiction. Interns will receive a stipend, and applicants may request the Committee's assistance to receive credit from their educational institution.",
+    "responsibilities": [
+      "Assist staff with administrative tasks such as answering phones",
+      "Conduct legislative research",
+      "Prepare materials for staff and member briefings",
+      "Shadow staff at hearings and markups",
+      "Attend briefings on subjects within the Committee's broad jurisdiction"
+    ],
+    "qualifications": [
+      "Undergraduate student or recent graduate",
+      "Organized and committed",
+      "Eager to join a fast-paced environment and build upon knowledge of how Congress works",
+      "Superior writing and communication skills",
+      "Attention to detail",
+      "Sense of humor",
+      "Full-time availability preferred, but part-time candidates eligible"
+    ],
+    "how_to_apply": "Submit resume, cover letter, and one writing sample (two pages max) to InternshipResume.EC@mail.house.gov. In the cover letter, indicate preferred start/end dates and whether available full-time or part-time. Put \"Summer 2025 Legislative Intern Application\" in the subject line. Deadline for applications is March 21, 2025. No phone calls or drop-ins.",
+    "salary_info": null,
+    "contact": "InternshipResume.EC@mail.house.gov",
+    "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, or age.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-055-25",
+    "position_title": "Intern",
+    "office": "Congressman French Hill (AR-02)",
+    "location": "Washington, D.C., and Arkansas",
+    "posting_date": "2025-03-03",
+    "description": "Congressman French Hill (AR02) seeks interns to serve in his offices in Washington, D.C., and Arkansas. Interns will work in a fast-paced office, gaining valuable exposure and knowledge of the legislative process and the U.S. Congress. Intern responsibilities include (but are not limited to) interacting with Arkansans and other visitors, conducting legislative research and writing, drafting communications materials, and assisting Arkansans with matters before the federal government. Standard internships take place as follows: Spring: January through May, Summer: May through August, Fall: September through November. Internships outside of this schedule may be offered on a case-by-case basis. Paid and unpaid internships are available. Interested individuals should send a resume and cover letter to ar02.applications@mail.house.gov. For more information, please call (501) 324-5941 or (202) 225-2506 and ask for the Intern Coordinator.",
+    "responsibilities": [
+      "Interacting with Arkansans and other visitors",
+      "Conducting legislative research and writing",
+      "Drafting communications materials",
+      "Assisting Arkansans with matters before the federal government",
+      "Assisting with daily office tasks"
+    ],
+    "qualifications": [
+      "Positive attitude",
+      "Strong work ethic",
+      "Excellent written and oral communication skills",
+      "Working knowledge of current events and policy topics",
+      "Willingness to assist with daily office tasks",
+      "Social media and other communications experience (a plus)",
+      "Self-starter",
+      "Ability to listen to and take direction",
+      "Willingness to work both independently and as part of a team"
+    ],
+    "how_to_apply": "Send a resume and cover letter to ar02.applications@mail.house.gov. For more information, call (501) 324-5941 or (202) 225-2506 and ask for the Intern Coordinator.",
+    "salary_info": null,
+    "contact": "ar02.applications@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-050-25",
+    "position_title": "Intern",
+    "office": "Congresswoman Gwen Moore (WI-04)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Washington, D.C. office of Congresswoman Gwen Moore (WI-04) seeks Interns for the upcoming Summer 2025 term. Responsibilities include answering phones, attending hearings and briefings, drafting and editing constituent correspondence letters, writing memos, conducting research for the legislative staff, drafting social media posts, designing graphics, and providing support for the day-to-day activities of the office. Interns are paid via a monthly stipend. The Office of Congresswoman Moore is an equal opportunity employer. We do not discriminate based on race, ethnicity, gender, sexual orientation, religion, national origin, age, or socioeconomic status. All are welcome and encouraged to apply. Interested applicants should send a resume, cover letter, and two short writing samples to WI04DC.Internships@mail.house.gov. Additionally, applicants should indicate their availability on both an hourly and monthly basis. The deadline to apply is 6:00 PM ET on Friday, April 11th, 2025.",
+    "responsibilities": [
+      "Answering phones",
+      "Attending hearings and briefings",
+      "Drafting and editing constituent correspondence letters",
+      "Writing memos",
+      "Conducting research for the legislative staff",
+      "Drafting social media posts",
+      "Designing graphics",
+      "Providing support for the day-to-day activities of the office"
+    ],
+    "qualifications": [
+      "None specified"
+    ],
+    "how_to_apply": "Send a resume, cover letter, and two short writing samples to WI04DC.Internships@mail.house.gov. Additionally, indicate availability on both an hourly and monthly basis. The deadline to apply is 6:00 PM ET on Friday, April 11th, 2025.",
+    "salary_info": null,
+    "contact": "WI04DC.Internships@mail.house.gov",
+    "equal_opportunity": "The Office of Congresswoman Moore is an equal opportunity employer. We do not discriminate based on race, ethnicity, gender, sexual orientation, religion, national origin, age, or socioeconomic status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-044-25",
+    "position_title": "Intern",
+    "office": "Congressman Jeff Van Drew (NJ-02)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The office of U.S. Congressman Jeff Van Drew (R-NJ-02) is currently accepting applications for part and full-time interns for the summer session. This is a Republican office, and the start date would be as early as May 1st with an end date in early August. This is a paid internship with each intern receiving up to a $1,000 stipend depending on availability based on a 40-hour workweek. The internship will offer students and young professionals invaluable experience with our nation's legislative process. Interns contribute to the daily operations of the office and are expected to act in a reliable, professional manner at all times. Duties include (but are not limited to): greeting visitors, answering phones, leading tours of the U.S. Capitol, opening and sorting mail, attending briefings, performing legislative research, and various other tasks to assist staff.",
+    "responsibilities": [
+      "Greeting visitors",
+      "Answering phones",
+      "Leading tours of the U.S. Capitol",
+      "Opening and sorting mail",
+      "Attending briefings",
+      "Performing legislative research",
+      "Various other tasks to assist staff"
+    ],
+    "qualifications": [
+      "Current student or young professional",
+      "Reliable and professional demeanor",
+      "Availability for part or full-time work during the summer session"
+    ],
+    "how_to_apply": "Email a resume and cover letter to nj02internships@mail.house.gov. Indicate in your cover letter that you're applying for a fall internship and format the files as [Full Name_Resume], [Full Name_Cover Letter].",
+    "salary_info": null,
+    "contact": "nj02internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-041-25",
+    "position_title": "Summer Intern",
+    "office": "Congressman Steve Cohen (TN-09)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-03-03",
+    "description": "The Washington, D.C. Office of Congressman Steve Cohen (D-TN-09) is seeking interns for the summer of 2025. This is an in-person opportunity. This position offers an opportunity to learn about the U.S. House of Representatives and gain substantive work experience in an exciting and fast-paced office. Internships are offered on a full-time and part-time basis, and stipends are offered based on need. Full-time availability is preferred. Ties to Tennessee's 9th District are preferred but not required. Start dates are flexible. Applications are reviewed on a rolling basis.",
+    "responsibilities": [
+      "Assist with constituent correspondence and draft email blasts and other forms of outreach.",
+      "Attend virtual briefings and track virtual hearings.",
+      "Conduct weekly legislative assignments.",
+      "Conduct legislative research on an as-needed basis."
+    ],
+    "qualifications": [
+      "Demonstrated interest in politics, policy and/or public service.",
+      "Strong communications and writing skills.",
+      "Hard-working, dependable, detail-oriented and professional.",
+      "Self-motivated",
+      "Ties to Tennessee's 9th District are a bonus, but not required."
+    ],
+    "how_to_apply": "Applicants must complete the form and submit a resume, cover letter, and three references on https://cohen.house.gov/services/internships",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

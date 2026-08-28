@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MEM-333-16",
+    "position_title": "District Director",
+    "office": "Congressman Raul Ruiz, M.D. (CA-36)",
+    "location": "Palm Desert, CA",
+    "posting_date": "2016-10-31",
+    "description": "Congressman Raul Ruiz, M.D. (CA-36) is seeking applicants for a District Director. The District Director will oversee management and operation of two District offices, serve as a key liaison to local organizations and elected officials, and develop and implement long-term strategic plans. Qualified candidates will demonstrate significant management experience, strong oral and written communications skills, self-motivation and outreach experience to local and state organizations. In addition, qualified candidates will have prior experience in coalition building, a thorough understanding of the federal legislative process and in-depth knowledge of Southern CA. The position requires the ability to multi-task, work well under pressure and the flexibility to work long hours, including nights and weekends. Ties to California's 36th Congressional District are preferred and the position is based in Palm Desert, CA. Salary commensurate with experience. This is NOT an entry-level position. No phone calls, drop-ins or faxes. The office is an equal opportunity employer.",
+    "responsibilities": [
+      "Oversee management and operation of two District offices",
+      "Serve as a key liaison to local organizations and elected officials",
+      "Develop and implement long-term strategic plans"
+    ],
+    "qualifications": [
+      "Significant management experience",
+      "Strong oral and written communications skills",
+      "Self-motivation and outreach experience to local and state organizations",
+      "Prior experience in coalition building",
+      "Thorough understanding of the federal legislative process",
+      "In-depth knowledge of Southern CA",
+      "Ability to multi-task, work well under pressure and the flexibility to work long hours, including nights and weekends",
+      "Ties to California's 36th Congressional District are preferred",
+      "This is NOT an entry-level position"
+    ],
+    "how_to_apply": "Send cover letter and resume to CA36DistrictDirectorposition@mail.house.gov with \"District Director\" in the subject line. No phone calls, drop-ins or faxes.",
+    "salary_info": null,
+    "contact": "CA36DistrictDirectorposition@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-323-16",
+    "position_title": "Staff Assistant",
+    "office": null,
+    "location": null,
+    "posting_date": "2016-10-31",
+    "description": "Committee on Ethics has an immediate opening for a Staff Assistant. This position requires an individual who is non-partisan and can handle highly sensitive information. Responsibilities include: greeting visitors and answering telephones; assisting with the tracking and processing of committee correspondence; and providing administrative support in the setup of committee meetings. Applicants must have excellent organizational skills and professional telephone manner; proficiency in Microsoft Word and Excel; ability to work cooperatively and courteously with others; ability to use good judgment in responding to inquiries and requests; and flexibility in assisting with daily tasks and projects. Interested candidates should submit a resume and cover letter by email to Ethicsjobs@mail.house.gov.",
+    "responsibilities": [
+      "Greeting visitors and answering telephones",
+      "Assisting with the tracking and processing of committee correspondence",
+      "Providing administrative support in the setup of committee meetings"
+    ],
+    "qualifications": [
+      "Excellent organizational skills and professional telephone manner",
+      "Proficiency in Microsoft Word and Excel",
+      "Ability to work cooperatively and courteously with others",
+      "Ability to use good judgment in responding to inquiries and requests",
+      "Flexibility in assisting with daily tasks and projects"
+    ],
+    "how_to_apply": "Interested candidates should submit a resume and cover letter by email to Ethicsjobs@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Ethicsjobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-322-16",
+    "position_title": "Press Secretary",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2016-10-31",
+    "description": "U.S. Rep. Lloyd Doggett (D-Texas) seeks a press secretary for his Washington office. Spanish skills and Hill experience a plus. Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. No drop-ins please.",
+    "responsibilities": [
+      "Manage press and media relations for the member's Washington office",
+      "Draft press releases, statements, and other communications materials",
+      "Coordinate media inquiries and interview requests"
+    ],
+    "qualifications": [
+      "Spanish skills a plus",
+      "Hill experience a plus"
+    ],
+    "how_to_apply": "Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. No drop-ins please.",
+    "salary_info": null,
+    "contact": "DoggettJobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-315-16",
+    "position_title": "Staff Assistant",
+    "office": null,
+    "location": null,
+    "posting_date": "2016-10-31",
+    "description": "Senior Member of the Bay Area California Delegation seeks a Staff Assistant to assume the responsibilities of managing the front office. Daily tasks include answering telephones; organizing tours; greeting visitors; processing flag requests; assisting legislative staff; and serving as Intern Coordinator. Candidates should be detail-oriented professionals with strong organizational skills and writing abilities, positive attitudes, and pride in their work product. Applicants with ties to the Bay Area are strongly encouraged to apply. Please e-mail cover letter and resume to StaffAssistantCalifornia@gmail.com. No phone calls, e-mails or walk-ins, please.",
+    "responsibilities": [
+      "Managing the front office",
+      "Answering telephones",
+      "Organizing tours",
+      "Greeting visitors",
+      "Processing flag requests",
+      "Assisting legislative staff",
+      "Serving as Intern Coordinator"
+    ],
+    "qualifications": [
+      "Detail-oriented professionals with strong organizational skills",
+      "Strong writing abilities",
+      "Positive attitudes and pride in their work product",
+      "Ties to the Bay Area are strongly encouraged"
+    ],
+    "how_to_apply": "E-mail cover letter and resume to StaffAssistantCalifornia@gmail.com. No phone calls, e-mails or walk-ins, please.",
+    "salary_info": null,
+    "contact": "StaffAssistantCalifornia@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  }
+]

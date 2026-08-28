@@ -14,4 +14,6 @@ dependencies = [
     "hdbscan>=0.8.43",
     "umap-learn>=0.5.12",
     "ollama>=0.6.2",
+    "dspy>=3.3.1",
+    "pydantic>=2.11.5",
 ]

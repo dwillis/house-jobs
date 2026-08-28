@@ -1,0 +1,404 @@
+[
+  {
+    "id": "MEM-146-18",
+    "position_title": "Staff Assistant",
+    "office": null,
+    "location": "Washington, DC",
+    "posting_date": "2018-05-29",
+    "description": "North Carolina House Democrat seeks a Staff Assistant for Washington, DC office. Duties will include managing the front office, serving as tour coordinator, greeting constituents and meetings, managing a robust internship program, and handling other administrative duties as they arise, including processing mail and faxes. Candidates should have superior time management skills, work well under time constraints, and have excellent communication skills. Multi-tasking, enthusiasm, good sense of humor, and keen attention to detail are necessary. Qualified applicants should send a cover letter, resume, and two brief writing samples along with three references to nchousejobs@gmail.com. The office is an equal opportunity employer.",
+    "responsibilities": [
+      "Managing the front office",
+      "Serving as tour coordinator",
+      "Greeting constituents and meetings",
+      "Managing a robust internship program",
+      "Handling other administrative duties as they arise, including processing mail and faxes"
+    ],
+    "qualifications": [
+      "Superior time management skills",
+      "Work well under time constraints",
+      "Excellent communication skills",
+      "Multi-tasking",
+      "Enthusiasm",
+      "Good sense of humor",
+      "Keen attention to detail"
+    ],
+    "how_to_apply": "Send a cover letter, resume, and two brief writing samples along with three references to nchousejobs@gmail.com.",
+    "salary_info": null,
+    "contact": "nchousejobs@gmail.com",
+    "equal_opportunity": "The office is an equal opportunity employer.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-145-18",
+    "position_title": "Staff Assistant",
+    "office": "Representative Tim Walz (MN-01)",
+    "location": "Washington, DC",
+    "posting_date": "2018-05-29",
+    "description": "Representative Tim Walz (MN-01) seeks a Staff Assistant to join his Washington, DC staff. The Staff Assistant will be responsible for managing the front office, receiving visitors and telephone calls, supervising interns, completing flag and tour requests, and performing other administrative, legislative, and communications tasks as required. Successful candidates will demonstrate an understanding and adherence to the servant-leader model; a high degree of professionalism; strong writing, organizational, and interpersonal skills; an ability to take initiative in a dynamic, fast-paced environment; and a positive, collegial attitude. Capitol Hill experience and Minnesota ties are not required, but they are preferred. Interested candidates should send a resume, cover letter, writing sample, and three professional references to Walz.Resumes@mail.house.gov. Representative Walz is an equal opportunity employer.",
+    "responsibilities": [
+      "Managing the front office",
+      "Receiving visitors and telephone calls",
+      "Supervising interns",
+      "Completing flag and tour requests",
+      "Performing other administrative, legislative, and communications tasks as required"
+    ],
+    "qualifications": [
+      "Understanding and adherence to the servant-leader model",
+      "A high degree of professionalism",
+      "Strong writing, organizational, and interpersonal skills",
+      "Ability to take initiative in a dynamic, fast-paced environment",
+      "A positive, collegial attitude",
+      "Capitol Hill experience and Minnesota ties are preferred but not required"
+    ],
+    "how_to_apply": "Send a resume, cover letter, writing sample, and three professional references to Walz.Resumes@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Walz.Resumes@mail.house.gov",
+    "equal_opportunity": "Representative Walz is an equal opportunity employer.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-144-18",
+    "position_title": "Legislative Assistant",
+    "office": "Congressman Justin Amash (MI-03)",
+    "location": "Washington, DC",
+    "posting_date": "2018-05-29",
+    "description": "The Office of Rep. Justin Amash (R-MI) is seeking a bright, creative, and self-motivated legislative assistant with a background in law to join our Washington, DC-based policy team. The legislative assistant will draft legislation, analyze bills, and meet with constituents concerning policy matters, among other duties. The person will be expected to handle a diverse portfolio of policy issues. The successful applicant will be a libertarian or classical liberal in the tradition of F.A. Hayek, Henry Hazlitt, and Frédéric Bastiat. The applicant must demonstrate a strong commitment to individual liberty, economic freedom, the Rule of Law, and the Constitution. The person also must be an excellent writer and clear thinker willing to take on the most serious impediments to a freer, more prosperous America. An individual who prefers staid and steady work or who avoids challenges (and the occasional failure) may be more comfortable elsewhere. Applicants must have a JD or equivalent. Two years of relevant policy experience is preferred, although Hill experience is not required. To apply, please send a résumé, cover letter, and two writing samples to applydc@amash.com. Please include \"legislative assistant applicant\" in the subject line. No walk-in applicants or phone interviews.",
+    "responsibilities": [
+      "Draft legislation",
+      "Analyze bills",
+      "Meet with constituents concerning policy matters",
+      "Handle a diverse portfolio of policy issues"
+    ],
+    "qualifications": [
+      "JD or equivalent",
+      "Must be a libertarian or classical liberal in the tradition of F.A. Hayek, Henry Hazlitt, and Frédéric Bastiat",
+      "Must demonstrate a strong commitment to individual liberty, economic freedom, the Rule of Law, and the Constitution",
+      "Must be an excellent writer and clear thinker willing to take on serious challenges",
+      "Two years of relevant policy experience is preferred, although Hill experience is not required"
+    ],
+    "how_to_apply": "Send a résumé, cover letter, and two writing samples to applydc@amash.com. Include \"legislative assistant applicant\" in the subject line. No walk-in applicants or phone interviews.",
+    "salary_info": null,
+    "contact": "applydc@amash.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-143-18",
+    "position_title": "Executive Assistant",
+    "office": "Congressman Justin Amash (MI-03)",
+    "location": "Washington, DC",
+    "posting_date": "2018-05-29",
+    "description": "The Office of Rep. Justin Amash (R-MI) is seeking a professional and dynamic executive assistant to join our Washington, DC-based team. The executive assistant will be responsible for efficient and accurate management of all aspects of the member's daily and long-term schedule, meeting logistics, maintaining files and drafting correspondence, greeting visitors, answering phones, and contributing to other miscellaneous projects as needed. The person also will be involved in scheduling staff meetings and briefings, and helping constituents with their visits to Washington, DC, among other duties.",
+    "responsibilities": [
+      "Efficient and accurate management of all aspects of the member's daily and long-term schedule",
+      "Meeting logistics",
+      "Maintaining files and drafting correspondence",
+      "Greeting visitors",
+      "Answering phones",
+      "Contributing to other miscellaneous projects as needed",
+      "Scheduling staff meetings and briefings",
+      "Helping constituents with their visits to Washington, DC"
+    ],
+    "qualifications": [
+      "BA or equivalent",
+      "Personable, organized, flexible, and calm under pressure",
+      "Excellent communication and time-management skills",
+      "Sense of urgency and ability to work independently with sound judgment and minimal direction",
+      "Ability to work cooperatively and courteously with others",
+      "Two years of experience in an administrative or scheduling role is preferred (Hill experience not required)"
+    ],
+    "how_to_apply": "Send a résumé, cover letter, and two writing samples to applydc@amash.com. Include \"executive assistant applicant\" in the subject line. No walk-in applicants or phone interviews.",
+    "salary_info": null,
+    "contact": "applydc@amash.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-142-18",
+    "position_title": "Legislative Assistant",
+    "office": "Congresswoman Debbie Wasserman Schultz (FL-23)",
+    "location": null,
+    "posting_date": "2018-05-29",
+    "description": "The office of Representative Debbie Wasserman Schultz is seeking a Legislative Assistant to handle health care, women, seniors, and other related issues. Responsibilities include but are not limited to advising the Member on all matters in the issue portfolio; developing and advancing policy proposals; drafting vote recommendations and talking points for related floor and committee proceedings; staffing the Member in relevant meetings; and representing the Member before constituents and stakeholders. The ideal candidate will have previous work expertise in the issue areas, prior experience advising a Member of Congress and advancing policy proposals; excellent written and verbal communication skills; and an eagerness to work in a fast-paced, collaborative environment. Florida ties are a plus. Interested parties should e-mail a cover letter and resume to FL23Resume@mail.house.gov with the subject line \"Legislative Assistant.\" Please save cover letter and resume in a single file (pdf preferred) and name the file \"Last name, First name.\" This office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity or expression. Application materials must be received by 12:00 pm ET on June 15, 2018.",
+    "responsibilities": [
+      "Advising the Member on all matters in the issue portfolio",
+      "Developing and advancing policy proposals",
+      "Drafting vote recommendations and talking points for related floor and committee proceedings",
+      "Staffing the Member in relevant meetings",
+      "Representing the Member before constituents and stakeholders"
+    ],
+    "qualifications": [
+      "Previous work expertise in the issue areas",
+      "Prior experience advising a Member of Congress and advancing policy proposals",
+      "Excellent written and verbal communication skills",
+      "Eagerness to work in a fast-paced, collaborative environment",
+      "Florida ties are a plus"
+    ],
+    "how_to_apply": "E-mail a cover letter and resume to FL23Resume@mail.house.gov with the subject line \"Legislative Assistant.\" Save cover letter and resume in a single file (pdf preferred) and name the file \"Last name, First name.\" Application materials must be received by 12:00 pm ET on June 15, 2018.",
+    "salary_info": null,
+    "contact": "FL23Resume@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity or expression.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-141-18",
+    "position_title": "Staff Assistant",
+    "office": "Congresswoman Eleanor Holmes Norton (DC-00)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-05-29",
+    "description": "Senior Democratic Member of Congress seeks an energetic, organized, creative, self-starter to join the District Office of her very active and visible constituent services staff. The staff assistant is responsible for coordinating mail and casework distribution; answering the phones; and preparing letters of greetings, condolences and congratulations on behalf of the Member. Responsibilities may also include casework assignments if the District Director finds that the staff assistant can take on such work while paying the required attention to his/her already assigned tasks. The staff assistant also serves as intern coordinator by recruiting, training, scheduling and assigning duties. The ideal candidate will have a bachelor's degree, significant experience interacting with the public, excellent writing, and communication skills. Candidate must be a resident of the District of Columbia or willing to move immediately to D.C., if hired. Applications accepted until filled. Salary is based on skill and experience level. Interested applicants should send a resume, cover letter, references and two writing samples to: DC00.NortonResume@mail.house.gov.",
+    "responsibilities": [
+      "Coordinating mail and casework distribution",
+      "Answering the phones",
+      "Preparing letters of greetings, condolences and congratulations on behalf of the Member",
+      "Casework assignments as determined by the District Director",
+      "Serving as intern coordinator by recruiting, training, scheduling and assigning duties"
+    ],
+    "qualifications": [
+      "Bachelor's degree",
+      "Significant experience interacting with the public",
+      "Excellent writing and communication skills",
+      "Resident of the District of Columbia or willing to move immediately to D.C. if hired"
+    ],
+    "how_to_apply": "Send a resume, cover letter, references and two writing samples to DC00.NortonResume@mail.house.gov. Applications accepted until filled.",
+    "salary_info": null,
+    "contact": "DC00.NortonResume@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-139-18",
+    "position_title": "Legislative Assistant",
+    "office": null,
+    "location": null,
+    "posting_date": "2018-05-29",
+    "description": "Senior Democrat seeks Legislative Assistant, or Senior Legislative Assistant depending on qualifications, to handle work on the Financial Services Committee and other issues. Candidates should have substantial experience with financial services issues and substantial Congressional experience. The successful applicant will possess strong writing and oral communication skills, work well with others, be comfortable in a fast-paced environment, and understand the legislative process. To apply, please e-mail a cover letter, resume, and three writing samples to financeservicesla@gmail.com. No phone calls or drop-ins please.",
+    "responsibilities": [
+      "Handle work on the Financial Services Committee and other issues"
+    ],
+    "qualifications": [
+      "Substantial experience with financial services issues",
+      "Substantial Congressional experience",
+      "Strong writing and oral communication skills",
+      "Ability to work well with others",
+      "Comfortable in a fast-paced environment",
+      "Understanding of the legislative process"
+    ],
+    "how_to_apply": "E-mail a cover letter, resume, and three writing samples to financeservicesla@gmail.com. No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": "financeservicesla@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-138-18",
+    "position_title": "Press Assistant/Digital Director",
+    "office": null,
+    "location": null,
+    "posting_date": "2018-05-29",
+    "description": "Member of Democratic Leadership seeks exceptional Press Assistant/Digital Director. Candidates must be meticulous, measured and savvy enough to excel in a fast-paced press operation. Must have prior experience in a political office or public relations agency. Campaign experience is a plus. Required skills include remarkable video editing skills (Photoshop, Illustrator, Gimp or Canva), strong storytelling ability, superior research skills, and ability to write with exceptional grammar and syntax. Duties include compiling daily clips and briefing materials, assisting with drafting press releases, advisories, talking points, op-eds, speeches and other materials, building out and managing press lists, creating compelling social media content (videos, graphics), maintaining the office's website and social media pages, creating/editing issue-specific videos, monitoring the Congressman's presence and interactions on social media, keeping press staff up-to-date on trends and important conversations happening online, and taking photos/video at events and assisting with the production of livestreamed events. Please submit your resume, one writing sample and one digital sample to newyork08resumes@gmail.com with \"Press Assistant/Digital Director\" in the subject line.",
+    "responsibilities": [
+      "Compiling daily clips and briefing materials",
+      "Assisting with drafting press releases, advisories, talking points, op-eds, speeches and other materials",
+      "Building out and managing press lists",
+      "Creating compelling social media content (videos, graphics)",
+      "Maintaining the office's website and social media pages",
+      "Creating/editing issue-specific videos",
+      "Monitoring the Congressman's presence and interactions on social media, keeping press staff up-to-date on trends and important conversations happening online",
+      "Taking photos/video at events and assisting with the production of livestreamed events"
+    ],
+    "qualifications": [
+      "Prior experience in a political office or public relations agency",
+      "Remarkable video editing skills (should know Photoshop, Illustrator, Gimp or Canva)",
+      "Strong storytelling ability",
+      "Superior research skills",
+      "Ability to write with exceptional grammar and syntax",
+      "Campaign experience is a plus"
+    ],
+    "how_to_apply": "Submit your resume, one writing sample and one digital sample to newyork08resumes@gmail.com with \"Press Assistant/Digital Director\" in the subject line.",
+    "salary_info": null,
+    "contact": "newyork08resumes@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-136-18",
+    "position_title": "Digital Strategist",
+    "office": null,
+    "location": null,
+    "posting_date": "2018-05-29",
+    "description": "Senior Hill Republican seeks enthusiastic, entrepreneurial digital strategist. Ideal candidate is proficient in graphic design, photography, videography, video editing, and use of social media. Please send resumes/portfolios to digitalresumes123@gmail.com.",
+    "responsibilities": [
+      "Develop and execute digital strategy for a senior Hill Republican office",
+      "Create graphic design content",
+      "Produce and edit photography and videography",
+      "Manage social media presence and content"
+    ],
+    "qualifications": [
+      "Proficient in graphic design",
+      "Proficient in photography",
+      "Proficient in videography",
+      "Proficient in video editing",
+      "Proficient in use of social media",
+      "Enthusiastic and entrepreneurial"
+    ],
+    "how_to_apply": "Please send resumes/portfolios to digitalresumes123@gmail.com.",
+    "salary_info": null,
+    "contact": "digitalresumes123@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-134-18",
+    "position_title": "Advice And Education Counsel",
+    "office": null,
+    "location": "Washington, DC",
+    "posting_date": "2018-05-29",
+    "description": "The Committee on Ethics seeks an attorney for the position of counsel in the Office of Advice and Education. The Committee's Advice and Education counsels are responsible for providing a high volume of ethics advice, education, and training to Members of Congress and their staff through frequent telephone calls, in-person meetings, and written work product. This is a non-partisan position which requires the ability to serve all Members of Congress equally and refrain from political or partisan activity. Candidates must possess outstanding analytical and written and oral communication skills, as well as the sound judgment necessary to evaluate the sensitive matters that arise before the Committee. Experience in one or more of the following areas is desirable: government ethics; ethics counseling and training; corporate finance; securities law; employment law, including the laws governing sexual harassment in the workplace; and criminal law. Salary commensurate with experience. Please email resume, cover letter, and short writing sample to ethicsjobs@mail.house.gov. Please include the phrase \"A&E Counsel\" in the subject line.",
+    "responsibilities": [
+      "Provide a high volume of ethics advice, education, and training to Members of Congress and their staff",
+      "Conduct frequent telephone calls, in-person meetings, and written work product related to ethics matters",
+      "Serve all Members of Congress equally in a non-partisan manner",
+      "Refrain from political or partisan activity"
+    ],
+    "qualifications": [
+      "Must be an attorney",
+      "Outstanding analytical skills",
+      "Outstanding written and oral communication skills",
+      "Sound judgment necessary to evaluate sensitive matters",
+      "Desirable experience in government ethics",
+      "Desirable experience in ethics counseling and training",
+      "Desirable experience in corporate finance",
+      "Desirable experience in securities law",
+      "Desirable experience in employment law, including laws governing sexual harassment in the workplace",
+      "Desirable experience in criminal law"
+    ],
+    "how_to_apply": "Email resume, cover letter, and short writing sample to ethicsjobs@mail.house.gov. Include the phrase \"A&E Counsel\" in the subject line.",
+    "salary_info": null,
+    "contact": "ethicsjobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-132-18",
+    "position_title": "Legislative Assistant",
+    "office": null,
+    "location": null,
+    "posting_date": "2018-05-29",
+    "description": "California Congressman and Member on the Education and Workforce Committee seeks Legislative Assistant to handle education policy along with a diverse portfolio of issues. Candidates should have excellent research, writing, and communication skills. Duties include identifying and advancing policy proposals, committee hearing and mark-up preparation, meetings with stakeholders, and assisting with constituent correspondence. Successful candidates should possess strong interpersonal skills and a willingness to work in a team environment. This is not an entry level position and prior legislative experience on Capitol Hill is preferred. Office is an equal opportunity employer. Qualified candidates should send resume, cover letter, and one writing sample to CADemocratResumes@gmail.com.",
+    "responsibilities": [
+      "Handle education policy along with a diverse portfolio of issues",
+      "Identify and advance policy proposals",
+      "Prepare for committee hearings and mark-ups",
+      "Meet with stakeholders",
+      "Assist with constituent correspondence"
+    ],
+    "qualifications": [
+      "Excellent research, writing, and communication skills",
+      "Strong interpersonal skills",
+      "Willingness to work in a team environment",
+      "Not an entry level position; prior legislative experience on Capitol Hill is preferred"
+    ],
+    "how_to_apply": "Qualified candidates should send resume, cover letter, and one writing sample to CADemocratResumes@gmail.com.",
+    "salary_info": null,
+    "contact": "CADemocratResumes@gmail.com",
+    "equal_opportunity": "Office is an equal opportunity employer.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-131-18",
+    "position_title": "Communications Director",
+    "office": "Congresswoman Debbie Dingell (MI-12)",
+    "location": "Washington, DC",
+    "posting_date": "2018-05-29",
+    "description": "Congresswoman Debbie Dingell, MI-12, is seeking an experienced and proactive Communications Director to lead media and outreach efforts in her Washington, DC office. The Communications Director will oversee the planning and implementation of overall media strategy and manage the day-to-day communications operation. Responsibilities include but are not limited to working with local and national reporters, proactively engaging in media outreach, managing online communications and writing press releases, speeches and op-eds. The Communications Director will work collaboratively with legislative and district staff and closely with the Member and must possess strong written and oral communications skills and the ability to work effectively in a fast-paced setting. This is a very senior level position, and a minimum of two years of communications experience as a press secretary or communications director is required. Qualified candidates may send their resume, cover letter and two writing samples to MI12.CommsDirector@mail.house.gov. Applications must be received by COB on Friday, May 4.",
+    "responsibilities": [
+      "Oversee the planning and implementation of overall media strategy",
+      "Manage the day-to-day communications operation",
+      "Work with local and national reporters",
+      "Proactively engage in media outreach",
+      "Manage online communications",
+      "Write press releases, speeches and op-eds",
+      "Work collaboratively with legislative and district staff and closely with the Member"
+    ],
+    "qualifications": [
+      "Minimum of two years of communications experience as a press secretary or communications director",
+      "Strong written and oral communications skills",
+      "Ability to work effectively in a fast-paced setting"
+    ],
+    "how_to_apply": "Send resume, cover letter and two writing samples to MI12.CommsDirector@mail.house.gov. Applications must be received by COB on Friday, May 4.",
+    "salary_info": null,
+    "contact": "MI12.CommsDirector@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-130-18",
+    "position_title": "Legislative Assistant",
+    "office": null,
+    "location": null,
+    "posting_date": "2018-05-29",
+    "description": "Senior Democrat seeks Legislative Assistant, or Senior Legislative Assistant depending on qualifications, to handle work on the Financial Services Committee and other issues. Candidates should have substantial experience with financial services issues and substantial Congressional experience. The successful applicant will possess strong writing and oral communication skills, work well with others, be comfortable in a fast-paced environment, and understand the legislative process. To apply, please e-mail a cover letter, resume, and three writing samples to financeservicesla@gmail.com. No phone calls or drop-ins please.",
+    "responsibilities": [
+      "Handle work on the Financial Services Committee and other issues"
+    ],
+    "qualifications": [
+      "Substantial experience with financial services issues",
+      "Substantial Congressional experience",
+      "Strong writing and oral communication skills",
+      "Ability to work well with others",
+      "Comfortable in a fast-paced environment",
+      "Understanding of the legislative process"
+    ],
+    "how_to_apply": "E-mail a cover letter, resume, and three writing samples to financeservicesla@gmail.com. No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": "financeservicesla@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-129-18",
+    "position_title": "Staff Assistant",
+    "office": null,
+    "location": "Washington, DC",
+    "posting_date": "2018-05-29",
+    "description": "New York, Long Island House Democrat seeks a Staff Assistant for Washington, DC office. Duties will include managing front office operations, acting as tour coordinator, managing internship program, special event & meeting coordination, managing tracking systems for legislative and correspondence, and acting as the office's technological point person. Candidates should have excellent communication skills, work well under pressure in a fast-paced environment, and be a team player. Multi-tasking, enthusiasm, good sense of humor, and keen attention to detail are necessities. Long Island/New York City ties are preferred. Please send resume and cover letter to NY03.resumes@gmail.com.",
+    "responsibilities": [
+      "Managing front office operations",
+      "Acting as tour coordinator",
+      "Managing internship program",
+      "Special event & meeting coordination",
+      "Managing tracking systems for legislative and correspondence",
+      "Acting as the office's technological point person"
+    ],
+    "qualifications": [
+      "Excellent communication skills",
+      "Work well under pressure in a fast-paced environment",
+      "Team player",
+      "Multi-tasking",
+      "Enthusiasm",
+      "Good sense of humor",
+      "Keen attention to detail",
+      "Long Island/New York City ties are preferred"
+    ],
+    "how_to_apply": "Please send resume and cover letter to NY03.resumes@gmail.com.",
+    "salary_info": null,
+    "contact": "NY03.resumes@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  }
+]

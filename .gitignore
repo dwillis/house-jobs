@@ -25,3 +25,9 @@ duplicates.csv
 .idea/
 *.swp
 *.swo
+
+# DSPy/GEPA pipeline scratch state
+*.json.tmp
+json_v3/_failures.jsonl
+json_v3/_classify_failures.jsonl
+.env

@@ -1,0 +1,369 @@
+[
+  {
+    "id": "MEM-067-22",
+    "position_title": "Legal Intern",
+    "office": null,
+    "location": null,
+    "posting_date": "2022-02-14",
+    "description": "The Democratic staff of the House Committee on Oversight and Reform is seeking energetic and self-motivated law students for full-time or part-time internships. The position offers current law students the opportunity to gain substantive experience on an exciting and fast-paced Committee, while participating directly in the oversight process and learning about the day-to-day administrative operations of the House of Representatives. Law students play a key role in the office and will work closely with Committee counsel and staff. The Oversight and Reform Committee is the primary investigative committee of the U.S. House of Representatives, with jurisdiction to investigate any matter at any time.",
+    "responsibilities": [
+      "Assisting Committee staff in preparing for congressional hearings",
+      "Conducting legal and factual research",
+      "Drafting memoranda",
+      "Attending various briefings and meetings with Executive-branch and private sector officials for the purpose of taking notes"
+    ],
+    "qualifications": [
+      "Interest in public service",
+      "Desire to learn",
+      "Superior attention to detail",
+      "Ability to work well under pressure",
+      "Self-motivated",
+      "Excellent written and oral communication skills",
+      "Current law student",
+      "Willingness to be in the office full time preferred"
+    ],
+    "how_to_apply": "Interested applicants should apply by emailing a cover letter and resume to oversightjobs@mail.house.gov, with \"Legal Internship\" in the subject line. Please attach the resume and cover letter with the file name using the following format: \"LastName.FirstName.Resume\" and \"LastName.FirstName.Cover Letter.\" No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": "oversightjobs@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-063-22",
+    "position_title": "Full-Time Paid Intern",
+    "office": "Congresswoman Kat Cammack (FL-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-02-14",
+    "description": "Representative Kat Cammack (FL-03) seeks applicants for a full-time paid internship for Spring 2022 (Internship would run through May 2022) in her Washington DC office. Intern responsibilities would include assisting with legislative and administrative tasks by conducting research, answering phones, daily operational assistance, among other tasks. Interested candidates should send a resume and cover letter to FL03.Internships@mail.house.gov (No drop-ins or phone calls).",
+    "responsibilities": [
+      "Assisting with legislative and administrative tasks",
+      "Conducting research",
+      "Answering phones",
+      "Daily operational assistance",
+      "Other tasks as assigned"
+    ],
+    "qualifications": [
+      "None specified"
+    ],
+    "how_to_apply": "Send a resume and cover letter to FL03.Internships@mail.house.gov (No drop-ins or phone calls).",
+    "salary_info": null,
+    "contact": "FL03.Internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-062-22",
+    "position_title": "Summer Intern",
+    "office": "Congresswoman Rosa L. DeLauro (CT-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-02-14",
+    "description": "The office of Congresswoman Rosa L. DeLauro (CT-03) is currently accepting applications for full and part-time paid interns for the summer internship sessions in the DC office. Interns are involved in all aspects of the office including constituent services, correspondence, and legislative research, in addition to providing general staff support. Interns are also encouraged to attend hearings, lectures, and seminars available in Congress and around the Hill. Congresswoman DeLauro's staff is willing to provide projects specific to the interests of the intern, whenever possible. Interning in Congresswoman DeLauro's office is a great opportunity to work in a highly active legislative office. Internships are also available in the Third Congressional District Office for interested students.",
+    "responsibilities": [
+      "Constituent services",
+      "Correspondence",
+      "Legislative research",
+      "Providing general staff support",
+      "Attending hearings, lectures, and seminars available in Congress and around the Hill"
+    ],
+    "qualifications": [
+      "Ability to work in a fast-paced environment",
+      "Possess excellent writing skills",
+      "Enthusiastic attitude"
+    ],
+    "how_to_apply": "The deadline for summer applications is March 31st. If you are interested, please fill out the application and email it to Molly.Opinsky@mail.house.gov. If you have any additional questions or would like to be mailed an application, please feel free to contact Molly Opinsky in Congresswoman DeLauro's office at (202) 225-3661. For district office internships, contact Jennifer Lamb at (203) 562-3718.",
+    "salary_info": null,
+    "contact": "Molly.Opinsky@mail.house.gov",
+    "equal_opportunity": "Applicants and employees shall not be discriminated against with respect to compensation, terms, conditions, or privileges of employment, because of such person's race, color, religion, sex, age, national origin, service in the military, disability or sexual orientation.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-060-22",
+    "position_title": "Spring 2022 Intern",
+    "office": "Congresswoman Ashley Hinson (IA-01)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-02-14",
+    "description": "The Office of Congresswoman Ashley Hinson (R-IA-01) is seeking internship applicants for the Spring 2022 term. Interns will have the opportunity to work in a fast-paced environment while gaining knowledge of the federal legislative process and the functions of a congressional office. Responsibilities include answering phones, conducting legislative research as assigned, attending briefings and hearings, and maintaining the front office. Successful candidates will demonstrate a high level of professionalism and exceptional written and oral communication skills. Interns will be expected to work in-person in the Washington, DC, office. Current college students and recent graduates are encouraged to apply. This is a paid opportunity, with positions available to begin immediately. Iowa ties are preferred, but not required.",
+    "responsibilities": [
+      "Answering phones",
+      "Conducting legislative research as assigned",
+      "Attending briefings and hearings",
+      "Maintaining the front office"
+    ],
+    "qualifications": [
+      "High level of professionalism",
+      "Exceptional written and oral communication skills",
+      "Current college students and recent graduates are encouraged to apply",
+      "Iowa ties are preferred, but not required"
+    ],
+    "how_to_apply": "Interested applicants should apply at https://hinson.house.gov/services/internships, or call the Washington, DC, office at (202) 225-2911 for more information.",
+    "salary_info": null,
+    "contact": "(202) 225-2911",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-059-22",
+    "position_title": "Paid Summer Intern",
+    "office": "Congresswoman Angie Craig (MN-02)",
+    "location": "Washington, D.C. and Burnsville, MN",
+    "posting_date": "2022-02-14",
+    "description": "The Office of Congresswoman Angie Craig is currently accepting applicants for paid hybrid summer internships in the DC and District Offices. Summer internships will be conducted in a hybrid format in accordance with current public health guidance. Internships will begin no earlier than May 16, 2022 and extend no later than August 31, 2022. All interns are paid $15 per hour and provided with all of the necessary technology for their work. Schedules are flexible to accommodate course schedules and academic programs; however, a minimum availability of 20-25 hours per week is highly preferred. Interns in the Washington, D.C. office will focus on researching legislation, attending hearings and constituent meetings, answering constituents' phone calls, logging and drafting constituent correspondence, and assisting legislative and communications staff members on various projects. Interns in the Burnsville office will focus on constituent casework, answering constituents' phone calls, community outreach and research, in-district event planning, and assisting the outreach, casework, and communications staff members on various projects. All interns will have the opportunity to work with staff in both offices over the course of the internship. As a result, interns will learn about the legislative process, learn about all of the different functions of a congressional office, and gain hands-on professional experience while serving the constituents of Minnesota's Second Congressional District. The program is tailored to fit interns' policy interests and career goals. Applications must be submitted no later than 11:59pm on Sunday, April 3, 2022.",
+    "responsibilities": [
+      "Researching legislation (DC office)",
+      "Attending hearings and constituent meetings (DC office)",
+      "Answering constituents' phone calls (both offices)",
+      "Logging and drafting constituent correspondence (DC office)",
+      "Assisting legislative and communications staff members on various projects (DC office)",
+      "Constituent casework (District office)",
+      "Community outreach and research (District office)",
+      "In-district event planning (District office)",
+      "Assisting the outreach, casework, and communications staff members on various projects (District office)"
+    ],
+    "qualifications": [
+      "Passionate about public service",
+      "Confident and effective communicators",
+      "Proactive problem-solvers",
+      "Strong writing skills",
+      "Comfortable speaking on the phone and working with the general public",
+      "Minimum availability of 20-25 hours per week highly preferred"
+    ],
+    "how_to_apply": "Submit a resume and cover letter in one PDF document to craig.internships@mail.house.gov. For DC office, use subject line '(Last Name) DC Summer Internship Application.' For District office in Burnsville, use subject line '(Last Name) DO Summer Internship Application.' For both offices, use subject line '(Last Name) BOTH Summer Internship Application.' Include earliest start date, latest end date, and weekly availability between 8am and 5pm CST in cover letter. Applications must be submitted no later than 11:59pm on Sunday, April 3, 2022.",
+    "salary_info": "$15 per hour",
+    "contact": "craig.internships@mail.house.gov",
+    "equal_opportunity": "Rep. Craig's office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-054-22",
+    "position_title": "Summer Intern",
+    "office": "Congressman Pete Aguilar (CA-31)",
+    "location": "Washington, D.C. and District Offices (CA-31)",
+    "posting_date": "2022-02-14",
+    "description": "The Office of Congressman Pete Aguilar will be offering in-person summer internships in the DC and District Offices. Summer internships typically run Monday through Friday, from 9:00 a.m. to 5:00 p.m. Interns will have the chance to experience a congressional office's fast-paced atmosphere and gain valuable work experience. This internship is an excellent opportunity for those interested in public service and the legislative process. DC Interns will assist with tasks, including answering phones, drafting constituent correspondence, and assisting with media clips. District Interns may be assigned to assist in various constituent casework or work on community outreach and grants related projects. DC Interns will also have the opportunity to attend policy briefings and assist staff with legislative research. The deadline for summer submissions is Friday, April 1st, at 11:59 p.m. PT. Interviews will be conducted over the following two weeks. The estimated start date for the internship is June 6th, 2022.",
+    "responsibilities": [
+      "Answering phones",
+      "Drafting constituent correspondence",
+      "Assisting with media clips",
+      "Assisting with constituent casework (District interns)",
+      "Working on community outreach and grants related projects (District interns)",
+      "Attending policy briefings (DC interns)",
+      "Assisting staff with legislative research (DC interns)"
+    ],
+    "qualifications": [
+      "Excellent written and oral communication skills",
+      "Professionalism",
+      "Attention to detail",
+      "Ability to function in a fast-paced environment",
+      "Ties to CA-31 and California are strongly preferred"
+    ],
+    "how_to_apply": "Email your resume, cover letter, availability, and office preference (DC or District) to Aguilar.Internships@mail.house.gov. The deadline for summer submissions is Friday, April 1st, at 11:59 p.m. PT.",
+    "salary_info": null,
+    "contact": "Aguilar.Internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-047-22",
+    "position_title": "Summer Intern",
+    "office": "Congressman Pete Aguilar (CA-31)",
+    "location": "Washington, D.C. and District Office (CA-31)",
+    "posting_date": "2022-02-14",
+    "description": "The Office of Congressman Pete Aguilar will be offering in-person summer internships in the DC and District Offices. Summer internships typically run Monday through Friday, from 9:00 a.m. to 5:00 p.m. Interns will have the chance to experience a congressional office's fast-paced atmosphere and gain valuable work experience. This internship is an excellent opportunity for those interested in public service and the legislative process. DC Interns will assist with tasks, including answering phones, drafting constituent correspondence, and assisting with media clips. District Interns may be assigned to assist in various constituent casework or work on community outreach and grants related projects. DC Interns will also have the opportunity to attend policy briefings and assist staff with legislative research. The deadline for summer submissions is Friday, April 1st, at 11:59 p.m. PT. Interviews will be conducted over the following two weeks. The estimated start date for the internship is June 6th, 2022.",
+    "responsibilities": [
+      "Answering phones",
+      "Drafting constituent correspondence",
+      "Assisting with media clips",
+      "Assisting with constituent casework (District interns)",
+      "Working on community outreach and grants related projects (District interns)",
+      "Attending policy briefings (DC interns)",
+      "Assisting staff with legislative research (DC interns)"
+    ],
+    "qualifications": [
+      "Excellent written and oral communication skills",
+      "Professionalism",
+      "Attention to detail",
+      "Ability to function in a fast-paced environment",
+      "Ties to CA-31 and California are strongly preferred"
+    ],
+    "how_to_apply": "Email your resume, cover letter, availability, and office preference (DC or District) to Aguilar.Internships@mail.house.gov. The deadline for summer submissions is Friday, April 1st, at 11:59 p.m. PT.",
+    "salary_info": null,
+    "contact": "Aguilar.Internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-043-22",
+    "position_title": "Intern",
+    "office": null,
+    "location": "San Pedro, CA and Washington, D.C.",
+    "posting_date": "2022-02-14",
+    "description": "Congresswoman Barragán's office is hiring a new cohort of interns to work this Winter/Spring. Positions include San Pedro District Office Interns and D.C. Office Interns. Applications are accepted on a rolling basis until positions are filled. Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged to apply. All are welcome and encouraged to apply.",
+    "responsibilities": [
+      "Support district office operations in San Pedro",
+      "Support D.C. office operations",
+      "Assist with constituent services and general office tasks"
+    ],
+    "qualifications": [
+      "Strong interest in public service and congressional work",
+      "Excellent organizational and communication skills",
+      "Ability to work in a team environment"
+    ],
+    "how_to_apply": "Apply at www.Barragan.house.gov/internships",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-034-22",
+    "position_title": "Summer Intern",
+    "office": "Congressman Jeff Van Drew (NJ-02)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-02-14",
+    "description": "The office of Congressman Jeff Van Drew (NJ-02) is currently accepting applications for full and part-time interns for the summer internship session. The start date would be as early as May 9th (flexible depending on availability) with a flexible end date. Interns are paid a stipend based on availability and have access to transit benefits. The internship will offer students and young professionals invaluable experience with our nation's legislative process. Interns contribute to the daily operations of the office and are expected to act in a reliable, professional manner at all times. Congressman Van Drew supports students requesting credit for their internship through their university.",
+    "responsibilities": [
+      "Greeting visitors",
+      "Answering phones",
+      "Leading tours of the Capitol",
+      "Opening and sorting mail",
+      "Attending briefings",
+      "Performing legislative research",
+      "Various other tasks to assist staff"
+    ],
+    "qualifications": [
+      "Current student or young professional",
+      "Reliable and professional demeanor",
+      "Available for full or part-time internship starting as early as May 9th"
+    ],
+    "how_to_apply": "Email a resume and cover letter to JeffVanDrewNJ@gmail.com. Indicate in your cover letter that you are applying for a spring internship and format the files as [Full Name_Resume], [Full Name_Cover Letter].",
+    "salary_info": null,
+    "contact": "JeffVanDrewNJ@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-032-22",
+    "position_title": "Press Intern",
+    "office": "Congressman Raja Krishnamoorthi (IL-08)",
+    "location": "Virtual",
+    "posting_date": "2022-02-14",
+    "description": "The Office of Congressman Raja Krishnamoorthi (IL-08) is seeking a highly motivated, proactive press intern to assist on an aggressive communications team. Hours are 9am-5pm ET Monday through Friday. The position is virtual. Start date is February; end date is May.",
+    "responsibilities": [
+      "Compiling press clips by 9:30am ET every morning",
+      "Social media strategizing for increased growth",
+      "Drafting daily social media posts and ideas for Instagram, Twitter, and Facebook",
+      "Creating graphics for social media, knowledge of Photoshop or Canva preferred",
+      "Drafting speeches",
+      "Drafting short newsletters",
+      "Editing written materials, such as newsletters or press releases",
+      "Other duties as needed to support the communications team"
+    ],
+    "qualifications": [
+      "Strong and positive work ethic",
+      "Attention to detail",
+      "Responsive and punctual",
+      "Solid writing and editing skills",
+      "Diligent, communicative, and creative",
+      "Willing to perform and follow through on a wide variety of tasks",
+      "Knowledge of Photoshop or Canva preferred"
+    ],
+    "how_to_apply": "Please send resume, cover letter, 2 writing samples, and a graphic sample (if applicable) to KrishnamoorthiPressInternship@gmail.com.",
+    "salary_info": null,
+    "contact": "KrishnamoorthiPressInternship@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-590-21",
+    "position_title": "Summer 2022 Intern",
+    "office": "Congressman Moulton (MA-06)",
+    "location": "Salem, MA and Washington, D.C.",
+    "posting_date": "2022-02-14",
+    "description": "Congressman Moulton is seeking hard-working individuals who are passionate, driven, and committed to public service for an internship in his Salem office and Washington D.C. office in Summer 2022. During the COVID-19 pandemic, interns may work remotely. Internships are intended for current undergraduate students, recent college graduates, students currently enrolled in graduate school. Under very rare circumstances the office will also host high school students.",
+    "responsibilities": [
+      "Answering constituent phone calls and greeting constituents at the front desk",
+      "Taking notes at briefings and hearings",
+      "Categorizing and responding to constituent mail",
+      "Conducting tours of the Capitol for constituents, COVID-19 permitting",
+      "Drafting form letters and cosponsor requests for the Congressman",
+      "Assembling press and news clips",
+      "Performing a variety of other duties as assigned, such as conducting legislative research"
+    ],
+    "qualifications": [
+      "Current undergraduate students",
+      "Recent college graduates",
+      "Students currently enrolled in graduate school",
+      "Under very rare circumstances, high school students may also be hosted"
+    ],
+    "how_to_apply": "Please apply through the internship portal at moulton.house.gov, under the 'Services' tab. If you have trouble accessing the application form, please email grace.curtiss@mail.house.gov.",
+    "salary_info": null,
+    "contact": "grace.curtiss@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-589-21",
+    "position_title": "Fern Holland International Affairs Fellow",
+    "office": "Congressman Seth Moulton (MA-06)",
+    "location": "Washington, D.C.",
+    "posting_date": "2022-02-14",
+    "description": "Team Moulton is seeking exceptional students interested in foreign policy and national security to participate in the Fern Holland International Affairs Fellowship Program. This is a full-time, paid foreign policy fellowship for Summer 2022. This opportunity is based on financial need and is only open to candidates who are Pell-grant eligible. The fellowship is in our Washington, D.C. office. This fully-funded fellowship covers the cost of housing, transportation, and food with a stipend. This fellowship offers an in-depth look into a career of service to our nation.",
+    "responsibilities": [
+      "Perform rigorous research",
+      "Advise senior staff and the Congressman on important issues",
+      "Craft policies in international affairs and national security",
+      "Perform regularly assigned intern responsibilities"
+    ],
+    "qualifications": [
+      "Current undergraduate students, recent college graduates, or students currently enrolled in graduate school",
+      "Pell-grant eligible",
+      "Interested in foreign policy and national security",
+      "Hard-working, passionate, driven, and committed to strengthening our democracy"
+    ],
+    "how_to_apply": "Fill out the internship application form at moulton.house.gov under the 'Services' tab and attach a cover letter and resume. If you have trouble accessing the application form, email grace.curtiss@mail.house.gov. If selected, you will be required to submit a FAFSA form. Applications are accepted for Summer through March 15, 2022. Call the office with any questions at (202) 225-8020 or email internship coordinator Grace Curtiss at grace.curtiss@mail.house.gov.",
+    "salary_info": null,
+    "contact": "grace.curtiss@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-588-21",
+    "position_title": "Summer Intern",
+    "office": null,
+    "location": "Washington, DC",
+    "posting_date": "2022-02-14",
+    "description": "The House Judiciary Committee Democratic staff are looking for interns for the summer semester. The House Committee on the Judiciary's staff internship program offers undergraduate students, law students, graduate students, and recent graduates an opportunity to experience the operation of a congressional committee firsthand and learn about the important role that our Committee plays in the legislative process. The Judiciary Committee has jurisdiction over a wide range of legislative and oversight issues, including oversight of the U.S. Department of Justice, constitutional law, federal criminal law, voting rights, immigration and naturalization, intellectual property law, and antitrust law. Stipends will be available to summer interns. The deadline to apply for the summer semester is February 15, 2022. This internship is based in Washington, DC.",
+    "responsibilities": [
+      "Researching policy issues under the committee's jurisdiction",
+      "Conducting legal research",
+      "Attending briefings and hearings on the Hill",
+      "Drafting memos",
+      "Supporting committee counsels",
+      "Supporting committee clerks and professional staff members",
+      "Providing administrative support, including answering calls, delivering correspondence, and setting up the hearing room"
+    ],
+    "qualifications": [
+      "Undergraduate students, law students, graduate students, or recent graduates",
+      "Interest in the legislative process and committee operations",
+      "Knowledge of or interest in issues under the committee's jurisdiction including constitutional law, federal criminal law, voting rights, immigration, intellectual property, and antitrust law"
+    ],
+    "how_to_apply": "To learn more and apply, please visit https://judiciary.house.gov/about/internshipopportunities.htm",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

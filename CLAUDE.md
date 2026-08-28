@@ -74,6 +74,32 @@ uv run python job_classifier.py
 ./job_classifier.py
 ```
 
+### 4. DSPy + GEPA Pipeline (`pipeline/`, in progress)
+
+Replacement for `parser.py` / `job_classifier.py`, still being validated against a fresh corpus before promotion. Uses DSPy modules (extraction + classification) whose prompts are optimized by GEPA, running `glm-5.2` on Ollama Cloud directly (`https://ollama.com/v1`, requires `OLLAMA_API_KEY`).
+
+- `pipeline/schema.py` — Pydantic `JobListing` (same 12-field schema) and `Category`
+- `pipeline/signatures.py` — `ExtractJobs`/`ClassifyJob` DSPy signatures and modules
+- `pipeline/metric.py` — hybrid GEPA metric (programmatic formatting checks + gold-set field scoring)
+- `pipeline/goldset.py` — sample/prefill gold examples in `gold/extraction/` and `gold/classification/`
+- `pipeline/optimize.py` — GEPA optimization runs; saves compiled prompts to `pipeline/compiled/`
+- `pipeline/run_parse.py` — bulk re-parse into `json_v3/` (concurrent, resumable, logs failures to `_failures.jsonl`)
+- `pipeline/run_classify.py` — bulk classification over `json_v3/` (`--eval` checks accuracy against gold labels first)
+
+**Typical flow:**
+```bash
+uv run python -m pipeline.goldset sample --n 30
+uv run python -m pipeline.goldset prefill        # fills from json_qwen/json where possible
+# hand-correct any gold/extraction/*.json still marked "TODO"
+uv run python -m pipeline.optimize extract
+uv run python -m pipeline.run_parse --out json_v3 --limit 10   # pilot before the full run
+uv run python -m pipeline.run_parse --out json_v3
+uv run python -m pipeline.run_classify --eval
+uv run python -m pipeline.run_classify
+```
+
+Once `json_v3/` is validated as the canonical corpus, `parser.py`, `job_classifier.py`, `json/`, and `json_qwen/` will be retired and this section rewritten to describe `pipeline/` as primary.
+
 ## Common Development Tasks
 
 ### Running Tests
@@ -144,9 +170,12 @@ house-jobs/
 ├── output/             # Extracted text files (tracked in git)
 ├── json/               # Parsed JSON output — primary corpus (tracked in git)
 ├── json_qwen/          # Alternate parse corpus (Qwen model, includes internships)
+├── json_v3/            # DSPy/GEPA pipeline output — future canonical corpus (in progress)
+├── gold/               # Hand-corrected examples for GEPA optimization
 │
 ├── parser.py           # Bulletin parser (Gemini 2.5 Pro, llm Python API)
 ├── job_classifier.py   # Job categorization (Gemini 2.5 Flash)
+├── pipeline/           # DSPy + GEPA parsing/classification pipeline (see above)
 ├── config.py           # Shared path/db constants
 │
 ├── validate.py         # JSON validation (report-only by default)

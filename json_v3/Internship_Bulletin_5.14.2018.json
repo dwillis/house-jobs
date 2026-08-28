@@ -1,0 +1,82 @@
+[
+  {
+    "id": "MEM-133-18",
+    "position_title": "Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2018-05-14",
+    "description": "California Republican is currently accepting applications for full/part-time interns in his Washington, D.C. office. We are seeking highly qualified candidates who are personable, detail-oriented, and motivated. In the office, intern responsibilities will vary. Interns will be asked to answer the phones, give tours of the Capitol Building, run errands, assist with constituent communication, research legislation for the Member and legislative staff, and attend hearings and briefings. Interns will learn about the legislative process and the many other functions of a congressional office. Internships are unpaid but the office will provide any necessary assistance for students to receive academic credit at their respective college or university. Interested candidates should email a resume and cover letter to CAGOPInternship@gmail.com.",
+    "responsibilities": [
+      "Answer the phones",
+      "Give tours of the Capitol Building",
+      "Run errands",
+      "Assist with constituent communication",
+      "Research legislation for the Member and legislative staff",
+      "Attend hearings and briefings"
+    ],
+    "qualifications": [
+      "Personable",
+      "Detail-oriented",
+      "Motivated"
+    ],
+    "how_to_apply": "Email a resume and cover letter to CAGOPInternship@gmail.com.",
+    "salary_info": null,
+    "contact": "CAGOPInternship@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-125-18",
+    "position_title": "Full-Time Intern (Fall 2018)",
+    "office": "Congressman Steve Russell (OK-5)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-05-14",
+    "description": "The Washington, D.C. office of Congressman Steve Russell (OK-5) is seeking candidates for full-time internships for Fall 2018. Interns will observe the inner workings of a Congressional office while gaining firsthand knowledge of the legislative process. DC responsibilities include leading Capitol tours, answering phones, assisting staff with legislative projects, attending briefings and hearings, and working on special projects. Oklahoma ties are preferred, but not required.",
+    "responsibilities": [
+      "Leading Capitol tours",
+      "Answering phones",
+      "Assisting staff with legislative projects",
+      "Attending briefings and hearings",
+      "Working on special projects"
+    ],
+    "qualifications": [
+      "Oklahoma ties preferred, but not required",
+      "Strong interest in the legislative process and Congressional operations"
+    ],
+    "how_to_apply": "Please send your resume and cover letter to mitchell.wilkinson@mail.house.gov, with \"Internship Application\" in the subject line.",
+    "salary_info": null,
+    "contact": "mitchell.wilkinson@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-085-18",
+    "position_title": "Communications Summer Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2018-05-14",
+    "description": "The Democratic staff of the House Committee on Education and the Workforce seeks a professional, dependable, and enthusiastic student or recent graduate for a paid communications summer internship working closely with the press team on a variety of tasks. Duties will include drafting and posting Committee web content and social media, basic photography, drafting press releases and statements (other written materials may include memos, one-minute floor speeches, etc.), press list maintenance, compiling and distributing daily press clips, media monitoring, answering the press office phone, and other communications and administrative tasks as assigned. Communications, journalism, public relations, public affairs or political science majors and recent graduates preferred. Internship to begin in May and last through the end of July. Applications will be accepted on a rolling basis until a qualified candidate is identified.",
+    "responsibilities": [
+      "Drafting and posting Committee web content and social media",
+      "Basic photography",
+      "Drafting press releases and statements (other written materials may include memos, one-minute floor speeches, etc.)",
+      "Press list maintenance",
+      "Compiling and distributing daily press clips",
+      "Media monitoring",
+      "Answering the press office phone",
+      "Other communications and administrative tasks as assigned"
+    ],
+    "qualifications": [
+      "Professional, dependable, and enthusiastic student or recent graduate",
+      "Communications, journalism, public relations, public affairs or political science majors and recent graduates preferred"
+    ],
+    "how_to_apply": "Please send a resume, brief cover letter, and one short writing sample to EdLaborPressJobs@mail.house.gov.",
+    "salary_info": null,
+    "contact": "EdLaborPressJobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

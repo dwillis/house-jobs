@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MEM-150-14",
+    "position_title": "Legislative Fellow",
+    "office": null,
+    "location": null,
+    "posting_date": "2014-03-31",
+    "description": "Senior, Progressive, Democratic Member has an opening for a paid Legislative Fellow to assist the legislative staff with education, women, tax, immigration, and veterans' issues. This is not an entry-level opportunity. Ideal candidates are strong writers, with the ability to learn quickly, multi-task, and work independently in a fluid environment. In particular, applicants with great interpersonal skills and good humor are welcome. Women and minorities are encouraged to apply. Please email a cover letter and resume to leg.job@mail.house.gov. Applicants should be available to begin work immediately; no phone calls, faxes, or drop-ins, please.",
+    "responsibilities": [
+      "Assist the legislative staff with education issues",
+      "Assist the legislative staff with women's issues",
+      "Assist the legislative staff with tax issues",
+      "Assist the legislative staff with immigration issues",
+      "Assist the legislative staff with veterans' issues"
+    ],
+    "qualifications": [
+      "Not an entry-level opportunity; prior experience required",
+      "Strong writers",
+      "Ability to learn quickly",
+      "Ability to multi-task",
+      "Ability to work independently in a fluid environment",
+      "Great interpersonal skills",
+      "Good humor"
+    ],
+    "how_to_apply": "Email a cover letter and resume to leg.job@mail.house.gov. Applicants should be available to begin work immediately; no phone calls, faxes, or drop-ins.",
+    "salary_info": null,
+    "contact": "leg.job@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-149-14",
+    "position_title": "Press Secretary",
+    "office": "Congressman Lloyd Doggett (TX-35)",
+    "location": "Washington, D.C.",
+    "posting_date": "2014-03-31",
+    "description": "U.S. Rep. Lloyd Doggett (D-Tex) seeks a Press Secretary. Hill experience and Spanish are a plus. Applicants should send a cover letter, CV, and three references to Intern7DC.TX35@mail.house.gov.",
+    "responsibilities": [
+      "Manage press and media relations for the congressional office",
+      "Draft press releases, statements, and media advisories",
+      "Coordinate media inquiries and interview requests",
+      "Assist with communications strategy and messaging"
+    ],
+    "qualifications": [
+      "Hill experience",
+      "Spanish language proficiency (a plus)"
+    ],
+    "how_to_apply": "Send cover letter, CV, and three references to Intern7DC.TX35@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Intern7DC.TX35@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  }
+]

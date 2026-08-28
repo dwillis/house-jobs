@@ -1,0 +1,83 @@
+[
+  {
+    "id": "MEM-150-14",
+    "position_title": "Legislative Fellow",
+    "office": null,
+    "location": null,
+    "posting_date": "2014-03-17",
+    "description": "Senior, Progressive, Democratic Member has an opening for a paid Legislative Fellow to assist the legislative staff with education, women, tax, immigration, and veterans' issues. This is not an entry-level opportunity. Ideal candidates are strong writers, with the ability to learn quickly, multi-task, and work independently in a fluid environment. In particular, applicants with great interpersonal skills and good humor are welcome. Women and minorities are encouraged to apply. Please email a cover letter and resume to leg.job@mail.house.gov. Applicants should be available to begin work immediately; no phone calls, faxes, or drop-ins, please.",
+    "responsibilities": [
+      "Assist the legislative staff with education issues",
+      "Assist the legislative staff with women's issues",
+      "Assist the legislative staff with tax issues",
+      "Assist the legislative staff with immigration issues",
+      "Assist the legislative staff with veterans' issues"
+    ],
+    "qualifications": [
+      "Not an entry-level opportunity; prior experience required",
+      "Strong writers",
+      "Ability to learn quickly",
+      "Ability to multi-task",
+      "Ability to work independently in a fluid environment",
+      "Great interpersonal skills",
+      "Good humor"
+    ],
+    "how_to_apply": "Email a cover letter and resume to leg.job@mail.house.gov. Applicants should be available to begin work immediately; no phone calls, faxes, or drop-ins, please.",
+    "salary_info": null,
+    "contact": "leg.job@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-149-14",
+    "position_title": "Press Secretary",
+    "office": "Congressman Lloyd Doggett (TX-35)",
+    "location": "Washington, D.C.",
+    "posting_date": "2014-03-17",
+    "description": "U.S. Rep. Lloyd Doggett (D-Tex) seeks a Press Secretary. Hill experience and Spanish are a plus. Send cover letter, CV, and three references to: Intern7DC.TX35@mail.house.gov",
+    "responsibilities": [
+      "None specified"
+    ],
+    "qualifications": [
+      "Hill experience (a plus)",
+      "Spanish (a plus)"
+    ],
+    "how_to_apply": "Send cover letter, CV, and three references to: Intern7DC.TX35@mail.house.gov",
+    "salary_info": null,
+    "contact": "Intern7DC.TX35@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-148-14",
+    "position_title": "Caseworker/Field Representative",
+    "office": "Congresswoman Renee Ellmers (NC-02)",
+    "location": "North Carolina",
+    "posting_date": "2014-03-17",
+    "description": "Congresswoman Renee Ellmers seeks Caseworker/Field Representative for District Office in North Carolina. Applicants must be motivated to serve the 2nd Congressional District of North Carolina and possess a strong work ethic. The Caseworker/Field Representative monitors and updates the Congressman and District Office staff on district and local issues. This position acts as a liaison to federal, district, and local agencies for the Congresswoman and constituents and answers casework correspondence and verbal communications with constituents. Duties also include answering phones and assisting walk-in constituents. Proficiency in Microsoft Office is required, ability to work cooperatively and courteously with others; ability to use good judgment in responding to inquiries and requests; and flexibility in assisting with daily tasks and projects. Experience with, and understanding of U.S. Military and Department of Veterans Affairs structure, the procedures, and policies is preferred. Submit cover letter and resume to Pat.Fitzgerald@mail.house.gov.",
+    "responsibilities": [
+      "Monitor and update the Congressman and District Office staff on district and local issues",
+      "Act as a liaison to federal, district, and local agencies for the Congresswoman and constituents",
+      "Answer casework correspondence and verbal communications with constituents",
+      "Answer phones and assist walk-in constituents",
+      "Assist with daily tasks and projects as needed"
+    ],
+    "qualifications": [
+      "Motivated to serve the 2nd Congressional District of North Carolina",
+      "Strong work ethic",
+      "Proficiency in Microsoft Office",
+      "Ability to work cooperatively and courteously with others",
+      "Ability to use good judgment in responding to inquiries and requests",
+      "Flexibility in assisting with daily tasks and projects",
+      "Experience with and understanding of U.S. Military and Department of Veterans Affairs structure, procedures, and policies (preferred)"
+    ],
+    "how_to_apply": "Submit cover letter and resume to Pat.Fitzgerald@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Pat.Fitzgerald@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  }
+]

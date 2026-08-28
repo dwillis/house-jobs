@@ -1,0 +1,118 @@
+[
+  {
+    "id": "MEM-179-21",
+    "position_title": "Paid Intern",
+    "office": "Congressman Rob Wittman (VA-01)",
+    "location": "Washington, D.C.",
+    "posting_date": "2021-06-07",
+    "description": "Republican Congressman Rob Wittman (VA-01) is seeking paid interns for the Fall 2021 session in his Capitol Hill office. The Summer session dates are May 18 - August 31. Interns will have the opportunity to attend committee hearings and briefings for staff members, assist in the constituent correspondence process, as well as assist with other constituent services. Responsibilities include: taking phone calls, processing constituent mail, and performing other general office duties. Ideal applicants should be interested in the legislative process, enthusiastic, reliable, and hard-working. To be eligible for our paid intern program, the applicant must be able to complete no less than a 24-hour work week. The internship schedule is flexible to accommodate classes. Ties to Virginia's First Congressional District are preferred but not required. Interested candidates should e-mail their resume and cover letter to shannon.evans@mail.house.gov before July 23, 2021. Please specify what your internship schedule may look like.",
+    "responsibilities": [
+      "Taking phone calls",
+      "Processing constituent mail",
+      "Performing other general office duties",
+      "Attending committee hearings and briefings for staff members",
+      "Assisting in the constituent correspondence process",
+      "Assisting with other constituent services"
+    ],
+    "qualifications": [
+      "Interested in the legislative process",
+      "Enthusiastic, reliable, and hard-working",
+      "Able to complete no less than a 24-hour work week",
+      "Ties to Virginia's First Congressional District are preferred but not required"
+    ],
+    "how_to_apply": "E-mail resume and cover letter to shannon.evans@mail.house.gov before July 23, 2021. Please specify what your internship schedule may look like.",
+    "salary_info": null,
+    "contact": "shannon.evans@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-176-21",
+    "position_title": "Fall 2021 Intern",
+    "office": "Congressman Ro Khanna (CA-17)",
+    "location": "Washington, D.C.",
+    "posting_date": "2021-06-07",
+    "description": "The D.C. Office of Rep. Ro Khanna (D-CA) seeks interns for the upcoming Fall 2021 term. The D.C. office has two types of internships available: an in-person internship and a remote, research-focused internship. In-person intern responsibilities include drafting social media posts, designing graphics, attending hearings and briefings, researching legislation, drafting constituent letters, interfacing with constituents and visitors, staffing the front office, and potentially conducting tours. Remote intern responsibilities similarly include drafting social media posts, designing graphics, attending virtual hearings and briefings, and drafting constituent letters, but with a heavier focus on conducting legislative research. All interns are paid $15.00 per hour for a minimum of 15 hours/week and maximum of 40 hours/week unless the intern is receiving a stipend from an external organization. Applications for the Fall 2021 Term will be considered until 11:59pm EST on Monday July 26th, 2021.",
+    "responsibilities": [
+      "Drafting social media posts for the Member's official social media pages (Facebook, Twitter, and Instagram)",
+      "Designing graphics",
+      "Attending hearings and briefings (in person or virtually from the office)",
+      "Researching legislation for both the Member and legislative staff",
+      "Drafting constituent letters on the Member's behalf",
+      "Interfacing with constituents and visitors",
+      "Staffing the front office",
+      "Potentially conducting tours (in-person interns)",
+      "Conducting legislative research with a heavier focus (remote interns)"
+    ],
+    "qualifications": [
+      "Proof of full COVID-19 vaccination required for in-person internship",
+      "If hired, must agree to follow additional precautionary measures such as mask-wearing and regular sanitizing (in-person)",
+      "Strong written communication skills for drafting constituent letters and social media posts",
+      "Research skills for legislative research",
+      "Ability to work a minimum of 15 hours/week and maximum of 40 hours/week"
+    ],
+    "how_to_apply": "Applicants should send a resume, a short cover letter, two sample tweets on a current event, and availability to julia.albertson@mail.house.gov. Additionally, applicants should indicate which position (in-person or remote) they are seeking, and include their vaccination status if applying to the in-person internship. Applications will be considered until 11:59pm EST on Monday July 26th, 2021.",
+    "salary_info": "$15.00 per hour",
+    "contact": "julia.albertson@mail.house.gov",
+    "equal_opportunity": "The Office of Rep. Ro Khanna is an equal opportunity employer. We do not discriminate based on race, ethnicity, gender, sexual orientation, religion, national origin, age, or socio-economic status. All are welcome and encouraged to apply.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-153-21",
+    "position_title": "Fall Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2021-06-07",
+    "description": "The Minority Staff of the Committee on Oversight and Reform, the chief investigative body of the House of Representatives, is seeking full- and part-time interns for the fall semester. Interns will have the opportunity to work with the administrative, policy, and press teams, conducting research, assisting during hearings and markups, and helping with other administrative tasks as necessary. Fall internships begin in August or September and typically run through the middle of December. Specific dates for this internship will be determined on a case-by-case basis, and preference will be afforded to those who are available at least three days a week. Applicants must be strong writers, organized, and detail-oriented, as they will balance multiple, often disparate, projects corresponding with the broad jurisdiction of the Committee. The strongest candidates will also exhibit discretion in working on confidential matters and be enthusiastic and knowledgeable about the Committee's work. Previous experience on Capitol Hill strongly desired, but not required. The position is unpaid, but we are happy to work with an applicant so they can receive class credit.",
+    "responsibilities": [
+      "Work with the administrative, policy, and press teams",
+      "Conduct research",
+      "Assist during hearings and markups",
+      "Help with other administrative tasks as necessary"
+    ],
+    "qualifications": [
+      "Strong writers",
+      "Organized",
+      "Detail-oriented",
+      "Ability to balance multiple, often disparate, projects",
+      "Exhibit discretion in working on confidential matters",
+      "Enthusiastic and knowledgeable about the Committee's work",
+      "Previous experience on Capitol Hill strongly desired, but not required",
+      "Available at least three days a week (preferred)"
+    ],
+    "how_to_apply": "Interested individuals should submit a cover letter and resume to oversight.committee@mail.house.gov. Please place \"INTERN\" in the subject line. Applications will be reviewed on a rolling basis.",
+    "salary_info": null,
+    "contact": "oversight.committee@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-152-21",
+    "position_title": "Law Clerk",
+    "office": null,
+    "location": null,
+    "posting_date": "2021-06-07",
+    "description": "The Republican Staff of the House Oversight Committee is looking for full- and part-time law clerks for the fall 2021 semester. Law clerks will have the opportunity to work with the oversight and policy teams, conducting research, reviewing documents, and preparing for hearings and markups. Applicants must be current law school students with strong writing skills who are enthusiastic and knowledgeable about the Committee's work. The strongest candidates will also be organized and detail-oriented, as they will balance multiple, often disparate, projects corresponding with the broad jurisdiction of the Committee. Clerkships begin in August or September and usually end in the middle of December. Specific dates for clerkships will be determined on a case-by-case basis. This is an unpaid position, but we are happy to work with an applicant so they can receive class credit. Interested individuals should submit a cover letter and resume to oversight.committee@mail.house.gov. Please place \"LAW CLERK\" in the subject line. Applications will be reviewed on a rolling basis.",
+    "responsibilities": [
+      "Conducting research with the oversight and policy teams",
+      "Reviewing documents",
+      "Preparing for hearings and markups",
+      "Balancing multiple, often disparate, projects corresponding with the broad jurisdiction of the Committee"
+    ],
+    "qualifications": [
+      "Current law school student",
+      "Strong writing skills",
+      "Enthusiastic and knowledgeable about the Committee's work",
+      "Organized and detail-oriented"
+    ],
+    "how_to_apply": "Submit a cover letter and resume to oversight.committee@mail.house.gov with \"LAW CLERK\" in the subject line. Applications will be reviewed on a rolling basis.",
+    "salary_info": null,
+    "contact": "oversight.committee@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

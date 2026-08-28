@@ -1,0 +1,678 @@
+[
+  {
+    "id": "MEM-012-18",
+    "position_title": "Spring Intern",
+    "office": "Congresswoman Martha McSally (AZ-02)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "The office of Congresswoman Martha McSally is seeking spring interns for the Washington, D.C. office with an immediate start date. Responsibilities include, but are not limited to, conducting Capitol tours, corresponding with constituents, researching legislative issues, attending committee hearings, and assisting the Member and staff with data management. Interns will be expected to work a minimum of 24 hours per week, with preference given to candidates who can work full time. Ideal candidates are self-starters with strong interpersonal skills, writing capabilities, and attention to detail. Interested candidates should email resumes to AZ02Intern@gmail.com.",
+    "responsibilities": [
+      "Conducting Capitol tours",
+      "Corresponding with constituents",
+      "Researching legislative issues",
+      "Attending committee hearings",
+      "Assisting the Member and staff with data management"
+    ],
+    "qualifications": [
+      "Self-starter with strong interpersonal skills",
+      "Writing capabilities",
+      "Attention to detail",
+      "Ability to work a minimum of 24 hours per week (preference given to candidates who can work full time)"
+    ],
+    "how_to_apply": "Email resumes to AZ02Intern@gmail.com.",
+    "salary_info": null,
+    "contact": "AZ02Intern@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-011-18",
+    "position_title": "Spring Congressional Intern",
+    "office": null,
+    "location": null,
+    "posting_date": "2018-01-08",
+    "description": "The Committee on House Administration Democratic staff is currently seeking a full-time, unpaid intern for the 2018 Spring Semester. Interns will have various responsibilities in assisting staff with administrative duties, franking, and legislative research. Duties include, but are not limited to, answering phones, sorting franking requests, compiling hearing materials, and assisting with front office duties. Candidates must exhibit strong writing, communication and organizational skills. Spanish fluency is a plus. Please send a resume and brief writing sample in PDF format to Sydney.burns@mail.house.gov with \"Spring Congressional Internship\" in the subject line.",
+    "responsibilities": [
+      "Assisting staff with administrative duties",
+      "Franking",
+      "Legislative research",
+      "Answering phones",
+      "Sorting franking requests",
+      "Compiling hearing materials",
+      "Assisting with front office duties"
+    ],
+    "qualifications": [
+      "Strong writing skills",
+      "Strong communication skills",
+      "Strong organizational skills",
+      "Spanish fluency is a plus"
+    ],
+    "how_to_apply": "Send a resume and brief writing sample in PDF format to Sydney.burns@mail.house.gov with \"Spring Congressional Internship\" in the subject line.",
+    "salary_info": null,
+    "contact": "Sydney.burns@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-010-18",
+    "position_title": "Intern",
+    "office": "Congressman Michael E. Capuano (MA-07)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman Michael E. Capuano is looking for interns to join his Washington, D.C. team for a full-time or part-time, unpaid internship during spring 2018, for a duration of three months or longer. Candidates should be self-starters and able to exercise good judgment on a wide range of assignments in a fast-paced and busy office. Very strong writing skills with close attention to detail and a courteous demeanor are essential. Main responsibilities include: answering phone calls, attending briefings and writing memos, processing mail and leading tours of the U.S. Capitol. A hardworking intern in our office will eventually move on to assisting staff with more complex, legislative projects. Candidates with Massachusetts ties and previous internship and/or work experience are strongly encouraged to apply. Please email a one-page writing sample, resume and cover letter in PDF format to capuano.intern1@mail.house.gov.",
+    "responsibilities": [
+      "Answering phone calls",
+      "Attending briefings and writing memos",
+      "Processing mail",
+      "Leading tours of the U.S. Capitol",
+      "Assisting staff with more complex, legislative projects"
+    ],
+    "qualifications": [
+      "Self-starter able to exercise good judgment on a wide range of assignments in a fast-paced and busy office",
+      "Very strong writing skills with close attention to detail",
+      "Courteous demeanor",
+      "Massachusetts ties (strongly encouraged)",
+      "Previous internship and/or work experience (strongly encouraged)"
+    ],
+    "how_to_apply": "Email a one-page writing sample, resume and cover letter in PDF format to capuano.intern1@mail.house.gov.",
+    "salary_info": null,
+    "contact": "capuano.intern1@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-009-18",
+    "position_title": "Spring Intern",
+    "office": "Congressman Chris Smith (NJ-04)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "The Office of Congressman Chris Smith (NJ-04) is seeking applicants for an unpaid internship in the Washington, DC office for spring 2018. Duties include, but are not limited to, answering constituent phone calls, leading tours of the Capitol, attending hearings and briefings, sorting and distributing mail, drafting correspondence, and assisting with research tasks. Candidates should possess strong writing and communications skills as well as attention to detail. All majors are encouraged to apply. Please send a resume, writing sample, and a list of references to NJ04.scheduling@mail.house.gov with \"Spring Internship 2018\" in the subject line.",
+    "responsibilities": [
+      "Answering constituent phone calls",
+      "Leading tours of the Capitol",
+      "Attending hearings and briefings",
+      "Sorting and distributing mail",
+      "Drafting correspondence",
+      "Assisting with research tasks"
+    ],
+    "qualifications": [
+      "Strong writing and communications skills",
+      "Attention to detail",
+      "All majors are encouraged to apply"
+    ],
+    "how_to_apply": "Send a resume, writing sample, and a list of references to NJ04.scheduling@mail.house.gov with \"Spring Internship 2018\" in the subject line.",
+    "salary_info": null,
+    "contact": "NJ04.scheduling@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-007-18",
+    "position_title": "Unpaid Intern",
+    "office": "Congressman Erik Paulsen (MN-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman Erik Paulsen's office is currently accepting applications for unpaid internships in the Washington, D.C. office. A Congressional internship offers applicants an exciting opportunity to support staff while learning about the daily operations of the Legislative branch. Interns will assist the staff with constituent services, communications, administrative tasks, and legislative research. Congressman Paulsen's Internship Program is designed primarily for the educational benefit of the participant. Interns in the Washington, D.C. Office will gain insight into the federal government and the legislative process by working closely with staff and attending hearings and briefings. This internship is unpaid. College credit, if applicable, will be provided. MN ties preferred but not required.",
+    "responsibilities": [
+      "Assist staff with constituent services",
+      "Assist staff with communications",
+      "Assist staff with administrative tasks",
+      "Assist staff with legislative research",
+      "Attend hearings and briefings",
+      "Work closely with staff to gain insight into the federal government and the legislative process"
+    ],
+    "qualifications": [
+      "Strong work ethic",
+      "Highly organized and motivated",
+      "Positive attitude",
+      "MN ties preferred but not required"
+    ],
+    "how_to_apply": "Qualified applicants should send their cover letter and resume to Peter.Dudziak@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Peter.Dudziak@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-006-18",
+    "position_title": "Intern",
+    "office": "Congresswoman Susan Davis (CA-53)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "The Office of Congresswoman Susan Davis is seeking full and part time interns for the Winter/Spring term in our Washington D.C. office. Great candidates are passionate about Democratic issues, great communicators, and flexible. Duties include letter writing, research opportunities, and constituent contact. Internship candidates should be prepared to work a minimum of 10 hours per week. Internship applications are evaluated on a rolling basis for fall, spring and summer sessions. While we encourage all enthusiastic and hard-working applicants, being a constituent of California's 53rd District is a plus! Interested applicants should send a cover letter, resume and a list of three references with the subject line \"Winter 2018 Internship\" to our Intern Coordinator at ca53dcinternapp@mail.house.gov. Ties to San Diego and the CA53rd District are preferred but not required. This position is for the Spring Semester/Winter Quarter.",
+    "responsibilities": [
+      "Letter writing",
+      "Research opportunities",
+      "Constituent contact"
+    ],
+    "qualifications": [
+      "Passionate about Democratic issues",
+      "Great communicator",
+      "Flexible",
+      "Prepared to work a minimum of 10 hours per week",
+      "Being a constituent of California's 53rd District is a plus",
+      "Ties to San Diego and the CA-53rd District are preferred but not required"
+    ],
+    "how_to_apply": "Send a cover letter, resume, and a list of three references with the subject line \"Winter 2018 Internship\" to the Intern Coordinator at ca53dcinternapp@mail.house.gov.",
+    "salary_info": null,
+    "contact": "ca53dcinternapp@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-005-18",
+    "position_title": "Temporary Paid Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "California Democratic Member is seeking a qualified applicant for a temporary paid internship in his Capitol Office. Responsibilities include corresponding with constituents, leading tours of the Capitol, and significant administrative duties. Candidates should be detail oriented, possess strong oral and written communication skills, and have an ability to multitask and be flexible in a fast-paced environment. Multilingual applicants, particularly those speaking Spanish, are encouraged to apply. Interested applicants should send a cover letter, resume, and 2-3 page writing sample to CAJobs@mail.house.gov no later than January 10, 2018. No phone calls or drop-ins please.",
+    "responsibilities": [
+      "Corresponding with constituents",
+      "Leading tours of the Capitol",
+      "Significant administrative duties"
+    ],
+    "qualifications": [
+      "Detail oriented",
+      "Strong oral and written communication skills",
+      "Ability to multitask and be flexible in a fast-paced environment",
+      "Multilingual applicants, particularly those speaking Spanish, are encouraged to apply"
+    ],
+    "how_to_apply": "Send a cover letter, resume, and 2-3 page writing sample to CAJobs@mail.house.gov no later than January 10, 2018. No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": "CAJobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-004-18",
+    "position_title": "Intern",
+    "office": "Congressman Ben Ray Luján (NM-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman Ben Ray Luján (NM-03) has immediate openings for unpaid full-time and part-time interns for his Washington, D.C. office. Candidates should be motivated, flexible, and detail-oriented individuals with immediate availability, and a preference for those who can stay two-three months. New Mexico ties are a plus, but are not required. Intern responsibilities include answering constituent phone calls, leading tours of the Capitol, sorting mail and faxes, writing letters, and assisting experienced staff with projects in diverse issue areas. Candidates should be outgoing and possess strong oral and written communication skills, an ability to multitask in a fast-paced environment, and a good sense of humor. Candidates with New Mexico ties are strongly encouraged to apply.",
+    "responsibilities": [
+      "Answering constituent phone calls",
+      "Leading tours of the Capitol",
+      "Sorting mail and faxes",
+      "Writing letters",
+      "Assisting experienced staff with projects in diverse issue areas"
+    ],
+    "qualifications": [
+      "Motivated, flexible, and detail-oriented",
+      "Immediate availability",
+      "Preference for those who can stay two-three months",
+      "Outgoing",
+      "Strong oral and written communication skills",
+      "Ability to multitask in a fast-paced environment",
+      "Good sense of humor",
+      "New Mexico ties are a plus but not required"
+    ],
+    "how_to_apply": "Please e-mail a resume, cover letter – including desired start date, and a 1-2 page writing sample to Lujan.Tours@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Lujan.Tours@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-002-18",
+    "position_title": "Congressional Intern",
+    "office": "Congresswoman Debbie Dingell (MI-12)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Representative Debbie Dingell (D-MI) is seeking full or part-time congressional interns for her Washington, D.C. office for Winter 2018 (mid-January to May). This internship position will provide individuals the opportunity to work in a fast-paced Congressional office while receiving hands-on political experience. Duties include answering phones, leading U.S. Capitol tours and assisting staff members with research and special projects. There will also be frequent opportunities to attend legislative hearings of personal interest. The ideal candidate will be motivated, detail-oriented and possess strong communication and writing skills. Michigan ties are preferred. Interested applicants should submit a resume and cover letter with the subject line \"Winter Internship\" to timothy.huebner@mail.house.gov.",
+    "responsibilities": [
+      "Answering phones",
+      "Leading U.S. Capitol tours",
+      "Assisting staff members with research and special projects",
+      "Attending legislative hearings of personal interest"
+    ],
+    "qualifications": [
+      "Motivated",
+      "Detail-oriented",
+      "Strong communication and writing skills",
+      "Michigan ties preferred"
+    ],
+    "how_to_apply": "Submit a resume and cover letter with the subject line \"Winter Internship\" to timothy.huebner@mail.house.gov.",
+    "salary_info": null,
+    "contact": "timothy.huebner@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-513-17",
+    "position_title": "Spring Intern",
+    "office": "Congresswoman Eleanor Holmes Norton (DC-AT)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congresswoman Eleanor Holmes Norton's Capitol Hill office is seeking strong undergraduate, graduate, and recent graduate candidates for the spring internship program. Responsibilities will include but are not limited to answering phones, conducting legislative research, attending briefings/hearings, drafting memos, performing administrative tasks, assisting with constituent relations, and managing the front office. The internship gives students the opportunity to interact directly with the inner workings of Capitol Hill and the legislative process. Applicants should be professional, hardworking, and enthusiastic with strong writing and communication skills. Reliable, responsible, and personable individuals are more likely to thrive in this position. Qualified applicants should send a resume, cover letter, and a two-page writing sample to Priscilla.Kim@mail.house.gov with the subject line \"Norton Internship.\" District ties are required. Both full and part time positions require a minimum three-month commitment, are unpaid, and will be considered on a rolling basis. No phone calls or drop ins, please.",
+    "responsibilities": [
+      "Answering phones",
+      "Conducting legislative research",
+      "Attending briefings/hearings",
+      "Drafting memos",
+      "Performing administrative tasks",
+      "Assisting with constituent relations",
+      "Managing the front office"
+    ],
+    "qualifications": [
+      "Professional, hardworking, and enthusiastic",
+      "Strong writing and communication skills",
+      "Reliable, responsible, and personable",
+      "District ties are required",
+      "Minimum three-month commitment"
+    ],
+    "how_to_apply": "Send a resume, cover letter, and a two-page writing sample to Priscilla.Kim@mail.house.gov with the subject line \"Norton Internship.\" No phone calls or drop ins, please.",
+    "salary_info": null,
+    "contact": "Priscilla.Kim@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-510-17",
+    "position_title": "Intern",
+    "office": "Congressman Jason Smith (MO-08)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman Jason Smith (MO-08) is currently seeking interns to work in his Washington, DC office for the Spring semester. Intern responsibilities include greeting guests in the front office, opening and sorting mail, guiding Capitol building tours and assisting staff with administrative tasks. Interns also will have the opportunity to conduct legislative research as well as attend Capitol Hill briefings, congressional hearings, and press events. Ideal candidates have a positive attitude, strong work ethic, and excellent written and oral communication skills. Hours are flexible and can be adjusted to accommodate other work/class schedules. State ties preferred but not required.",
+    "responsibilities": [
+      "Greeting guests in the front office",
+      "Opening and sorting mail",
+      "Guiding Capitol building tours",
+      "Assisting staff with administrative tasks",
+      "Conducting legislative research",
+      "Attending Capitol Hill briefings, congressional hearings, and press events"
+    ],
+    "qualifications": [
+      "Positive attitude",
+      "Strong work ethic",
+      "Excellent written and oral communication skills",
+      "State ties preferred but not required"
+    ],
+    "how_to_apply": "Send resume and cover letter to caleb.baca@mail.house.gov. Applications are reviewed on a rolling basis, so there is currently no deadline to apply.",
+    "salary_info": null,
+    "contact": "caleb.baca@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-506-17",
+    "position_title": "Intern",
+    "office": "Congressman John Garamendi (CA-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman John Garamendi (CA-03) is seeking a highly motivated intern to join his Washington, DC office this winter. Candidates should be professional, quick learners, and phenomenal team players, and should be able to begin in January 2018. Strong oral and written communication skills and close attention to detail are imperative. Duties include assisting staff with legislative, administrative, and press related projects, writing memos and talking points, attending hearings and meetings, answering constituent phone calls, leading tours of the US Capitol, assisting with scheduling, sorting and distributing mail, and managing tour and flag requests. Interns are considered an integral part of the team and are given the opportunity to learn and grow through working with us both to achieve the goals of the office and to pursue and develop their areas of interest. First-hand experience in Congressman Garamendi's congressional office provides interns with an unparalleled knowledge and understanding of the development of public policy. Full-time candidates with California ties and previous internship/work experience are strongly encouraged to apply. Please e-mail a resume, cover letter and dates of availability to Garamendi.Internships@mail.house.gov.",
+    "responsibilities": [
+      "Assisting staff with legislative, administrative, and press related projects",
+      "Writing memos and talking points",
+      "Attending hearings and meetings",
+      "Answering constituent phone calls",
+      "Leading tours of the US Capitol",
+      "Assisting with scheduling",
+      "Sorting and distributing mail",
+      "Managing tour and flag requests"
+    ],
+    "qualifications": [
+      "Professional",
+      "Quick learners",
+      "Phenomenal team players",
+      "Able to begin in January 2018",
+      "Strong oral and written communication skills",
+      "Close attention to detail",
+      "Full-time candidates with California ties and previous internship/work experience are strongly encouraged to apply"
+    ],
+    "how_to_apply": "Please e-mail a resume, cover letter and dates of availability to Garamendi.Internships@mail.house.gov.",
+    "salary_info": null,
+    "contact": "Garamendi.Internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-504-17",
+    "position_title": "Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "California Democratic Member is seeking a qualified applicant for an internship position in his Capitol Office. Responsibilities include corresponding with constituents, leading tours of the Capitol, assisting with projects including press and legislative research, and administrative duties as needed. The staff member will have the opportunity to attend briefings and hearings on the Hill as well as network and learn from senior staff. Candidates should be detail oriented, possess strong oral and written communication skills, and have an ability to multitask and be flexible in a fast-paced environment. Multilingual applicants, particularly those speaking Spanish, are encouraged to apply. Interested applicants should apply at the following link: https://vargas.house.gov/services/internships/congressional-internshipapplication.",
+    "responsibilities": [
+      "Corresponding with constituents",
+      "Leading tours of the Capitol",
+      "Assisting with projects including press and legislative research",
+      "Administrative duties as needed",
+      "Attending briefings and hearings on the Hill",
+      "Networking and learning from senior staff"
+    ],
+    "qualifications": [
+      "Detail oriented",
+      "Strong oral and written communication skills",
+      "Ability to multitask",
+      "Flexible in a fast-paced environment",
+      "Multilingual applicants, particularly those speaking Spanish, are encouraged to apply"
+    ],
+    "how_to_apply": "Apply at https://vargas.house.gov/services/internships/congressional-internshipapplication",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-503-17",
+    "position_title": "Intern",
+    "office": "Congressman Ed Perlmutter (CO-07)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman Ed Perlmutter seeks an intern to conduct administrative duties in his Washington, DC office. The successful candidate must be a strong team player, polite and friendly with constituents, and willing to assist other staff members in various items. Colorado connections are highly preferred. Primary responsibilities include greeting guests, taking/distributing messages, general office needs, writing memos and letters to constituents, attending briefings, performing back-up duties, conducting personal tours for constituents, and an intern project researching legislation and pitching co-sponsorship to Congressman Perlmutter.",
+    "responsibilities": [
+      "Greeting guests and taking/distributing messages appropriately",
+      "Taking care of general office needs",
+      "Writing memos and letters to constituents",
+      "Attending briefings for staff and performing back-up duties as necessary",
+      "Conducting personal tours for constituents and assisting them on their visit to D.C.",
+      "Communicating with constituents over the phone",
+      "Conducting personal tours of the Capitol",
+      "Interacting with constituent outreach program, Fire Side",
+      "Attending hearings and briefings for staff",
+      "Responding to constituent requests for information",
+      "Performing general administrative duties",
+      "Sitting in on meetings with staff and outside organizations",
+      "Working with other staff members on writing letters to constituents",
+      "Intern Project: Researching legislation and pitching co-sponsorship to Congressman Perlmutter"
+    ],
+    "qualifications": [
+      "Strong team player",
+      "Polite and friendly with constituents",
+      "Willing to assist other staff members in various items",
+      "Colorado connections are highly preferred"
+    ],
+    "how_to_apply": "Please send a résumé and cover letter via email to tia.bogeljic@mail.house.gov.",
+    "salary_info": null,
+    "contact": "tia.bogeljic@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-502-17",
+    "position_title": "Intern",
+    "office": "Congressman Al Lawson (FL-05)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "The Office of Congressman Al Lawson (FL-05), is seeking full- or part-time interns for Spring and Summer '18 semesters in the Washington D.C. office. Responsibilities include, but are not limited to: assisting in legislative research, answering phone calls, attending briefings, greeting front office visitors, and leading tours of the Capitol. Ideal candidates will have a strong attention to detail, an enthusiasm for the political and congressional processes, strong writing skills, and the ability to thrive in an energetic office environment. To apply, please send a resume, cover letter, short writing sample (1-2 pages), and work availability to amber.milenkevich@mail.house.gov.",
+    "responsibilities": [
+      "Assisting in legislative research",
+      "Answering phone calls",
+      "Attending briefings",
+      "Greeting front office visitors",
+      "Leading tours of the Capitol"
+    ],
+    "qualifications": [
+      "Strong attention to detail",
+      "Enthusiasm for the political and congressional processes",
+      "Strong writing skills",
+      "Ability to thrive in an energetic office environment"
+    ],
+    "how_to_apply": "Send a resume, cover letter, short writing sample (1-2 pages), and work availability to amber.milenkevich@mail.house.gov.",
+    "salary_info": null,
+    "contact": "amber.milenkevich@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-501-17",
+    "position_title": "Intern",
+    "office": "Congresswoman Nydia Velázquez (NY-07)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "The Office of Representative Nydia Velázquez (NY-7) is seeking candidates to intern in the Washington, D.C. office from January through May 2018. Interns' responsibilities will include a wide range of tasks including: answering phones, greeting visitors, drafting letters, researching policy matters for the Member and legislative staff, and responding to constituent letters and requests. As Ranking Member of the Committee on Small Business, some interns may be assigned to the Committee on Small Business. Applications will be accepted on a rolling basis.",
+    "responsibilities": [
+      "Answering phones",
+      "Greeting visitors",
+      "Drafting letters",
+      "Researching policy matters for the Member and legislative staff",
+      "Responding to constituent letters and requests"
+    ],
+    "qualifications": [
+      "Positive attitude",
+      "Strong work ethic",
+      "Excellent interpersonal skills",
+      "Strong writing skills are a plus"
+    ],
+    "how_to_apply": "Send your resume to Melissa.Jung@mail.house.gov. Due to the high volume of applicants, a response is not guaranteed. Applications will be accepted on a rolling basis.",
+    "salary_info": null,
+    "contact": "Melissa.Jung@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-500-17",
+    "position_title": "Paid Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "West Coast Republican seeks a highly motivated individual with exceptional organizational skills and multitasking ability to serve as a paid intern in their Washington, D.C. office. This position requires an individual to provide excellent constituent service. Responsibilities include, but are not limited to: greeting constituents and meetings, tours and other information, answering telephone calls and taking messages, processing mail, maintaining the front office, and general office administrative duties. The successful candidate must be courteous and work well in a team environment. Please e-mail your resume and cover letter to westcoastgopinternship@gmail.com.",
+    "responsibilities": [
+      "Greeting constituents and meetings",
+      "Tours and other information",
+      "Answering telephone calls and taking messages",
+      "Processing mail",
+      "Maintaining the front office",
+      "General office administrative duties"
+    ],
+    "qualifications": [
+      "Highly motivated individual",
+      "Exceptional organizational skills",
+      "Multitasking ability",
+      "Courteous",
+      "Work well in a team environment"
+    ],
+    "how_to_apply": "Please e-mail your resume and cover letter to westcoastgopinternship@gmail.com.",
+    "salary_info": null,
+    "contact": "westcoastgopinternship@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-499-17",
+    "position_title": "Spring 2018 Intern",
+    "office": "Congressman Steve Womack (AR-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman Steve Womack is currently seeking hard-working interns in his Washington, D.C. office for the Spring 2018 semester. Interns will work closely with Congressman Womack's staff and constituents while learning the inner workings of the United States Congress and about issues affecting Arkansans. Duties include, but are not limited to, leading tours of the U.S. Capitol, sorting constituent mail, answering phones, attending hearings and briefings, and assisting staff members. Those interested in political science, government, public policy, business, and social work are encouraged to apply. Congressman Womack is a member of the Appropriations Committee, and serves on the Defense, Military Construction, Veterans Affairs, and Related Agencies, and Labor, Health and Human Services, Education, and Related Agencies subcommittees. He also sits on the Budget Committee. Any interested candidates should send a current resume and cover letter to hannah.shea@mail.house.gov.",
+    "responsibilities": [
+      "Leading tours of the U.S. Capitol",
+      "Sorting constituent mail",
+      "Answering phones",
+      "Attending hearings and briefings",
+      "Assisting staff members"
+    ],
+    "qualifications": [
+      "Hard-working",
+      "Interest in political science, government, public policy, business, or social work"
+    ],
+    "how_to_apply": "Send a current resume and cover letter to hannah.shea@mail.house.gov.",
+    "salary_info": null,
+    "contact": "hannah.shea@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-498-17",
+    "position_title": "Unpaid Intern",
+    "office": "Congressman Jeb Hensarling (TX-05)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "The office of Congressman Jeb Hensarling (TX-05) is seeking capable, detail-oriented, and responsible candidates for an unpaid internship in their Washington, D.C. office this fall. Responsibilities include greeting visitors, taking phone calls, giving tours of the Capitol to constituents, sorting mail, and assisting the staff with various administrative and legislative tasks. Interns will have the opportunity to learn a great deal about the political process and our system of government. Hours for interns are 8:30am to 6:00pm when Congress is in session, and 9:00am to 5:00pm out of session, Monday through Friday.",
+    "responsibilities": [
+      "Greeting visitors",
+      "Taking phone calls",
+      "Giving tours of the Capitol to constituents",
+      "Sorting mail",
+      "Assisting the staff with various administrative and legislative tasks"
+    ],
+    "qualifications": [
+      "Excellent organizational and interpersonal skills",
+      "Strong work ethic and positive attitude",
+      "Texas ties are strongly preferred"
+    ],
+    "how_to_apply": "Email a resume and cover letter to Hensarling.Tours@mail.house.gov. Use the subject line: Spring 2017 Internship Application.",
+    "salary_info": null,
+    "contact": "Hensarling.Tours@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-497-17",
+    "position_title": "Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "A Georgia Republican office is accepting applications for internship positions for our Washington, D.C. location. Positions are available beginning in January and will last until May. Duties include, but are not limited to, attending Congressional hearings, researching legislative policy, responding to constituent inquiries, and leading tours of the Capitol. Qualified applicants should possess a professional and courteous demeanor, excellent communication skills, the ability to multi-task, attention to detail, and interest in the legislative process. All majors are encouraged to apply. Please send your resume and a cover letter to GA06Interns@mail.house.gov.",
+    "responsibilities": [
+      "Attending Congressional hearings",
+      "Researching legislative policy",
+      "Responding to constituent inquiries",
+      "Leading tours of the Capitol"
+    ],
+    "qualifications": [
+      "Professional and courteous demeanor",
+      "Excellent communication skills",
+      "Ability to multi-task",
+      "Attention to detail",
+      "Interest in the legislative process"
+    ],
+    "how_to_apply": "Please send your resume and a cover letter to GA06Interns@mail.house.gov.",
+    "salary_info": null,
+    "contact": "GA06Interns@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-496-17",
+    "position_title": "Intern",
+    "office": "Congressman Jimmy Gomez (CA-34)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman Jimmy Gomez (CA-34) is seeking applications for internship positions available in his Washington, D.C. office. Positions are available starting immediately, and applications will be considered on a rolling basis. This internship provides a great opportunity to gain experience working in a Congressional office and get a first-hand look at the legislative process. Intern duties include performing research for staffers, supporting legislative and communications activities, helping with front office operations, assisting with constituent relations, and giving tours of the Capitol. This internship presents an excellent opportunity for college students and recent graduates seeking Capitol Hill experience. Southern California ties are preferred, but not required.",
+    "responsibilities": [
+      "Performing research for staffers",
+      "Supporting legislative and communications activities",
+      "Helping with front office operations",
+      "Assisting with constituent relations",
+      "Giving tours of the Capitol"
+    ],
+    "qualifications": [
+      "Self-starters with excellent communication skills",
+      "Ability to multitask effectively and think critically",
+      "Attention to detail",
+      "Interest in the legislative and governmental process",
+      "College students and recent graduates seeking Capitol Hill experience",
+      "Southern California ties are preferred, but not required"
+    ],
+    "how_to_apply": "Email a resume and cover letter to CA34.internship@mail.house.gov with \"Internship Application\" in the subject line.",
+    "salary_info": null,
+    "contact": "CA34.internship@mail.house.gov",
+    "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex, gender identity, disability or age.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-493-17",
+    "position_title": "Congressional Intern",
+    "office": null,
+    "location": null,
+    "posting_date": "2018-01-08",
+    "description": "Democratic Congressman seeks applicants for full- or part-time unpaid congressional internship for Spring 2018. Duties will include conducting legislative research, drafting memos, assisting with front office duties, and performing basic administrative tasks. Candidates must exhibit strong writing and communication skills. Maryland residents or strong ties to Maryland are preferred. Please send a resume, cover letter and writing sample to md06.internships@mail.house.gov with \"Spring Congressional Internship\" in the subject line.",
+    "responsibilities": [
+      "Conducting legislative research",
+      "Drafting memos",
+      "Assisting with front office duties",
+      "Performing basic administrative tasks"
+    ],
+    "qualifications": [
+      "Strong writing and communication skills",
+      "Maryland residents or strong ties to Maryland are preferred"
+    ],
+    "how_to_apply": "Send a resume, cover letter and writing sample to md06.internships@mail.house.gov with \"Spring Congressional Internship\" in the subject line.",
+    "salary_info": null,
+    "contact": "md06.internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-492-17",
+    "position_title": "Intern",
+    "office": "Congressman Keith Rothfus (PA-12)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Internships are offered in Congressman Keith Rothfus' Washington, D.C. office during the spring, summer, and fall semesters. Currently, we are accepting resumes for Spring and Summer 2017. Hours can be flexible to accommodate student course schedules, but generally run 9:00AM - 6:00PM. Internships are unpaid and academic credit may be available depending on the student's academic institution. Duties will include, but are not limited to: answering phones, leading constituent tours, processing mail, researching issues, drafting correspondence, attending hearings and briefings, and maintaining the front office. Qualified candidates should have excellent writing and communication skills, the ability to work in a fast-paced working environment, and have an interest in the legislative process. Students may email resumes to kirsten.hasler@mail.house.gov. Pennsylvania ties are preferred, but not required.",
+    "responsibilities": [
+      "Answering phones",
+      "Leading constituent tours",
+      "Processing mail",
+      "Researching issues",
+      "Drafting correspondence",
+      "Attending hearings and briefings",
+      "Maintaining the front office"
+    ],
+    "qualifications": [
+      "Excellent writing and communication skills",
+      "Ability to work in a fast-paced working environment",
+      "Interest in the legislative process",
+      "Pennsylvania ties are preferred, but not required"
+    ],
+    "how_to_apply": "Email resumes to kirsten.hasler@mail.house.gov.",
+    "salary_info": null,
+    "contact": "kirsten.hasler@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-491-17",
+    "position_title": "Intern (Winter/Spring)",
+    "office": "Congressman José E. Serrano (NY-15)",
+    "location": "Washington, D.C.",
+    "posting_date": "2018-01-08",
+    "description": "Congressman José E. Serrano is currently seeking interns for the Winter/Spring term for his Washington, D.C. office. We are looking for energetic and driven individuals who are eager to learn. Congressman Serrano represents New York's 15th Congressional District and serves on the Appropriations Committee. The internship involves researching legislative issues, assisting with incoming mail, attending lectures and hearings, giving Capitol tours, working with legislative staff on special projects and assisting with other general office duties. Please note that this is an unpaid internship; if you are seeking college credit our office would be happy to assist in that. New York ties a plus, but not necessary.",
+    "responsibilities": [
+      "Researching legislative issues",
+      "Assisting with incoming mail",
+      "Attending lectures and hearings",
+      "Giving Capitol tours",
+      "Working with legislative staff on special projects",
+      "Assisting with other general office duties"
+    ],
+    "qualifications": [
+      "Must be self-starters",
+      "Detail oriented",
+      "Excellent writing and communication skills",
+      "Able to multi-task",
+      "New York ties a plus, but not necessary"
+    ],
+    "how_to_apply": "Email your cover letter and resume to Alexis.Philbrick@mail.house.gov with \"Winter/Spring Internship\" in the subject line.",
+    "salary_info": null,
+    "contact": "Alexis.Philbrick@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

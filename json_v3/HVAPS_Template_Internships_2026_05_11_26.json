@@ -1,0 +1,59 @@
+[
+  {
+    "id": "MEM-141-26",
+    "position_title": "Press Intern (Summer 2026)",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2026-05-11",
+    "description": "The House Committee on Oversight and Reform Democratic Staff is hiring for a paid full-time Press Intern (Summer 2026) to work in the Committee's Washington, D.C. office. The Press Intern works closely with the communications team. Applications will be reviewed on a rolling basis.",
+    "responsibilities": [
+      "Compiling daily news clips",
+      "Assisting with graphic design",
+      "Drafting press releases and other written materials",
+      "Copy editing written materials",
+      "Maintaining press lists",
+      "Clipping committee remarks and cable hits",
+      "Media monitoring and researching"
+    ],
+    "qualifications": [
+      "Ability to work in a fast-paced environment",
+      "Demonstrate keen attention to detail",
+      "Understand deadlines",
+      "Prior communications internship experience"
+    ],
+    "how_to_apply": "Send a one-page resume, one sample press release, one sample graphic, and three relevant sample tweets to ethan.cesar@mail.house.gov and OversightPress@mail.house.gov with \"PRESS INTERN APP: Full Name, Spring 2026\" in the subject line.",
+    "salary_info": null,
+    "contact": "ethan.cesar@mail.house.gov, OversightPress@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-118-26",
+    "position_title": "Fall 2026 Intern",
+    "office": "Congresswoman Pramila Jayapal (WA-07)",
+    "location": "Washington, D.C.",
+    "posting_date": "2026-05-11",
+    "description": "The Office of U.S. Representative Pramila Jayapal (WA-07) seeks highly motivated, organized, and dedicated interns to serve for the Fall of 2026 in the Representative's Washington, D.C. office. Interns will work primarily with D.C.-based staff performing legislative and administrative work. All interns will be paid a one-time stipend of $5,850 unless funded by an outside organization. The application period for Fall 2026 internships is now open and will close on June 30th at 11:59 PM ET.",
+    "responsibilities": [
+      "Answering phones",
+      "Sorting and drafting responses to constituent correspondence",
+      "Attending briefings and hearings",
+      "Performing legislative research",
+      "Supporting staff members on various projects"
+    ],
+    "qualifications": [
+      "Highly motivated, organized, and dedicated",
+      "Professional",
+      "Excellent communication skills",
+      "Strong attention to detail",
+      "Commitment to public service and progressive values"
+    ],
+    "how_to_apply": "E-mail a resume, cover letter, short writing sample, three references, and availability to Jayapal.DCInternships@mail.house.gov with the subject \"First Name.Last Name Internship Application.\"",
+    "salary_info": null,
+    "contact": "Jayapal.DCInternships@mail.house.gov",
+    "equal_opportunity": "We are an equal opportunity employer and do not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability. Diverse applicants encouraged to apply.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

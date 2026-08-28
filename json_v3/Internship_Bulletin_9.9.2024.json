@@ -1,0 +1,28 @@
+[
+  {
+    "id": "MEM-376-24",
+    "position_title": "Foreign Affairs Fellow",
+    "office": "Congresswoman Abigail Spanberger (VA-07)",
+    "location": null,
+    "posting_date": "2024-09-09",
+    "description": "The Office of Rep. Abigail Spanberger (VA-07) is seeking a short-term Foreign Affairs Fellow. This is a paid fellowship opportunity that would begin in September and end mid-to-late December. The Foreign Affairs Fellow would support the Congresswoman's work on foreign affairs, armed services, defense, and intelligence. The fellowship is ideal for candidates who have recently finished a graduate program in international affairs or security studies, or have some prior work experience in these issues and are looking to make a career transition or \"try out\" working on Capitol Hill. Current graduate students who are able to work during business hours will also be considered. Candidates with prior Capitol Hill experience will also be given strong consideration, but Capitol Hill experience is not required for this role. Responsibilities will include drafting and advancing legislative proposals, preparing the Member for hearings and markups, meeting with stakeholders and constituents, providing vote recommendations, and performing additional tasks as assigned. Fellows will be provided with a monthly stipend. For Fellows who are able to work full-time (40 hours per week), the stipend will be $3,200/month. The office will also consider candidates able to work slightly less than full time (e.g. 30 hours per week), at a pro-rated monthly stipend amount.",
+    "responsibilities": [
+      "Drafting and advancing legislative proposals",
+      "Preparing the Member for hearings and markups",
+      "Meeting with stakeholders and constituents",
+      "Providing vote recommendations",
+      "Performing additional tasks as assigned"
+    ],
+    "qualifications": [
+      "Recently finished a graduate program in international affairs or security studies, or have prior work experience in these issues",
+      "Current graduate students able to work during business hours will also be considered",
+      "Prior Capitol Hill experience is strongly considered but not required"
+    ],
+    "how_to_apply": "Email a cover letter, resume, two writing samples, and three references to Spanberger.Inquiries@mail.house.gov with \"Foreign Affairs Fellow – [Last Name]\" as the subject line. Include in your cover letter your availability (preferred start and end dates, and hours per week).",
+    "salary_info": "$3,200 per month",
+    "contact": "Spanberger.Inquiries@mail.house.gov",
+    "equal_opportunity": "This office is an equal-opportunity employer. We do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "MEM-171-25",
+    "position_title": "Fall Intern",
+    "office": "Congressman Jeff Van Drew (NJ-02)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-06-03",
+    "description": "The office of U.S. Congressman Jeff Van Drew (Republican-NJ-02) is currently accepting applications for his Washington, D.C. office for full and part-time interns for the fall internship session. This is a conservative office, so each intern will be required to express the Congressman's conservative perspective to constituents and people who call into the office. The start date would be as early as August 6th (flexible depending on availability) with a flexible end date. Interns are paid a stipend based on availability and have access to transit benefits. The internship will offer students and young professionals invaluable experience with our nation's legislative process. Interns contribute to the daily operations of the office and are expected to act in a reliable, professional manner at all times. Congressman Van Drew supports students requesting credit for their internship through their university.",
+    "responsibilities": [
+      "Greeting visitors",
+      "Answering phones",
+      "Leading tours of the Capitol",
+      "Opening and sorting mail",
+      "Attending briefings",
+      "Performing legislative research",
+      "Various other tasks to assist staff"
+    ],
+    "qualifications": [
+      "Must be able to express the Congressman's conservative perspective to constituents and callers",
+      "Expected to act in a reliable, professional manner at all times",
+      "Available for full or part-time work during the fall internship session",
+      "Students or young professionals seeking experience with the legislative process"
+    ],
+    "how_to_apply": "Email a resume and cover letter to nj02internships@mail.house.gov. Indicate in your cover letter that you are applying for a fall internship. Format the files as [Full Name_Resume], [Full Name_Cover Letter].",
+    "salary_info": null,
+    "contact": "nj02internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

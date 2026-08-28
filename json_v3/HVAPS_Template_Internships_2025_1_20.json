@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MEM-017-25",
+    "position_title": "Spring 2025 Intern",
+    "office": "Congressman Brian Mast (FL-21)",
+    "location": "Washington, D.C.",
+    "posting_date": "2025-01-20",
+    "description": "The Office of Congressman Brian Mast (R-FL-21) is currently accepting applications for unpaid internships at the Washington, DC member office during the spring 2025 term. This internship will run from early February through May. Responsibilities include answering and logging constituent phone calls, assisting staff with administrative duties, projects, legislative research, and drafting constituent correspondence. The ideal candidate will be able to work in a fast-paced environment, have a general understanding of the legislative process, and possess strong written and oral communication skills. Florida ties are not necessary but preferred. The internship schedule is flexible for college students if needed.",
+    "responsibilities": [
+      "Answering and logging constituent phone calls",
+      "Assisting staff with administrative duties",
+      "Assisting with projects",
+      "Legislative research",
+      "Drafting constituent correspondence"
+    ],
+    "qualifications": [
+      "Ability to work in a fast-paced environment",
+      "General understanding of the legislative process",
+      "Strong written and oral communication skills",
+      "Florida ties preferred but not necessary"
+    ],
+    "how_to_apply": "Email resume and a brief writing sample to joseph.harrington@mail.house.gov with the subject line \"LASTNAME - Spring 2025 internship.\"",
+    "salary_info": null,
+    "contact": "joseph.harrington@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-001-25",
+    "position_title": "Paid Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2025-01-20",
+    "description": "The Democratic Staff of the U.S. House Select Committee on Strategic Competition between the United States and the Chinese Communist Party seeks qualified undergraduate students and graduates for paid internships beginning as early as January 20th. This position is hybrid (in-office and remote). Interns play a key role in the office and will work closely with Committee counsel and staff.",
+    "responsibilities": [
+      "Assisting Committee staff in preparing for congressional hearings",
+      "Conducting legislative research",
+      "Providing support to investigations",
+      "Drafting memoranda",
+      "Performing other policy and administrative tasks as necessary"
+    ],
+    "qualifications": [
+      "Strong organizational, communication, research and writing skills",
+      "Ability to manage multiple tasks and work well under pressure in a team environment",
+      "Organized, committed, and eager to join a fast-paced environment",
+      "Background and/or interest in subject areas related to the People's Republic of China is strongly preferred"
+    ],
+    "how_to_apply": "Submit resume, cover letter, and one writing sample (two pages max) to SCCDems.resumes@mail.house.gov. Put \"Spring 2025 Intern Application\" in the subject line. In the cover letter, indicate preferred start/end dates for scheduling purposes.",
+    "salary_info": null,
+    "contact": "SCCDems.resumes@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

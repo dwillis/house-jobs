@@ -1,0 +1,66 @@
+[
+  {
+    "id": "MEM-179-24",
+    "position_title": "Summer 2024 District Office Intern",
+    "office": "Congressman Wesley Hunt (TX-38)",
+    "location": "Houston, TX or Tomball, TX",
+    "posting_date": "2024-04-29",
+    "description": "The Office of Congressman Wesley Hunt (TX-38) is seeking candidates for the Summer 2024 district office internship. Internships are full or part-time and in-person at the Houston, TX or Tomball, TX offices. Ties to the District are preferred but not required. The summer internship program runs from late May through August. The internship is flexible in the number of hours per week, but a minimum of 20 hours per week is mandatory. The office is open five days a week from 9:30 AM to 4:00 PM CT. Applications are due by Friday, May 10 at 11:59 PM CT.",
+    "responsibilities": [
+      "Answering phones",
+      "Conducting research",
+      "Assisting with events throughout the district",
+      "Various other tasks as assigned",
+      "Learning about the crucial work a district office does"
+    ],
+    "qualifications": [
+      "Be at least 18 years of age",
+      "Be working towards a Bachelor's or Master's degree",
+      "Demonstrate an interest in politics and public service",
+      "Possess highly competent time management skills",
+      "Possess effective teamwork, professionalism, flexibility, and communication both written and verbal skills",
+      "Have the ability to complete assignments with limited guidance",
+      "Be hard workers, detail-oriented, efficient multitaskers, and comfortable interacting and speaking with the public"
+    ],
+    "how_to_apply": "Interested candidates should submit a cover letter describing why they are interested in working as an intern in a congressional office, along with a resume highlighting relevant experience. Fill out an application at https://hunt.house.gov/services/internships and upload both the cover letter and resume at the end of the form. The application deadline is Friday, May 10 at 11:59 PM CT. Only applicants selected for interviews will be contacted. No drop-ins please.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-176-24",
+    "position_title": "DC Press Intern",
+    "office": "Congresswoman Katie Porter (CA-47)",
+    "location": "Washington, D.C.",
+    "posting_date": "2024-04-29",
+    "description": "Rep. Katie Porter (CA-47) seeks a highly motivated intern for her DC office summer press internship program. This internship is expected to start by June 10 and we are open to end dates in August or September. The ideal candidate is highly organized, creative, able to multitask, has strong written and verbal communication skills, an interest in communications, and able to learn and use Adobe Premiere Pro and Photoshop. Interns are expected in the office from 9 am to 5 pm, however hours are flexible based on a student's course schedule. Interns will receive a monthly stipend. Ties to Orange County/Southern California are a plus.",
+    "responsibilities": [
+      "Compile daily press clips",
+      "Draft social media posts, press releases, and other written materials",
+      "Clip and caption video content for digital platforms",
+      "Design graphics for use across social media platforms",
+      "Research media contacts/reporters and pitch stories to press",
+      "Answer incoming phone calls to log opinions, connect staffers to outside stakeholders, and direct callers to appropriate resources",
+      "Enter and organize incoming constituent messages from mail and voicemail into the IQ database",
+      "Respond to constituent messages through phone calls or emails as needed",
+      "Perform other duties as assigned by the communications staff"
+    ],
+    "qualifications": [
+      "Highly organized",
+      "Creative",
+      "Able to multitask",
+      "Strong written and verbal communication skills",
+      "Interest in communications",
+      "Able to learn and use Adobe Premiere Pro and Photoshop",
+      "Ties to Orange County/Southern California are a plus"
+    ],
+    "how_to_apply": "Send a cover letter, resume, and a small portfolio with a writing sample and 2-3 graphics, videos, or other creative content to CA47.Internship@mail.house.gov with \"Summer 2024 Press Internship\" in the subject line. The deadline for submission is Monday, May 13, 2024.",
+    "salary_info": null,
+    "contact": "CA47.Internship@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

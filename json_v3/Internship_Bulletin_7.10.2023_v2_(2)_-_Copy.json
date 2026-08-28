@@ -1,0 +1,895 @@
+[
+  {
+    "id": "MEM-353-23",
+    "position_title": "Paid Intern",
+    "office": null,
+    "location": null,
+    "posting_date": "2023-07-10",
+    "description": "The Democratic Staff of the Committee on Science, Space, and Technology seeks full or part-time paid interns for Fall 2023. This position will include a combination of telework and in-office work as safety and logistics permit. Interns will work on substantive projects under the direction of Committee Staff while also serving a general administrative function. Interns will help staff prepare for hearings and markups, take notes on relevant committee activities, and work on research, oversight, and press-related projects. Interns will also perform administrative tasks such as answering phones, greeting visitors, and filing official documents. Interested applicants should email a resume and cover letter to sstdeminterns@mail.house.gov. Applicants will be accepted on a rolling basis. No calls or drop-ins please.",
+    "responsibilities": [
+      "Work on substantive projects under the direction of Committee Staff",
+      "Serve a general administrative function",
+      "Help staff prepare for hearings and markups",
+      "Take notes on relevant committee activities",
+      "Work on research, oversight, and press-related projects",
+      "Perform administrative tasks such as answering phones, greeting visitors, and filing official documents"
+    ],
+    "qualifications": [
+      "Detail-oriented",
+      "Strong oral and written communication skills",
+      "Ability to multitask and adapt to a fast-paced environment",
+      "Background and/or interest in subject areas within the committee's jurisdiction is strongly preferred"
+    ],
+    "how_to_apply": "Email a resume and cover letter to sstdeminterns@mail.house.gov. Applicants will be accepted on a rolling basis. No calls or drop-ins please.",
+    "salary_info": null,
+    "contact": "sstdeminterns@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-351-23",
+    "position_title": "Fall Intern",
+    "office": "Congresswoman Grace F. Napolitano (CA-31)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congresswoman Grace F. Napolitano (D-CA) is seeking candidates for a paid Fall internship in our Washington D.C. office. Qualified candidates will have strong oral and written communication skills, eager to learn, detail oriented, and passionate about public service. Responsibilities include answering phones, writing letters to constituents on a variety of policy topics, assisting constituents with matters related to federal agencies, researching legislation for the Member and the staff, and attending hearings and briefings. The ideal candidate will be available from September through December and can work from 9am – 6pm ET when Congress is in session and from 9am – 5pm ET when Congress is not in session. District ties and Southern California ties are strongly preferred.",
+    "responsibilities": [
+      "Answering phones",
+      "Writing letters to constituents on a variety of policy topics",
+      "Assisting constituents with matters related to federal agencies",
+      "Researching legislation for the Member and the staff",
+      "Attending hearings and briefings"
+    ],
+    "qualifications": [
+      "Strong oral and written communication skills",
+      "Eager to learn",
+      "Detail oriented",
+      "Passionate about public service",
+      "Available from September through December",
+      "Can work from 9am – 6pm ET when Congress is in session and from 9am – 5pm ET when Congress is not in session",
+      "District ties and Southern California ties strongly preferred"
+    ],
+    "how_to_apply": "Email Sam.Schiller@mail.house.gov by midnight ET on July 21st, 2023, with a resume and cover letter in a single PDF file. Please have your email subject line read \"Fall Internship Application – (First Name, Last Name).\"",
+    "salary_info": null,
+    "contact": "Sam.Schiller@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-350-23",
+    "position_title": "Press Intern",
+    "office": "Congressman Kevin Mullin (CA-15)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "Congressman Kevin Mullin's (CA-15) D.C. office is seeking an in-person, part-time, paid press intern for Fall 2023. The press intern will work closely with the Press Secretary and occasionally the legislative team. Responsibilities include answering telephones, compiling daily press clips, creating content for social media, drafting press releases, newsletters, and other written materials, maintaining press lists, clipping floor and hearing remarks, and designing graphics. The ideal candidate is team-oriented, has written and oral communication skills, experience with graphic design, and relevant communications experience. A strong work ethic, the ability to excel in fast-paced environments, and a willingness to assist wherever needed is a must. This position pays $15 per hour and will be based on an approximately 25-hour work week. California ties are preferred, but not required. The deadline to apply is July 28th, 2023.",
+    "responsibilities": [
+      "Answering telephones",
+      "Compiling daily press clips",
+      "Creating content for social media",
+      "Drafting press releases, newsletters, and other written materials",
+      "Maintaining press lists",
+      "Clipping floor and hearing remarks",
+      "Designing graphics"
+    ],
+    "qualifications": [
+      "Organized, creative, familiar with current events, and detail-oriented",
+      "Team-oriented",
+      "Written and oral communication skills",
+      "Experience with graphic design",
+      "Relevant communications experience",
+      "Strong work ethic",
+      "Ability to excel in fast-paced environments",
+      "Willingness to assist wherever needed",
+      "California ties preferred, but not required"
+    ],
+    "how_to_apply": "Send resume and a cover letter explaining interest and any relevant experience to Mullininternships@gmail.com with the subject line \"Mullin Fall Press Internship Application.\" The deadline to apply is July 28th, 2023.",
+    "salary_info": "$15 per hour",
+    "contact": "Mullininternships@gmail.com",
+    "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-349-23",
+    "position_title": "Paid Legislative Intern (Fall)",
+    "office": "Congressman Kevin Mullin (CA-15)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Washington, DC office of Congressman Kevin Mullin (CA-15) is accepting applications for paid legislative internships for the fall semester. The ideal candidate will have excellent communication and written skills, interest in the legislative process, resourcefulness, and a willingness to learn in a fast-paced environment. Ties to the Bay Area or California are preferred, but not required. Responsibilities include answering phones, research, drafting constituent correspondence, attending policy briefings and hearings, recommending legislation to the Congressman, and other tasks as assigned. The Fall term begins late-August or early-September and ends mid- to late-December with flexible start and end dates. Work will be in-person and is compensated at $15 per hour. To apply, please submit a resume, cover letter, and one page writing sample as one PDF to MullinInternships@gmail.com. Email subject line should follow the following format: LastName, FirstName – Fall Internship. Additionally, please note your availability and any ties to the Bay Area or California in the body of your email. The deadline to apply is July 25th, 2023. Due to the large volume of applicants, only those applicants who are selected for interviews will be contacted. Candidates from diverse backgrounds are encouraged to apply. This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "responsibilities": [
+      "Answering phones",
+      "Research",
+      "Drafting constituent correspondence",
+      "Attending policy briefings and hearings",
+      "Recommending legislation to the Congressman",
+      "Other tasks as assigned"
+    ],
+    "qualifications": [
+      "Excellent communication and written skills",
+      "Interest in the legislative process",
+      "Resourcefulness",
+      "Willingness to learn in a fast-paced environment",
+      "Ties to the Bay Area or California are preferred, but not required"
+    ],
+    "how_to_apply": "Submit a resume, cover letter, and one page writing sample as one PDF to MullinInternships@gmail.com. Email subject line should follow the format: LastName, FirstName – Fall Internship. Note your availability and any ties to the Bay Area or California in the body of your email. Deadline to apply is July 25th, 2023.",
+    "salary_info": null,
+    "contact": "MullinInternships@gmail.com",
+    "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-348-23",
+    "position_title": "Intern",
+    "office": "Congressman Maxwell Alejandro Frost (FL-10)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congressman Maxwell Alejandro Frost is hiring an intern in our Washington, D.C. office for the fall 2023 semester. Interns will gain invaluable educational experience from working in Congress. The hours can be flexible to accommodate students' course schedules, but we generally require 35 hours a week and pay $18 an hour. Interns' responsibilities will vary. They may be asked to answer phones, run errands, research legislation for the Member and legislative staff, attend hearings and briefings, and answer constituent letters on various issues before the House. As a result, interns learn about the legislative process and the many other functions of a congressional office. District and Florida ties preferred. Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged to apply. The deadline to apply for the fall session is July 31, 2023.",
+    "responsibilities": [
+      "Answer phones",
+      "Run errands",
+      "Research legislation for the Member and legislative staff",
+      "Attend hearings and briefings",
+      "Answer constituent letters on various issues before the House"
+    ],
+    "qualifications": [
+      "District and Florida ties preferred",
+      "Must be able to work generally 35 hours a week",
+      "Current student or recent graduate with interest in the legislative process"
+    ],
+    "how_to_apply": "Apply via https://frost.house.gov/services/internships. The deadline to apply for the fall session is July 31, 2023.",
+    "salary_info": "$18 an hour",
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-347-23",
+    "position_title": "Fall 2023 Intern",
+    "office": "Congressman Barry Moore (AL-02)",
+    "location": "Washington, D.C. and Andalusia, Wetumpka, Troy, and Dothan, Alabama",
+    "posting_date": "2023-07-10",
+    "description": "Congressman Barry Moore (AL-02) is seeking part-time OR full-time interns for the Fall 2023 semester in both his Washington, D.C. and District offices. The internships are based in the Washington, D.C., Andalusia, Wetumpka, Troy, and Dothan, Alabama offices. They are open to college students of all majors and designed for undergraduate and graduate students, as well as recent graduates with an interest in public service. Hours are flexible to accommodate course schedules, but generally run from 9:00am to 5:00pm. Preferred candidates should possess excellent communication skills, a strong attention to detail, a passion for public service, and the ability to work cooperatively and courteously with others. Intern responsibilities include answering the phones, drafting constituent letters, listening to hearings and briefings, assisting the press & leg team, conducting research, and administrative work as needed. Interns will gain an understanding of the legislative process and the many other functions of a congressional office.",
+    "responsibilities": [
+      "Answering the phones",
+      "Drafting constituent letters",
+      "Listening to hearings and briefings",
+      "Assisting the press & leg team",
+      "Conducting research",
+      "Administrative work as needed",
+      "Gaining an understanding of the legislative process and the many other functions of a congressional office"
+    ],
+    "qualifications": [
+      "Excellent communication skills",
+      "Strong attention to detail",
+      "A passion for public service",
+      "Ability to work cooperatively and courteously with others",
+      "Open to college students of all majors; designed for undergraduate and graduate students, as well as recent graduates with an interest in public service"
+    ],
+    "how_to_apply": "Send a cover letter, resume, and class schedule/availability to Internships.AL02@mail.house.gov with the subject line \"Fall Intern Application 2023 (Office Location).\" Please specify in the email and subject line which office you are applying for.",
+    "salary_info": null,
+    "contact": "Internships.AL02@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-346-23",
+    "position_title": "Fall Intern",
+    "office": "Congresswoman Shontel Brown (OH-11)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The office of Congresswoman Shontel Brown (OH-11) is seeking college juniors and seniors, recent graduates, and grad students for in-person fall internships in her Washington, D.C. office. Responsibilities will include answering phones, conducting a semester-long capstone project, writing constituent letters, assisting legislative staff with research, and categorizing mail. Successful candidates will work well under pressure, are organized, hardworking, detail-oriented, have customer service/retail experience, and can have some fun! Ohio ties are preferred but not required, and candidates of color, women, and LGBTQ+ candidates are strongly encouraged to apply. Interns will be eligible for a monthly stipend. Interested applicants should send a resume, writing sample, and cover letter to OH11InternResumes@mail.house.gov with \"Fall Intern [LASTNAME]\" in the subject line. The deadline to apply is July 21 close of business. No phone calls or drop-ins, please.",
+    "responsibilities": [
+      "Answering phones",
+      "Conducting a semester-long capstone project",
+      "Writing constituent letters",
+      "Assisting legislative staff with research",
+      "Categorizing mail"
+    ],
+    "qualifications": [
+      "College juniors and seniors, recent graduates, and grad students",
+      "Work well under pressure",
+      "Organized, hardworking, detail-oriented",
+      "Customer service/retail experience",
+      "Ohio ties are preferred but not required"
+    ],
+    "how_to_apply": "Send a resume, writing sample, and cover letter to OH11InternResumes@mail.house.gov with \"Fall Intern [LASTNAME]\" in the subject line. The deadline to apply is July 21 close of business. No phone calls or drop-ins, please.",
+    "salary_info": null,
+    "contact": "OH11InternResumes@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-345-23",
+    "position_title": "Fall 2023 Intern",
+    "office": "Congressman Pat Ryan (NY-18)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Washington, D.C. office of Congressman Pat Ryan (NY-18) is seeking interns for the Fall 2023 semester, from approximately mid-August to December. This position comes with a monthly stipend. Responsibilities include attending hearings and briefings on behalf of legislative staffers, compiling daily press clips for the Congressman, sorting constituent correspondence and drafting responses, leading tours of the Capitol, answering phone calls and greeting visitors to the office, and supporting staff members with legislative research and other tasks as assigned. Ideal applicants will have strong written and oral communication skills, a demonstrated interest in government and public service, the ability to multitask and stay focused in a fast-paced environment, and a positive attitude. Undergraduate students and recent graduates are preferred, ties to NY-18 a plus. The application can be found via https://patryan.house.gov/services/internships. Deadline to apply is Friday, July 14, by 5pm.",
+    "responsibilities": [
+      "Attending hearings and briefings on behalf of legislative staffers",
+      "Compiling daily press clips for the Congressman",
+      "Sorting constituent correspondence and drafting responses",
+      "Leading tours of the Capitol",
+      "Answering phone calls and greeting visitors to the office",
+      "Supporting staff members with legislative research and other tasks as assigned"
+    ],
+    "qualifications": [
+      "Strong written and oral communication skills",
+      "Demonstrated interest in government and public service",
+      "Ability to multitask and stay focused in a fast-paced environment",
+      "Positive attitude",
+      "Undergraduate students and recent graduates are preferred",
+      "Ties to NY-18 a plus"
+    ],
+    "how_to_apply": "The application can be found via https://patryan.house.gov/services/internships. Deadline to apply is Friday, July 14, by 5pm. Please reach out to finn.donohue@mail.house.gov with any questions.",
+    "salary_info": null,
+    "contact": "finn.donohue@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer and values diversity highly. People of color, LGBTQ+ individuals, people with disabilities, and members of other underrepresented communities are strongly encouraged to apply.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-344-23",
+    "position_title": "Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "U.S. Rep. Lloyd Doggett (D-Texas) seeks interns for his Washington office in Fall 2023. Texas connections a plus. Upload resume, brief writing sample, and three references at https://doggett.house.gov/services/internships. No calls or drop-ins please.",
+    "responsibilities": [
+      "Assist with constituent correspondence and office operations",
+      "Support legislative research and policy tracking",
+      "Help with Capitol tours and other front-office duties",
+      "Perform general administrative tasks as needed"
+    ],
+    "qualifications": [
+      "Texas connections a plus",
+      "Strong writing skills",
+      "Professional demeanor",
+      "Interest in the legislative process"
+    ],
+    "how_to_apply": "Upload resume, brief writing sample, and three references at https://doggett.house.gov/services/internships. No calls or drop-ins please.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-343-23",
+    "position_title": "Full-Time Paid Intern, Fall 2023",
+    "office": "Congresswoman Kat Cammack (FL-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "Representative Kat Cammack (FL-03) seeks applicants for a full-time paid internship for Fall 2023 (Internship would run from August through December 2023) in her Washington DC office. Intern responsibilities are, but are not limited to, answering phones, logging constituent concerns, running errands in the Capitol, and aiding various staff in the Member's office. Ideal candidates will be quick learners that have initiative, a strong work ethic, strong communication skills, a positive attitude, and are timely. Undergraduate and recent college graduates are preferred. Academic credit is available for qualifying students. Internships are in-person and will require candidates to move to Washington, D.C. for the duration of the internship. Interested candidates should email with \"Washington D.C. Intern Fall 2023\" in the subject line, their resume, cover letter, two references, and social media handles to FL03.Internships@mail.house.gov (No drop-ins or phone calls). The Deadline to apply is July 14th.",
+    "responsibilities": [
+      "Answering phones",
+      "Logging constituent concerns",
+      "Running errands in the Capitol",
+      "Aiding various staff in the Member's office"
+    ],
+    "qualifications": [
+      "Quick learners with initiative",
+      "Strong work ethic",
+      "Strong communication skills",
+      "Positive attitude",
+      "Timely",
+      "Undergraduate and recent college graduates preferred"
+    ],
+    "how_to_apply": "Email resume, cover letter, two references, and social media handles with \"Washington D.C. Intern Fall 2023\" in the subject line to FL03.Internships@mail.house.gov. No drop-ins or phone calls. Deadline to apply is July 14th.",
+    "salary_info": null,
+    "contact": "FL03.Internships@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-341-23",
+    "position_title": "Legislative Intern",
+    "office": "Congressman Matt Cartwright (PA-08)",
+    "location": "Washington, DC",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congressman Matt Cartwright (PA-08) seeks motivated, detail-oriented, and energetic individuals for legislative internships in Washington, DC for the Fall 2023 semester. Qualified applicants should have strong interpersonal skills, the ability to manage multiple tasks, possess strong writing skills, and demonstrate a solid work ethic. Responsibilities include but are not limited to: logging constituent concerns, drafting constituent correspondence on a variety of issues, attending legislative briefings, greeting constituents and visitors when in the office, assisting staff with research and special projects, tracking media coverage, and performing administrative duties. As a result, interns learn about the legislative process and the many other functions of a congressional office. To apply, please submit an application, including a resume, cover letter, and a short writing sample at the following link: cartwright.house.gov/services/internships. No phone calls or drop-ins please.",
+    "responsibilities": [
+      "Logging constituent concerns",
+      "Drafting constituent correspondence on a variety of issues",
+      "Attending legislative briefings",
+      "Greeting constituents and visitors when in the office",
+      "Assisting staff with research and special projects",
+      "Tracking media coverage",
+      "Performing administrative duties"
+    ],
+    "qualifications": [
+      "Strong interpersonal skills",
+      "Ability to manage multiple tasks",
+      "Strong writing skills",
+      "Solid work ethic"
+    ],
+    "how_to_apply": "Submit an application, including a resume, cover letter, and a short writing sample at cartwright.house.gov/services/internships. No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-338-23",
+    "position_title": "Paid Congressional Intern",
+    "office": "Congresswoman Kay Granger (TX-12)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "Congresswoman Kay Granger's Washington DC office is seeking paid congressional interns for Fall 2023. The internship is in-person and will run from mid-August to mid-December. Dates are flexible. This internship is open to undergraduate students and recent college graduates. Intern responsibilities will include answering phone calls, opening and sorting mail, greeting guests, assisting staff with administrative and legislative tasks, attending briefings and hearings, and other projects that may present themselves. Ideal candidates will have a positive attitude, strong work ethic, attention to detail, and be able to work in a fast-paced environment. Interested applicants should send their resumes and cover letters with the subject line \"Fall 2023 Internship\" to Grace.Looney@mail.house.gov, or by applying through the website via https://kaygranger.house.gov/internships",
+    "responsibilities": [
+      "Answering phone calls",
+      "Opening and sorting mail",
+      "Greeting guests",
+      "Assisting staff with administrative and legislative tasks",
+      "Attending briefings and hearings",
+      "Other projects that may present themselves"
+    ],
+    "qualifications": [
+      "Open to undergraduate students and recent college graduates",
+      "Positive attitude",
+      "Strong work ethic",
+      "Attention to detail",
+      "Able to work in a fast-paced environment"
+    ],
+    "how_to_apply": "Send resumes and cover letters with the subject line \"Fall 2023 Internship\" to Grace.Looney@mail.house.gov, or apply through the website at https://kaygranger.house.gov/internships",
+    "salary_info": null,
+    "contact": "Grace.Looney@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-337-23",
+    "position_title": "Fall Intern",
+    "office": "Congresswoman Andrea Salinas (OR-06)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congresswoman Andrea Salinas (D-OR-06) is seeking candidates for a part-time (20 hours a week) or full-time (40 hours a week) fall internship in the Washington D.C. office. The preferred dates of this internship are August 28th through December 15th but can be flexible. Interns will get an in-depth look at the operations and functions of a congressional office, including policy, communications, office operations and constituent services. Interns will get opportunities to attend hearings and briefings; assist with constituent services; and research legislation. Interns will be paid an equivalent of $3,200/month full-time or $1,600/month part-time. Academic credit may be available and should be arranged with your academic institution. Rolling applications are open until July 23rd at 8:59 PM PST / 11:59 PM EST.",
+    "responsibilities": [
+      "Attend hearings and briefings",
+      "Assist with constituent services",
+      "Research legislation",
+      "Gain in-depth exposure to operations and functions of a congressional office, including policy, communications, office operations, and constituent services"
+    ],
+    "qualifications": [
+      "Outstanding verbal and written communication skills",
+      "Ability to speak courteously with constituents",
+      "Ability to work independently and as a part of a team",
+      "Attention to detail and eagerness to go above and beyond",
+      "Professionalism and demonstrated interest in public service",
+      "OR-06 ties are preferred, but not required"
+    ],
+    "how_to_apply": "Complete the online form at https://salinas.house.gov/services/internships. Include your resume, cover letter, and a writing sample no longer than 2 pages. Rolling applications are open until July 23rd at 8:59 PM PST / 11:59 PM EST.",
+    "salary_info": "$3,200 per month full-time or $1,600 per month part-time",
+    "contact": null,
+    "equal_opportunity": "The Office is an equal employment opportunity employer and, consistent with the Congressional Accountability Act (CAA) and House Rule XXIII, does not discriminate on the basis of an individual's race, color, religion, sex, sexual orientation, gender identity, national origin, disability, military status, age, marital status, parental status, or any other factor or basis prohibited by applicable federal law.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-336-23",
+    "position_title": "Legislative Intern",
+    "office": "Congresswoman Sylvia R. Garcia (TX-29)",
+    "location": "Washington, DC",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congresswoman Sylvia R. Garcia (TX-29) is seeking motivated, detail-oriented, and energetic individuals for a legislative internship in Washington, DC for Fall 2023. This internship will be an invaluable opportunity to dive into the inner workings of Capitol Hill and learn about the legislative process. This is a stipend-paid position. Qualified applicants have strong writing and communication skills, the ability to manage multiple tasks, a strong sense of professionalism, and demonstrate a solid work ethic. English and Spanish bilingual candidates with Texas ties are strongly encouraged to apply. Responsibilities include but are not limited to drafting constituent correspondence on a variety of issues, assisting legislative staff with research, leading Capitol tours, answering and screening telephone calls, managing the front office, participating in Committee hearing and markup preparation, drafting memorandums, and other duties as necessary. This position is available beginning late-August 2023 through December 2023. Interested applicants should send a resume, cover letter, and writing sample to the Intern Coordinator, Kriti Korula, at kriti.korula@mail.house.gov with the subject line \"Garcia Fall Internship Application\". Applications will be accepted until July 21, 2023, COB. Due to the large volume of applicants, only those applicants who are selected for interviews will be contacted. This office is an equal opportunity employer: Women and minorities are strongly encouraged to apply. This office does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "responsibilities": [
+      "Drafting constituent correspondence on a variety of issues",
+      "Assisting legislative staff with research",
+      "Leading Capitol tours",
+      "Answering and screening telephone calls",
+      "Managing the front office",
+      "Participating in Committee hearing and markup preparation",
+      "Drafting memorandums",
+      "Other duties as necessary"
+    ],
+    "qualifications": [
+      "Strong writing and communication skills",
+      "Ability to manage multiple tasks",
+      "Strong sense of professionalism",
+      "Demonstrate a solid work ethic",
+      "English and Spanish bilingual candidates with Texas ties are strongly encouraged to apply"
+    ],
+    "how_to_apply": "Send a resume, cover letter, and writing sample to kriti.korula@mail.house.gov with the subject line \"Garcia Fall Internship Application\". Applications will be accepted until July 21, 2023, COB.",
+    "salary_info": null,
+    "contact": "kriti.korula@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-334-23",
+    "position_title": "Part-Time Summer Intern",
+    "office": "Congressman Brian Mast (FL-21)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congressman Brian Mast (R-FL-21) is currently accepting applications for the part-time summer internship program in the Washington, D.C. office. The internship will run from August to December. Responsibilities include answering and logging constituent phone calls, assisting staff with administrative duties, projects, legislative research and drafting constituent correspondence. The ideal candidate will be able to work in a fast-paced environment, have a general understanding of the legislative process, and possess strong written and oral communication skills. Florida ties are not necessary. Interested applicants should send their resumes and a cover letter to mckayla.swan@mail.house.gov. Please use the subject line \"Summer 2023 internship.\"",
+    "responsibilities": [
+      "Answering and logging constituent phone calls",
+      "Assisting staff with administrative duties",
+      "Assisting staff with projects",
+      "Legislative research",
+      "Drafting constituent correspondence"
+    ],
+    "qualifications": [
+      "Ability to work in a fast-paced environment",
+      "General understanding of the legislative process",
+      "Strong written and oral communication skills",
+      "Florida ties are not necessary"
+    ],
+    "how_to_apply": "Send resumes and a cover letter to mckayla.swan@mail.house.gov with the subject line \"Summer 2023 internship.\"",
+    "salary_info": null,
+    "contact": "mckayla.swan@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-333-23",
+    "position_title": "Press/Digital Fellow",
+    "office": null,
+    "location": null,
+    "posting_date": "2023-07-10",
+    "description": "A GOP Texas Member of Congress seeks a paid, full-time Press/Digital Fellow for the fall semester. Responsibilities include drafting digital content and graphics, assisting with the e-newsletter, media monitoring, and assisting the Press Assistant and Communications Director with various communications-related tasks. The ideal candidate possesses strong writing skills and experience using Canva and/or Adobe Creative Suite. Interested applicants should submit a cover letter, resume, and both a writing and digital sample to maddie.bruno@mail.house.gov.",
+    "responsibilities": [
+      "Drafting digital content and graphics",
+      "Assisting with the e-newsletter",
+      "Media monitoring",
+      "Assisting the Press Assistant and Communications Director with various communications-related tasks"
+    ],
+    "qualifications": [
+      "Strong writing skills",
+      "Experience using Canva and/or Adobe Creative Suite"
+    ],
+    "how_to_apply": "Submit a cover letter, resume, and both a writing and digital sample to maddie.bruno@mail.house.gov.",
+    "salary_info": null,
+    "contact": "maddie.bruno@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-331-23",
+    "position_title": "District Intern",
+    "office": "Congresswoman Eleanor Holmes Norton (DC-00)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congresswoman Eleanor Holmes Norton (DC-00) is seeking to hire a motivated, detail-oriented, current college undergrad student, graduate student, or recent graduate wishing to gain constituent-oriented internship experience in the DC District Office. District Intern responsibilities include answering phones, conducting research, assisting with constituent casework, engaging in constituent correspondence, community outreach, and assisting with special projects at the discretion of the District Director. As a result, the intern will learn about the important functions of our impactful District office. The term of this internship will be from September 5th, 2023–December 14th, 2023. The internship is paid full-time internship, interns must work at least 30 hours a week and will be provided a travel stipend. Typical hours for internships are Monday through Thursday 9:00 am to 5:00 pm, although hours may be flexible to accommodate students' hectic course schedules.",
+    "responsibilities": [
+      "Answering phones",
+      "Conducting research",
+      "Assisting with constituent casework",
+      "Engaging in constituent correspondence",
+      "Community outreach",
+      "Assisting with special projects at the discretion of the District Director"
+    ],
+    "qualifications": [
+      "Motivated and detail-oriented",
+      "Current college undergraduate student, graduate student, or recent graduate",
+      "Wishing to gain constituent-oriented internship experience"
+    ],
+    "how_to_apply": "Email a resume, cover letter, 1 writing sample on a current issue, and at least one reference to norton.casework@mail.house.gov. The deadline to apply is 9:00 am EST, Tuesday, August 11th.",
+    "salary_info": null,
+    "contact": "norton.casework@mail.house.gov",
+    "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex, gender identity, disability, or age.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-330-23",
+    "position_title": "Fall 2023 Intern",
+    "office": "Congressman Mike Collins (GA-10)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "Rep. Mike Collins (GA-10) is currently seeking full-time or part-time interns to work in his Washington, D.C. office for the Fall 2023 term. Intern responsibilities include communicating directly with constituents, in-depth policy research, assisting the communications team, leading Capitol tours, and performing administrative tasks. Interns will also be able to attend exclusive lectures, sit in on committee hearings, and participate in press events. Ideal candidates have a positive attitude, strong work ethic, excellent communication skills, and a willingness to learn. Those interested should send their resume to Jonathon.Hatz@mail.house.gov with \"Fall 2023 Internship\" in the subject line or fill out the internship form at https://collins.house.gov/services/internships. Applications are reviewed on a rolling basis. This is a paid internship.",
+    "responsibilities": [
+      "Communicating directly with constituents",
+      "In-depth policy research",
+      "Assisting the communications team",
+      "Leading Capitol tours",
+      "Performing administrative tasks",
+      "Attending exclusive lectures",
+      "Sitting in on committee hearings",
+      "Participating in press events"
+    ],
+    "qualifications": [
+      "Positive attitude",
+      "Strong work ethic",
+      "Excellent communication skills",
+      "Willingness to learn"
+    ],
+    "how_to_apply": "Send resume to Jonathon.Hatz@mail.house.gov with \"Fall 2023 Internship\" in the subject line, or fill out the internship form at https://collins.house.gov/services/internships. Applications are reviewed on a rolling basis.",
+    "salary_info": null,
+    "contact": "Jonathon.Hatz@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-327-23",
+    "position_title": "Paid Intern (Fall 2023)",
+    "office": null,
+    "location": "Washington, DC",
+    "posting_date": "2023-07-10",
+    "description": "The House Democratic Caucus is currently seeking candidates for paid internships for the 2023 Fall term (late August – mid-December). Internships are full-time and in-person in our Washington, DC office. Current college students and recent graduates are welcome to apply. Interns support the daily operations of the Caucus office. The House Democratic Caucus offers three types of internships: Press, Digital, and Operations.",
+    "responsibilities": [
+      "Press: Compiling daily clips, drafting press releases and other written materials, maintaining press lists, and assisting with press events and other Caucus events and meetings",
+      "Digital: Drafting digital copy for the Caucus official social media channels, collaborating on creative graphic and video content, and assisting with press conferences and other Caucus events and meetings",
+      "Operations: Greeting guests, answering phones, monitoring and responding to the Caucus email inbox, attending briefings and drafting memos, assisting with Caucus Meetings and events, helping Member offices and various day-to-day office tasks"
+    ],
+    "qualifications": [
+      "Current college students and recent graduates are welcome to apply",
+      "Dependable, professional, detail-oriented, and an efficient multitasker",
+      "Spanish fluency is a plus (for Press track)"
+    ],
+    "how_to_apply": "Interested applicants should submit an application using the link below and send a resume, cover letter, and one-page writing sample to Intern.DemCau@mail.house.gov with \"[Full Name] - Fall 2023 [Press/Digital/Operations] Intern\" in the subject line. Digital applicants should also submit 1-2 digital samples. The deadline to apply for our Fall cohort is Friday, July 14, 2023. Application Link: https://docs.google.com/forms/d/e/1FAIpQLSe_TlyAZ_iq4zRvg2GvHPKGCWi8TjGfouq_ZOKbWWOwY4B7Wg/viewform?usp=sf_link",
+    "salary_info": null,
+    "contact": "Intern.DemCau@mail.house.gov",
+    "equal_opportunity": "The House Democratic Caucus is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law. Applicants with disabilities who require a reasonable accommodation to participate in the application or hiring processes are encouraged to request an accommodation at any time during those processes. Proof of COVID-19 vaccination will be requested.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-322-23",
+    "position_title": "Fall 2023 Intern",
+    "office": "Congresswoman Suzan DelBene (WA-01)",
+    "location": "Kirkland, WA and Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "Congresswoman Suzan DelBene seeks motivated, flexible, and detail-oriented interns to serve in her Kirkland and Washington, D.C. offices for Fall 2023. The ideal candidates will possess exceptional written and oral communication skills, a high degree of professionalism, as well as a strong interest in public service. Congressional internships are open to all majors and designed for undergraduate and graduate students, as well as recent graduates with an interest in public service. Ties to Washington state and/or the 1st Congressional District are encouraged but not required. Starting and ending dates are flexible, although prospective interns should be able to commit at least 20 hours per week during the semester. The deadline to submit applications is July 28, 2023, at 11:59PM PT.",
+    "responsibilities": [
+      "Greeting constituents and handling constituent phone calls",
+      "Assisting staff with administrative tasks",
+      "Conducting research",
+      "Assisting with constituent correspondence",
+      "Attending hearings, briefings, and meetings for the legislative and outreach staff"
+    ],
+    "qualifications": [
+      "Exceptional written and oral communication skills",
+      "High degree of professionalism",
+      "Strong interest in public service",
+      "Open to all majors; designed for undergraduate and graduate students, as well as recent graduates",
+      "Ties to Washington state and/or the 1st Congressional District are encouraged but not required",
+      "Ability to commit at least 20 hours per week during the semester"
+    ],
+    "how_to_apply": "Please send a cover letter, resume, and writing sample to Internship.DelBene@mail.house.gov and specify whether you are applying for a D.C. or District office internship in the subject line. In the body of the email, please also list any start and end date constraints, whether you are interested in a part-time or full-time position, and the number of hours per week you can work. Please also state any ties you have to Washington state and/or to the 1st Congressional District. The deadline to submit applications is July 28, 2023, at 11:59PM PT.",
+    "salary_info": null,
+    "contact": "Internship.DelBene@mail.house.gov",
+    "equal_opportunity": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ+ identification, family status, or military status. Members of historically underrepresented communities, including women, people of color, and LGBTQ+ individuals, are strongly encouraged to apply.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-318-23",
+    "position_title": "Paid Intern",
+    "office": "Congressman Doug LaMalfa (CA-01)",
+    "location": "Washington, DC",
+    "posting_date": "2023-07-10",
+    "description": "Republican Congressman Doug LaMalfa (CA-01) is seeking paid, in-person interns for his Washington, DC office for the Fall 2023 term. Functioning as a key part of the staff, our interns help draft constituent correspondence, memos, and press releases, research legislation, take phone calls, and assist with various administrative tasks. We're looking for college students or recent graduates who are motivated, detail-orientated, and ready to work in a fast-paced setting. Ideal candidates possess strong organizational, communication, and writing skills, as well as the ability to manage multiple tasks and work well under pressure in a team environment. A positive attitude and interest in politics is a must. California ties are preferred, but not required and academic credit is available for qualifying students. Interested applicants should email their resume, cover letter, and dates of availability to savannah.coughlin@mail.house.gov with \"Fall 2023 Internship\" in the subject line.",
+    "responsibilities": [
+      "Draft constituent correspondence, memos, and press releases",
+      "Research legislation",
+      "Take phone calls",
+      "Assist with various administrative tasks"
+    ],
+    "qualifications": [
+      "College students or recent graduates",
+      "Motivated and detail-oriented",
+      "Strong organizational, communication, and writing skills",
+      "Ability to manage multiple tasks and work well under pressure in a team environment",
+      "Positive attitude and interest in politics",
+      "California ties preferred, but not required"
+    ],
+    "how_to_apply": "Email resume, cover letter, and dates of availability to savannah.coughlin@mail.house.gov with \"Fall 2023 Internship\" in the subject line.",
+    "salary_info": null,
+    "contact": "savannah.coughlin@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-317-23",
+    "position_title": "Fall 2023 Legal Intern",
+    "office": null,
+    "location": null,
+    "posting_date": "2023-07-10",
+    "description": "The Democratic staff of the Select Subcommittee on the Coronavirus Pandemic is seeking passionate and self-motivated law students for full-time or part-time internships. The position offers current law students the opportunity to gain substantive experience on an exciting and fast-paced Committee, while participating directly in the oversight process and learning about the day-to-day administrative operations of the House of Representatives. Law students play a key role in the office and will work closely with Committee counsel and staff. The Select Subcommittee on the Coronavirus Pandemic is authorized to investigate a broad range of matters pertaining to the coronavirus pandemic under H. Res. 5. The Select Subcommittee was established within the Committee on Oversight and Accountability, which is the primary investigative committee of the United States House of Representatives, with jurisdiction to investigate \"any matter\" at \"any time\" under House Rule X.",
+    "responsibilities": [
+      "Assisting Committee staff in preparing for congressional hearings",
+      "Conducting legal and factual research",
+      "Drafting memoranda",
+      "Attending various briefings and meetings with Executive Branch officials and stakeholders for the purpose of taking notes"
+    ],
+    "qualifications": [
+      "Current law student",
+      "Interest in public service and a desire to learn",
+      "Superior attention to detail",
+      "Ability to work well under pressure",
+      "Self-motivated",
+      "Excellent written and oral communication skills",
+      "Willingness to be in the office full-time preferred"
+    ],
+    "how_to_apply": "Please send a resume and cover letter as PDFs to SSCPJobs@mail.house.gov, with \"Fall 2023 Legal Internship\" in the subject line. Please attach the resume and cover letter with the file name using the following format: \"LastName.FirstName.Resume\" and \"LastName.FirstName.Cover Letter.\" No unsolicited calls, emails, or drop-ins, please.",
+    "salary_info": null,
+    "contact": "SSCPJobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-316-23",
+    "position_title": "Press Intern",
+    "office": "Congressman Robert Garcia (CA-42)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congressman Robert Garcia (CA-42) is currently hiring for a paid part-time press intern position to work in the Washington, D.C. office. The internship will run through late August 2023. The Press Intern works closely with the communications team. All qualified applicants, including candidates of diverse backgrounds, are encouraged to apply. The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status. Interested applicants should send a one-page resume, and 2 relevant sample tweets to sara.guerrero@mail.house.gov and marissa.davis@mail.house.gov with \"Full Name – Summer Press Intern 2023\" in the subject line. Applications will be reviewed on a rolling basis.",
+    "responsibilities": [
+      "Compiling daily clips",
+      "Drafting press releases and other written materials",
+      "Maintaining press lists",
+      "Creating graphics for social media"
+    ],
+    "qualifications": [
+      "Must be able to work in a fast-paced environment",
+      "Interest in political communications"
+    ],
+    "how_to_apply": "Send a one-page resume and 2 relevant sample tweets to sara.guerrero@mail.house.gov and marissa.davis@mail.house.gov with \"Full Name – Summer Press Intern 2023\" in the subject line. Applications will be reviewed on a rolling basis.",
+    "salary_info": null,
+    "contact": "sara.guerrero@mail.house.gov, marissa.davis@mail.house.gov",
+    "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-311-23",
+    "position_title": "Fall Intern",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Washington D.C. Office of Congressman Anthony D'Esposito is looking for highly motivated individuals for their fall internship program. Candidates should be able to work efficiently in high stress, fast moving environments and handle multiple projects at the same time. Duties include answering phones and speaking with constituents, greeting guests in the front office, assisting the legislative and communications teams, and leading constituent tours. Interns will get a unique look behind the scenes of the federal legislative process and will gain valuable public policy experience. Ties to the district are preferred but not required. Interested candidates should submit their applications to https://desposito.house.gov/services/internships for consideration.",
+    "responsibilities": [
+      "Answering phones and speaking with constituents",
+      "Greeting guests in the front office",
+      "Assisting the legislative and communications teams",
+      "Leading constituent tours"
+    ],
+    "qualifications": [
+      "Highly motivated",
+      "Ability to work efficiently in high stress, fast moving environments",
+      "Ability to handle multiple projects at the same time",
+      "Ties to the district are preferred but not required"
+    ],
+    "how_to_apply": "Submit applications to https://desposito.house.gov/services/internships for consideration.",
+    "salary_info": null,
+    "contact": null,
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-308-23",
+    "position_title": "Fall Intern",
+    "office": "Congresswoman Lisa Blunt Rochester (DE-At Large)",
+    "location": "Washington, D.C. and Delaware",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congresswoman Lisa Blunt Rochester (DE-At Large) seeks exceptional students that are committed to public service to serve as interns in our DC and DE offices this fall. The fall internship is from August – December 2023 and is open to college students and recent graduates. In Washington, D.C., interns' responsibilities will vary and include answering phones, researching legislation for the Member and legislative staff, attending hearings and briefings, and answering constituent letters on various issues before the House of Representatives. As a result, interns learn about the legislative process and the many other functions of a congressional office. In the district offices, interns may be asked to help with day-to-day office work such as answering phones, writing letters, and assisting with media clips. In addition, interns may be assigned to work on various constituent casework issues and Delaware-based special projects.",
+    "responsibilities": [
+      "Answering phones",
+      "Researching legislation for the Member and legislative staff",
+      "Attending hearings and briefings",
+      "Answering constituent letters on various issues before the House of Representatives",
+      "Learning about the legislative process and the many other functions of a congressional office",
+      "Day-to-day office work such as answering phones, writing letters, and assisting with media clips (district offices)",
+      "Working on various constituent casework issues (district offices)",
+      "Working on Delaware-based special projects (district offices)"
+    ],
+    "qualifications": [
+      "Must be a college student or recent graduate",
+      "Committed to public service",
+      "Exceptional students sought"
+    ],
+    "how_to_apply": "Send one compiled PDF of your resume, a cover letter that describes why you want to intern for Congresswoman Blunt Rochester, and the contact information for two references to LBR.Internship@mail.house.gov, indicating the office (DC, Wilmington, or Georgetown) and the term you are applying for in the subject line (i.e. \"DC Fall 2023 Internship – NAME\"). Please note in the cover letter or body of the email if the internship is for school credit. No phone calls, emails, or drop-ins please.",
+    "salary_info": null,
+    "contact": "LBR.Internship@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-304-23",
+    "position_title": "Paid Fall Legislative Internship",
+    "office": "Congresswoman Mary Gay Scanlon (PA-05)",
+    "location": null,
+    "posting_date": "2023-07-10",
+    "description": "Representative Mary Gay Scanlon (PA-05) is seeking a paid fall legislative intern. Responsibilities include drafting constituent correspondence, researching legislative issues and writing policy memos, attending briefings/hearings/markups and drafting related memoranda, and responding to constituent mail and answering office phones. Ideal applicants will be motivated team players with strong written and oral communication skills and a demonstrated interest in government and public service. A strong work ethic, the ability to excel in fast-paced environments, and a willingness to assist wherever needed are must-have qualities.",
+    "responsibilities": [
+      "Drafting constituent correspondence",
+      "Researching various legislative issues and writing policy memos for the Congresswoman",
+      "Attending briefings, hearings, and markups and drafting related memoranda",
+      "Responding to constituent mail and answering office phones"
+    ],
+    "qualifications": [
+      "Motivated team players with strong written and oral communication skills",
+      "Demonstrated interest in government and public service",
+      "Strong work ethic",
+      "Ability to excel in fast-paced environments",
+      "Willingness to assist wherever needed"
+    ],
+    "how_to_apply": "Submit a resume, cover letter, one short writing sample, and two references to Emily.Kastenberg@mail.house.gov with the subject line \"Fall Legislative Internship, NAME\" by July 24th, 2023. Include availability in the cover letter and compile all application materials into one PDF document.",
+    "salary_info": null,
+    "contact": "Emily.Kastenberg@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-302-23",
+    "position_title": "Fall 2023 Intern",
+    "office": "Congressman Greg Murphy (NC-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Office of Congressman Greg Murphy (NC-03) is currently seeking interns with our DC office for the Fall 2023 session. The internship would begin August 21 and last until December 15. This is a great opportunity to gain hands-on experience and knowledge over the day-to-day happenings within Congress. Additionally, interns co-currently enrolled in an accredited university will receive a monthly stipend. The internship is an ideal fit for any student that is interested in politics, law, or government – however, any interested student is encouraged to apply! Interns will assist the legislative staff by conducting policy research, answering phones, leading tours, and helping with administrative tasks. North Carolina ties are preferred but not required. Interested candidates should address their application materials to Katonya Pettaway at Interns.NC03@gmail.com. Applications should include a cover letter, resume, and what the individual's internship schedule may look like.",
+    "responsibilities": [
+      "Conducting policy research",
+      "Answering phones",
+      "Leading tours",
+      "Helping with administrative tasks"
+    ],
+    "qualifications": [
+      "Be a current undergraduate or graduate student or have recently graduated",
+      "Demonstrate an interest in politics, policy and/or public service",
+      "Have strong communications and writing skills",
+      "Be hard-working, dependable, detail-oriented, and professional",
+      "North Carolina ties are preferred but not required"
+    ],
+    "how_to_apply": "Send a cover letter, resume, and proposed internship schedule to Interns.NC03@gmail.com.",
+    "salary_info": null,
+    "contact": "Interns.NC03@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-299-23",
+    "position_title": "Paid Intern, Fall 2023",
+    "office": "Representative Pramila Jayapal (WA-07)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "The Washington, D.C. Office of Representative Pramila Jayapal (WA-07), Chair of the Congressional Progressive Caucus, is seeking full-time and part-time paid interns for the Fall 2023 term. This is an in-person position. Interns will work primarily with D.C.-based staff performing legislative and administrative work. Tasks include answering phones, sorting and drafting responses to constituent correspondence, attending briefings/hearings, performing legislative research, and supporting staff members on various projects. Ideal candidates should be professional and possess excellent communication skills, a strong attention to detail, and a commitment to public service and progressive values. All interns will be paid $15/hr unless funded by an outside organization. State and/or district ties are a plus but not required. Interested applicants should e-mail a resume, cover letter stating availability, short writing sample, and three references to Jayapal.DCInternships@mail.house.gov with the subject \"2023 Fall Internship Application – FirstName LastName\" by Sunday, July 16th.",
+    "responsibilities": [
+      "Answering phones",
+      "Sorting and drafting responses to constituent correspondence",
+      "Attending briefings/hearings",
+      "Performing legislative research",
+      "Supporting staff members on various projects"
+    ],
+    "qualifications": [
+      "Professional demeanor",
+      "Excellent communication skills",
+      "Strong attention to detail",
+      "Commitment to public service and progressive values",
+      "State and/or district ties are a plus but not required"
+    ],
+    "how_to_apply": "E-mail a resume, cover letter stating availability, short writing sample, and three references to Jayapal.DCInternships@mail.house.gov with the subject \"2023 Fall Internship Application – FirstName LastName\" by Sunday, July 16th.",
+    "salary_info": null,
+    "contact": "Jayapal.DCInternships@mail.house.gov",
+    "equal_opportunity": "The Office of Representative Pramila Jayapal is an equal opportunity employer.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-298-23",
+    "position_title": "DC Digital Production Intern",
+    "office": "Congressman Seth Moulton (MA-06)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "Congressman Seth Moulton is seeking a driven Digital Production Intern to join a fast-paced communications team for the Fall. The internship is in-person and based out of our Washington, D.C. office. Preference will go to applicants available to join us full-time. A financial stipend will be provided.",
+    "responsibilities": [
+      "Clipping and preparing videos from press hits and hearings",
+      "Assisting in drafting social media graphics, copy, and posts",
+      "Drafting press releases and our biweekly newsletter",
+      "Helping maintain and updating the Congressman's website",
+      "Conducting research and providing staff support for the communications team"
+    ],
+    "qualifications": [
+      "Familiar with Adobe Illustrator or Photoshop (please indicate both or which on your resume)",
+      "Strong written and oral communications skills",
+      "Advanced creativity and artistic ability",
+      "Ability to handle multiple tasks on tight deadlines",
+      "Team-player"
+    ],
+    "how_to_apply": "Email resume, cover letter, and three or more samples of your digital work to michael.suchecki@mail.house.gov. Please include \"Digital Production Intern\" in the subject line. Applications will close at 11:59pm July 16, 2023.",
+    "salary_info": null,
+    "contact": "michael.suchecki@mail.house.gov",
+    "equal_opportunity": "We are an equal opportunity employer and do not discriminate against candidates on the basis of race, ethnicity, religion, sex, gender, sexual orientation, gender identity, disability status, or veteran status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-297-23",
+    "position_title": "Fern Holland International Affairs Fellow",
+    "office": "Congressman Seth Moulton (MA-06)",
+    "location": "Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "Team Moulton is seeking exceptional students interested in foreign policy and national security to participate in the Fern Holland International Affairs Fellowship Program. This is a full-time, paid foreign policy fellowship for Fall 2023. This opportunity is based on financial need and is only open to candidates who are Pell-grant eligible. The fellowship is in our Washington, D.C. office. Recent college graduates, and students currently enrolled in graduate school are preferred. Under very rare circumstances the office will also hire undergraduate students. Team Moulton is looking for hard-working individuals who are passionate, driven, and committed to strengthening our democracy. This fully-funded fellowship covers the cost of housing, transportation, and food with a stipend. Women, people of color, and members of other underrepresented communities are especially encouraged to apply. This fellowship offers an in-depth look into a career of service to our nation. Fellows will be expected to perform rigorous research, advise senior staff and the Congressman on important issues, and craft policies in international affairs and national security, in addition to some regularly assigned intern responsibilities.",
+    "responsibilities": [
+      "Perform rigorous research on foreign policy and national security issues",
+      "Advise senior staff and the Congressman on important issues",
+      "Craft policies in international affairs and national security",
+      "Perform regularly assigned intern responsibilities"
+    ],
+    "qualifications": [
+      "Must be Pell-grant eligible (based on financial need)",
+      "Recent college graduates or students currently enrolled in graduate school preferred",
+      "Hard-working, passionate, driven, and committed to strengthening democracy",
+      "Interest in foreign policy and national security"
+    ],
+    "how_to_apply": "Fill out the internship application form at moulton.house.gov under the 'Services' tab and attach a cover letter and resume, or click the link HERE. If you have trouble accessing the application form, email kaitlyn.dinh@mail.house.gov. If selected, you will be required to submit a FAFSA form. Applications are accepted for Fall through July 16, 2023 at midnight. Call (202) 225-8020 or email internship coordinator Kaitlyn Dinh (kaitlyn.dinh@mail.house.gov) with any questions.",
+    "salary_info": null,
+    "contact": "kaitlyn.dinh@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-296-23",
+    "position_title": "Fall 2023 Intern",
+    "office": "Congressman Seth Moulton (MA-06)",
+    "location": "Salem, MA and Washington, D.C.",
+    "posting_date": "2023-07-10",
+    "description": "Congressman Moulton is seeking hard-working individuals who are passionate, driven, and committed to public service for an internship in his Salem office and Washington D.C. office in Fall 2023. Internships are intended for current undergraduate students, recent college graduates, students currently enrolled in graduate school. Under very rare circumstances the office will also host high school students. A financial stipend will be provided.",
+    "responsibilities": [
+      "Answering constituent phone calls and greeting constituents at the front desk",
+      "Taking notes at briefings and hearings",
+      "Categorizing and responding to constituent mail",
+      "Conducting tours of the Capitol for constituents",
+      "Drafting form letters and cosponsor requests for the Congressman",
+      "Assembling press and news clips",
+      "Performing a variety of other duties as assigned, such as conducting legislative research"
+    ],
+    "qualifications": [
+      "Current undergraduate student, recent college graduate, or student currently enrolled in graduate school",
+      "Hard-working, passionate, driven, and committed to public service",
+      "High school students may be considered under very rare circumstances"
+    ],
+    "how_to_apply": "Applicants can access the application online or apply through the internship portal at moulton.house.gov under the 'Services' tab. A cover letter and resume are required in addition to the online application. Applications are reviewed on a rolling basis. The application deadline is July 16 at 11:59pm ET. If you have trouble accessing the application form, email kaitlyn.dinh@mail.house.gov.",
+    "salary_info": null,
+    "contact": "kaitlyn.dinh@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  },
+  {
+    "id": "MEM-597-22",
+    "position_title": "Legislative Fellow",
+    "office": null,
+    "location": null,
+    "posting_date": "2023-07-10",
+    "description": "House Democrat seeks a paid Legislative Fellow to assist senior legislative staff with a wide variety of legislative topics and tasks. The Legislative Fellow will gain experience in preparing for committee hearings and markups; developing and advancing legislation; drafting speeches; and meeting with constituents and other stakeholders. The ideal candidate will possess superb written and oral communication skills; have some policy experience; and will enjoy collaborating with others in a fast-paced environment. The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status. Interested applicants should send a cover letter, resume, and brief writing sample to housedemjobs@gmail.com with \"Legislative Fellow\" in the subject line.",
+    "responsibilities": [
+      "Assist senior legislative staff with a wide variety of legislative topics and tasks",
+      "Prepare for committee hearings and markups",
+      "Develop and advance legislation",
+      "Draft speeches",
+      "Meet with constituents and other stakeholders"
+    ],
+    "qualifications": [
+      "Superb written and oral communication skills",
+      "Some policy experience",
+      "Enjoy collaborating with others in a fast-paced environment"
+    ],
+    "how_to_apply": "Send a cover letter, resume, and brief writing sample to housedemjobs@gmail.com with \"Legislative Fellow\" in the subject line.",
+    "salary_info": null,
+    "contact": "housedemjobs@gmail.com",
+    "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-27"
+  }
+]

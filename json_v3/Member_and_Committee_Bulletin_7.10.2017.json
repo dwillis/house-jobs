@@ -1,0 +1,332 @@
+[
+  {
+    "id": "MEM-192-17",
+    "position_title": "Staff Assistant",
+    "office": null,
+    "location": null,
+    "posting_date": "2017-07-10",
+    "description": "Republican office seeks a motivated individual for the role of Staff Assistant. Responsibilities include greeting visitors, answering phones, scheduling and leading tours, and responding to constituent requests for general information and other inquiries. This position requires oversight in maintaining the front office and assisting with various administrative duties. The Staff Assistant must maintain a good relationship with the Member, staff, and constituents. He or she must be willing to accept performance based criticism and direction while working well under pressure. As with any job on Capitol Hill, the applicant must be open to having a flexible schedule. Salary is commensurate with experience. Previous Hill experience and ties to Virginia preferred but not required. Please send cover letter, résumé, and any recommendations to GOPapplicant@gmail.com. No phone calls or drop-ins please.",
+    "responsibilities": [
+      "Greeting visitors",
+      "Answering phones",
+      "Scheduling and leading tours",
+      "Responding to constituent requests for general information and other inquiries",
+      "Maintaining the front office",
+      "Assisting with various administrative duties",
+      "Maintaining a good relationship with the Member, staff, and constituents"
+    ],
+    "qualifications": [
+      "Motivated individual",
+      "Willing to accept performance-based criticism and direction",
+      "Ability to work well under pressure",
+      "Open to having a flexible schedule",
+      "Previous Hill experience preferred but not required",
+      "Ties to Virginia preferred but not required"
+    ],
+    "how_to_apply": "Please send cover letter, résumé, and any recommendations to GOPapplicant@gmail.com. No phone calls or drop-ins please.",
+    "salary_info": null,
+    "contact": "GOPapplicant@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-191-17",
+    "position_title": "Scheduler/Executive Assistant",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2017-07-10",
+    "description": "Senior Democratic House Member seeks a Scheduler/Executive Assistant for the Washington, D.C. office. Responsibilities include managing the Congressman's D.C. schedule, tracking and responding to invitations, and maintaining accurate lists of annual meetings and long-term planning. The Scheduler/EA is also responsible for management of the intern program and junior staff, vouchering, reimbursements and budget tracking. The position will also involve management of office equipment and purchasing. Please send cover letter and resume to dcscheduler1@gmail.com. Salary commensurate with experience.",
+    "responsibilities": [
+      "Managing the Congressman's D.C. schedule",
+      "Tracking and responding to invitations",
+      "Maintaining accurate lists of annual meetings and long-term planning",
+      "Management of the intern program and junior staff",
+      "Vouchering, reimbursements and budget tracking",
+      "Management of office equipment and purchasing"
+    ],
+    "qualifications": [
+      "None specified"
+    ],
+    "how_to_apply": "Send cover letter and resume to dcscheduler1@gmail.com.",
+    "salary_info": null,
+    "contact": "dcscheduler1@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "LC-001-17",
+    "position_title": "Legislative Research Analyst I",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2017-07-10",
+    "description": "The Office of the Legislative Counsel is a nonpartisan office of the United States House of Representatives that assists the Members and committees of the House with the drafting of legislation. The Office does not advocate the adoption or rejection of any particular proposal or policy and provides assistance on an impartial and confidential basis. The Office is an Equal Opportunity Employer. Employment with the Office is at-will. The Legislative Research Analyst I is responsible for preparing comparative prints, managing and updating a database of Public Laws, researching provisions of Federal law, advising attorneys on technical amendatory issues, working cooperatively with teams on specialized software, and performing additional tasks as needed.",
+    "responsibilities": [
+      "Prepare comparative prints for the Office and the House using specialized software to show changes that bills make to laws and amendments make to bills, and changes between versions of the same document",
+      "Manage and update a database of Public Laws and compilations of Federal laws",
+      "Research provisions of Federal law and its amendatory history to compile the amendments made to the Federal law into the up-to-date form of the Federal law",
+      "Advise attorneys in the Office on technical amendatory issues arising in legislative drafts",
+      "Work cooperatively with teams both inside and outside of the Office in the development, improvement, and testing of specialized software used by the Office to carry out the duties of this position",
+      "Perform additional tasks as needed"
+    ],
+    "qualifications": [
+      "Bachelor's degree or equivalent combination of education and experience",
+      "Knowledge of, and experience with, various information and office systems, including word processing, email, spreadsheet, and database",
+      "Ability to work both independently and in teams",
+      "Ability to work with short deadlines and handle multiple, ongoing projects while providing high quality results",
+      "Ability to focus on the task at hand",
+      "Excellent written and oral communication skills, including command of English grammar, spelling, and punctuation",
+      "Able technically to participate in software development and improvement",
+      "Willingness to learn and ask questions",
+      "Willingness periodically to work longer than a normal workday and on weekends",
+      "Experience working with XML is a plus",
+      "Experience using legislative research tools, including Congress.gov and UScode.house.gov, is a plus",
+      "Knowledge of copy editing is a plus"
+    ],
+    "how_to_apply": "Email a resume, cover letter, and references to legcoun@mail.house.gov with 'Legislative Research Analyst I job opportunity' in the subject line. No phone calls, please.",
+    "salary_info": null,
+    "contact": "legcoun@mail.house.gov",
+    "equal_opportunity": "The Office is an Equal Opportunity Employer. Employment with the Office is at-will.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-188-17",
+    "position_title": "Systems Manager",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2017-07-10",
+    "description": "U.S. Rep. Lloyd Doggett (D-Texas) seeks a systems manager for his Washington office. Texas contacts a plus. Excellent technical, written, and oral communication skills required. Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. Use title on your email: Systems Manager Application. No drop-ins please.",
+    "responsibilities": [
+      "Manage and maintain office technology systems",
+      "Provide technical support for Washington office operations",
+      "Handle systems administration tasks as needed"
+    ],
+    "qualifications": [
+      "Excellent technical skills required",
+      "Excellent written communication skills required",
+      "Excellent oral communication skills required",
+      "Texas contacts a plus"
+    ],
+    "how_to_apply": "Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. Use title on your email: Systems Manager Application. No drop-ins please.",
+    "salary_info": null,
+    "contact": "DoggettJobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-180-17",
+    "position_title": "District Liaison",
+    "office": "Congresswoman Alma Adams (NC-12)",
+    "location": "Charlotte, NC",
+    "posting_date": "2017-07-10",
+    "description": "Congresswoman Alma Adams seeks a District Liaison for her Charlotte, NC district office. Successful candidates will have familiarity with federal agencies, excellent written and oral communication skills, the ability to exercise discretion and independent judgment, and will be team-oriented. Additionally, a strong knowledge or connection to Mecklenburg County is a plus. Core responsibilities include answering casework correspondence and verbal communications with constituents, managing and navigating constituents' casework through federal agencies, attending and participating in community meetings and events, including some evenings and weekends, and assessing casework and community activities for matters warranting legislative action. Qualified candidates should submit a cover letter and resume to nc12scheduler@mail.house.gov.",
+    "responsibilities": [
+      "Answering casework correspondence and verbal communications with constituents",
+      "Managing and navigating constituents' casework through federal agencies",
+      "Attending and participating in community meetings and events, including some evenings and weekends",
+      "Assessing casework and community activities for matters warranting legislative action"
+    ],
+    "qualifications": [
+      "Familiarity with federal agencies",
+      "Excellent written and oral communication skills",
+      "Ability to exercise discretion and independent judgment",
+      "Team-oriented",
+      "Strong knowledge or connection to Mecklenburg County is a plus"
+    ],
+    "how_to_apply": "Qualified candidates should submit a cover letter and resume to nc12scheduler@mail.house.gov.",
+    "salary_info": null,
+    "contact": "nc12scheduler@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-176-17",
+    "position_title": "Legislative Assistant",
+    "office": null,
+    "location": null,
+    "posting_date": "2017-07-10",
+    "description": "House Republican seeks qualified Legislative Assistant to oversee various issues including health care, education, oversight, and social issues, etc. The Legislative Assistant, together with legislative staff advises the Congressman on all legislative areas. This position assists in the development of policy, communications and legislative initiatives. Excellent writing and communication skills required. 2 years Hill experience required with strong knowledge of health care issues. Please send resumes to: employment1776@gmail.com.",
+    "responsibilities": [
+      "Oversee various issues including health care, education, oversight, and social issues",
+      "Advise the Congressman on all legislative areas together with legislative staff",
+      "Assist in the development of policy, communications and legislative initiatives"
+    ],
+    "qualifications": [
+      "Thorough knowledge of legislative process and of House organization and procedures",
+      "Ability to perform essential job functions",
+      "Ability to work cooperatively and courteously with others",
+      "Provides necessary organization, leadership and motivation to excel in given tasks",
+      "Excellent oral and written communications skills",
+      "2 years Hill experience required with strong knowledge of health care issues"
+    ],
+    "how_to_apply": "Please send resumes to: employment1776@gmail.com.",
+    "salary_info": null,
+    "contact": "employment1776@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-175-17",
+    "position_title": "District Director",
+    "office": null,
+    "location": "South Florida",
+    "posting_date": "2017-07-10",
+    "description": "South Florida Progressive Democrat seeks a District Director to oversee all outreach and constituent services within the district. This individual will act as the Member's primary liaison to all government, community and constituent groups and civic leaders; monitor developments, opinions and concerns in the district and update the Member accordingly; attend civic meetings, community gatherings, and other events, representing the Member when needed; direct the work of district outreach, case managers and other district staff in support of the office's outreach plan; as well as other administrative and management duties assigned. The ideal candidate will have excellent oral and written communications skills, demonstrate initiative, including a proven capability to generate new ideas, and the ability to multi-task effectively in a fast-paced environment. Qualified applicants will have several years of experience in government and/or community outreach, media relations, solid ties to the district and South Florida, and a strong knowledge of local issues, geography and demographics. Interested parties should e-mail a cover letter, resume, references, to repdwsresumes@gmail.com with the subject line \"District Director.\" No phone calls or drop-bys, please. This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation.",
+    "responsibilities": [
+      "Act as the Member's primary liaison to all government, community and constituent groups and civic leaders",
+      "Monitor developments, opinions and concerns in the district and update the Member accordingly",
+      "Attend civic meetings, community gatherings, and other events, representing the Member when needed",
+      "Direct the work of district outreach, case managers and other district staff in support of the office's outreach plan",
+      "Perform other administrative and management duties as assigned"
+    ],
+    "qualifications": [
+      "Excellent oral and written communications skills",
+      "Demonstrate initiative, including a proven capability to generate new ideas",
+      "Ability to multi-task effectively in a fast-paced environment",
+      "Several years of experience in government and/or community outreach",
+      "Media relations experience",
+      "Solid ties to the district and South Florida",
+      "Strong knowledge of local issues, geography and demographics"
+    ],
+    "how_to_apply": "E-mail a cover letter, resume, and references to repdwsresumes@gmail.com with the subject line \"District Director.\" No phone calls or drop-bys.",
+    "salary_info": null,
+    "contact": "repdwsresumes@gmail.com",
+    "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation.",
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-173-17",
+    "position_title": "Senior Legislative Aide",
+    "office": null,
+    "location": null,
+    "posting_date": "2017-07-10",
+    "description": "U.S. Rep. Lloyd Doggett (D-Texas) seeks a senior legislative aide with a minimum of three years of Hill experience. This is not an entry level position. Excellent written and oral communication skills required. Advanced degree a plus. Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. Use title on your email: Senior LA Position. No drop-ins please.",
+    "responsibilities": [
+      "None specified"
+    ],
+    "qualifications": [
+      "Minimum of three years of Hill experience",
+      "Excellent written and oral communication skills required",
+      "Advanced degree a plus",
+      "This is not an entry level position"
+    ],
+    "how_to_apply": "Send resume, brief writing sample, and three references to DoggettJobs@mail.house.gov. Use title on your email: Senior LA Position. No drop-ins please.",
+    "salary_info": null,
+    "contact": "DoggettJobs@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-172-17",
+    "position_title": "Health Care Investigator",
+    "office": null,
+    "location": null,
+    "posting_date": "2017-07-10",
+    "description": "The Majority staff of the House Committee on Veterans' Affairs is seeking a health care professional with expert knowledge of health care quality and safety, care coordination, integrated health care systems, and health care administration. This position involves examining agency health care activities and composing analytical documents and policy recommendations in an extremely fast-paced environment. The ideal candidate will have developed this experience in a clinical setting (specializing in care coordination or health care informatics), with strong analytical skills and management experience. A health care-related investigatory background is preferred, but not required. Veterans with requisite experience are strongly encouraged to apply. Interested candidates should send their (1) cover letter, (2) resume, (3) references, and (4) writing sample of a clinical, analytical, or policy nature to VAR.Resumes@Mail.house.gov with \"Health Care Investigator\" in the subject line. No walk-ins, please.",
+    "responsibilities": [
+      "Examining agency health care activities",
+      "Composing analytical documents and policy recommendations"
+    ],
+    "qualifications": [
+      "Expert knowledge of health care quality and safety, care coordination, integrated health care systems, and health care administration",
+      "Experience developed in a clinical setting (specializing in care coordination or health care informatics)",
+      "Strong analytical skills",
+      "Management experience",
+      "Health care-related investigatory background preferred, but not required"
+    ],
+    "how_to_apply": "Send (1) cover letter, (2) resume, (3) references, and (4) writing sample of a clinical, analytical, or policy nature to VAR.Resumes@Mail.house.gov with \"Health Care Investigator\" in the subject line. No walk-ins, please.",
+    "salary_info": null,
+    "contact": "VAR.Resumes@Mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-169-17",
+    "position_title": "Senior Legislative Assistant",
+    "office": null,
+    "location": null,
+    "posting_date": "2017-07-10",
+    "description": "Senior member of House Oversight & Government Reform Committee seeks a Senior Legislative Assistant to handle the full committee and relevant portfolio of legislative issues. Candidates must have a minimum of 2 years of experience at the Legislative or Senior Legislative Assistant level. Additionally, candidates must have a track record of drafting bills and amendments. This is not an entry-level position. Please email resume and cover letter to mi14district@gmail.com.",
+    "responsibilities": [
+      "Handle the full committee and relevant portfolio of legislative issues"
+    ],
+    "qualifications": [
+      "Minimum of 2 years of experience at the Legislative or Senior Legislative Assistant level",
+      "Track record of drafting bills and amendments",
+      "Not an entry-level position"
+    ],
+    "how_to_apply": "Email resume and cover letter to mi14district@gmail.com.",
+    "salary_info": null,
+    "contact": "mi14district@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-168-17",
+    "position_title": "Scheduler/Executive Assistant",
+    "office": null,
+    "location": "Washington, D.C.",
+    "posting_date": "2017-07-10",
+    "description": "Pacific Northwest Democrat seeks a Scheduler/Executive Assistant for his Washington, D.C. office. Responsibilities included managing and maintaining the Member's daily and long-term calendar both in the district and in D.C., working with a variety of stakeholders to balance the Member's time between commitments, ensure the Member is provided with briefing materials for each event and meeting, driving the member to events, and performing other duties as required. Capitol Hill and/or executive assistant experience preferred. A driver's license is required. PNW ties are a plus. The ideal candidate would be detail-oriented, able to juggle multiple tasks at once, have excellent interpersonal skills, be a problem solver, and understand the logistics of travel among various time zones. Position can involve long hours and availability by phone on weekends and evenings. Interested candidates should email a cover letter and resume to Heck.Resumes@mail.house.gov. No drop-ins or phone calls.",
+    "responsibilities": [
+      "Managing and maintaining the Member's daily and long-term calendar both in the district and in D.C.",
+      "Working with a variety of stakeholders to balance the Member's time between commitments",
+      "Ensuring the Member is provided with briefing materials for each event and meeting",
+      "Driving the member to events",
+      "Performing other duties as required"
+    ],
+    "qualifications": [
+      "Capitol Hill and/or executive assistant experience preferred",
+      "A driver's license is required",
+      "PNW ties are a plus",
+      "Detail-oriented",
+      "Able to juggle multiple tasks at once",
+      "Excellent interpersonal skills",
+      "Problem solver",
+      "Understand the logistics of travel among various time zones"
+    ],
+    "how_to_apply": "Email a cover letter and resume to Heck.Resumes@mail.house.gov. No drop-ins or phone calls.",
+    "salary_info": null,
+    "contact": "Heck.Resumes@mail.house.gov",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  },
+  {
+    "id": "MEM-145-17",
+    "position_title": "Legislative Assistant",
+    "office": "Congressman Justin Amash (MI-03)",
+    "location": "Washington, D.C.",
+    "posting_date": "2017-07-10",
+    "description": "The Office of Rep. Justin Amash (R-MI) is seeking a bright, creative, and self-motivated legislative assistant focused on economics to join our Washington, DC-based policy team. The legislative assistant will draft legislation, analyze bills, and meet with constituents concerning policy matters, among other duties. He or she will be expected to handle a diverse portfolio of policy issues, including budget and appropriations, commerce, defense, housing, social welfare, and taxation. The successful applicant will be a libertarian or classical liberal in the tradition of F.A. Hayek, Henry Hazlitt, and Frederic Bastiat. He or she must demonstrate a strong commitment to individual liberty, economic freedom, the Rule of Law, and the Constitution. The person also must be an excellent writer and clear thinker willing to take on the most serious impediments to a freer, more prosperous America. Applicants must have a BA or equivalent. A degree in economics or at least two years of relevant policy experience is preferred, although Hill experience is not required. To apply, please send a resume, cover letter, and two writing samples to mi03.apply@gmail.com. Please include \"legislative assistant applicant\" in the subject line. No walk-in applicants or phone interviews. This job opportunity was first posted late last year, but no interviews were conducted. Previous applicants still interested in this opportunity should resubmit their materials, as previous submissions will not be considered.",
+    "responsibilities": [
+      "Draft legislation",
+      "Analyze bills",
+      "Meet with constituents concerning policy matters",
+      "Handle a diverse portfolio of policy issues including budget and appropriations, commerce, defense, housing, social welfare, and taxation"
+    ],
+    "qualifications": [
+      "BA or equivalent required",
+      "Degree in economics or at least two years of relevant policy experience preferred",
+      "Hill experience is not required",
+      "Must be a libertarian or classical liberal in the tradition of F.A. Hayek, Henry Hazlitt, and Frederic Bastiat",
+      "Must demonstrate a strong commitment to individual liberty, economic freedom, the Rule of Law, and the Constitution",
+      "Must be an excellent writer and clear thinker willing to take on serious challenges"
+    ],
+    "how_to_apply": "Send a resume, cover letter, and two writing samples to mi03.apply@gmail.com. Include \"legislative assistant applicant\" in the subject line. No walk-in applicants or phone interviews. Previous applicants should resubmit their materials.",
+    "salary_info": null,
+    "contact": "mi03.apply@gmail.com",
+    "equal_opportunity": null,
+    "source_model": "glm-5.2",
+    "parsed_at": "2026-08-28"
+  }
+]
