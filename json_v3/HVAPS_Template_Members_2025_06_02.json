@@ -37,7 +37,8 @@
     "contact": "cajobs52@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages people of all backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-168-25",
@@ -80,7 +81,8 @@
     "contact": "AZ04Resumes@gmail.com",
     "equal_opportunity": "The Office of Congressman Greg Stanton is an equal opportunity employer. We are committed to building a diverse and inclusive team and encourage individuals from all backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-167-25",
@@ -119,7 +121,8 @@
     "contact": "vincent.evans@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-166-25",
@@ -152,7 +155,8 @@
     "contact": "nh02jobs603@gmail.com",
     "equal_opportunity": "The office is an equal-opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-165-25",
@@ -182,7 +186,8 @@
     "contact": "NJO8hiring@gmail.com",
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, sex (including marital or parental status), color, age, religion, national origin, sexual orientation, gender identity, or disability. Applicants with disabilities who require reasonable accommodation to participate in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-164-25",
@@ -220,7 +225,8 @@
     "contact": null,
     "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex, gender identity, disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-163-25",
@@ -249,7 +255,8 @@
     "contact": "Hawaii02jobs@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-161-25",
@@ -280,7 +287,8 @@
     "contact": "Nicolle.Miranda@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-160-25",
@@ -314,7 +322,8 @@
     "contact": "newyork22jobs@gmail.com",
     "equal_opportunity": "The office is an equal employment opportunity employer and strongly encourages all interested candidates to apply, including women, people of color, veterans, and LGBTQIA individuals. Applicants with disabilities who require reasonable accommodation to participate effectively in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-159-25",
@@ -351,7 +360,8 @@
     "contact": "FL25Resume@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-158-25",
@@ -382,7 +392,8 @@
     "contact": "midwesternrepublicanoffice@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-152-25",
@@ -415,7 +426,8 @@
     "contact": "NM02applications@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; the office does not discriminate on the basis of race, color, religion, national origin, sex, gender identity or expression, sexual orientation, age, disability, or military status, or any other characteristic protected by applicable law.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-150-25",
@@ -441,7 +453,8 @@
     "contact": "Julia.Hearthway@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-149-25",
@@ -470,6 +483,7 @@
     "contact": "DeSaulnierResumes@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer. All qualified candidates are encouraged to apply, including women, people of color, and other members of traditionally underrepresented communities.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   }
 ]

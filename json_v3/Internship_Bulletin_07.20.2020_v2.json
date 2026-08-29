@@ -25,7 +25,8 @@
     "contact": "nj03resumes@mail.house.gov",
     "equal_opportunity": "The Office of Congressman Andy Kim is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-201-20",
@@ -49,7 +50,8 @@
     "contact": "NY06_Intern_App@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-196-20",
@@ -83,7 +85,8 @@
     "contact": "oversightpress@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-195-20",
@@ -110,7 +113,8 @@
     "contact": "oversightpress@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-192-20",
@@ -139,7 +143,8 @@
     "contact": "NV03Resumes@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-189-20",
@@ -166,7 +171,8 @@
     "contact": "maryah.thompson@mail.house.gov",
     "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex, gender identity, disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-188-20",
@@ -197,7 +203,8 @@
     "contact": "GwenMoorePress.Moore@mail.house.gov",
     "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex, gender identity, disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-186-20",
@@ -227,7 +234,8 @@
     "contact": "sarah.newsome@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-184-20",
@@ -252,7 +260,8 @@
     "contact": "Maddie.Daly@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-183-20",
@@ -280,7 +289,8 @@
     "contact": null,
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-182-20",
@@ -311,7 +321,8 @@
     "contact": "Government.Operations@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-176-20",
@@ -339,7 +350,8 @@
     "contact": "JeffVanDrewNJ@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-163-20",
@@ -369,7 +381,8 @@
     "contact": "jonathan.glaser@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-090-20",
@@ -397,6 +410,7 @@
     "contact": "E&L_Interns&Fellows@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   }
 ]

@@ -25,7 +25,8 @@
     "contact": "JeffVanDrewNJ@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-045-21",
@@ -51,7 +52,8 @@
     "contact": "intern.OH06@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-044-21",
@@ -78,7 +80,8 @@
     "contact": "Rhyne.Maas@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-043-21",
@@ -105,7 +108,8 @@
     "contact": "Elena.Bernstein@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-041-21",
@@ -135,7 +139,8 @@
     "contact": "Sydney.Scott@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-040-21",
@@ -163,7 +168,8 @@
     "contact": "OversightJobs@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-039-21",
@@ -192,7 +198,8 @@
     "contact": "NV03Resumes@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-031-21",
@@ -219,7 +226,8 @@
     "contact": "jacquelyn.eubanks@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-028-21",
@@ -247,6 +255,7 @@
     "contact": "NV03Resumes@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   }
 ]

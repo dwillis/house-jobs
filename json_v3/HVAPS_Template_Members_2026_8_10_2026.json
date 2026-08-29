@@ -28,7 +28,8 @@
     "contact": "cameron.caldwell@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability. We are committed to building and maintaining an organization that reflects the needs of the diverse community we serve.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-254-26",
@@ -60,7 +61,8 @@
     "contact": "NY25.resumes@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-248-26",
@@ -94,7 +96,8 @@
     "contact": "ca49.applications@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation. We deeply value the diversity of our employees and encourage candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-247-26",
@@ -130,7 +133,8 @@
     "contact": "ca29jobs@gmail.com",
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, sex (including marital or parental status), color, age, religion, national origin, sexual orientation, gender identity, or disability.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-246-26",
@@ -172,7 +176,8 @@
     "contact": null,
     "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-242-26",
@@ -199,7 +204,8 @@
     "contact": "Castro.Resumes@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-239-26",
@@ -236,7 +242,8 @@
     "contact": "ct03jobs@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer and encourages all qualified candidates to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-238-26",
@@ -269,7 +276,8 @@
     "contact": "Jobs.DeliaRamirez@mail.house.gov",
     "equal_opportunity": "Our office is committed to promoting diversity and inclusivity. The office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, genetic information, national origin, uniformed service, marital status, parental status, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-229-26",
@@ -298,6 +306,7 @@
     "contact": "NJ10Jobs@gmail.com",
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   }
 ]

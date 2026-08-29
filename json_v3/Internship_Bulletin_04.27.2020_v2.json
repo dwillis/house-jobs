@@ -23,7 +23,8 @@
     "contact": "veterans.internships@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-141-20",
@@ -52,7 +53,8 @@
     "contact": "RulesInternDem.Application@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and diverse candidates, those with untraditional backgrounds, women, and LGBTQ persons are strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-138-20",
@@ -82,7 +84,8 @@
     "contact": "Candyce.Phoenix@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-134-20",
@@ -120,7 +123,8 @@
     "contact": "Johnny.Alavez@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-090-20",
@@ -147,6 +151,7 @@
     "contact": "E&L_InternsFellows@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   }
 ]

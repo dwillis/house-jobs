@@ -24,7 +24,8 @@
     "contact": "congressionalofficejobs@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-244-14",
@@ -51,7 +52,8 @@
     "contact": "congressionalofficejobs@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-243-14",
@@ -86,7 +88,8 @@
     "contact": "Michigan05Jobs@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-242-14",
@@ -123,7 +126,8 @@
     "contact": "TX12DO@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-233-14",
@@ -153,7 +157,8 @@
     "contact": "lee.resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-230-14",
@@ -181,7 +186,8 @@
     "contact": "lee.resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-226-14",
@@ -209,7 +215,8 @@
     "contact": "ethicsjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-225-14",
@@ -240,7 +247,8 @@
     "contact": "ethicsjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-215-14",
@@ -264,7 +272,8 @@
     "contact": "oh.ushouse.job@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-214-14",
@@ -295,7 +304,8 @@
     "contact": "CA38Jobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-213-14",
@@ -318,7 +328,8 @@
     "contact": "congressionalstaffpositions@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-212-14",
@@ -345,7 +356,8 @@
     "contact": "congressionalstaffpositions@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-211-14",
@@ -373,7 +385,8 @@
     "contact": "congressionalstaffpositions@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-196-14",
@@ -401,7 +414,8 @@
     "contact": "TXResumeInbox@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-194-14",
@@ -435,6 +449,7 @@
     "contact": "congressjob@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   }
 ]

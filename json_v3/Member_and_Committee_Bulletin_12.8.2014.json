@@ -26,7 +26,8 @@
     "contact": "lee.resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-395-14",
@@ -62,7 +63,8 @@
     "contact": "District11Resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-393-14",
@@ -95,7 +97,8 @@
     "contact": "FL23Resume@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-389-14",
@@ -123,7 +126,8 @@
     "contact": "GOPcommittee@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-378-14",
@@ -158,7 +162,8 @@
     "contact": "pressopportunity2014@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-369-14",
@@ -204,7 +209,8 @@
     "contact": "ResumeService@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-368-14",
@@ -229,6 +235,7 @@
     "contact": "HouseScienceOpenings@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   }
 ]

@@ -26,7 +26,8 @@
     "contact": "Ashley.Haines@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-289-25",
@@ -61,7 +62,8 @@
     "contact": "PA04applications@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-288-25",
@@ -94,7 +96,8 @@
     "contact": "aguilar.resumes@mail.house.gov",
     "equal_opportunity": "The Office of Congressman Pete Aguilar is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law. Applicants with disabilities who require a reasonable accommodation to participate in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-287-25",
@@ -124,7 +127,8 @@
     "contact": "housegopemployment@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-286-25",
@@ -153,7 +157,8 @@
     "contact": "oversightjobs@mail.house.gov",
     "equal_opportunity": "All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-283-25",
@@ -186,7 +191,8 @@
     "contact": "JoinTeamSykes@mail.house.gov",
     "equal_opportunity": "The office is an equal-opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-282-25",
@@ -217,7 +223,8 @@
     "contact": "NV01jobs@gmail.com",
     "equal_opportunity": "Rep. Titus is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-282-25",
@@ -254,7 +261,8 @@
     "contact": "OGC.Employment@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-281-25",
@@ -301,7 +309,8 @@
     "contact": "CA04Jobs@mail.house.gov",
     "equal_opportunity": "All applicants will be considered without regard to race, color, religion, sex (including marital or parental status).",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-277-25",
@@ -344,7 +353,8 @@
     "contact": "sarah.carlson@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-276-25",
@@ -376,6 +386,7 @@
     "contact": null,
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   }
 ]

@@ -28,7 +28,8 @@
     "contact": "AL07.Resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-491-18",
@@ -69,7 +70,8 @@
     "contact": "OCEJOB@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-490-18",
@@ -96,7 +98,8 @@
     "contact": "hsbcdems@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-489-18",
@@ -131,7 +134,8 @@
     "contact": "CA38Jobs@mail.house.gov",
     "equal_opportunity": "The Office of the Honorable Linda Sánchez is an equal opportunity employer. All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), military status, disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-488-18",
@@ -158,7 +162,8 @@
     "contact": "cahilljobs8@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-487-18",
@@ -184,7 +189,8 @@
     "contact": "cahilljob8@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-484-18",
@@ -219,7 +225,8 @@
     "contact": "nyresume2@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-483-18",
@@ -245,7 +252,8 @@
     "contact": "nyresume2@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-482-18",
@@ -273,7 +281,8 @@
     "contact": "OversightJobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-481-18",
@@ -316,7 +325,8 @@
     "contact": "hvactransition@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages women, minorities, and LGBTQ candidates to apply. Veterans are also strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-480-18",
@@ -347,7 +357,8 @@
     "contact": "OversightJobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-479-18",
@@ -379,7 +390,8 @@
     "contact": "tn09jobs18@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-476-18",
@@ -407,7 +419,8 @@
     "contact": "nj03resume@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-475-18",
@@ -435,7 +448,8 @@
     "contact": "nj03resume@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-474-18",
@@ -467,7 +481,8 @@
     "contact": "nj03resume@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-473-18",
@@ -498,7 +513,8 @@
     "contact": "nj03resume@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-472-18",
@@ -530,7 +546,8 @@
     "contact": "nj03resume@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-471-18",
@@ -557,7 +574,8 @@
     "contact": "nj03resume@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-468-18",
@@ -582,7 +600,8 @@
     "contact": "Oversightjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-466-18",
@@ -611,7 +630,8 @@
     "contact": "DemRulesJobs@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-465-18",
@@ -642,7 +662,8 @@
     "contact": "NJ10resumes@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-462-18",
@@ -677,7 +698,8 @@
     "contact": "oversightpress@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-460-18",
@@ -705,7 +727,8 @@
     "contact": "ecdjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-459-18",
@@ -733,7 +756,8 @@
     "contact": "ecdjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-457-18",
@@ -759,7 +783,8 @@
     "contact": "hsbcdems@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-456-18",
@@ -794,7 +819,8 @@
     "contact": "jobs_ewdems@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-454-18",
@@ -823,7 +849,8 @@
     "contact": "HouseJudDemsJob@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-448-18",
@@ -850,7 +877,8 @@
     "contact": "ny03.resumes@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-443-18",
@@ -878,7 +906,8 @@
     "contact": "seniordemclimatejob@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-439-18",
@@ -913,7 +942,8 @@
     "contact": "applydc@amash.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-438-18",
@@ -943,7 +973,8 @@
     "contact": "seniordemcommsjob@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-437-18",
@@ -994,7 +1025,8 @@
     "contact": "nyresume2@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-436-18",
@@ -1041,7 +1073,8 @@
     "contact": "nyresume2@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-430-18",
@@ -1071,7 +1104,8 @@
     "contact": "nchousejobs@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and diverse candidates are encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-428-18",
@@ -1099,7 +1133,8 @@
     "contact": "hsbcdems@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-422-18",
@@ -1124,7 +1159,8 @@
     "contact": "financeservicesla@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-419-18",
@@ -1148,7 +1184,8 @@
     "contact": "pressjob1923@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-418-18",
@@ -1177,7 +1214,8 @@
     "contact": "NE.01@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-411-18",
@@ -1204,7 +1242,8 @@
     "contact": "oversightjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-405-18",
@@ -1230,7 +1269,8 @@
     "contact": "hsbcdems@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-404-18",
@@ -1256,7 +1296,8 @@
     "contact": "hsbcdems@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-403-18",
@@ -1286,7 +1327,8 @@
     "contact": "hsbcdems@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-402-18",
@@ -1315,6 +1357,7 @@
     "contact": "hsbcdems@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   }
 ]

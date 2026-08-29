@@ -23,7 +23,8 @@
     "contact": "emily.kassner-marks@mail.house.gov, ethan.cesar@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-264-25",
@@ -48,7 +49,8 @@
     "contact": "JP.Moreland@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-261-25",
@@ -75,7 +77,8 @@
     "contact": "Interns.NC03@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-260-25",
@@ -99,7 +102,8 @@
     "contact": "cole.rogers@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-259-25",
@@ -128,7 +132,8 @@
     "contact": "repcraigpress@mail.house.gov",
     "equal_opportunity": "The office of Representative Angie Craig is an equal opportunity employer; the office does not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-258-25",
@@ -153,7 +158,8 @@
     "contact": "oversightpress@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-252-25",
@@ -184,7 +190,8 @@
     "contact": "justin.pavonarius@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-241-25",
@@ -211,7 +218,8 @@
     "contact": null,
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-239-25",
@@ -242,7 +250,8 @@
     "contact": "KrishnamoorthiPressInternship@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-237-25",
@@ -272,7 +281,8 @@
     "contact": null,
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-233-25",
@@ -300,7 +310,8 @@
     "contact": null,
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-232-25",
@@ -326,7 +337,8 @@
     "contact": null,
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-231-25",
@@ -355,7 +367,8 @@
     "contact": "grayson.donnellan@mail.house.gov & brianna.garcia@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-225-25",
@@ -388,6 +401,7 @@
     "contact": "craig.internships@mail.house.gov",
     "equal_opportunity": "Rep. Craig's office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   }
 ]

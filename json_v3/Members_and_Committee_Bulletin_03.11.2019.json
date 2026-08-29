@@ -28,7 +28,8 @@
     "contact": "jobs.pramila@mail.house.gov",
     "equal_opportunity": "Equal Employment Opportunity Employer. Women, people of color, LGBTQ+ individuals, people with disabilities, and members of other underrepresented communities are strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-129-19",
@@ -59,7 +60,8 @@
     "contact": "hill.jobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-128-19",
@@ -89,7 +91,8 @@
     "contact": "NJ06Resume@mail.house.gov",
     "equal_opportunity": "Equal Employment Opportunity Employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-127-19",
@@ -119,7 +122,8 @@
     "contact": "fl08.applications@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-126-19",
@@ -148,7 +152,8 @@
     "contact": "lbr.jobposting@gmail.com",
     "equal_opportunity": "This is an Equal Opportunity Employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-123-19",
@@ -177,7 +182,8 @@
     "contact": "resume.la@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-121-19",
@@ -212,7 +218,8 @@
     "contact": "hi02jobs@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-119-19",
@@ -242,7 +249,8 @@
     "contact": "cook.ca08.jobs@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-116-19",
@@ -272,7 +280,8 @@
     "contact": null,
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-113-19",
@@ -304,7 +313,8 @@
     "contact": "Illinois14.DistrictJobs@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-112-19",
@@ -338,7 +348,8 @@
     "contact": "hi02jobs@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-109-19",
@@ -371,7 +382,8 @@
     "contact": "McEachinJobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-108-19",
@@ -405,7 +417,8 @@
     "contact": "md06.jobs@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-104-19",
@@ -429,7 +442,8 @@
     "contact": "DoggettJobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-103-19",
@@ -454,7 +468,8 @@
     "contact": "DoggettJobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-102-19",
@@ -479,7 +494,8 @@
     "contact": "ecdjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-100-19",
@@ -504,7 +520,8 @@
     "contact": "TX29SG.Resumes@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and encourages women, minorities, and LGBTQ candidates to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-090-19",
@@ -530,7 +547,8 @@
     "contact": "hsbcdems@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-456-18",
@@ -565,6 +583,7 @@
     "contact": "jobs_ewdems@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   }
 ]

@@ -24,7 +24,8 @@
     "contact": null,
     "equal_opportunity": "The office of Congresswoman Dina Titus is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-164-26",
@@ -53,7 +54,8 @@
     "contact": null,
     "equal_opportunity": "The Office of Representative Mark Takano is an equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-118-26",
@@ -82,6 +84,7 @@
     "contact": "Jayapal.DCInternships@mail.house.gov",
     "equal_opportunity": "We are an equal opportunity employer and do not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   }
 ]

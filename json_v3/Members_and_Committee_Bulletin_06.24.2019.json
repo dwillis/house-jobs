@@ -25,7 +25,8 @@
     "contact": "jobs.pramila@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-263-19",
@@ -67,7 +68,8 @@
     "contact": "degette.employment@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-258-19",
@@ -92,7 +94,8 @@
     "contact": "CongressionalOpenJob@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-256-19",
@@ -119,7 +122,8 @@
     "contact": "var.resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-252-19",
@@ -146,7 +150,8 @@
     "contact": "applydc@amash.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-250-19",
@@ -173,7 +178,8 @@
     "contact": "presshilljob@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-245-19",
@@ -205,7 +211,8 @@
     "contact": "lbr.jobposting@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-243-19",
@@ -238,7 +245,8 @@
     "contact": "CA26Resumes@gmail.com",
     "equal_opportunity": "This office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-239-19",
@@ -264,7 +272,8 @@
     "contact": "SCCCDjobs@mail.house.gov",
     "equal_opportunity": "The Committee is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-238-19",
@@ -299,7 +308,8 @@
     "contact": "TX30.Jobs@gmail.com",
     "equal_opportunity": "Equal Opportunity Employer. Women, people of color, LGBTQ+ individuals and members of other underrepresented communities are strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-235-19",
@@ -325,7 +335,8 @@
     "contact": "TX.JobListing@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-230-19",
@@ -353,7 +364,8 @@
     "contact": "ethicsjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-228-19",
@@ -386,7 +398,8 @@
     "contact": "CA38Jobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-228-19",
@@ -418,7 +431,8 @@
     "contact": "CA38Jobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-218-19",
@@ -452,7 +466,8 @@
     "contact": "jobs.pramila@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-217-19",
@@ -484,7 +499,8 @@
     "contact": "ResumeNY@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-216-19",
@@ -519,6 +535,7 @@
     "contact": "CA14Jobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   }
 ]

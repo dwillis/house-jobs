@@ -27,7 +27,8 @@
     "contact": "OversightJobs@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-441-19",
@@ -66,7 +67,8 @@
     "contact": "Johnny.Alavez@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-438-19",
@@ -93,7 +95,8 @@
     "contact": "Victoria.Oms@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-434-19",
@@ -122,7 +125,8 @@
     "contact": "Isabella.Spinozzi@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-432-19",
@@ -149,7 +153,8 @@
     "contact": "RulesInternDem.Application@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and diverse candidates, those with untraditional backgrounds, women, and LGBTQ persons are strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-431-19",
@@ -180,7 +185,8 @@
     "contact": "RulesInternDem.Application@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and strongly encourages candidates from diverse backgrounds or with untraditional experience to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-430-19",
@@ -205,7 +211,8 @@
     "contact": "Judi.Wolford@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-427-19",
@@ -230,7 +237,8 @@
     "contact": "veterans.internships@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-424-19",
@@ -255,7 +263,8 @@
     "contact": "CAGOPInternship@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-420-19",
@@ -286,7 +295,8 @@
     "contact": "sstdeminterns@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-418-19",
@@ -312,7 +322,8 @@
     "contact": "E&L_Interns&Fellows@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-417-19",
@@ -335,7 +346,8 @@
     "contact": "josie.hammon@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-416-19",
@@ -360,7 +372,8 @@
     "contact": "E&L_Interns&Fellows@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates of diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-415-19",
@@ -391,7 +404,8 @@
     "contact": "NV03Resumes@gmail.com",
     "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex, gender identity, disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-413-19",
@@ -416,7 +430,8 @@
     "contact": "nchousejobs@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-411-19",
@@ -442,7 +457,8 @@
     "contact": "marisa.burleson@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-410-19",
@@ -473,7 +489,8 @@
     "contact": "Norton.Interns@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-409-19",
@@ -502,7 +519,8 @@
     "contact": "MI09.Resumes@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-408-19",
@@ -532,7 +550,8 @@
     "contact": "ELRIntern.Applications@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-405-19",
@@ -554,7 +573,8 @@
     "contact": "shawn.bloch@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-404-19",
@@ -580,7 +600,8 @@
     "contact": "housesmallbusinessinternshipr@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and minorities, women, and LGBTQ persons are encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-403-19",
@@ -612,6 +633,7 @@
     "contact": "Ashely.gunn@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   }
 ]

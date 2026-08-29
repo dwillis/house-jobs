@@ -33,7 +33,8 @@
     "contact": "JoinTeamSykes@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, military status, gender identity and expression, marital status, parental status, or sexual orientation.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-502-24",
@@ -70,7 +71,8 @@
     "contact": "Yvanna.Cancela@mail.house.gov",
     "equal_opportunity": "The Office of Congressman Horsford is an equal opportunity employer and encourages applicants from all backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-501-24",
@@ -98,7 +100,8 @@
     "contact": "housegopemployment@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-500-24",
@@ -142,7 +145,8 @@
     "contact": "VAR.Resumes@mail.house.gov",
     "equal_opportunity": "The U.S. House of Representatives is an equal opportunity employer. All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-498-24",
@@ -189,7 +193,8 @@
     "contact": "VAR.Resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-497-24",
@@ -218,7 +223,8 @@
     "contact": "GOPMidwestScheduler@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-495-24",
@@ -248,7 +254,8 @@
     "contact": "vindmanjobsva@gmail.com",
     "equal_opportunity": "The office is an equal-opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-494-24",
@@ -280,7 +287,8 @@
     "contact": "vindmanjobsva@gmail.com",
     "equal_opportunity": "The office is an equal-opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-493-24",
@@ -310,7 +318,8 @@
     "contact": "vindmanjobsva@gmail.com",
     "equal_opportunity": "The office is an equal-opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-492-24",
@@ -343,7 +352,8 @@
     "contact": "vindmanjobsva@gmail.com",
     "equal_opportunity": "The office is an equal-opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status. Qualified people of color and people from underrepresented groups are strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-490-24",
@@ -376,7 +386,8 @@
     "contact": "mn05jobs@gmail.com",
     "equal_opportunity": "The Office is an equal opportunity employer and considers all applicants without regard to race, color, national origin, religion, sex, gender identity, disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-484-24",
@@ -408,7 +419,8 @@
     "contact": "RI01JobsAmo@gmail.com",
     "equal_opportunity": "The office does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-478-24",
@@ -448,7 +460,8 @@
     "contact": "RI01JobsAmo@gmail.com",
     "equal_opportunity": "The office does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-476-24",
@@ -479,7 +492,8 @@
     "contact": "Kenneth.Depew@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-474-24",
@@ -513,7 +527,8 @@
     "contact": "VAR.Resumes@mail.house.gov",
     "equal_opportunity": "The U.S. House of Representatives is an equal opportunity employer. All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-473-24",
@@ -549,7 +564,8 @@
     "contact": "VAR.Resumes@mail.house.gov",
     "equal_opportunity": "The U.S. House of Representatives is an equal opportunity employer. All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-470-24",
@@ -577,7 +593,8 @@
     "contact": "JDEM.job@mail.house.gov",
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-469-24",
@@ -612,7 +629,8 @@
     "contact": "Job.JDEM@mail.house.gov",
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-468-24",
@@ -646,7 +664,8 @@
     "contact": "Job.JDEM@mail.house.gov",
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-467-24",
@@ -672,7 +691,8 @@
     "contact": "NY03.jobs@mail.house.gov",
     "equal_opportunity": "All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-410-24",
@@ -715,7 +735,8 @@
     "contact": "ny08team@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-382-24",
@@ -763,7 +784,8 @@
     "contact": "Raymond.Paoletta@mail.house.gov",
     "equal_opportunity": "All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-135-24",
@@ -792,7 +814,8 @@
     "contact": "oh3.jobs@mail.house.gov",
     "equal_opportunity": "The Office of Congresswoman Beatty is an Equal Opportunity Employer who does not discriminate in employment based on race, color, religion, sex (including pregnancy and gender identity), national origin, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-451-23",
@@ -837,6 +860,7 @@
     "contact": "ellis.mcginnis@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer and will consider all applicants without regard to race, color, religion, sex, marital or parental status, sexual orientation, gender identity, national origin, disability or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   }
 ]

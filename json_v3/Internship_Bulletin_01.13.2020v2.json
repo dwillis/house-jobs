@@ -26,7 +26,8 @@
     "contact": "ebony.majette@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-008-20",
@@ -56,7 +57,8 @@
     "contact": "raymond.sweney@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-005-20",
@@ -82,7 +84,8 @@
     "contact": "nchousejobs@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-002-20",
@@ -109,7 +112,8 @@
     "contact": "Faith.Mabry@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-001-20",
@@ -137,7 +141,8 @@
     "contact": "kelly.hennessy@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-668-19",
@@ -161,7 +166,8 @@
     "contact": "garrett.serstad@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-667-19",
@@ -188,7 +194,8 @@
     "contact": "DemCaucus.Digital@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-665-19",
@@ -214,7 +221,8 @@
     "contact": "JudPressIntern@mail.house.gov",
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-663-19",
@@ -243,7 +251,8 @@
     "contact": null,
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-661-19",
@@ -270,7 +279,8 @@
     "contact": "veterans.internships@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-660-19",
@@ -302,7 +312,8 @@
     "contact": "NV03Resumes@gmail.com",
     "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex, gender identity, disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-488-19",
@@ -330,7 +341,8 @@
     "contact": "E&L_Interns&Fellows@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-416-19",
@@ -355,6 +367,7 @@
     "contact": "E&L_Interns&Fellows@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates of diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   }
 ]

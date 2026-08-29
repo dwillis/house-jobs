@@ -34,7 +34,8 @@
     "contact": "FL25Resume@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-158-25",
@@ -65,7 +66,8 @@
     "contact": "midwesternrepublicanoffice@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-157-25",
@@ -106,7 +108,8 @@
     "contact": null,
     "equal_opportunity": "Appointments to all positions in HOLC are made without regard to personal political affiliation and solely on the basis of fitness to perform the work.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-156-25",
@@ -149,7 +152,8 @@
     "contact": "resumes.hoyle@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, national origin, sex, gender identity or expression, pregnancy, sexual orientation, age, disability, marital status, parental status, military status, or any other factor or basis prohibited by applicable federal law.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-155-25",
@@ -177,7 +181,8 @@
     "contact": "kevin.dawson@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-154-25",
@@ -204,7 +209,8 @@
     "contact": "CA16DOResumes@mail.house.gov",
     "equal_opportunity": "The Office of California's 16th District is an Equal Opportunity Employer. We are committed to building and maintaining an inclusive and diverse work environment, and we provide reasonable accommodations to applicants and employees with disabilities. All qualified candidates are encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-153-25",
@@ -238,7 +244,8 @@
     "contact": "michelle.bishop@mail.house.gov",
     "equal_opportunity": "All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-152-25",
@@ -271,7 +278,8 @@
     "contact": "NM02applications@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; the office does not discriminate on the basis of race, color, religion, national origin, sex, gender identity or expression, sexual orientation, age, disability, or military status, or any other characteristic protected by applicable law.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-151-25",
@@ -310,7 +318,8 @@
     "contact": null,
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-150-25",
@@ -336,7 +345,8 @@
     "contact": "Julia.Hearthway@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-149-25",
@@ -368,7 +378,8 @@
     "contact": "DeSaulnierResumes@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-147-25",
@@ -405,7 +416,8 @@
     "contact": "Rashida.Jobs@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate based on race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-144-25",
@@ -435,7 +447,8 @@
     "contact": "NJ5Jobs@mail.house.gov",
     "equal_opportunity": "This office is an equal-opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-143-25",
@@ -479,7 +492,8 @@
     "contact": "VAR.Resumes@mail.house.gov",
     "equal_opportunity": "The U.S. House of Representatives is an equal opportunity employer. All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-142-25",
@@ -517,7 +531,8 @@
     "contact": "VAR.Resumes@mail.house.gov",
     "equal_opportunity": "The U.S. House of Representatives is an equal opportunity employer. All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), disability, or age.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-141-25",
@@ -546,7 +561,8 @@
     "contact": "1execasst@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-140-25",
@@ -575,7 +591,8 @@
     "contact": "housegopemployment@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-139-25",
@@ -605,7 +622,8 @@
     "contact": "housegopemployment@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "communications"
   },
   {
     "id": "MEM-138-25",
@@ -631,7 +649,8 @@
     "contact": "ethicsjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-130-25",
@@ -656,6 +675,7 @@
     "contact": "House.Apply@mail.house.gov",
     "equal_opportunity": "The U.S. House of Representatives is an equal opportunity employer. All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-27"
+    "parsed_at": "2026-08-27",
+    "job_category": "administrative"
   }
 ]

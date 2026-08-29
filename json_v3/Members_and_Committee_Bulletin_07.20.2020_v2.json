@@ -27,7 +27,8 @@
     "contact": "CA48resumes@gmail.com",
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-203-20",
@@ -61,7 +62,8 @@
     "contact": "ny03.resumes@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-200-20",
@@ -100,7 +102,8 @@
     "contact": "CA02.Requests@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-199-20",
@@ -126,7 +129,8 @@
     "contact": "JDEM.job@mail.house.gov",
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-198-20",
@@ -159,7 +163,8 @@
     "contact": "ResumesCA45@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation. We strongly value the diversity of our employees.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-197-20",
@@ -190,7 +195,8 @@
     "contact": "ResumesCA45@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation. We strongly value the diversity of our employees.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-194-20",
@@ -225,7 +231,8 @@
     "contact": "Jobs.MA05@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-191-20",
@@ -267,7 +274,8 @@
     "contact": "MD07employment@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-190-20",
@@ -307,7 +315,8 @@
     "contact": "MD07employment@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-187-20",
@@ -340,7 +349,8 @@
     "contact": "DPCC@mail.house.gov",
     "equal_opportunity": "We are equal opportunity employers; we do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-185-20",
@@ -368,7 +378,8 @@
     "contact": "DemCaucus.Jobs@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer committed to a diverse and inclusive workforce and does not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity or disability.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-181-20",
@@ -396,7 +407,8 @@
     "contact": "Ryan.Brown@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-179-20",
@@ -423,7 +435,8 @@
     "contact": "RepJobResume@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-178-20",
@@ -460,7 +473,8 @@
     "contact": "jobs.va03@mail.house.gov",
     "equal_opportunity": "The Office of Representative Robert C. “Bobby” Scott is an equal opportunity employer committed to building and maintaining an inclusive and diverse work environment.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-175-20",
@@ -492,7 +506,8 @@
     "contact": "DemCaucus.Jobs@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer committed to a diverse and inclusive workforce and does not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity or disability.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-157-20",
@@ -526,7 +541,8 @@
     "contact": "Diverse.House@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-155-20",
@@ -560,7 +576,8 @@
     "contact": null,
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-154-20",
@@ -591,7 +608,8 @@
     "contact": "Diverse.House@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-512-19",
@@ -618,7 +636,8 @@
     "contact": "congressionaljobs2805@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-428-19",
@@ -648,6 +667,7 @@
     "contact": "cademhouseoffice@gmail.com",
     "equal_opportunity": "Equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   }
 ]

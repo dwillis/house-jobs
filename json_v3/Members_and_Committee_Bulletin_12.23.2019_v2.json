@@ -23,7 +23,8 @@
     "contact": "JDEM.job@mail.house.gov",
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-662-19",
@@ -53,7 +54,8 @@
     "contact": "ethicsjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-655-19",
@@ -80,7 +82,8 @@
     "contact": "congressionaljobs2805@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-653-19",
@@ -104,7 +107,8 @@
     "contact": "StaffAstLegCorr@gmail.com",
     "equal_opportunity": "This office is an equal opportunity employer and strongly encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-650-19",
@@ -132,7 +136,8 @@
     "contact": "VAR.Resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-641-19",
@@ -161,7 +166,8 @@
     "contact": "Lindsay.Reusser@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-640-19",
@@ -192,7 +198,8 @@
     "contact": "Lindsay.Reusser@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-629-19",
@@ -227,7 +234,8 @@
     "contact": "Michigan05jobs@gmail.com",
     "equal_opportunity": "This office is an equal opportunity employer, committed to developing an organization that is reflective of the district that we serve. The office does not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-626-19",
@@ -256,7 +264,8 @@
     "contact": "RepublicanScheduler@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-622-19",
@@ -292,7 +301,8 @@
     "contact": "Spanberger.Inquiries@mail.house.gov",
     "equal_opportunity": "Representative Spanberger's office is an equal opportunity employer. The office does not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identity, national origin, age, genetic information, disability, or uniformed service.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-621-19",
@@ -321,7 +331,8 @@
     "contact": "Spanberger.Inquiries@mail.house.gov",
     "equal_opportunity": "Representative Spanberger's office is an equal opportunity employer. The office does not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identity, national origin, age, genetic information, disability, or uniformed service.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-512-19",
@@ -349,7 +360,8 @@
     "contact": "congressionaljobs2805@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-462-19",
@@ -385,7 +397,8 @@
     "contact": "uscodeapplicant@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-428-19",
@@ -414,6 +427,7 @@
     "contact": "cademhouseoffice@gmail.com",
     "equal_opportunity": "Equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   }
 ]

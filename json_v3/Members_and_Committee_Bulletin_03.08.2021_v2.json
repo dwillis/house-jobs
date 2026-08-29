@@ -25,7 +25,8 @@
     "contact": "SSCCJobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-070-21",
@@ -74,7 +75,8 @@
     "contact": "MD07Resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-068-21",
@@ -101,7 +103,8 @@
     "contact": "NJ06.Jobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-065-21",
@@ -137,7 +140,8 @@
     "contact": "Jaclyn.ODay@mail.house.gov",
     "equal_opportunity": "The Problem Solvers Caucus is an equal opportunity employer and will be taking applications through March 10, 2021. All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, national origin, or service in the military.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-062-21",
@@ -164,7 +168,8 @@
     "contact": "NY10.DCJOB@mail.house.gov",
     "equal_opportunity": "Chairman Nadler's office does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-059-21",
@@ -194,7 +199,8 @@
     "contact": "JDEM.Job@mail.house.gov",
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-058-21",
@@ -222,7 +228,8 @@
     "contact": "HouseJud.DemsJob@mail.house.gov",
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-057-21",
@@ -253,7 +260,8 @@
     "contact": "spajobnv07@gmail.com",
     "equal_opportunity": "The office does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, military status, gender identity and expression, marital status, parental status, or sexual orientation, or in any of its activities or operations.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-055-21",
@@ -286,7 +294,8 @@
     "contact": "DC00.NortonResume@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-054-21",
@@ -313,7 +322,8 @@
     "contact": "lbr.jobposting@gmail.com",
     "equal_opportunity": "This is an Equal Opportunity Employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-049-21",
@@ -343,7 +353,8 @@
     "contact": "tx30@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-048-21",
@@ -383,7 +394,8 @@
     "contact": "OR05KS.resumes@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer and as such is committed to building and maintaining an inclusive and diverse work environment. All qualified candidates are encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-042-21",
@@ -415,6 +427,7 @@
     "contact": "FL24.Resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   }
 ]

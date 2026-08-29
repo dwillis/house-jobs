@@ -38,7 +38,8 @@
     "contact": null,
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate based on race, religion, disability, age, ethnicity, national origin, sex, gender, LGBTQ identification, family status, or military status. Women, people of color, and other members of traditionally underrepresented communities are strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-013-24",
@@ -69,7 +70,8 @@
     "contact": "Stephanie.Hu@mail.house.gov",
     "equal_opportunity": "All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "constituent_services"
   },
   {
     "id": "MEM-012-24",
@@ -99,7 +101,8 @@
     "contact": "jobs.pramila@mail.house.gov",
     "equal_opportunity": "The Office of Congresswoman Pramila Jayapal is an equal opportunity employer. Women, people of color, LGBTQ+ individuals, new Americans, people with disabilities, and members of other underrepresented communities are strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-011-24",
@@ -133,7 +136,8 @@
     "contact": "AuchinclossJobs@mail.house.gov",
     "equal_opportunity": "Our office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex (including marital or parental status), national origin, age, disability, gender identity, sexual orientation, or any other characteristic protected by applicable law.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-010-24",
@@ -163,7 +167,8 @@
     "contact": "JoinTeamSykes@mail.house.gov",
     "equal_opportunity": "The office does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-009-24",
@@ -190,7 +195,8 @@
     "contact": "ar02.applications@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-008-24",
@@ -214,7 +220,8 @@
     "contact": "housedemjobs@gmail.com",
     "equal_opportunity": "Office is an equal opportunity employer committed to building and maintaining an inclusive and diverse work environment.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-007-24",
@@ -249,7 +256,8 @@
     "contact": "FL25Resume@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-005-24",
@@ -283,7 +291,8 @@
     "contact": "ny18resumes@mail.house.gov",
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation. Candidates of diverse backgrounds are strongly encouraged to apply.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-004-24",
@@ -311,7 +320,8 @@
     "contact": "RepWildJobs@gmail.com",
     "equal_opportunity": "The Office of Representative Susan Wild is an equal opportunity employer, committed to developing an organization that is reflective of and attentive to the needs of the diverse community we serve. The office does not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-003-24",
@@ -337,7 +347,8 @@
     "contact": "RepWildJobs@gmail.com",
     "equal_opportunity": "The Office of Representative Susan Wild is an equal opportunity employer, committed to developing an organization that is reflective of and attentive to the needs of the diverse community we serve. The office does not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-002-24",
@@ -367,7 +378,8 @@
     "contact": "CT03jobs@gmail.com",
     "equal_opportunity": "This office is an equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-001-24",
@@ -406,7 +418,8 @@
     "contact": "RI01AmoJobs@gmail.com",
     "equal_opportunity": "The office does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-636-23",
@@ -446,7 +459,8 @@
     "contact": "md04resumes@gmail.com",
     "equal_opportunity": "This office is an equal-opportunity employer that does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-633-23",
@@ -475,7 +489,8 @@
     "contact": "CO06.resumes@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-630-23",
@@ -515,7 +530,8 @@
     "contact": "NJ5Jobs@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law. Applicants with disabilities who require reasonable accommodation to participate in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-623-23",
@@ -543,7 +559,8 @@
     "contact": "paige.lindgren@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-622-23",
@@ -572,7 +589,8 @@
     "contact": "NV04Resume@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-546-23",
@@ -612,7 +630,8 @@
     "contact": "vincent.evans@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-508-23",
@@ -646,7 +665,8 @@
     "contact": "Ohio11Resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-468-23",
@@ -692,7 +712,8 @@
     "contact": "OCEJOB@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-451-23",
@@ -737,7 +758,8 @@
     "contact": "stephanie.moore@mail.house.gov",
     "equal_opportunity": "This office is an equal opportunity employer and will consider all applicants without regard to race, color, religion, sex, marital or parental status, sexual orientation, gender identity, national origin, disability or national origin.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-354-23",
@@ -768,6 +790,7 @@
     "contact": "vincent.evans@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   }
 ]

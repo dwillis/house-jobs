@@ -29,7 +29,8 @@
     "contact": "PSIjobapplication@hsgac.senate.gov",
     "equal_opportunity": "The Subcommittee is an equal employment opportunity employer and does not discriminate on the bases of race, color, religion, national origin, disability, age, uniformed service, genetic information, sex, sexual orientation, gender identity or gender expression.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-485-22",
@@ -61,7 +62,8 @@
     "contact": "PSIjobapplication@hsgac.senate.gov",
     "equal_opportunity": "The Subcommittee is an equal employment opportunity employer and does not discriminate on the bases of race, color, religion, national origin, disability, age, uniformed service, genetic information, sex, sexual orientation, gender identity or gender expression.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-480-22",
@@ -95,7 +97,8 @@
     "contact": "lbr.jobposting@gmail.com",
     "equal_opportunity": "This is an Equal Opportunity Employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   },
   {
     "id": "MEM-472-22",
@@ -127,7 +130,8 @@
     "contact": "McEachin.Jobs@mail.house.gov",
     "equal_opportunity": "Equal opportunity employer.",
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-471-22",
@@ -160,7 +164,8 @@
     "contact": "jasmine.ginn@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-470-22",
@@ -195,7 +200,8 @@
     "contact": "FL24.Resumes@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "communications"
   },
   {
     "id": "MEM-465-22",
@@ -226,7 +232,8 @@
     "contact": "ethicsjobs@mail.house.gov",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "administrative"
   },
   {
     "id": "MEM-462-22",
@@ -258,6 +265,7 @@
     "contact": "congressional.apa.caucus@gmail.com",
     "equal_opportunity": null,
     "source_model": "glm-5.2",
-    "parsed_at": "2026-08-28"
+    "parsed_at": "2026-08-28",
+    "job_category": "legislative"
   }
 ]

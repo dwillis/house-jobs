@@ -99,6 +99,12 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--files", nargs="*", default=None)
     p.add_argument("--no-skip", action="store_true")
     p.add_argument("--retry-failures", action="store_true", help="only re-run entries from _failures.jsonl")
+    p.add_argument(
+        "--max-tokens",
+        type=int,
+        default=8000,
+        help="LM output token budget per chunk; raise if glm-5.2 reasoning truncates output",
+    )
     return p.parse_args()
 
 
@@ -109,7 +115,7 @@ def main() -> None:
     text_dir = Path(TEXT_DIR)
     failures_path = out_dir / "_failures.jsonl"
 
-    dspy.configure(lm=make_lm(model=args.model))
+    dspy.configure(lm=make_lm(model=args.model, max_tokens=args.max_tokens))
     program = load_extractor(Path(args.compiled) if args.compiled else None)
 
     if args.retry_failures:

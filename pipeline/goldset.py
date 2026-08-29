@@ -221,16 +221,41 @@ def cmd_sample_classify(args: argparse.Namespace) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / "labels.jsonl"
 
-    merged: dict[str, dict] = {}
-    merged.update(_load_id_index(JSON_DIR))
-    merged.update(_load_id_index(JSON_QWEN_DIR))  # qwen preferred on id collision
-    jobs = list(merged.values())
+    existing_ids: set[str] = set()
+    if args.append and out_path.exists():
+        for line in out_path.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                existing_ids.add(json.loads(line).get("id"))
+        print(f"Appending to {len(existing_ids)} existing label(s).")
+
+    merged: dict[str, dict] = _load_id_index(args.dir)
+    if not merged:
+        # fall back to legacy corpora if the requested dir has no jobs
+        merged.update(_load_id_index(JSON_DIR))
+        merged.update(_load_id_index(JSON_QWEN_DIR))
+    jobs = [j for j in merged.values() if j.get("id") not in existing_ids]
 
     rng = random.Random(args.seed)
     rng.shuffle(jobs)
-    picked = jobs[: args.n]
 
-    with out_path.open("w", encoding="utf-8") as f:
+    if args.balanced:
+        # round-robin across heuristic-guessed categories for even representation
+        by_cat: dict[str, list[dict]] = {}
+        for job in jobs:
+            by_cat.setdefault(_heuristic_category(job_text_from_dict(job)), []).append(job)
+        picked: list[dict] = []
+        cats = list(by_cat)
+        i = 0
+        while len(picked) < args.n and any(by_cat.values()):
+            bucket = by_cat[cats[i % len(cats)]]
+            if bucket:
+                picked.append(bucket.pop())
+            i += 1
+    else:
+        picked = jobs[: args.n]
+
+    mode = "a" if args.append else "w"
+    with out_path.open(mode, encoding="utf-8") as f:
         for job in picked:
             job_text = job_text_from_dict(job)
             record = {
@@ -241,7 +266,8 @@ def cmd_sample_classify(args: argparse.Namespace) -> None:
             }
             f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
-    print(f"Wrote {len(picked)} classification sample(s) to {out_path}. Hand-correct 'job_category' before optimizing.")
+    verb = "Appended" if args.append else "Wrote"
+    print(f"{verb} {len(picked)} classification sample(s) to {out_path}. Hand-correct 'job_category' before optimizing.")
 
 
 def main() -> None:
@@ -261,6 +287,9 @@ def main() -> None:
     p_cls = sub.add_parser("sample-classify", help="sample jobs for the classification gold set")
     p_cls.add_argument("--n", type=int, default=50)
     p_cls.add_argument("--seed", type=int, default=0)
+    p_cls.add_argument("--dir", default="json_v3", help="corpus to sample jobs from")
+    p_cls.add_argument("--append", action="store_true", help="append to labels.jsonl, skipping already-labeled ids")
+    p_cls.add_argument("--balanced", action="store_true", help="round-robin across heuristic categories for class balance")
     p_cls.set_defaults(func=cmd_sample_classify)
 
     args = p.parse_args()

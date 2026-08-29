@@ -130,9 +130,15 @@ def main() -> None:
         help="stop before a file whose unclassified jobs would push the cumulative count over this budget",
     )
     p.add_argument("--eval", action="store_true", help="report accuracy against gold labels instead of running")
+    p.add_argument(
+        "--max-tokens",
+        type=int,
+        default=16000,
+        help="LM output token budget; raise if glm-5.2 reasoning truncates (warning about max_tokens)",
+    )
     args = p.parse_args()
 
-    dspy.configure(lm=make_lm(model=args.model))
+    dspy.configure(lm=make_lm(model=args.model, max_tokens=args.max_tokens))
     program = load_classifier(Path(args.compiled) if args.compiled else None)
 
     if args.eval:
