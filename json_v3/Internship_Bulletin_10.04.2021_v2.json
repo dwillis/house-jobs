@@ -38,7 +38,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-391-21",
@@ -68,7 +69,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-382-21",
@@ -96,7 +98,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-381-21",
@@ -130,7 +133,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-380-21",
@@ -159,7 +163,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-377-21",
@@ -189,7 +194,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-357-21",
@@ -218,7 +224,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-353-21",
@@ -250,6 +257,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   }
 ]

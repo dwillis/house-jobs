@@ -28,7 +28,8 @@
     "equal_opportunity": "This office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-437-23",
@@ -60,7 +61,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-432-23",
@@ -88,7 +90,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-429-23",
@@ -118,7 +121,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-423-23",
@@ -145,7 +149,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-420-23",
@@ -172,7 +177,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-418-23",
@@ -200,7 +206,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-412-23",
@@ -230,7 +237,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-397-23",
@@ -256,7 +264,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-396-23",
@@ -283,7 +292,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-393-23",
@@ -308,6 +318,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   }
 ]

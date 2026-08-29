@@ -24,7 +24,8 @@
     "equal_opportunity": "This office is an equal-opportunity employer. We do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, uniformed status, sexual orientation, or gender identity.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-367-24",
@@ -53,7 +54,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-354-24",
@@ -80,6 +82,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   }
 ]

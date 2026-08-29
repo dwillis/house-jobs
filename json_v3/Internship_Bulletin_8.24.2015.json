@@ -27,7 +27,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-263-15",
@@ -53,7 +54,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-262-15",
@@ -81,7 +83,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-260-15",
@@ -107,7 +110,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-259-15",
@@ -135,7 +139,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-258-15",
@@ -167,7 +172,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-257-15",
@@ -193,7 +199,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-256-15",
@@ -222,7 +229,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-253-15",
@@ -250,7 +258,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-252-15",
@@ -277,7 +286,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-251-15",
@@ -312,7 +322,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-250-15",
@@ -341,7 +352,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-247-15",
@@ -370,7 +382,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-246-15",
@@ -406,7 +419,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-243-15",
@@ -434,7 +448,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-242-15",
@@ -464,7 +479,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-241-15",
@@ -496,7 +512,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-240-15",
@@ -524,7 +541,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-239-15",
@@ -551,7 +569,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-238-15",
@@ -576,7 +595,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-236-15",
@@ -597,7 +617,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-235-15",
@@ -624,7 +645,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-234-15",
@@ -653,7 +675,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-233-15",
@@ -685,7 +708,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-232-15",
@@ -715,7 +739,8 @@
     "equal_opportunity": "Equal opportunity employer.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-231-15",
@@ -746,7 +771,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-230-15",
@@ -777,7 +803,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-229-15",
@@ -805,7 +832,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-228-15",
@@ -833,7 +861,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-226-15",
@@ -863,7 +892,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-225-15",
@@ -894,7 +924,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-224-15",
@@ -922,7 +953,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-223-15",
@@ -953,7 +985,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-222-15",
@@ -986,7 +1019,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-220-15",
@@ -1013,7 +1047,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-219-15",
@@ -1040,7 +1075,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-216-15",
@@ -1069,7 +1105,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-215-15",
@@ -1100,7 +1137,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-214-15",
@@ -1123,7 +1161,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-212-15",
@@ -1153,7 +1192,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-211-15",
@@ -1181,7 +1221,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-209-15",
@@ -1213,7 +1254,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-208-15",
@@ -1249,7 +1291,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-206-15",
@@ -1279,7 +1322,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-205-15",
@@ -1311,7 +1355,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-204-15",
@@ -1343,7 +1388,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-203-15",
@@ -1372,7 +1418,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-202-15",
@@ -1402,7 +1449,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-201-15",
@@ -1429,7 +1477,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-200-15",
@@ -1455,7 +1504,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-199-15",
@@ -1487,7 +1537,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-198-15",
@@ -1514,7 +1565,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-195-15",
@@ -1544,7 +1596,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-194-15",
@@ -1576,7 +1629,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-190-15",
@@ -1604,7 +1658,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-189-15",
@@ -1630,7 +1685,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-187-15",
@@ -1655,7 +1711,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-186-15",
@@ -1691,7 +1748,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-185-15",
@@ -1720,7 +1778,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-184-15",
@@ -1749,7 +1808,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-179-15",
@@ -1779,7 +1839,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-178-15",
@@ -1808,7 +1869,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-176-15",
@@ -1835,7 +1897,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-174-15",
@@ -1869,7 +1932,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-173-15",
@@ -1898,7 +1962,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-171-15",
@@ -1922,7 +1987,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-170-15",
@@ -1952,7 +2018,8 @@
     "equal_opportunity": "Equal opportunity employer.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-169-15",
@@ -1980,7 +2047,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-168-15",
@@ -2008,7 +2076,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-167-15",
@@ -2039,7 +2108,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-166-15",
@@ -2067,7 +2137,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-164-15",
@@ -2096,7 +2167,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-162-15",
@@ -2127,7 +2199,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-160-15",
@@ -2161,7 +2234,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-159-15",
@@ -2195,7 +2269,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-154-15",
@@ -2220,7 +2295,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-152-15",
@@ -2246,7 +2322,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-150-15",
@@ -2275,6 +2352,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   }
 ]

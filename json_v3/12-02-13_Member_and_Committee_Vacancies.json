@@ -34,7 +34,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-356-13",
@@ -71,7 +72,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-349-13",
@@ -103,7 +105,8 @@
     "equal_opportunity": "Equal opportunity employer.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-346-13",
@@ -131,6 +134,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   }
 ]

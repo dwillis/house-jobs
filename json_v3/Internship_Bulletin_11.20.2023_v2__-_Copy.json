@@ -26,7 +26,8 @@
     "equal_opportunity": "Our Office is an equal opportunity employer, and we do not discriminate on the basis of race, sex, color, age, religion, disability, national origin, military status, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-601-23",
@@ -62,7 +63,8 @@
     "equal_opportunity": "The Office of Congressman Greg Casar is an equal opportunity employer; we do not discriminate based on race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law. Applicants with disabilities who require a reasonable accommodation to participate in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-600-23",
@@ -90,7 +92,8 @@
     "equal_opportunity": "The office does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-599-23",
@@ -121,7 +124,8 @@
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-598-23",
@@ -146,7 +150,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-597-23",
@@ -179,7 +184,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-596-23",
@@ -210,7 +216,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-595-23",
@@ -241,7 +248,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-594-23",
@@ -269,7 +277,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-593-23",
@@ -298,7 +307,8 @@
     "equal_opportunity": "The office does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-592-23",
@@ -328,7 +338,8 @@
     "equal_opportunity": "Rep. Craig's office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age or protected veteran status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-591-23",
@@ -353,7 +364,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-590-23",
@@ -384,7 +396,8 @@
     "equal_opportunity": "This office is an equal opportunity employer and values diversity highly. People of color, LGBTQ+ individuals, people with disabilities, and members of other underrepresented communities are strongly encouraged to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-587-23",
@@ -413,7 +426,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-587-23",
@@ -441,7 +455,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-586-23",
@@ -471,7 +486,8 @@
     "equal_opportunity": "The office is an equal-opportunity employer and does not discriminate based on race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-584-23",
@@ -498,7 +514,8 @@
     "equal_opportunity": "The office of Congressman Mast is an equal-opportunity employer and does not discriminate based on race, religion, sex, sexual orientation, military status, age, or marital status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-583-23",
@@ -529,7 +546,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-582-23",
@@ -559,7 +577,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-576-23",
@@ -588,7 +607,8 @@
     "equal_opportunity": "All applicants will be considered without regard to race, color, national origin, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, or age.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-575-23",
@@ -622,7 +642,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-571-23",
@@ -650,7 +671,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-569-23",
@@ -681,7 +703,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-567-23",
@@ -714,7 +737,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-566-23",
@@ -738,7 +762,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-562-23",
@@ -767,7 +792,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-561-23",
@@ -799,7 +825,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-560-23",
@@ -827,7 +854,8 @@
     "equal_opportunity": "The office is an equal-opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-559-23",
@@ -857,7 +885,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-558-23",
@@ -885,7 +914,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-549-23",
@@ -916,7 +946,8 @@
     "equal_opportunity": "The Office of Congresswoman Trahan is an equal opportunity employer. We do not discriminate based on race, ethnicity, gender, sexual orientation, religion, national origin, age, or socioeconomic status. All are welcome and encouraged to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-545-23",
@@ -945,7 +976,8 @@
     "equal_opportunity": "The Office of Congresswoman Trahan is an equal opportunity employer. We do not discriminate based on race, ethnicity, gender, sexual orientation, religion, national origin, age, or socioeconomic status. All are welcome and encouraged to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-542-23",
@@ -975,7 +1007,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-533-23",
@@ -1003,6 +1036,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   }
 ]

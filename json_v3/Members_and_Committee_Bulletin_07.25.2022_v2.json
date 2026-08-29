@@ -27,7 +27,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-391-22",
@@ -61,7 +62,8 @@
     "equal_opportunity": "Representative Casten's Office is an affirmative action/equal opportunity employer dedicated to building a community of excellence, equity, and diversity. It welcomes applications from women, underrepresented minorities, individuals with disabilities, protected veterans, sexual minority groups and other candidates who will lead and contribute to the diversification and enrichment of ideas and perspectives.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-388-22",
@@ -96,7 +98,8 @@
     "equal_opportunity": "This office is an equal opportunity employer. Veterans, LGBTQ individuals, women, and diverse candidates are encouraged to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-380-22",
@@ -129,7 +132,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, sex, color, age, religion, disability, genetic information, national origin, uniformed service, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-379-22",
@@ -162,7 +166,8 @@
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, genetic information, national origin, uniformed service, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-366-22",
@@ -195,7 +200,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-366-22",
@@ -228,7 +234,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-365-22",
@@ -266,7 +273,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-364-22",
@@ -295,7 +303,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-363-22",
@@ -322,7 +331,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-358-22",
@@ -352,7 +362,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-355-22",
@@ -390,7 +401,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-353-22",
@@ -419,7 +431,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-352-22",
@@ -445,7 +458,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-339-22",
@@ -486,7 +500,8 @@
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, genetic information, national origin, uniformed service, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-325-22",
@@ -520,7 +535,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-322-22",
@@ -558,7 +574,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-319-22",
@@ -588,7 +605,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-318-22",
@@ -620,7 +638,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-314-22",
@@ -651,7 +670,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-306-22",
@@ -698,7 +718,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-300-22",
@@ -730,7 +751,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-298-22",
@@ -759,7 +781,8 @@
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity or expression, or sexual orientation.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-231-22",
@@ -793,7 +816,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-208-22",
@@ -826,7 +850,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-069-22",
@@ -863,6 +888,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   }
 ]

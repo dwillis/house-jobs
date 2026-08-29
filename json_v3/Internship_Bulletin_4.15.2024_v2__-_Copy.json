@@ -33,7 +33,8 @@
     "equal_opportunity": "The Office of Congressman Greg Casar is an equal opportunity employer; we do not discriminate based on race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law. Applicants with disabilities who require a reasonable accommodation to participate in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-164-24",
@@ -63,7 +64,8 @@
     "equal_opportunity": "Our office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex (including marital or parental status), national origin, age, disability, gender identity, or sexual orientation. Our office encourages candidates of diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-153-24",
@@ -91,7 +93,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-149-24",
@@ -120,7 +123,8 @@
     "equal_opportunity": "The Office of Representative Sheila Cherfilus-McCormick is an equal opportunity employer. The Office does not discriminate on the basis of an individual's race, color, religion, gender, sexual orientation, gender identity, national origin, age, genetic information, disability, or uniformed service. The Office is committed to diversity and inclusion. Individuals from all backgrounds are encouraged to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-148-24",
@@ -147,7 +151,8 @@
     "equal_opportunity": "The Office of Representative Sheila Cherfilus-McCormick is an equal opportunity employer. The Office does not discriminate on the basis of an individual's race, color, religion, gender, sexual orientation, gender identity, national origin, age, genetic information, disability, or uniformed service. The Office is committed to diversity and inclusion. Individuals from all backgrounds are encouraged to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-140-24",
@@ -184,7 +189,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-134-24",
@@ -212,7 +218,8 @@
     "equal_opportunity": "This office is an equal opportunity employer. The office does not discriminate on the basis of race, sex, color, age, religion, national origin, sexual orientation, gender identity, or disability.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "internship"
   },
   {
     "id": "MEM-123-24",
@@ -243,6 +250,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "internship"
   }
 ]

@@ -38,7 +38,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from all backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-129-26",
@@ -67,7 +68,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-128-26",
@@ -106,7 +108,8 @@
     "equal_opportunity": "The Office of Congressman Greg Casar is an equal opportunity employer; we do not discriminate based on race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-127-26",
@@ -141,7 +144,8 @@
     "equal_opportunity": "This office is an equal opportunity employer; the office does not discriminate on the basis of race, color, religion, national origin, sex, gender identity or expression, sexual orientation, age, disability, or military status, or any other characteristic protected by applicable law.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-126-26",
@@ -183,7 +187,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages people of all backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-125-26",
@@ -212,7 +217,8 @@
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-124-26",
@@ -246,7 +252,8 @@
     "equal_opportunity": "The Office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status. We encourage candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-123-26",
@@ -281,7 +288,8 @@
     "equal_opportunity": "The office is an equal employment opportunity employer and strongly encourages all interested candidates to apply, including women, people of color, veterans, and LGBTQIA individuals. Applicants with disabilities who require reasonable accommodation to participate effectively in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-122-26",
@@ -310,7 +318,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-121-26",
@@ -344,7 +353,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate based on race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-120-26",
@@ -379,7 +389,8 @@
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-119-26",
@@ -411,7 +422,8 @@
     "equal_opportunity": "The office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-117-26",
@@ -446,7 +458,8 @@
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, national origin, age, disability, military status, gender identity and expression, marital status, parental status, or sexual orientation.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-114-26",
@@ -483,7 +496,8 @@
     "equal_opportunity": "The U.S. House of Representatives is an equal opportunity employer.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-113-26",
@@ -516,7 +530,8 @@
     "equal_opportunity": "The office of Rep. Pou is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, genetic information, national origin, marital status, parental status, uniformed service, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-112-26",
@@ -548,7 +563,8 @@
     "equal_opportunity": "The Office of Congresswoman Pramila Jayapal is an equal opportunity employer. Women, people of color, LGBTQ+ individuals, people with disabilities, and members of other underrepresented communities are strongly encouraged to apply. State and/or district ties are a plus.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-111-26",
@@ -582,7 +598,8 @@
     "equal_opportunity": "Congresswoman McClellan's office is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, sex, gender identity, sexual orientation, national origin, age, disability, or veteran status. We strongly encourage applicants from diverse backgrounds — including women, people of color, LGBTQ+ individuals, and members of other underrepresented communities — to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-109-26",
@@ -612,7 +629,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-108-26",
@@ -640,7 +658,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-106-26",
@@ -686,7 +705,8 @@
     "equal_opportunity": "All applicants will be considered without regard to race, color, religion, sex (including marital or parental status), sexual orientation, gender identity, disability, age, or national origin.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-105-26",
@@ -737,7 +757,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-104-26",
@@ -782,7 +803,8 @@
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-103-26",
@@ -828,7 +850,8 @@
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, sex, gender identity or expression, national origin, age, disability, military status, parental status, marital status, sexual orientation, or any other factor or basis prohibited by applicable federal law. Applicants with disabilities who require reasonable accommodation to participate in the application or hiring processes are encouraged to request an accommodation at any time during those processes.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-101-26",
@@ -863,7 +886,8 @@
     "equal_opportunity": "This office is an equal opportunity employer; the office does not discriminate on the basis of race, color, religion, national origin, sex, gender identity or expression, sexual orientation, age, disability, or military status, or any other characteristic protected by applicable law.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-099-26",
@@ -893,7 +917,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-094-26",
@@ -924,7 +949,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-088-26",
@@ -956,6 +982,7 @@
     "equal_opportunity": "This office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, national origin, age, disability, gender identity, or sexual orientation.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-27",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   }
 ]

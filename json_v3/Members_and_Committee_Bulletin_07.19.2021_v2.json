@@ -46,7 +46,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages people of all identity groups to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-261-21",
@@ -72,7 +73,8 @@
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, genetic information, national origin, uniformed service, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-260-21",
@@ -101,7 +103,8 @@
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, sex, color, age, religion, disability, genetic information, national origin, uniformed service, sexual orientation, or gender identity or expression.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-255-21",
@@ -136,7 +139,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-254-21",
@@ -171,7 +175,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-253-21",
@@ -202,7 +207,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-252-21",
@@ -235,7 +241,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-250-21",
@@ -265,7 +272,8 @@
     "equal_opportunity": "This office is an equal opportunity employer committed to building and maintaining an inclusive and diverse work environment.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-247-21",
@@ -297,7 +305,8 @@
     "equal_opportunity": "This office is an equal opportunity employer; we do not discriminate on the basis of race, color, religion, national origin or citizenship status, sex, gender identity or expression, pregnancy, sexual orientation, age, disability, or military status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-240-21",
@@ -327,7 +336,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and does not discriminate based on race, color, religion, sex, national origin, age, disability, gender identity, sexual orientation, disability, military status, age, marital status, or parental status.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-235-21",
@@ -356,7 +366,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-231-21",
@@ -392,7 +403,8 @@
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-228-21",
@@ -420,7 +432,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-227-21",
@@ -443,7 +456,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-226-21",
@@ -475,7 +489,8 @@
     "equal_opportunity": "The office is an equal opportunity employer. The office does not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identify, national origin, age, genetic information, disability, or uniformed service.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-218-21",
@@ -510,7 +525,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-208-21",
@@ -544,7 +560,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-205-21",
@@ -571,7 +588,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-202-21",
@@ -599,7 +617,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-201-21",
@@ -627,7 +646,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-200-21",
@@ -658,7 +678,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-199-21",
@@ -696,7 +717,8 @@
     "equal_opportunity": "The office is an equal opportunity employer. The office does not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identify, national origin, age, genetic information, disability, or uniformed service.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-198-21",
@@ -723,7 +745,8 @@
     "equal_opportunity": "The Committee does not discriminate on the basis of race, color, religion, sex (including marital or parental status, sexual orientation, and gender identity), disability, age, or national origin.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-163-21",
@@ -756,7 +779,8 @@
     "equal_opportunity": "Representative Spanberger's office is an equal opportunity employer. The office does not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identify, national origin, age, genetic information, disability, or uniformed service.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "constituent_services"
+    "job_category": "constituent_services",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-162-21",
@@ -789,6 +813,7 @@
     "equal_opportunity": "Representative Spanberger's office is an equal opportunity employer. The office does not discriminate on the basis of race, color, religion, gender, sexual orientation, gender identify, national origin, age, genetic information, disability, or uniformed service.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   }
 ]

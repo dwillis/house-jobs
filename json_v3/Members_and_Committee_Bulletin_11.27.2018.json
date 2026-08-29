@@ -25,7 +25,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-443-18",
@@ -54,7 +55,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-442-18",
@@ -81,7 +83,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-441-18",
@@ -110,7 +113,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-440-18",
@@ -137,7 +141,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-439-18",
@@ -173,7 +178,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-438-18",
@@ -204,7 +210,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-437-18",
@@ -256,7 +263,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-436-18",
@@ -304,7 +312,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-430-18",
@@ -335,7 +344,8 @@
     "equal_opportunity": "The office is an equal opportunity employer.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-428-18",
@@ -361,7 +371,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-422-18",
@@ -387,7 +398,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-419-18",
@@ -412,7 +424,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "communications"
+    "job_category": "communications",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-418-18",
@@ -442,7 +455,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-411-18",
@@ -470,7 +484,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-410-18",
@@ -500,7 +515,8 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-405-18",
@@ -528,7 +544,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-404-18",
@@ -555,7 +572,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-403-18",
@@ -586,7 +604,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-402-18",
@@ -617,7 +636,8 @@
     "equal_opportunity": "The office is an equal opportunity employer and encourages candidates from diverse backgrounds to apply.",
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "legislative"
+    "job_category": "legislative",
+    "listing_type": "staff"
   },
   {
     "id": "MEM-394-18",
@@ -647,6 +667,7 @@
     "equal_opportunity": null,
     "source_model": "glm-5.2",
     "parsed_at": "2026-08-28",
-    "job_category": "administrative"
+    "job_category": "administrative",
+    "listing_type": "staff"
   }
 ]

@@ -124,6 +124,7 @@ def load_jobs(json_dir: str) -> list[dict]:
             "position_title": job.get("position_title", ""),
             "date":           date,
             "year":           _safe_year(date),
+            "listing_type":   job.get("listing_type", ""),
             "text":           text,
         })
     print(f"  Loaded {len(records):,} unique jobs from {json_dir}/")
@@ -339,7 +340,7 @@ def plot_cluster_drift(df: pd.DataFrame, cluster_labels: dict[int, str],
 # ---------------------------------------------------------------------------
 
 def main(json_dir: str, embed_model: str = DEFAULT_EMBED_MODEL,
-         use_cache: bool = True) -> None:
+         use_cache: bool = True, listing_type: str | None = None) -> None:
     print(f"\n1. Loading jobs from {json_dir} …")
     records = load_jobs(json_dir)
     if not records:
@@ -350,6 +351,19 @@ def main(json_dir: str, embed_model: str = DEFAULT_EMBED_MODEL,
 
     print(f"\n2. Embedding with '{embed_model}' …")
     embeddings = embed(texts, model_name=embed_model, cache=use_cache)
+
+    # Filter to one listing type AFTER embedding so the full-corpus cache is reused.
+    suffix = ""
+    if listing_type:
+        mask = [r.get("listing_type") == listing_type for r in records]
+        kept = int(sum(mask))
+        if kept == 0:
+            print(f"No '{listing_type}' listings found (is listing_type backfilled?). Aborting.")
+            return
+        records = [r for r, m in zip(records, mask) if m]
+        embeddings = embeddings[np.array(mask)]
+        suffix = f"_{listing_type}"
+        print(f"  Filtered to {kept:,} '{listing_type}' listings.")
 
     print("\n3. UMAP dimensionality reduction …")
     coords_2d = reduce_umap(embeddings)
@@ -372,16 +386,16 @@ def main(json_dir: str, embed_model: str = DEFAULT_EMBED_MODEL,
 
     print("\n6. Writing outputs …")
     # CSV
-    csv_path = OUT_DIR / "job_embeddings.csv"
+    csv_path = OUT_DIR / f"job_embeddings{suffix}.csv"
     df.drop(columns=["text"]).to_csv(csv_path, index=False)
     print(f"Wrote {csv_path}")
 
     # Plots
-    plot_umap_scatter(df, cluster_labels, str(OUT_DIR / "clusters.png"))
-    plot_cluster_drift(df, cluster_labels, str(OUT_DIR / "cluster_drift.png"))
+    plot_umap_scatter(df, cluster_labels, str(OUT_DIR / f"clusters{suffix}.png"))
+    plot_cluster_drift(df, cluster_labels, str(OUT_DIR / f"cluster_drift{suffix}.png"))
 
     # Summary text
-    summary_path = OUT_DIR / "cluster_summary.txt"
+    summary_path = OUT_DIR / f"cluster_summary{suffix}.txt"
     lines = [
         f"HDBSCAN Clusters — {len(records):,} unique jobs\n",
         f"{'Cluster':<8} {'Size':>6}  {'% of corpus':>12}  Top terms\n",
@@ -411,7 +425,10 @@ if __name__ == "__main__":
                         help=f"Ollama embedding model (default: {DEFAULT_EMBED_MODEL})")
     parser.add_argument("--no-cache", action="store_true",
                         help="Re-embed even if cache exists")
+    parser.add_argument("--listing-type", choices=["internship", "staff"], default=None,
+                        help="Cluster only internships or only staff jobs (requires backfilled listing_type)")
     args = parser.parse_args()
 
     json_dir = str(REPO_ROOT / args.dir) if not Path(args.dir).is_absolute() else args.dir
-    main(json_dir, embed_model=args.model, use_cache=not args.no_cache)
+    main(json_dir, embed_model=args.model, use_cache=not args.no_cache,
+         listing_type=args.listing_type)

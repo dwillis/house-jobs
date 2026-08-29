@@ -15,3 +15,12 @@ def is_bulletin(filename: str) -> bool:
         return False
     lowered = filename.lower()
     return ("member" in lowered) or ("intern" in lowered)
+
+
+def listing_type(filename: str) -> str:
+    """Authoritative listing type from the source bulletin filename.
+
+    Internship bulletins hold internships; Member/Committee bulletins hold
+    staff (paid member/committee) positions. Returns "internship" or "staff".
+    """
+    return "internship" if "intern" in filename.lower() else "staff"

@@ -16,7 +16,7 @@ from pathlib import Path
 import dspy
 
 from config import JSON_V3_DIR, TEXT_DIR
-from pipeline.chunking import is_bulletin, split_into_job_chunks
+from pipeline.chunking import is_bulletin, listing_type, split_into_job_chunks
 from pipeline.lm import DEFAULT_MODEL, make_lm
 from pipeline.signatures import Extractor
 
@@ -43,10 +43,12 @@ def process_chunk(program: Extractor, chunk: str, filename: str, model_id: str) 
             time.sleep(delay)
         try:
             pred = program(chunk_text=chunk_with_filename)
-            jobs = [
-                j.model_dump() | {"source_model": model_id, "parsed_at": date.today().isoformat()}
-                for j in pred.jobs
-            ]
+            provenance = {
+                "source_model": model_id,
+                "parsed_at": date.today().isoformat(),
+                "listing_type": listing_type(filename),
+            }
+            jobs = [j.model_dump() | provenance for j in pred.jobs]
             return jobs, None
         except Exception as e:
             last_error = str(e)
