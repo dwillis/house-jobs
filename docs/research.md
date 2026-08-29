@@ -67,20 +67,22 @@ ORDER BY bulletin_date DESC;
 
 ## Job classifier
 
-`job_classifier.py` adds a `job_category` field to each listing in `json/`, using Gemini to assign one of:
+Every listing in `json_v3/` carries a `job_category` field, one of:
 
 - **administrative** — office management, scheduling, HR, finance, operations
 - **legislative** — policy research, bill analysis, committee work, legal counsel
 - **communications** — press, media, social, public outreach
 - **constituent_services** — casework, community engagement, district representation
 
+Classification is done by the DSPy `pipeline/` (glm-5.2, GEPA-optimized prompt), which reaches ~89% agreement with a 120-item hand-labeled gold set:
+
 ```bash
-uv run python job_classifier.py        # classify everything in json/ (skips already-classified files)
-uv run python test_classifier.py       # smoke test on a small sample
-uv run python analyze_classifications.py  # writes summary report + charts to analysis_reports/
+uv run python -m pipeline.run_classify --dir json_v3 --eval   # accuracy vs gold labels
+uv run python -m pipeline.run_classify --dir json_v3          # classify (skips already-classified)
+uv run python analyze_classifications.py                      # summary report + charts
 ```
 
-The script is rate-limited (2s/job, 5s/file). Roughly 45–60 minutes for 1,000 jobs.
+The legacy `job_classifier.py` (Gemini, subprocess per job) is retained but superseded. See [CLAUDE.md](../CLAUDE.md) for the full pipeline.
 
 ## Loading new data
 
@@ -96,7 +98,7 @@ The loader is idempotent: rerunning on the same files updates posting history ra
 
 These are areas where the dataset is currently less useful than it could be — improvements are tracked separately and welcomed as PRs.
 
-- **Salaries are free text.** `salary_info` ranges from `"$60,000-$75,000"` to `"Commensurate with experience"` to `null`. There is no structured `salary_min` / `salary_max` field yet.
+- **Salaries are sparse.** In `json_v3/`, `salary_info` is kept only when a dollar figure is stated (normalized to `"$60,000-$75,000 per year"`); vaguer phrases like `"Commensurate with experience"` become `null`, so ~93% are null. There is no structured `salary_min` / `salary_max` field yet.
 - **Application deadlines are unstructured.** Close dates appear in description prose; there is no `deadline_date` column.
 - **Locations are not normalized.** `"DC"`, `"Washington, DC"`, `"District Office"`, and `"Las Vegas, NV"` all coexist.
 - **Status is static.** Schema has `status` (active/filled/removed) but no sweep currently retires stale postings, so time-to-fill analysis is not yet possible.
@@ -108,13 +110,16 @@ These are areas where the dataset is currently less useful than it could be — 
 house-jobs/
 ├── input/                # PDFs (committed)
 ├── output/               # text extracted from PDFs
-├── json/                 # parsed listings, one file per bulletin
-├── parser.py             # PDF→JSON (Gemini 2.5 Pro)
-├── job_classifier.py     # adds job_category
-├── analyze_classifications.py
-├── schema.sql
-├── init_database.py      # builds congress_jobs.db
-├── db_loader.py
-├── web_interface.py      # job-board interface
-└── congress_jobs.db
+├── json_v3/              # current parsed + classified corpus (one file per bulletin)
+├── pipeline/             # DSPy + GEPA parse/classify (glm-5.2) — current parser
+├── gold/                 # hand-labeled gold sets for GEPA
+├── json/, json_qwen/     # legacy corpora (Gemini, Qwen)
+├── parser.py             # legacy PDF→JSON (Gemini 2.5 Pro)
+├── job_classifier.py     # legacy classifier
+└── analyze_classifications.py
 ```
+
+> Note: the database workflow this guide describes (`init_database.py`, `db_loader.py`,
+> `web_interface.py`, `schema.sql`, `congress_jobs.db`) was removed in an earlier cleanup
+> and is not currently part of the repo. The SQL examples above are retained for reference
+> but require rebuilding that tooling against `json_v3/`.

@@ -1,34 +1,40 @@
 # House Jobs
 
-Tools and a public archive for U.S. House of Representatives **job and internship announcements**. The Office of the Chief Administrative Officer publishes weekly bulletins as PDFs; this repository archives them, extracts text, and parses each listing into structured JSON with an LLM. The `json/` directory is the primary corpus — over 12 years of weekly bulletins dating back to 2013.
+Tools and a public archive for U.S. House of Representatives **job and internship announcements**. The Office of the Chief Administrative Officer publishes weekly bulletins as PDFs; this repository archives them, extracts text, and parses each listing into structured JSON with an LLM. The `json_v3/` directory is the current corpus — every one of ~1,250 weekly bulletins since 2013, parsed and classified into 25,655 listings.
 
 Companion blog post: <https://thescoop.org/archives/2025/02/28/turning-congressional-job-listings-into-data/index.html>
 
 ## Pipeline
 
 ```
-PDF  →  pdftotext  →  parser.py (LLM)  →  JSON  →  skills/ (NLP analysis)
-input/    output/        json/
+PDF  →  pdftotext  →  pipeline/ (DSPy + GEPA, glm-5.2)  →  json_v3/  →  skills/ (NLP analysis)
+input/    output/        parse + classify
 ```
 
 - `input/` — original PDFs, committed for provenance.
 - `output/` — extracted text, produced automatically by GitHub Actions.
-- `json/` — structured listings, one file per bulletin (~600 files, 2013–present).
+- `json_v3/` — structured, classified listings, one file per bulletin (~1,250 files, 2013–present).
+- `pipeline/` — the DSPy program (extraction + classification) with GEPA-optimized prompts; see [CLAUDE.md](CLAUDE.md).
 - `skills/` — NLP analysis: skill extraction, embeddings, and semantic clustering.
+
+Earlier corpora `json/` (Gemini) and `json_qwen/` (Qwen), and the `parser.py` / `job_classifier.py` scripts that produced them, are retained as legacy.
 
 ## Quick start
 
 ```bash
 # Install dependencies
 uv sync
+
+# Set your Ollama Cloud key (used by the pipeline)
+echo "OLLAMA_API_KEY=..." > .env    # key from https://ollama.com/settings/keys
 ```
 
-To process a new bulletin:
+To process new bulletins (parsing + classification via the current pipeline):
 
 ```bash
 pdftotext -layout input/<file>.pdf output/<file>.txt
-uv run python parser.py                  # writes json/<file>.json
-uv run python job_classifier.py          # adds job_category to each listing (optional)
+uv run python -m pipeline.run_parse    --out json_v3 --files <file>.txt   # extract listings
+uv run python -m pipeline.run_classify --dir json_v3                      # add job_category
 ```
 
 To run NLP analysis on the full corpus:
@@ -39,8 +45,8 @@ uv run python skills/skill_extractor.py
 
 # Semantic clustering via Ollama embeddings + UMAP + HDBSCAN
 # Requires: ollama serve (uses qwen3-embedding:latest by default)
-uv run python skills/cluster_jobs.py
-uv run python skills/cluster_jobs.py --model embeddinggemma   # faster alternative
+uv run python skills/cluster_jobs.py --dir json_v3
+uv run python skills/cluster_jobs.py --dir json_v3 --model embeddinggemma   # faster alternative
 ```
 
 ## NLP Analysis (`skills/`)
@@ -73,7 +79,7 @@ Outputs: `job_embeddings.csv`, `clusters.png`, `cluster_drift.png`, `cluster_sum
 }
 ```
 
-`job_category` is one of `administrative`, `legislative`, `communications`, `constituent_services`. The parser produces every other field directly from the bulletin.
+`job_category` is one of `administrative`, `legislative`, `communications`, `constituent_services`. The pipeline produces every other field directly from the bulletin. Listings in `json_v3/` also carry `source_model` and `parsed_at` provenance fields. `office` and `salary_info` are `null` when the bulletin gives no resolvable member/committee name or no dollar-figure salary, respectively.
 
 ## Documentation
 

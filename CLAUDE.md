@@ -8,10 +8,10 @@ This repository processes U.S. House of Representatives job and internship annou
 
 **Key Data Flow:**
 ```
-PDF → Text Extraction (pdftotext) → LLM Parsing → JSON → Database Loading → Web Interfaces
-                                                     ↓
-                                             skills/ (NLP Analysis)
+PDF → Text Extraction (pdftotext) → DSPy/GEPA pipeline (parse + classify) → json_v3/ → skills/ (NLP Analysis)
 ```
+
+The current parser/classifier is the `pipeline/` package (see "DSPy + GEPA Pipeline" below), which produced `json_v3/`. The older `parser.py` + `job_classifier.py` scripts and the `json/` / `json_qwen/` corpora are retained as legacy.
 
 ## Development Environment
 
@@ -32,7 +32,7 @@ uv sync
 - **Input:** PDF files in `input/` directory
 - **Output:** Text files in `output/` directory with date-based filenames
 
-### 2. LLM-based Parser
+### 2. LLM-based Parser (legacy — superseded by `pipeline/`)
 
 **`parser.py`** uses the `llm` Python API with `gemini-2.5-pro`:
 - Splits each bulletin's text into chunks at MEM-XXX-YY job-ID boundaries
@@ -51,7 +51,7 @@ python parser.py
 - Rate limiting built in (8s between chunks, 5s between files)
 - Skips bulletins already present in `json/`
 
-### 3. Job Classification System
+### 3. Job Classification System (legacy — superseded by `pipeline/run_classify.py`)
 
 **Script:** `job_classifier.py`
 
@@ -74,31 +74,41 @@ uv run python job_classifier.py
 ./job_classifier.py
 ```
 
-### 4. DSPy + GEPA Pipeline (`pipeline/`, in progress)
+### 4. DSPy + GEPA Pipeline (`pipeline/`) — current parser
 
-Replacement for `parser.py` / `job_classifier.py`, still being validated against a fresh corpus before promotion. Uses DSPy modules (extraction + classification) whose prompts are optimized by GEPA, running `glm-5.2` on Ollama Cloud directly (`https://ollama.com/v1`, requires `OLLAMA_API_KEY`).
+The `pipeline/` package is the current parsing and classification path, superseding `parser.py` and `job_classifier.py` (both retained as legacy). It uses DSPy modules (extraction + classification) whose prompts are optimized by GEPA, running `glm-5.2` on Ollama Cloud directly (`https://ollama.com/v1`, requires `OLLAMA_API_KEY` in `.env`). It has produced `json_v3/` — all 1,252 bulletins parsed into 25,655 job listings, every one classified (0 failures).
 
+- `pipeline/lm.py` — `dspy.LM` config for Ollama Cloud (loads `.env`)
 - `pipeline/schema.py` — Pydantic `JobListing` (same 12-field schema) and `Category`
 - `pipeline/signatures.py` — `ExtractJobs`/`ClassifyJob` DSPy signatures and modules
-- `pipeline/metric.py` — hybrid GEPA metric (programmatic formatting checks + gold-set field scoring)
-- `pipeline/goldset.py` — sample/prefill gold examples in `gold/extraction/` and `gold/classification/`
-- `pipeline/optimize.py` — GEPA optimization runs; saves compiled prompts to `pipeline/compiled/`
-- `pipeline/run_parse.py` — bulk re-parse into `json_v3/` (concurrent, resumable, logs failures to `_failures.jsonl`)
+- `pipeline/metric.py` — hybrid GEPA metric (programmatic formatting checks + gold-set field scoring); `--self-test` for sanity
+- `pipeline/goldset.py` — sample/prefill gold examples in `gold/extraction/` (30) and `gold/classification/labels.jsonl` (120); `sample-classify` supports `--dir/--append/--balanced`
+- `pipeline/optimize.py` — GEPA runs (`smoke-test`, `extract`, `classify`); saves compiled prompts to `pipeline/compiled/`
+- `pipeline/run_parse.py` — bulk re-parse into `json_v3/` (concurrent, resumable, atomic writes, logs failures to `_failures.jsonl`)
 - `pipeline/run_classify.py` — bulk classification over `json_v3/` (`--eval` checks accuracy against gold labels first)
 
-**Typical flow:**
+**Compiled prompts** live in `pipeline/compiled/{extractor,classifier}.json` and are committed — they are the reproducible "prompt". Note both have been lightly hand-edited to correct GEPA artifacts (e.g. an ISO-date instruction; a generic-intern classification rule); regenerating them via `optimize.py` will overwrite those edits.
+
+**Budgeting:** Ollama Cloud has a weekly call cap. Both runners take `--max-calls N` to stop under budget (resumable — re-run to continue) and `--max-tokens` (classify defaults to 16000 so glm-5.2's reasoning tokens don't truncate the answer). A full parse is ~25.5k calls; classification another ~25.7k.
+
+**Reproduce from scratch:**
 ```bash
+uv run python -m pipeline.optimize smoke-test          # verify OLLAMA_API_KEY / endpoint
 uv run python -m pipeline.goldset sample --n 30
-uv run python -m pipeline.goldset prefill        # fills from json_qwen/json where possible
+uv run python -m pipeline.goldset prefill              # fills from json_qwen/json where possible
 # hand-correct any gold/extraction/*.json still marked "TODO"
+uv run python -m pipeline.goldset sample-classify --n 120 --dir json_v3 --balanced
+# hand-correct gold/classification/labels.jsonl
 uv run python -m pipeline.optimize extract
-uv run python -m pipeline.run_parse --out json_v3 --limit 10   # pilot before the full run
-uv run python -m pipeline.run_parse --out json_v3
-uv run python -m pipeline.run_classify --eval
-uv run python -m pipeline.run_classify
+uv run python -m pipeline.optimize classify
+uv run python -m pipeline.run_parse   --out json_v3 --max-calls 6000   # repeat until done
+uv run python -m pipeline.run_classify --eval                          # check accuracy
+uv run python -m pipeline.run_classify --max-calls 6000                # repeat until done
 ```
 
-Once `json_v3/` is validated as the canonical corpus, `parser.py`, `job_classifier.py`, `json/`, and `json_qwen/` will be retired and this section rewritten to describe `pipeline/` as primary.
+**Quality of the current `json_v3/` run:** 0 empty responsibilities/qualifications, 0 non-ISO dates, no residual OCR ligature damage; classifier ~89% on the 120-label gold set. Two deliberate trade-offs: `office` is null (~41%) rather than free text when no named member/committee is resolvable, and `salary_info` is null (~93%) unless a dollar figure is stated (phrases like "unpaid"/"commensurate" are dropped).
+
+Each `json_v3/` listing also carries provenance fields `source_model` and `parsed_at` beyond the 12-field schema.
 
 ## Common Development Tasks
 
