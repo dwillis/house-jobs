@@ -178,7 +178,7 @@ def assemble(listing_type: str, json_meta: dict[str, str], names_path: Path):
     dissolve = load_dissolve(listing_type, names_path)
     apply_dissolve(df, names, terms, dissolve)
     if dissolve:
-        print(f"  dissolved {len(dissolve)} office-specific cluster(s) into nearest role clusters")
+        print(f"  dissolved {len(dissolve)} non-role cluster(s) into nearest role clusters")
     # sanity: every non-noise cluster id remaining in the CSV has a name + terms
     for cid in sorted(c for c in df["cluster"].unique() if c != -1):
         assert cid in names and cid in terms, f"cluster {cid} missing name/terms for {listing_type}"
