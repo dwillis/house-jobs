@@ -144,6 +144,28 @@ def load_cluster_names(listing_type: str, names_path: Path, terms: dict[int, lis
     return names
 
 
+def load_dissolve(listing_type: str, names_path: Path) -> set[int]:
+    """Cluster ids to fold into their nearest role cluster (office-specific artifacts)."""
+    data = json.loads(names_path.read_text(encoding="utf-8")).get("dissolve", {})
+    return {int(c) for c in data.get(listing_type, [])}
+
+
+def apply_dissolve(df: pd.DataFrame, names: dict, terms: dict, dissolve: set[int]) -> None:
+    """Reassign each point in a dissolved cluster to the nearest surviving cluster
+    centroid (UMAP 2-D), then drop the dissolved ids from names/terms. In place."""
+    if not dissolve:
+        return
+    survivors = [c for c in df["cluster"].unique() if c != -1 and c not in dissolve]
+    cents = {c: df[df["cluster"] == c][["umap_x", "umap_y"]].median().to_numpy() for c in survivors}
+    mask = df["cluster"].isin(dissolve)
+    for idx in df.index[mask]:
+        x, y = df.at[idx, "umap_x"], df.at[idx, "umap_y"]
+        df.at[idx, "cluster"] = min(survivors, key=lambda c: (cents[c][0] - x) ** 2 + (cents[c][1] - y) ** 2)
+    for cid in dissolve:
+        names.pop(cid, None)
+        terms.pop(cid, None)
+
+
 def assemble(listing_type: str, json_meta: dict[str, str], names_path: Path):
     """Return (df with job_category, terms dict, names dict)."""
     df = load_points(listing_type)
@@ -153,7 +175,11 @@ def assemble(listing_type: str, json_meta: dict[str, str], names_path: Path):
         print(f"  warning: only {coverage:.1%} of {listing_type} ids matched json_v3 metadata")
     terms = load_cluster_terms(listing_type)
     names = load_cluster_names(listing_type, names_path, terms)
-    # sanity: every non-noise cluster id in the CSV has a name + terms
+    dissolve = load_dissolve(listing_type, names_path)
+    apply_dissolve(df, names, terms, dissolve)
+    if dissolve:
+        print(f"  dissolved {len(dissolve)} office-specific cluster(s) into nearest role clusters")
+    # sanity: every non-noise cluster id remaining in the CSV has a name + terms
     for cid in sorted(c for c in df["cluster"].unique() if c != -1):
         assert cid in names and cid in terms, f"cluster {cid} missing name/terms for {listing_type}"
     return df, terms, names
