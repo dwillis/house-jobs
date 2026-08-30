@@ -45,8 +45,11 @@ uv run python skills/skill_extractor.py
 
 # Semantic clustering via Ollama embeddings + UMAP + HDBSCAN
 # Requires: ollama serve (uses qwen3-embedding:latest by default)
-uv run python skills/cluster_jobs.py --dir json_v3
-uv run python skills/cluster_jobs.py --dir json_v3 --model embeddinggemma   # faster alternative
+# Cluster staff and internships separately for cleaner structure:
+uv run python skills/cluster_jobs.py --dir json_v3 --listing-type staff \
+    --min-cluster-size 10 --min-samples 3
+uv run python skills/cluster_jobs.py --dir json_v3 --listing-type internship \
+    --role-focused --min-cluster-size 15 --min-samples 3
 ```
 
 ## NLP Analysis (`skills/`)
@@ -55,9 +58,11 @@ uv run python skills/cluster_jobs.py --dir json_v3 --model embeddinggemma   # fa
 
 Outputs: `skills_raw.csv`, `skill_trends.csv`, `skill_trends.png`, `skill_categories.png`, `skill_emerging.png`.
 
-**Semantic clustering** (`skills/cluster_jobs.py`) embeds each job description via Ollama, reduces to 2-D with UMAP, and clusters with HDBSCAN. Clusters are auto-labelled by tf-idf top terms. Embeddings are cached locally and invalidated automatically when the corpus or model changes.
+**Semantic clustering** (`skills/cluster_jobs.py`) embeds each job via Ollama, reduces to 2-D with UMAP, and clusters with HDBSCAN. Clusters are auto-labelled by tf-idf top terms. Embeddings are cached locally (separately per text mode) and invalidated automatically when the corpus or model changes.
 
-Outputs: `job_embeddings.csv`, `clusters.png`, `cluster_drift.png`, `cluster_summary.txt`.
+Cluster **staff and internships separately** (`--listing-type`) — mixing them buries structure under the mass of near-identical generic internships. For **staff**, cluster on the full description with finer HDBSCAN (`--min-cluster-size 10 --min-samples 3`) to resolve role and policy-area groups. For **internships**, add `--role-focused` (embeds title + responsibilities + qualifications, dropping the office / "[State] ties preferred" boilerplate) so clusters reflect the role rather than which member's office reposted it.
+
+Outputs are suffixed by mode, e.g. `clusters_staff.png`, `cluster_summary_role_internship.txt`, `job_embeddings_role_internship.csv`.
 
 ## Example listing
 
