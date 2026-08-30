@@ -1,15 +1,13 @@
 {
   "_note": "Human-readable cluster names for visualize_clusters.py. Keys are string cluster ids from the CSVs. These are per-run artifacts: if you re-run cluster_jobs.py the ids shuffle and these names must be re-checked. Unlisted ids fall back to their first two tf-idf terms. 'dissolve' lists office-specific artifact clusters that get folded into their nearest role cluster. Edit freely.",
   "dissolve": {
-    "staff": [1, 8, 9, 10, 18],
+    "staff": [0, 1, 5, 8, 9, 10, 18],
     "internship": []
   },
   "staff": {
-    "0": "Small business & procurement",
     "2": "Subcommittee staff directors",
     "3": "Policy / bill analysis",
     "4": "Investigations counsel",
-    "5": "Ethics & financial disclosure",
     "6": "Committee support",
     "7": "Oversight & investigations",
     "11": "District director",
