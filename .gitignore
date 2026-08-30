@@ -33,7 +33,7 @@ json_v3/_classify_failures.jsonl
 .env
 
 # skills/ generated analysis artifacts (regenerable)
-skills/embeddings_cache.npz
+skills/embeddings_cache*.npz
 skills/job_embeddings*.csv
 skills/clusters*.png
 skills/cluster_drift*.png

@@ -46,6 +46,7 @@ DEFAULT_JSON_DIR = str(REPO_ROOT / _JSON_DIR)
 
 DEFAULT_EMBED_MODEL = "qwen3-embedding:latest"
 CACHE_PATH = OUT_DIR / "embeddings_cache.npz"
+CACHE_PATH_ROLE = OUT_DIR / "embeddings_cache_role.npz"
 
 # ---------------------------------------------------------------------------
 # Date / dedup helpers (same logic as skill_extractor.py)
@@ -79,9 +80,17 @@ def _safe_year(date: str | None) -> int | None:
     except ValueError:
         return None
 
-def _job_text(job: dict) -> str:
+def _job_text(job: dict, role_focused: bool = False) -> str:
+    """Assemble the text embedded for a job.
+
+    Default includes the free-text `description`, which carries office and
+    "[State] ties preferred" boilerplate. `role_focused=True` drops the
+    description (keeping title + responsibilities + qualifications) so
+    clusters reflect the role rather than the office.
+    """
     parts: list[str] = []
-    for f in ("position_title", "description"):
+    title_fields = ("position_title",) if role_focused else ("position_title", "description")
+    for f in title_fields:
         v = job.get(f)
         if v:
             parts.append(str(v))
@@ -93,7 +102,7 @@ def _job_text(job: dict) -> str:
             parts.append(v)
     return " ".join(parts)
 
-def load_jobs(json_dir: str) -> list[dict]:
+def load_jobs(json_dir: str, role_focused: bool = False) -> list[dict]:
     """Load deduplicated jobs, keeping only the first appearance of each ID."""
     best: dict[str, tuple[str, str, dict]] = {}
     for filepath in sorted(Path(json_dir).glob("*.json")):
@@ -115,7 +124,7 @@ def load_jobs(json_dir: str) -> list[dict]:
 
     records = []
     for jid, (_, date, job) in best.items():
-        text = _job_text(job).strip()
+        text = _job_text(job, role_focused=role_focused).strip()
         if not text:
             continue
         records.append({
@@ -161,13 +170,13 @@ def _ollama_embed_batch(texts: list[str], model_name: str,
 
 
 def embed(texts: list[str], model_name: str = DEFAULT_EMBED_MODEL,
-          cache: bool = True) -> np.ndarray:
+          cache: bool = True, cache_path: Path = CACHE_PATH) -> np.ndarray:
     corpus_hash = _corpus_hash(texts, model_name)
 
-    if cache and CACHE_PATH.exists():
-        stored = np.load(CACHE_PATH, allow_pickle=True)
+    if cache and cache_path.exists():
+        stored = np.load(cache_path, allow_pickle=True)
         if str(stored.get("hash", "")) == corpus_hash:
-            print(f"  Loaded embeddings from cache ({CACHE_PATH.name})")
+            print(f"  Loaded embeddings from cache ({cache_path.name})")
             return stored["embeddings"]
 
     print(f"  Embedding {len(texts):,} texts with Ollama model '{model_name}' …")
@@ -179,8 +188,8 @@ def embed(texts: list[str], model_name: str = DEFAULT_EMBED_MODEL,
     embeddings = embeddings / norms
 
     if cache:
-        np.savez_compressed(CACHE_PATH, embeddings=embeddings, hash=corpus_hash)
-        print(f"  Saved embedding cache → {CACHE_PATH.name}")
+        np.savez_compressed(cache_path, embeddings=embeddings, hash=corpus_hash)
+        print(f"  Saved embedding cache → {cache_path.name}")
     return embeddings
 
 
@@ -340,9 +349,13 @@ def plot_cluster_drift(df: pd.DataFrame, cluster_labels: dict[int, str],
 # ---------------------------------------------------------------------------
 
 def main(json_dir: str, embed_model: str = DEFAULT_EMBED_MODEL,
-         use_cache: bool = True, listing_type: str | None = None) -> None:
+         use_cache: bool = True, listing_type: str | None = None,
+         role_focused: bool = False, min_cluster_size: int = 20,
+         min_samples: int = 5) -> None:
     print(f"\n1. Loading jobs from {json_dir} …")
-    records = load_jobs(json_dir)
+    if role_focused:
+        print("  (role-focused text: title + responsibilities + qualifications, no description)")
+    records = load_jobs(json_dir, role_focused=role_focused)
     if not records:
         print("No jobs found. Check --dir path.")
         return
@@ -350,10 +363,11 @@ def main(json_dir: str, embed_model: str = DEFAULT_EMBED_MODEL,
     texts = [r["text"] for r in records]
 
     print(f"\n2. Embedding with '{embed_model}' …")
-    embeddings = embed(texts, model_name=embed_model, cache=use_cache)
+    cache_path = CACHE_PATH_ROLE if role_focused else CACHE_PATH
+    embeddings = embed(texts, model_name=embed_model, cache=use_cache, cache_path=cache_path)
 
     # Filter to one listing type AFTER embedding so the full-corpus cache is reused.
-    suffix = ""
+    suffix = "_role" if role_focused else ""
     if listing_type:
         mask = [r.get("listing_type") == listing_type for r in records]
         kept = int(sum(mask))
@@ -362,14 +376,15 @@ def main(json_dir: str, embed_model: str = DEFAULT_EMBED_MODEL,
             return
         records = [r for r, m in zip(records, mask) if m]
         embeddings = embeddings[np.array(mask)]
-        suffix = f"_{listing_type}"
+        suffix += f"_{listing_type}"
         print(f"  Filtered to {kept:,} '{listing_type}' listings.")
 
     print("\n3. UMAP dimensionality reduction …")
     coords_2d = reduce_umap(embeddings)
 
-    print("\n4. HDBSCAN clustering …")
-    cluster_ids = cluster_hdbscan(embeddings)
+    print(f"\n4. HDBSCAN clustering (min_cluster_size={min_cluster_size}, min_samples={min_samples}) …")
+    cluster_ids = cluster_hdbscan(embeddings, min_cluster_size=min_cluster_size,
+                                  min_samples=min_samples)
 
     df = pd.DataFrame(records)
     df["umap_x"]  = coords_2d[:, 0]
@@ -427,8 +442,16 @@ if __name__ == "__main__":
                         help="Re-embed even if cache exists")
     parser.add_argument("--listing-type", choices=["internship", "staff"], default=None,
                         help="Cluster only internships or only staff jobs (requires backfilled listing_type)")
+    parser.add_argument("--role-focused", action="store_true",
+                        help="Embed title + responsibilities + qualifications only (drop description "
+                             "boilerplate); re-embeds and writes *_role outputs")
+    parser.add_argument("--min-cluster-size", type=int, default=20,
+                        help="HDBSCAN min_cluster_size (default 20; lower splits large clusters)")
+    parser.add_argument("--min-samples", type=int, default=5,
+                        help="HDBSCAN min_samples (default 5; lower reduces noise)")
     args = parser.parse_args()
 
     json_dir = str(REPO_ROOT / args.dir) if not Path(args.dir).is_absolute() else args.dir
     main(json_dir, embed_model=args.model, use_cache=not args.no_cache,
-         listing_type=args.listing_type)
+         listing_type=args.listing_type, role_focused=args.role_focused,
+         min_cluster_size=args.min_cluster_size, min_samples=args.min_samples)
