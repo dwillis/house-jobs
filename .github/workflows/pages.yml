@@ -3,7 +3,7 @@ name: Build & deploy cluster site
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - skills/visualize_clusters.py
       - skills/cluster_names.json
