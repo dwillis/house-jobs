@@ -64,6 +64,18 @@ Cluster **staff and internships separately** (`--listing-type`) — mixing them 
 
 Outputs are suffixed by mode, e.g. `clusters_staff.png`, `cluster_summary_role_internship.txt`, `job_embeddings_role_internship.csv`.
 
+**Cluster visualizations** (`skills/visualize_clusters.py`) turn those cluster outputs into three views. Run `cluster_jobs.py` for both listing types first, then:
+
+```bash
+uv run python skills/visualize_clusters.py all   # or: explorer | trends | map
+```
+
+- **`cluster_explorer.html`** — a self-contained interactive page (no server, no CDN): pan the UMAP scatter, hover for job details, click a cluster for its jobs and top terms, toggle Staff/Internships and colour-by-cluster/category, and search titles/offices.
+- **`cluster_trends_{staff,internship}.png`** — small-multiples of each cluster's share of postings per year (2013–2026), sorted by trend, each panel on its own scale.
+- **`cluster_map_{staff,internship}.{png,svg}`** — annotated publication scatter with human-readable cluster names.
+
+Cluster names are hand-editable in `skills/cluster_names.json` (map-callout text lives in `CALLOUTS` inside the script). Both are **per-run**: re-running `cluster_jobs.py` shuffles cluster ids, so re-check the names afterward.
+
 ## Example listing
 
 ```json

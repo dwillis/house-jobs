@@ -38,3 +38,7 @@ skills/job_embeddings*.csv
 skills/clusters*.png
 skills/cluster_drift*.png
 skills/cluster_summary*.txt
+skills/cluster_explorer.html
+skills/cluster_trends*.png
+skills/cluster_map*.png
+skills/cluster_map*.svg
