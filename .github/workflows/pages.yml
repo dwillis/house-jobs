@@ -1,0 +1,52 @@
+name: Build & deploy cluster site
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - skills/visualize_clusters.py
+      - skills/cluster_names.json
+      - skills/job_embeddings_staff.csv
+      - skills/job_embeddings_role_internship.csv
+      - skills/cluster_summary_staff.txt
+      - skills/cluster_summary_role_internship.txt
+      - json_v3/**
+      - .github/workflows/pages.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+      - name: Build static site
+        # visualize_clusters.py needs only pandas/matplotlib/numpy — no Ollama,
+        # dspy, hdbscan or umap — so run in an ephemeral env, not the full project.
+        run: >
+          uv run --no-project --with pandas --with matplotlib --with numpy
+          python skills/visualize_clusters.py site --site-dir _site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

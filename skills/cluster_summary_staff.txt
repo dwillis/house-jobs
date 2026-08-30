@@ -1,0 +1,28 @@
+HDBSCAN Clusters — 2,797 unique jobs
+
+Cluster    Size   % of corpus  Top terms
+
+------------------------------------------------------------------------------------------
+C0: small business, business, small, procurement, policy                   10    0.4%
+C1: civil rights, rights, civil, labor, employment                         13    0.5%
+C2: subcommittee, staff director, committee, subcommittee staff, staff     39    1.4%
+C3: policy, writer clear, analyze bills, bills meet, constituents concerning     10    0.4%
+C4: desirable, investigations, desirable experience, investigative, ethics     25    0.9%
+C5: ethics, financial disclosure, disclosure, members congress, financial     22    0.8%
+C6: committee, partisan, assisting, telephones assisting, assisting tracking     28    1.0%
+C7: investigations, oversight, counsel, committee, investigative           47    1.7%
+C8: congresswoman, jayapal, legislative, committee, external               13    0.5%
+C9: skills required, degree plus, texas, rep lloyd, lloyd doggett          19    0.7%
+C10: financial services, financial, substantial, services, services issues     13    0.5%
+C11: district, constituent, community, district director, staff            26    0.9%
+C12: media, press, communications, digital, social media                  425   15.2%
+C13: legislative, legislative assistant, legislation, member, assistant     88    3.1%
+C14: committee, staff, assisting, markups meetings, staff assistant        16    0.6%
+C15: casework, district, constituents, cases, local                        37    1.3%
+C16: legislative, resident, legislation meeting, legislative correspondent, correspondent     12    0.4%
+C17: office, district, staff, staff assistant, maintains                   25    0.9%
+C18: hawai, congressman, hawai background, orientation excellent, independently effectively     20    0.7%
+C19: staff assistant, staff, assistant, office, constituent               107    3.8%
+C20: scheduler, scheduling, member, schedule, travel                      138    4.9%
+
+noise                                                                    1664   59.5%

@@ -42,3 +42,12 @@ skills/cluster_explorer.html
 skills/cluster_trends*.png
 skills/cluster_map*.png
 skills/cluster_map*.svg
+
+# …but keep the small inputs the Pages workflow rebuilds the site from
+!skills/job_embeddings_staff.csv
+!skills/job_embeddings_role_internship.csv
+!skills/cluster_summary_staff.txt
+!skills/cluster_summary_role_internship.txt
+
+# built Pages site (CI assembles it)
+/_site/

@@ -28,6 +28,7 @@ coloring uses a validated 4-hue set (blue/orange/aqua/violet, all-pairs light).
 import argparse
 import json
 import re
+import shutil
 import sys
 from pathlib import Path
 
@@ -580,13 +581,92 @@ resize(); showLegend();
 
 
 # --------------------------------------------------------------------------
+# site subcommand — assemble a static GitHub Pages site
+# --------------------------------------------------------------------------
+_INDEX_HTML = """<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Congressional Job Clusters</title>
+<style>
+  :root {{ --ink:#0b0b0b; --ink2:#52514e; --muted:#898781; --border:rgba(11,11,11,.10); }}
+  * {{ box-sizing:border-box; }}
+  body {{ margin:0; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; color:var(--ink);
+    background:#f9f9f7; line-height:1.5; }}
+  .wrap {{ max-width:960px; margin:0 auto; padding:32px 20px 64px; }}
+  h1 {{ font-size:26px; margin:0 0 6px; }}
+  .lede {{ color:var(--ink2); font-size:15px; margin:0 0 8px; }}
+  .meta {{ color:var(--muted); font-size:13px; margin:0 0 24px; }}
+  .cta {{ display:inline-block; background:var(--ink); color:#fff; text-decoration:none;
+    padding:10px 18px; border-radius:8px; font-weight:600; font-size:15px; }}
+  .cta:hover {{ opacity:.9; }}
+  h2 {{ font-size:19px; margin:40px 0 4px; border-top:1px solid var(--border); padding-top:24px; }}
+  .cap {{ color:var(--muted); font-size:13px; margin:0 0 12px; }}
+  figure {{ margin:0 0 28px; }}
+  img {{ width:100%; height:auto; border:1px solid var(--border); border-radius:8px; background:#fff; }}
+  figcaption {{ color:var(--ink2); font-size:13px; margin-top:6px; }}
+  footer {{ color:var(--muted); font-size:12px; margin-top:40px; border-top:1px solid var(--border); padding-top:16px; }}
+  a {{ color:#2a78d6; }}
+</style></head>
+<body><div class="wrap">
+  <h1>Congressional Job Clusters</h1>
+  <p class="lede">Semantic clusters of U.S. House job and internship listings, 2013–2026.</p>
+  <p class="meta">{n_jobs:,} classified listings from ~1,250 weekly bulletins, embedded and clustered with
+    UMAP + HDBSCAN. Staff and internships are clustered separately.</p>
+  <p><a class="cta" href="cluster_explorer.html">Open the interactive explorer →</a></p>
+
+  <h2>Staff roles</h2>
+  <p class="cap">{n_staff:,} unique staff listings, {c_staff} clusters.</p>
+  <figure><img src="cluster_map_staff.png" alt="Annotated map of staff job clusters">
+    <figcaption>Annotated cluster map — role and policy-area groups.</figcaption></figure>
+  <figure><img src="cluster_trends_staff.png" alt="Staff cluster trends over time">
+    <figcaption>Each cluster's share of postings per year (own scale per panel).</figcaption></figure>
+
+  <h2>Internships</h2>
+  <p class="cap">{n_intern:,} unique internship listings, {c_intern} clusters.</p>
+  <figure><img src="cluster_map_internship.png" alt="Annotated map of internship clusters">
+    <figcaption>Annotated cluster map — internship themes.</figcaption></figure>
+  <figure><img src="cluster_trends_internship.png" alt="Internship cluster trends over time">
+    <figcaption>Larger internship clusters' share of postings per year.</figcaption></figure>
+
+  <footer>Built from <a href="https://github.com/dwillis/house-jobs">dwillis/house-jobs</a>.
+    UMAP axes are not meaningful. Cluster names are hand-curated and may shift when the corpus is re-clustered.</footer>
+</div></body></html>
+"""
+
+
+def build_site(data: dict, site_dir: Path) -> None:
+    for lt in LISTING_TYPES:
+        plot_map(data[lt][0], data[lt][2], lt)
+    plot_trends(*[data["staff"][i] for i in (0, 2)], "staff", min_n=0)
+    plot_trends(*[data["internship"][i] for i in (0, 2)], "internship", min_n=30)
+    payloads = {lt: _build_payload(data[lt][0], data[lt][1], data[lt][2]) for lt in LISTING_TYPES}
+    build_explorer(payloads)
+
+    site_dir.mkdir(parents=True, exist_ok=True)
+    assets = ["cluster_explorer.html", "cluster_map_staff.png", "cluster_map_internship.png",
+              "cluster_trends_staff.png", "cluster_trends_internship.png"]
+    for name in assets:
+        shutil.copy(OUT_DIR / name, site_dir / name)
+
+    staff_df, intern_df = data["staff"][0], data["internship"][0]
+    index = _INDEX_HTML.format(
+        n_jobs=25655,
+        n_staff=len(staff_df), c_staff=len([c for c in staff_df["cluster"].unique() if c != -1]),
+        n_intern=len(intern_df), c_intern=len([c for c in intern_df["cluster"].unique() if c != -1]),
+    )
+    (site_dir / "index.html").write_text(index, encoding="utf-8")
+    print(f"Wrote static site to {site_dir}/ ({len(assets)+1} files)")
+
+
+# --------------------------------------------------------------------------
 # CLI
 # --------------------------------------------------------------------------
 def main() -> None:
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("command", choices=["explorer", "trends", "map", "all"])
+    p.add_argument("command", choices=["explorer", "trends", "map", "all", "site"])
     p.add_argument("--json-dir", default="json_v3")
     p.add_argument("--names", default=str(OUT_DIR / "cluster_names.json"))
+    p.add_argument("--site-dir", default="_site", help="output directory for the `site` command")
     args = p.parse_args()
 
     names_path = Path(args.names)
@@ -599,6 +679,9 @@ def main() -> None:
         data[lt] = (df, terms, names)
         print(f"  {lt}: {len(df):,} points, {len(terms)} clusters")
 
+    if args.command == "site":
+        build_site(data, Path(args.site_dir))
+        return
     if args.command in ("map", "all"):
         for lt in LISTING_TYPES:
             plot_map(data[lt][0], data[lt][2], lt)
