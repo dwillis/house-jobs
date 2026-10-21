@@ -1,0 +1,44 @@
+title: U.S. House job listings
+description: >-
+  Staff and internship listings from the U.S. House of Representatives
+  vacancy bulletins, parsed and classified by the DSPy/GEPA pipeline
+  (json_v3/). One row per unique listing ID; weekly reposts are collapsed,
+  with first_seen, last_seen and appearances tracking them.
+source: dwillis/house-jobs
+source_url: https://github.com/dwillis/house-jobs
+databases:
+  house_jobs:
+    tables:
+      staff_jobs:
+        description: Member and committee staff vacancies, one row per unique listing ID.
+        sort_desc: first_seen
+        facets: [job_category, year, office]
+      internships:
+        description: Internship vacancies, one row per unique listing ID.
+        sort_desc: first_seen
+        facets: [job_category, year, office]
+    queries:
+      staff_by_year_and_category:
+        title: Staff postings per year by category
+        sql: |-
+          select year, job_category, count(*) as listings
+          from staff_jobs
+          group by year, job_category
+          order by year, listings desc
+      most_reposted:
+        title: Most-reposted staff listings
+        sql: |-
+          select id, position_title, office, first_seen, last_seen, appearances
+          from staff_jobs
+          order by appearances desc
+          limit 100
+      top_offices:
+        title: Top offices by staff listing count
+        sql: |-
+          select office, count(*) as listings,
+            min(first_seen) as earliest, max(last_seen) as latest
+          from staff_jobs
+          where office is not null
+          group by office
+          order by listings desc
+          limit 100

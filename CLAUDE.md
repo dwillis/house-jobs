@@ -133,10 +133,17 @@ python test_classifier.py
    ```bash
    uv run python job_classifier.py
    ```
-5. Load into database:
+5. Rebuild the Datasette database (reads `json_v3/`):
    ```bash
-   python db_loader.py --load-dir json/
+   uv run python build_db.py
    ```
+
+### Datasette
+`build_db.py` builds `house_jobs.db` (gitignored) from `json_v3/` with two tables, `staff_jobs` and `internships`. Files are routed by whether their name contains `intern`. Each table has one row per unique listing ID: the earliest-dated appearance is kept, and `first_seen`, `last_seen` and `appearances` track the reposts. The tables are full-text searchable, and each rebuild drops and recreates them. `metadata.yml` holds the facets and canned queries.
+```bash
+uv run python build_db.py
+uv run datasette house_jobs.db -m metadata.yml   # http://localhost:8001
+```
 
 ### Validating JSON Output
 ```bash
@@ -158,12 +165,12 @@ House job listings use the pattern `MEM-XXX-YY` where:
 This pattern is used in `parser.py` to split text into chunks: `re.split(r'(?=MEM-)', text)`
 
 ### Date Extraction from Filenames
-The `db_loader.py` includes logic to extract dates from various filename formats:
+`build_db.py` (and `skills/cluster_jobs.py`) extract bulletin dates from various filename formats:
 - `YYYY_MM_DD` (e.g., 2025_01_12)
 - `MM-DD-YY` (e.g., 01-06-14)
 - `M.DD.YYYY` (e.g., 1.26.2015)
 
-Add new patterns to `_extract_date_from_filename()` if needed.
+Add new patterns to `_DATE_PATTERNS` in both files if needed.
 
 ### Rate Limiting
 The parser and classifier include sleep() calls to respect API rate limits:
@@ -187,6 +194,10 @@ house-jobs/
 ├── job_classifier.py   # Job categorization (Gemini 2.5 Flash)
 ├── pipeline/           # DSPy + GEPA parsing/classification pipeline (see above)
 ├── config.py           # Shared path/db constants
+├── build_db.py         # json_v3/ → house_jobs.db for Datasette
+├── metadata.yml        # Datasette metadata (facets, canned queries)
+├── build_db.py         # json_v3/ → house_jobs.db for Datasette
+├── metadata.yml        # Datasette metadata (facets, canned queries)
 │
 ├── validate.py         # JSON validation (report-only by default)
 ├── compare_parses.py   # Compare outputs across parse runs

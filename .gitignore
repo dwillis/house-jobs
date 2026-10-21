@@ -51,3 +51,6 @@ skills/cluster_map*.svg
 
 # built Pages site (CI assembles it)
 /_site/
+
+# Datasette build
+house_jobs.db

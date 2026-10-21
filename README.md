@@ -52,6 +52,17 @@ uv run python skills/cluster_jobs.py --dir json_v3 --listing-type internship \
     --role-focused --min-cluster-size 15 --min-samples 3
 ```
 
+## Datasette
+
+To browse the listings in [Datasette](https://datasette.io/), build a local SQLite database from `json_v3/` and serve it:
+
+```bash
+uv run python build_db.py                          # writes house_jobs.db
+uv run datasette house_jobs.db -m metadata.yml     # http://localhost:8001
+```
+
+The database has two tables, `staff_jobs` and `internships`. Each has one row per unique listing ID, with weekly reposts collapsed into `first_seen`, `last_seen` and `appearances`. Both tables support full-text search and facets on category, year and office, and the instance includes a few canned queries.
+
 ## NLP Analysis (`skills/`)
 
 **Skill extraction** (`skills/skill_extractor.py`) matches 80+ named skills across categories (software tools, languages, policy areas, communications, clearances) against deduplicated job text. Counts are normalised by total jobs per period so trend charts reflect actual demand change rather than corpus growth.

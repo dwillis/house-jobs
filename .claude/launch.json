@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "datasette",
+      "runtimeExecutable": "uv",
+      "runtimeArgs": ["run", "datasette", "house_jobs.db", "-m", "metadata.yml", "-p", "8001"],
+      "port": 8001
+    }
+  ]
+}
